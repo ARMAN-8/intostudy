@@ -1,0 +1,19 @@
+#menu-bar, #footer, #sidebar {
+    background-color: #544AFB!important;
+}
+.submenu, .has-submenu, .into-mobile-menu {
+    background-color: #544AFB!important;
+}
+#top-bar{
+    background-color: #000;
+}
+#language-bar {
+    background-color: #000;
+}
+.about-into {
+    background-color: #808080!important;
+}
+
+.contact-apply {
+    background-color: #544AFB!important;
+}

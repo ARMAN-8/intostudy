@@ -1,0 +1,1093 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+    
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title> | INTO</title>
+        <meta name="description" />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/en-gb/admissions/meet-the-team" />
+        <meta property="og:title" content=" | INTO" />
+        <meta property="og:description" />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/en-gb.min.css?v=2-LzaxUI3fHNakVYIXEzBWYXF1AnJPVqPggoRav_PKw" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/en-gb/admissions/meet-the-team" />
+
+
+    <!-- BrowserTestData: MeetTheEsTeam, en-gb. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/admissions/meet-the-team"><span class="l-language-block-text   is-current">English</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">English<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/en/admissions/meet-the-team">English</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="Search for a subject or program">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/en-gb'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/en-gb'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en-gb/about-into">About INTO</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en-gb/success-with-into">
+                                                                                <span>Success with INTO</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/blog">
+                                                                                <span>Blog</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/faq">
+                                                                                <span>FAQ</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/friend">
+                                                                                <span>Recommend a Friend</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-abroad">Study abroad</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/country-guides/uk">
+                                                                                <span>UK</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/country-guides/us">
+                                                                                <span>US</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/country-guides/china">
+                                                                                <span>China</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/parents-guide">
+                                                                                <span>Parents guide</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/admissions">Admissions</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en-gb/fees">
+                                                                                <span>Fees</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/admissions/scholarships">
+                                                                                <span>Scholarships</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/help/visas-and-pre-arrival-support-services">
+                                                                                <span>Visa and pre-arrival support services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/admissions/meet-the-team">
+                                                                                <span>Enrolment Services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/apply">Apply</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en-gb/about-into">About INTO</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en-gb/success-with-into">Success with INTO<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/blog">Blog<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/faq">FAQ<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/friend">Recommend a Friend<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-abroad">Study abroad</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/country-guides/uk">UK<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/country-guides/us">US<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/country-guides/china">China<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/parents-guide">Parents guide<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/admissions">Admissions</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en-gb/fees">Fees<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/admissions/scholarships">Scholarships<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/help/visas-and-pre-arrival-support-services">Visa and pre-arrival support services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/admissions/meet-the-team">Enrolment Services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/apply">Apply</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="Search for a subject or program">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/en-gb" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en-gb/admissions" class="breadcrumb-item">Admissions</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en-gb/admissions/meet-the-team" class="breadcrumb-item">Meet The Team</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            
+<div style="min-height: calc(100vh - 340px);">
+    <div class="global-v2 meet-the-team">
+        <section id="header-and-text" class="mb-4">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h1>Providing the full support service, for free </h1>
+                        <h2>Our team of friendly advisors have experience of living or studying abroad. They understand any concerns or questions you may have and are here to help you. </h2>
+                        <h3>Meet the team answering your questions</h3>
+                        <p>Need to discuss your study options? We’re happy to chat about the best choices for you. Not sure how to accept your offer? Don’t worry, this is easy! We can guide you through the process. Once you’ve accepted your place, you may have questions about applying for a visa.</p>
+<p>Whatever your query, our dedicated support team – which includes Chinese and Arabic language speakers – will be with you every step of the way, helping you to get your exciting study abroad adventure off to the best start.</p>
+<p>Not only do we support you through all stages of the application and visa process, but we do all this for free. It’s all part of the INTO service to help you find your perfect course in your ideal study location.</p>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="ups-images" class="mb-5">
+            <div class="container">
+                <div class="row">
+                                <div class="col-12 col-md-6 col-lg-3">
+                                    <img class="img-fluid usp-image" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/4CJR8VCyBDnZ308n5CRSoP/c3b9a0d6d836106eb0bc9530bdd1e828/Meet_USP_1.svg" alt="1,400&#x2B; students directly enrolled with INTO every year" />
+                                </div>
+                                <div class="col-12 col-md-6 col-lg-3">
+                                    <img class="img-fluid usp-image" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/ofTkL8eurUIpADpLtN4u9/9a4f981fba9fe6463a5fda82c600cdf3/Meet_USP_2.svg" alt="98% visa success rate in the UK" />
+                                </div>
+                                <div class="col-12 col-md-6 col-lg-3">
+                                    <img class="img-fluid usp-image" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/377psm2lSJd6oAWyW8g7dn/271b5a20ec8817206bd6a0a11987f895/Meet_USP_3.svg" alt="118 nationalities directly enrolled with INTO in 2018/19 " />
+                                </div>
+                                <div class="col-12 col-md-6 col-lg-3">
+                                    <img class="img-fluid usp-image" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/7HWn6UOXxaaLFmP0ia55Ee/c1d869dfb75d73d6acef8166b4b99102/Meet_USP_4.svg" alt="190 courses across 22 study centres" />
+                                </div>
+                </div>
+            </div>
+        </section>
+        <section id="quotes">
+            
+
+<div class="testimonial-gallery container">
+    <div class="row" id="top-3">
+                    <div class="col-sm-6 col-md-4 col-lg-4">
+                        <div class="imagebox" data-target="pearl-speaks-chinese">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/6h9MZbZnPC7b7JTtwEbdKk/3f85462727125f06f2dec7b17a1f3ae9/Pearl_Yan_online.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Pearl &#x2013; speaks Chinese</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Contact us any way you like</h3>
+<p>Has the thought of studying abroad popped into your mind? INTOStudy.com has loads of useful course information, and after you’ve done some research, I’m sure you’ll still have questions – maybe about entry requirements and prices. I’m one of the first people you’ll be in touch with and can help you find a suitable study plan in terms of subject, length and location.</p>
+<p>I speak Chinese and have studied and lived abroad so have experienced the same as you. You can contact us various ways including live chat, through social media channels, via our web enquiry form and over the phone – we’ll provide you with general information on what to expect from a course and progression opportunities.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-4">
+                        <div class="imagebox" data-target="qi-speaks-chinese">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/4RHZ0euLlAy3iPy11KE7Y/6c63e18b90785b8c7ae6f1d1af9d4141/Qi_Yu_online.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Qi &#x2013; speaks Chinese</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Confirmation or scholarship questions? Ask me!</h3>
+<p>If you have multiple offers, I can advise on the most suitable course according to your situation. The next step is to then secure your study place and accommodation. I can also help you to apply for an INTO scholarship as well as remind you of entry requirement deadlines.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-4">
+                        <div class="imagebox" data-target="awisha-speaks-arabic">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/16IGkcq6x7D45QzeSdRWuI/61334b0266d86bd004436518a01eea1e/Awisha_Bashir_portrait_2018.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Awisha &#x2013; speaks Arabic</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Applying for a visa isn’t overwhelming with our support</h3>
+<p>The visa processes can be daunting. One of the first questions that many of the students I talk to ask in our first conversation is “how do I apply for my visa?”, “when do I apply?”, “do I do it myself?” and “what if I get a visa refusal?”.</p>
+<p>At INTO, we will guide and assist you from the first enquiry, all the way through the academic assessment and finally with the visa process. We will inform you of all the documents you need to gather and check them for you before you apply for your visa. We will guide you through the entire visa application process and procedure. You can therefore enjoy the process of applying to any of our centers as we will be with you the entire way.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="pearl-speaks-chinese">
+                                <p>
+                                    <h3>Contact us any way you like</h3>
+<p>Has the thought of studying abroad popped into your mind? INTOStudy.com has loads of useful course information, and after you’ve done some research, I’m sure you’ll still have questions – maybe about entry requirements and prices. I’m one of the first people you’ll be in touch with and can help you find a suitable study plan in terms of subject, length and location.</p>
+<p>I speak Chinese and have studied and lived abroad so have experienced the same as you. You can contact us various ways including live chat, through social media channels, via our web enquiry form and over the phone – we’ll provide you with general information on what to expect from a course and progression opportunities.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="qi-speaks-chinese">
+                                <p>
+                                    <h3>Confirmation or scholarship questions? Ask me!</h3>
+<p>If you have multiple offers, I can advise on the most suitable course according to your situation. The next step is to then secure your study place and accommodation. I can also help you to apply for an INTO scholarship as well as remind you of entry requirement deadlines.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="awisha-speaks-arabic">
+                                <p>
+                                    <h3>Applying for a visa isn’t overwhelming with our support</h3>
+<p>The visa processes can be daunting. One of the first questions that many of the students I talk to ask in our first conversation is “how do I apply for my visa?”, “when do I apply?”, “do I do it myself?” and “what if I get a visa refusal?”.</p>
+<p>At INTO, we will guide and assist you from the first enquiry, all the way through the academic assessment and finally with the visa process. We will inform you of all the documents you need to gather and check them for you before you apply for your visa. We will guide you through the entire visa application process and procedure. You can therefore enjoy the process of applying to any of our centers as we will be with you the entire way.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="ahmed---speaks-arabic">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/5ggzNv5b3X0JcyofkAUXjW/92e964442223726c426a26bdc57da281/Ahmed_Al-Awadhi_online.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Ahmed - speaks Arabic</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Using my study abroad experience to help you</h3>
+<p>Studying in the UK has provided me with extensive knowledge of the academic advising process and the challenges of student life. Use our social media channels to talk to students and hear what they think about studying abroad with INTO. It can really help allay any fears you might have.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="giovanni---speaks-italian">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/1uzyaPn4PWaZoEE4QK3LjL/dfe03ee4727da1711986427132a0fdab/Giovanni_Baracetti_square.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Giovanni - speaks Italian</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Choose the right subject for you</h3>
+<p>Our programs are tailored to the degrees they offer progression to. To pick the right program for you, first decide on the subject you want to study, then research the top universities in that field. I can help you choose by giving you information about different INTO programs and our partner universities.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="augusto---speaks-spanish">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/6IetVMko7Hpn1XBrwmMEaU/5f9b895553175bdfe16cfe2a99fd6cb2/Augusto_Torregroza_square.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Augusto - speaks Spanish</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Practical advice on the courses you qualify for</h3>
+<p>My previous experience in evaluating and deciding students’ applications allows me to provide you with practical advice about the universities and courses that you can qualify for, hence multiplying the probabilities of your application being successful.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="lya---speaks-french-spanish-italian-and-chinese">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2FgcyaA8bZrj6GWZ4kiAPb/24efd1da6ee9f2a06bb4cedf2c901a8b/Lya_Abdou_Issa__crop_for_PP_.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Lya - speaks French, Spanish, Italian and Chinese</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Practical advice on the courses you qualify for</h3>
+<p>My previous experience in evaluating and deciding students’ applications allows me to provide you with practical advice about the universities and courses that you can qualify for, hence multiplying the probabilities of your application being successful.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="ahmed---speaks-arabic">
+                                <p>
+                                    <h3>Using my study abroad experience to help you</h3>
+<p>Studying in the UK has provided me with extensive knowledge of the academic advising process and the challenges of student life. Use our social media channels to talk to students and hear what they think about studying abroad with INTO. It can really help allay any fears you might have.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="giovanni---speaks-italian">
+                                <p>
+                                    <h3>Choose the right subject for you</h3>
+<p>Our programs are tailored to the degrees they offer progression to. To pick the right program for you, first decide on the subject you want to study, then research the top universities in that field. I can help you choose by giving you information about different INTO programs and our partner universities.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="augusto---speaks-spanish">
+                                <p>
+                                    <h3>Practical advice on the courses you qualify for</h3>
+<p>My previous experience in evaluating and deciding students’ applications allows me to provide you with practical advice about the universities and courses that you can qualify for, hence multiplying the probabilities of your application being successful.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="lya---speaks-french-spanish-italian-and-chinese">
+                                <p>
+                                    <h3>Practical advice on the courses you qualify for</h3>
+<p>My previous experience in evaluating and deciding students’ applications allows me to provide you with practical advice about the universities and courses that you can qualify for, hence multiplying the probabilities of your application being successful.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="victoria---speaks-french-and-spanish">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/3uHzaqbJGtDQFKGqkD86BU/8bc0b8eef84dd544ae78d3ad54bca4f7/Victoria_Iannacci_square.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Victoria - speaks French and Spanish</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Tell us all about your background and aspirations</h3>
+<p>Start thinking about what you want to do after your course with INTO from the beginning! Understanding your background is as important to us as knowing what your motivations are. Where you want to go with your studies give us a better chance at helping you and recommending the perfect option.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="amber---speaks-chinese">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2DfSKqfM4QjmIhIxxX9kUM/32f5704883b768ad8e272a3aa3a757e2/Amber-Tsai_online.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Amber - speaks Chinese</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>From application to arrival, we’re with you</h3>
+<p>If you don’t know where or what you want to study yet, that’s okay! We can talk about your career interests, hobbies and experiences to guide you in the right direction. With INTO, we provide one-on-one support to help you submit a complete application, get your offer and assist you all the way until you arrive on campus!</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="terence---speaks-chinese">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/7fhjGJFtGXqskctk7zE2SU/060e544f39a836427cc8d912f9a54907/Terence_Cheung_square.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Terence - speaks Chinese</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Accommodation choices: your new home away from home</h3>
+<p>Not only can I assist you in updating your offer and confirming your place, I can also help to secure your accommodation. Where you live while studying is an important consideration. Our accommodation options ensure you will feel safe, secure and comfortable.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="fulvio---speaks-italian-spanish-and-dutch">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/58SLzuNF7kOjV3IXPv3uko/aaee32c69170c4f64a45623b15e76d41/Fulvio_Spagnul_square.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Fulvio - speaks Italian, Spanish and Dutch</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Providing insider knowledge on your study destination</h3>
+<p>I ensure that our students receive the best possible option for them, and I provide all sorts of information regarding their future destination. From the number of football pitches available on campus, to the closest Vietnamese restaurant, to the best castle to visit in Scotland, we try to make our students feel at home even before they arrive in the UK.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="victoria---speaks-french-and-spanish">
+                                <p>
+                                    <h3>Tell us all about your background and aspirations</h3>
+<p>Start thinking about what you want to do after your course with INTO from the beginning! Understanding your background is as important to us as knowing what your motivations are. Where you want to go with your studies give us a better chance at helping you and recommending the perfect option.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="amber---speaks-chinese">
+                                <p>
+                                    <h3>From application to arrival, we’re with you</h3>
+<p>If you don’t know where or what you want to study yet, that’s okay! We can talk about your career interests, hobbies and experiences to guide you in the right direction. With INTO, we provide one-on-one support to help you submit a complete application, get your offer and assist you all the way until you arrive on campus!</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="terence---speaks-chinese">
+                                <p>
+                                    <h3>Accommodation choices: your new home away from home</h3>
+<p>Not only can I assist you in updating your offer and confirming your place, I can also help to secure your accommodation. Where you live while studying is an important consideration. Our accommodation options ensure you will feel safe, secure and comfortable.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="fulvio---speaks-italian-spanish-and-dutch">
+                                <p>
+                                    <h3>Providing insider knowledge on your study destination</h3>
+<p>I ensure that our students receive the best possible option for them, and I provide all sorts of information regarding their future destination. From the number of football pitches available on campus, to the closest Vietnamese restaurant, to the best castle to visit in Scotland, we try to make our students feel at home even before they arrive in the UK.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="caroline">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2kvN1GpQcw81aA6ywUvI9O/913eea20940560b1e60f2ddb11549485/Caroline_Attrill_square.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Caroline</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Confirm your offer, start the study abroad dream</h3>
+<p>I can help you turn your offer into your dream of studying abroad with INTO and our prestigious partner universities. I help with confirming your place and organising your campus and accommodation visits.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="hannah">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/Uh0xMxX7JZBulIkam7nwg/e7820e40ddb7468369c41aacef3ea68b/Hannah_online.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Hannah</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Dealing with the details</h3>
+<p>Once you receive an offer to study with us, you might talk to me or my team. We can advise on accommodation options, class schedules, progression from INTO studies to the next semester of university study, building relationships with professors, investigating internships or work experience opportunities and integrating into US culture. Basically, all the things you need to know to help you confirm your offer with us!</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="holly">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/4C4nmhBWk3QaQA5pZOBA8J/b3f566fd89836fd1e36ad612ff2ec353/Holly_Robinson_online.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Holly</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>What’s right for you? I can help you decide</h3>
+<p>When deciding which offer you wish to take, create a pros and cons list to see clearly what each school can offer you. As someone who has studied in the US for both their undergraduate and graduate degrees, I would love to help you make a final decision as to which INTO US university you are going to continue your education!</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="nadia---speaks-arabic-and-greek">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/62reECxN1UaYKjTy9f1ioy/266e2a0d226c6e8dcfa6e29c6e6d72a8/Nadia_Abo_Saleh_square.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Nadia - speaks Arabic and Greek</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Studying in the US? I’ll guide you through the process</h3>
+<p>You received your offer to study in the US and don’t know what’s next? I am here to answer your questions, support you through the process of securing your place and give you information on scholarship opportunities! Your journey has just started, and we are here to make it as easy and exciting as possible!</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="caroline">
+                                <p>
+                                    <h3>Confirm your offer, start the study abroad dream</h3>
+<p>I can help you turn your offer into your dream of studying abroad with INTO and our prestigious partner universities. I help with confirming your place and organising your campus and accommodation visits.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="hannah">
+                                <p>
+                                    <h3>Dealing with the details</h3>
+<p>Once you receive an offer to study with us, you might talk to me or my team. We can advise on accommodation options, class schedules, progression from INTO studies to the next semester of university study, building relationships with professors, investigating internships or work experience opportunities and integrating into US culture. Basically, all the things you need to know to help you confirm your offer with us!</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="holly">
+                                <p>
+                                    <h3>What’s right for you? I can help you decide</h3>
+<p>When deciding which offer you wish to take, create a pros and cons list to see clearly what each school can offer you. As someone who has studied in the US for both their undergraduate and graduate degrees, I would love to help you make a final decision as to which INTO US university you are going to continue your education!</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="nadia---speaks-arabic-and-greek">
+                                <p>
+                                    <h3>Studying in the US? I’ll guide you through the process</h3>
+<p>You received your offer to study in the US and don’t know what’s next? I am here to answer your questions, support you through the process of securing your place and give you information on scholarship opportunities! Your journey has just started, and we are here to make it as easy and exciting as possible!</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="amy">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2uZdWPN9gVeF4PQaWpsXa2/adaa7b6d34d52b4e27f4dfcaa8a28019/Amy-Anderson_online.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Amy</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Consider the bigger picture</h3>
+<p>Studying at a US university is more than just getting a degree – to get the full experience you’ll want to join clubs, go to a university sports game and attend events on campus that are organized by on-campus staff just for you! I can go through which of our university partners you hold offers for suits your needs.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="engy---speaks-arabic">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/7cXFYtT9luMm65hI5onPA3/7c06032552af3f23c7624d1723d752c6/Engy_Gubrial_online.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Engy - speaks Arabic</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Supporting you from offer to acceptance and beyond</h3>
+<p>Studying abroad is a great opportunity to discover yourself while gaining an understanding of a different culture. It gives students more confidence by improving certain skills in life.
+I’ll happily provide all the necessary support, from advising on applying for a visa to ensuring all your documents are up to date.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="amal---speaks-arabic">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/6kO5aWJJFvMNB5iHiWQurl/98b130af9989385ac06eb4b91e090ce6/Amal_Basta_online.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Amal - speaks Arabic</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Helping you turn your dream into reality</h3>
+<p>If you hold an offer from any of INTO’s partner universities, I’m here to support you with applying for a visa and answer any pre-arrival questions. This could be anything from entry and progression requirement details, information about our partner universities and centers to helping with your documents.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="imagebox" data-target="maryana---speaks-arabic">
+                                    <img src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2ja9BHyCp3nrzInb5pu3Ww/c3786dcc7427d0bea796299899e416f1/Maryana_Meikhail_square.jpg?w=500" class="category-banner img-fluid">
+                            <div class="imagebox-desc">
+                                <h5>Maryana - speaks Arabic</h5>
+                            </div>
+                        </div>
+                        <div class="quote-container">
+                            <div class="quote-diamond"></div>
+                            <div class="quote quote-mobile">
+                                <h3>Answering your visa questions</h3>
+<p>I am happy to answer all your questions regarding obtaining a visa, such as “how can I get a visa?” and “what questions will I be asked?”. I would highly recommend applying for your visa as soon as possible, in order to leave enough time for the process.</p>
+;
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="amy">
+                                <p>
+                                    <h3>Consider the bigger picture</h3>
+<p>Studying at a US university is more than just getting a degree – to get the full experience you’ll want to join clubs, go to a university sports game and attend events on campus that are organized by on-campus staff just for you! I can go through which of our university partners you hold offers for suits your needs.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="engy---speaks-arabic">
+                                <p>
+                                    <h3>Supporting you from offer to acceptance and beyond</h3>
+<p>Studying abroad is a great opportunity to discover yourself while gaining an understanding of a different culture. It gives students more confidence by improving certain skills in life.
+I’ll happily provide all the necessary support, from advising on applying for a visa to ensuring all your documents are up to date.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="amal---speaks-arabic">
+                                <p>
+                                    <h3>Helping you turn your dream into reality</h3>
+<p>If you hold an offer from any of INTO’s partner universities, I’m here to support you with applying for a visa and answer any pre-arrival questions. This could be anything from entry and progression requirement details, information about our partner universities and centers to helping with your documents.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="top-3-quote" class="quote-desktop">
+                        <div class="col-12 quote-text">
+                            <div class="quote-text-value" id="maryana---speaks-arabic">
+                                <p>
+                                    <h3>Answering your visa questions</h3>
+<p>I am happy to answer all your questions regarding obtaining a visa, such as “how can I get a visa?” and “what questions will I be asked?”. I would highly recommend applying for your visa as soon as possible, in order to leave enough time for the process.</p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+    </div>
+</div>
+
+        </section>
+        <section id="call-to-action">
+            <div class="container">
+                <div class="row">
+                        <div class="col-12">
+                            <a href="https://go.intostudy.com/enquiry"><button class="btn-cta btn-cta-primary margin-bottom-70">Get in touch</button></a>
+                        </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/about-into">About INTO</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/study-abroad">Study abroad</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/study-programs">Study programs</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/universities">Universities</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/apply">Apply</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                Students - if you&#x2019;re using an Education Counselor please contact them with any questions; all other students contact us using one of the below methods
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">UK student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">US student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-7 col-lg-6">
+                    <span class="footer-contact-header">China student applications:</span>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:cnadmissions@intoglobal.com" class="email-link">cnadmissions@intoglobal.com</a>
+                    </div>
+                </div>
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/en-gb/legal-and-privacy-policy">Privacy</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/terms">Terms</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/into-sitemap">Sitemap</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/legal-and-privacy-policy/cookies-policy">Cookies Policy</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/governance">Governance</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

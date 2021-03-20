@@ -1,0 +1,1708 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/into-sitemap" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/into-sitemap" hreflang="en" />
+        <link rel="alternate" href="https://www.intostudy.com/ar/into-sitemap" hreflang="ar" />
+        <link rel="alternate" href="https://www.intostudy.com/zh-cn/into-sitemap" hreflang="zh-cn" />
+    <link rel="alternate" href="https://www.intostudy.com/en/into-sitemap" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/en-gb/into-sitemap -->
+    <!-- Encoded URL is https://www.intostudy.com/en-gb/into-sitemap -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>INTO sitemap | INTO</title>
+        <meta name="description" content="Explore the INTO Study site." />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/en-gb/into-sitemap" />
+        <meta property="og:title" content="INTO sitemap | INTO" />
+        <meta property="og:description" content="Explore the INTO Study site." />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/en-gb.min.css?v=2-LzaxUI3fHNakVYIXEzBWYXF1AnJPVqPggoRav_PKw" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/en-gb/into-sitemap" />
+
+
+    <!-- BrowserTestData: Sitemap, en-gb. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/into-sitemap"><span class="l-language-block-text   is-current">English</span></a>
+                <a class="l-language-block" href="/zh-cn/into-sitemap"><span class="l-language-block-text  ">中文</span></a>
+                <a class="l-language-block" href="/ar/into-sitemap"><span class="l-language-block-text  ">العربية</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">English<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/en/into-sitemap">English</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/zh-cn/into-sitemap">中文</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/ar/into-sitemap">العربية</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="Search for a subject or program">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/en-gb'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/en-gb'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en-gb/about-into">About INTO</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en-gb/success-with-into">
+                                                                                <span>Success with INTO</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/blog">
+                                                                                <span>Blog</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/faq">
+                                                                                <span>FAQ</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/friend">
+                                                                                <span>Recommend a Friend</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-abroad">Study abroad</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/country-guides/uk">
+                                                                                <span>UK</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/country-guides/us">
+                                                                                <span>US</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/country-guides/china">
+                                                                                <span>China</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/parents-guide">
+                                                                                <span>Parents guide</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/admissions">Admissions</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en-gb/fees">
+                                                                                <span>Fees</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/admissions/scholarships">
+                                                                                <span>Scholarships</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/help/visas-and-pre-arrival-support-services">
+                                                                                <span>Visa and pre-arrival support services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/admissions/meet-the-team">
+                                                                                <span>Enrolment Services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/apply">Apply</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en-gb/about-into">About INTO</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en-gb/success-with-into">Success with INTO<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/blog">Blog<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/faq">FAQ<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/friend">Recommend a Friend<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-abroad">Study abroad</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/country-guides/uk">UK<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/country-guides/us">US<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/country-guides/china">China<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/parents-guide">Parents guide<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/admissions">Admissions</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en-gb/fees">Fees<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/admissions/scholarships">Scholarships<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/help/visas-and-pre-arrival-support-services">Visa and pre-arrival support services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/admissions/meet-the-team">Enrolment Services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/apply">Apply</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="Search for a subject or program">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/en-gb" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en-gb/into-sitemap" class="breadcrumb-item">Into Sitemap</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            
+<div class="canvas sitemap" style="min-height: calc(100vh - 344px);">
+    <div id="dnn_ContentPane" class="contentPane">
+        <section class="l-page-block l-text-block">
+            <div class="l-content-container">
+                <div class="DNNModuleContent ModDNNHTMLC">
+                    <div>
+                        <h1>INTO Sitemap</h1>
+                    </div>
+                </div>
+            </div>            
+        </section>
+        <section class="l-page-block l-text-block">
+            <div class="l-content-container">
+                <ul>
+    <li><a href="about-into">About INTO University Partnerships</a></li>
+    <ul>
+        <li><a href="about-into/why-choose-into-china">Why study with INTO China?</a></li>
+        <li><a href="about-into/why-choose-into-in-the-uk">Why study with INTO in the UK?</a></li>
+        <li><a href="about-into/why-choose-into-in-the-us">Why choose to study with INTO in the US?</a></li>
+    </ul>
+</ul>
+<ul>
+    <li><a href="admissions">How to apply</a></li>
+    <ul>
+        <li><a href="admissions/meet-the-team">Meet The Team</a></li>
+        <li><a href="admissions/scholarships">Scholarships</a></li>
+    </ul>
+</ul>
+<ul>
+    <li><a href="apply">Apply online to study in the UK or US</a></li>
+</ul>
+<ul>
+    <li><a href="course-selector">Course Selector</a></li>
+</ul>
+<ul>
+    <li><a href="fees">Fees and Finance</a></li>
+</ul>
+<ul>
+    <li><a href="governance">Governance</a></li>
+</ul>
+<ul>
+    <li><a href="help">Help studying abroad</a></li>
+    <ul>
+        <li><a href="help/faq">Frequently asked questions (FAQs)</a></li>
+        <li><a href="help/visas-and-pre-arrival-support-services">Visa and pre-arrival support services</a></li>
+    </ul>
+</ul>
+<ul>
+    <li><a href="international-foundation-guarantee">Our International Foundation Guarantee</a></li>
+</ul>
+<ul>
+    <li><a href="into-sitemap">INTO sitemap</a></li>
+</ul>
+<ul>
+    <li><a href="legal-and-privacy-policy">Legal and privacy policy</a></li>
+    <ul>
+        <li><a href="legal-and-privacy-policy/cookies-policy">INTO Study > Legal and privacy policy > Cookies policy</a></li>
+        <li><a href="legal-and-privacy-policy/into">Legal and privacy policy</a></li>
+    </ul>
+</ul>
+<ul>
+    <li><a href="study-abroad">Study abroad in the UK or US</a></li>
+    <ul>
+        <li><a href="study-abroad/country-guides">Study abroad in China</a></li>
+        <ul>
+            <li><a href="study-abroad/country-guides/china">Study abroad in China</a></li>
+            <ul>
+                <li><a href="study-abroad/country-guides/china/currency-banking">Currency and banking when studying abroad in China</a></li>
+                <li><a href="study-abroad/country-guides/china/health">Health when studying abroad in China</a></li>
+                <li><a href="study-abroad/country-guides/china/safety">Safety when studying abroad in China</a></li>
+                <li><a href="study-abroad/country-guides/china/tianjin">Study abroad in Tianjin</a></li>
+                <li><a href="study-abroad/country-guides/china/travel">Travel to study abroad in China</a></li>
+                <li><a href="study-abroad/country-guides/china/visas">Student visas in China</a></li>
+            </ul>
+            <li><a href="study-abroad/country-guides/uk">Study abroad in the UK</a></li>
+            <ul>
+                <li><a href="study-abroad/country-guides/uk/belfast">Study abroad in Belfast</a></li>
+                <li><a href="study-abroad/country-guides/uk/cheltenham">Study abroad in Cheltenham</a></li>
+                <li><a href="study-abroad/country-guides/uk/currency-banking">Currency and banking when studying abroad in the UK</a></li>
+                <li><a href="study-abroad/country-guides/uk/exeter">Study abroad in Exeter</a></li>
+                <li><a href="study-abroad/country-guides/uk/glasgow">Study abroad in Glasgow</a></li>
+                <li><a href="study-abroad/country-guides/uk/health">Health in the UK</a></li>
+                <li><a href="study-abroad/country-guides/uk/london">Study abroad in London</a></li>
+                <li><a href="study-abroad/country-guides/uk/manchester">Study abroad in Manchester</a></li>
+                <li><a href="study-abroad/country-guides/uk/newcastle">Study abroad in Newcastle</a></li>
+                <li><a href="study-abroad/country-guides/uk/norwich">Study abroad in Norwich</a></li>
+                <li><a href="study-abroad/country-guides/uk/safety">Safety in the UK</a></li>
+                <li><a href="study-abroad/country-guides/uk/stirling">Study abroad in Stirling</a></li>
+                <li><a href="study-abroad/country-guides/uk/travel">Travel in the UK</a></li>
+                <li><a href="study-abroad/country-guides/uk/visas">Visas for studying abroad in the UK</a></li>
+                <ul>
+                    <li><a href="study-abroad/country-guides/uk/visas/do-i-need-a-visa">Do I need a visa to study in the UK?</a></li>
+                    <li><a href="study-abroad/country-guides/uk/visas/ielts">About IELTS English-language tests for studying in the UK</a></li>
+                    <ul>
+                        <li><a href="study-abroad/country-guides/uk/visas/ielts/accepted-test-centres">Accepted English Language Tests (NQF6)</a></li>
+                    </ul>
+                    <li><a href="study-abroad/country-guides/uk/visas/tier-4-visa-maintenance-requirements">Tier 4 visa maintenance requirements</a></li>
+                </ul>
+            </ul>
+            <li><a href="study-abroad/country-guides/us">Studying abroad in the US</a></li>
+            <ul>
+                <li><a href="study-abroad/country-guides/us/birmingham-alabama">City guide for Birmingham</a></li>
+                <li><a href="study-abroad/country-guides/us/corvallis-oregon">City guide for Corvallis</a></li>
+                <li><a href="study-abroad/country-guides/us/currency-banking">Currency and banking in the US</a></li>
+                <li><a href="study-abroad/country-guides/us/fairfax-virginia">INTO Study > Study abroad > Country guides > US > Fairfax</a></li>
+                <li><a href="study-abroad/country-guides/us/fort-collins-colorado">Learn about Fort Collins</a></li>
+                <li><a href="study-abroad/country-guides/us/health">Health and healthcare in the US</a></li>
+                <li><a href="study-abroad/country-guides/us/huntington-west-virginia">Huntington</a></li>
+                <li><a href="study-abroad/country-guides/us/madison-new-jersey">Madison</a></li>
+                <li><a href="study-abroad/country-guides/us/pullman-washington">Pullman</a></li>
+                <li><a href="study-abroad/country-guides/us/safety">Safety in the US</a></li>
+                <li><a href="study-abroad/country-guides/us/st-louis-missouri">City guide for St. Louis</a></li>
+                <li><a href="study-abroad/country-guides/us/tampa-florida">City guide for Tampa</a></li>
+                <li><a href="study-abroad/country-guides/us/travel">Travel in the US</a></li>
+                <li><a href="study-abroad/country-guides/us/visas">Visa guide for studying abroad in the US</a></li>
+            </ul>
+        </ul>
+        <li><a href="study-abroad/culture-shock">INTO Study > Study abroad > Culture Shock > Aria</a></li>
+        <ul>
+            <li><a href="study-abroad/culture-shock/aria">INTO Study > Study abroad > Culture Shock > Aria</a></li>
+            <li><a href="study-abroad/culture-shock/stephanie">Stephanie's experience of culture shock</a></li>
+            <li><a href="study-abroad/culture-shock/val">Val's culture shock experience</a></li>
+        </ul>
+        <li><a href="study-abroad/home-away-from-home">Your home away from home</a></li>
+        <li><a href="study-abroad/parents-guide">Parents' guide to studying abroad in the UK or US</a></li>
+        <li><a href="study-abroad/student-testimonials">Student testimonials</a></li>
+        <ul>
+            <li><a href="study-abroad/student-testimonials/alessandra">Alessandra Barbosa's experience in the UK</a></li>
+            <li><a href="study-abroad/student-testimonials/ali">Ali Alsaad's experience at George Mason University</a></li>
+            <li><a href="study-abroad/student-testimonials/ghada">Ghada Mudara's experience in the UK</a></li>
+            <li><a href="study-abroad/student-testimonials/jasir">Jasir's US Experience</a></li>
+            <li><a href="study-abroad/student-testimonials/krishna">Krishna Veena Boppana's US experience</a></li>
+            <li><a href="study-abroad/student-testimonials/linda">Linda Segerfeldt's experience at the University of South Florida</a></li>
+            <li><a href="study-abroad/student-testimonials/meisam">Meisam Kiani's UK experience</a></li>
+            <li><a href="study-abroad/student-testimonials/nadia">Nadia Joffre's US experience</a></li>
+            <li><a href="study-abroad/student-testimonials/sean">Sean Foo's UK experience</a></li>
+        </ul>
+    </ul>
+</ul>
+<ul>
+    <li><a href="study-programs">Find a course to study abroad in the UK or US</a></li>
+    <ul>
+        <li><a href="study-programs/accounting-acca-and-cpa">Accounting: ACCA and CPA</a></li>
+        <li><a href="study-programs/english-language-courses">English Language Courses in the UK and US</a></li>
+        <li><a href="study-programs/why-study-accounting-economics-and-finance">Why Study Accounting Economics And Finance</a></li>
+        <li><a href="study-programs/why-study-business-management">Why Study Business Management</a></li>
+        <li><a href="study-programs/why-study-computing-and-information-systems">Why Study Computing And Information Systems</a></li>
+        <li><a href="study-programs/why-study-engineering">Why Study Engineering</a></li>
+    </ul>
+</ul>
+<ul>
+    <li><a href="success-with-into">Success with INTO - Meet our Alumni</a></li>
+</ul>
+<ul>
+    <li><a href="terms">Terms and Conditions</a></li>
+    <ul>
+        <li><a href="terms/colorado-state-university">INTO Colorado State University Terms and Conditions</a></li>
+        <ul>
+            <li><a href="terms/colorado-state-university/terms-conditions-2017-18">INTO Colorado State University Terms & Conditions 2017-18</a></li>
+        </ul>
+        <li><a href="terms/drew-university">INTO Drew University Terms and Conditions</a></li>
+        <ul>
+            <li><a href="terms/drew-university/terms-conditions-2017-18">INTO Drew University Terms & Conditions for 2017-18</a></li>
+        </ul>
+        <li><a href="terms/george-mason-university">George Mason University Terms and Conditions</a></li>
+        <ul>
+            <li><a href="terms/george-mason-university/terms-conditions-2017-18">INTO George Mason University Terms and Conditions for 2017-18</a></li>
+        </ul>
+        <li><a href="terms/glasgow-caledonian-university">INTO Glasgow Caledonian University - Terms and Conditions</a></li>
+        <li><a href="terms/hofstra-university">INTO Hofstra University Terms & Conditions</a></li>
+        <li><a href="terms/illinois-state-university">Illinois State University terms and conditions</a></li>
+        <li><a href="terms/into-group-bank-restrictions-policy-statement">INTO Study > Terms > INTO Group Bank Restrictions Policy Statement</a></li>
+        <li><a href="terms/into-london">INTO London - Terms and Conditions</a></li>
+        <li><a href="terms/into-manchester">INTO Manchester - Terms and Conditions</a></li>
+        <li><a href="terms/nankai-university">Nankai University - Terms and Conditions</a></li>
+        <li><a href="terms/newcastle-university">INTO Newcastle University - Terms and Conditions</a></li>
+        <li><a href="terms/oregon-state-university">INTO OSU Terms and Conditions</a></li>
+        <ul>
+            <li><a href="terms/oregon-state-university/terms-conditions-2017-18">INTO Oregon State University Terms and Conditions 2017-18</a></li>
+        </ul>
+        <li><a href="terms/queens-university-belfast">INTO Queen's University Belfast - Terms and Conditions</a></li>
+        <li><a href="terms/saint-louis-university">INTO SLU Terms and Conditions</a></li>
+        <ul>
+            <li><a href="terms/saint-louis-university/terms-conditions-2017-18">INTO Saint Louis University Terms and Conditions 2017-18</a></li>
+        </ul>
+        <li><a href="terms/suffolk-university">Suffolk University Terms</a></li>
+        <ul>
+            <li><a href="terms/suffolk-university/terms-conditions-2017-18">Terms Conditions 2017 18</a></li>
+        </ul>
+        <li><a href="terms/the-university-of-alabama-at-birmingham">INTO UAB Terms and Conditions</a></li>
+        <ul>
+            <li><a href="terms/the-university-of-alabama-at-birmingham/terms-conditions-2017-18">INTO UAB Terms and Conditions for 2017-18</a></li>
+        </ul>
+        <li><a href="terms/university-of-east-anglia">INTO University of East Anglia - Terms and Conditions</a></li>
+        <li><a href="terms/university-of-exeter">INTO University of Exeter - Terms and Conditions</a></li>
+        <li><a href="terms/university-of-gloucestershire">INTO University of Gloucestershire - Terms and Conditions</a></li>
+        <li><a href="terms/university-of-south-florida">INTO USF Terms and Conditions</a></li>
+        <ul>
+            <li><a href="terms/university-of-south-florida/terms-conditions-2017-18">INTO University of South Florida Terms and Conditions for 20171-18</a></li>
+        </ul>
+        <li><a href="terms/university-of-stirling">INTO University of Stirling - Terms and Conditions</a></li>
+        <li><a href="terms/washington-state-university">Terms and Conditions for INTO Washington State University</a></li>
+        <ul>
+            <li><a href="terms/washington-state-university/terms-conditions-2017-18">INTO Study > Terms > INTO Washington State University > WSU Terms Conditions 2017-18</a></li>
+        </ul>
+    </ul>
+</ul>
+<ul>
+    <li><a href="universities">Find a university in the UK or US</a></li>
+    <ul>
+        <li><a href="universities/colorado-state-university">Welcome to INTO Colorado State University</a></li>
+        <ul>
+            <li><a href="universities/colorado-state-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/colorado-state-university/about-the-university">About INTO Colorado State University</a></li>
+            <ul>
+                <li><a href="universities/colorado-state-university/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/colorado-state-university/about-the-university/more-about-into-csu">About our INTO center at Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/about-the-university/more-about-the-into-center">About INTO Colorado State University</a></li>
+            </ul>
+            <li><a href="universities/colorado-state-university/confirm-your-place">Confirm Your Place at INTO CSU</a></li>
+            <li><a href="universities/colorado-state-university/courses">Courses</a></li>
+            <li><a href="universities/colorado-state-university/living-in-fort-collins-and-colorado">Living In Fort Collins And Colorado</a></li>
+            <ul>
+                <li><a href="universities/colorado-state-university/living-in-fort-collins-and-colorado/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/colorado-state-university/programs">Programs at INTO Colorado State University</a></li>
+            <ul>
+                <li><a href="universities/colorado-state-university/programs/academic-english">Academic English | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-chemical-engineering-me">Graduate Pathway in Chemical Engineering | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-civil-engineering-water-resources">Graduate Pathway in Civil Engineering - Water Resources | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-computer-science-ms">Graduate Pathway in Computer Science | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-design-and-merchandising">Graduate Pathway In Design And Merchandising</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-ece-computer-architecture-me">Graduate Pathway in Computer Engineering - Computer Architecture/Embedded Systems | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-ece-computer-engineering-me">Graduate Pathway in Computer Engineering - Computer Engineering | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-ece-control-systems-me">Graduate Pathway in Electrical Engineering - Control Systems | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-ece-high-performance-me">Graduate Pathway in Computer Engineering - High Performance Computing | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-ece-robotics-control-me">Graduate Pathway in Computer Engineering or Electrical Engineering - Robotics: Robot Control | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-ece-robotics-vision-me">Graduate Pathway in Computer Engineering or Electrical Engineering - Robotics: Vision | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-ece-semiconductor-devices-me">Graduate Pathway in Electrical Engineering - Semiconductor Devices and Processing | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-english-teaching-english-as-a-foreign-second-language-tefl-tesl-ma">Graduate Pathway In English Teaching English As A Foreign Second Language Tefl Tesl Ma</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-finance">Graduate Pathway in Finance | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-greenhouse-gas-management-and-accounting">Graduate Pathway in Greenhouse Gas Management and Accounting | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-impact-mba">Graduate Pathway In Impact Mba</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-master-of-applied-statistics">Graduate Pathway in Applied Statistics | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-master-of-computer-information-systems">Graduate Pathway in Computer Information Systems | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-master-of-tourism-management">Graduate Pathway in Tourism Management | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-mathematics">Graduate Pathway in Mathematics | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-mechanical-engineering">Graduate Pathway In Mechanical Engineering</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathway-in-spanish">Graduate Pathway in Languages</a></li>
+                <li><a href="universities/colorado-state-university/programs/graduate-pathways-in-civil-engineering-me">Graduate Pathway in Civil Engineering - Structural Engineering | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-agricultural-sciences">International Year One in Agricultural Sciences | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-business-administration-economics">International Year One In Business Administration Economics</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-computer-science">International Year One in Computer Science | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-dance">International Year One in Dance | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-data-science">International Year One In Data Science</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-engineering">International Year One in Engineering | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-general-studies">International Year One in General Studies | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-languages-literatures-and-cultures-french-german-or-spanish">International Year One In Languages Literatures And Cultures French German Or Spanish</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-life-sciences-pre-health-professions">International Year One In Life Sciences Pre Health Professions</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-math">International Year One in Mathematics | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/international-year-one-in-sciences">International Year One in Sciences | Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/programs/undergraduate-transfer-program">Undergraduate Transfer Program | Colorado State University</a></li>
+            </ul>
+            <li><a href="universities/colorado-state-university/scholarships">Scholarships at INTO Colorado State University</a></li>
+            <li><a href="universities/colorado-state-university/studying">Studying at INTO Colorado State University</a></li>
+            <ul>
+                <li><a href="universities/colorado-state-university/studying/faculty">Meet our faculty at INTO Colorado State University</a></li>
+                <li><a href="universities/colorado-state-university/studying/student-support">Student support at INTO Colorado State University</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/drew-university">Welcome to INTO Drew University</a></li>
+        <ul>
+            <li><a href="universities/drew-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/drew-university/about-the-university">About INTO Drew University</a></li>
+            <ul>
+                <li><a href="universities/drew-university/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/drew-university/about-the-university/more-about-into-drew">Learn about the INTO Center at Drew University</a></li>
+                <li><a href="universities/drew-university/about-the-university/more-about-the-into-center">About INTO Drew University</a></li>
+            </ul>
+            <li><a href="universities/drew-university/confirm-your-place">Confirm Your Place at Drew</a></li>
+            <li><a href="universities/drew-university/courses">Courses</a></li>
+            <li><a href="universities/drew-university/living-in-madison-and-new-york">Living In Madison And New York</a></li>
+            <ul>
+                <li><a href="universities/drew-university/living-in-madison-and-new-york/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/drew-university/programs">Programs at INTO Drew University</a></li>
+            <ul>
+                <li><a href="universities/drew-university/programs/academic-english">Academic English | Drew University</a></li>
+                <li><a href="universities/drew-university/programs/graduate-pathway-in-data-analytics">Graduate Pathway In Data Analytics</a></li>
+                <li><a href="universities/drew-university/programs/graduate-pathway-in-education">Graduate Pathway In Education</a></li>
+                <li><a href="universities/drew-university/programs/graduate-pathway-in-finance">Graduate Pathway in Finance | Drew University</a></li>
+                <li><a href="universities/drew-university/programs/graduate-pathway-in-finance-with-non-business-economics-undergrad">Graduate Pathway In Finance With Non Business Economics Undergrad</a></li>
+                <li><a href="universities/drew-university/programs/international-year-one-in-biomedical-sciences">International Year One In Biomedical Sciences</a></li>
+                <li><a href="universities/drew-university/programs/international-year-one-in-business">International Year One in Business | Drew University</a></li>
+                <li><a href="universities/drew-university/programs/international-year-one-in-general-studies">International Year One In General Studies</a></li>
+                <li><a href="universities/drew-university/programs/international-year-one-in-media-and-communications">International Year One In Media And Communications</a></li>
+                <li><a href="universities/drew-university/programs/international-year-one-in-natural-sciences">International Year One In Natural Sciences</a></li>
+                <li><a href="universities/drew-university/programs/international-year-one-in-pre-engineering">International Year One in Pre Engineering | Drew University</a></li>
+                <li><a href="universities/drew-university/programs/international-year-one-in-the-arts">International Year One in the Arts | Drew University</a></li>
+                <li><a href="universities/drew-university/programs/study-abroad-with-english">Study Abroad with English | Drew University</a></li>
+                <li><a href="universities/drew-university/programs/undergraduate-transfer-program">Undergraduate Transfer Program | Drew University</a></li>
+            </ul>
+            <li><a href="universities/drew-university/scholarships">Earn a scholarship at INTO Drew University</a></li>
+            <li><a href="universities/drew-university/studying">Studying at INTO Drew University</a></li>
+            <ul>
+                <li><a href="universities/drew-university/studying/faculty">Meet the faculty at INTO Drew University</a></li>
+                <li><a href="universities/drew-university/studying/student-support">Student support at INTO Drew University</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/george-mason-university">Welcome to INTO George Mason University</a></li>
+        <ul>
+            <li><a href="universities/george-mason-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/george-mason-university/about-the-university">About the University</a></li>
+            <ul>
+                <li><a href="universities/george-mason-university/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/george-mason-university/about-the-university/more-about-into-mason">More about INTO Mason</a></li>
+                <li><a href="universities/george-mason-university/about-the-university/more-about-the-into-center">About the University</a></li>
+            </ul>
+            <li><a href="universities/george-mason-university/confirm-your-place">Confirm Your Place at INTO George Mason</a></li>
+            <li><a href="universities/george-mason-university/courses">Courses</a></li>
+            <li><a href="universities/george-mason-university/living-in-fairfax-and-virginia">Living In Fairfax And Virginia</a></li>
+            <ul>
+                <li><a href="universities/george-mason-university/living-in-fairfax-and-virginia/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/george-mason-university/programs">Programs at INTO George Mason University</a></li>
+            <ul>
+                <li><a href="universities/george-mason-university/programs/academic-english">Academic English | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-accounting">Graduate Pathway in Accounting | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-applied-and-engineering-physics">Graduate Pathway in Applied and Engineering Physics | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-applied-information-technology">Graduate Pathway in Applied Information Technology | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-arts-management">Graduate Pathway in Arts Management | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-bioinformatics-and-computational-biology">Graduate Pathway in Bioinformatics and Computational Biology | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-bioinformatics-management">Graduate Pathway in Bioinformatics Management | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-biostatistics">Graduate Pathway in Biostatistics | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-business-administration-mba">Graduate Pathway in Business Administration (MBA) | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-civil-and-infrastructure-engineering">Graduate Pathway in Civil and Infrastructure Engineering | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-computational-science">Graduate Pathway in Computational Science | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-computer-engineering">Graduate Pathway in Computer Engineering | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-computer-game-design">Graduate Pathway In Computer Game Design</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-computer-science">Graduate Pathway in Computer Science | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-conflict-analysis-and-resolution">Graduate Pathway in Conflict Analysis and Resolution | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-curriculum-and-instruction">Graduate Pathway in Curriculum and Instruction/Special Education -- Early Childhood | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-data-analytics">Graduate Pathway in Data Analytics Engineering | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-digital-forensics-and-cyber-analysis">Graduate Pathway In Digital Forensics And Cyber Analysis</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-earth-systems-science">Graduate Pathway in Earth Systems Science | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-economics">Graduate Pathway In Economics</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-educational-psychology">Graduate Pathway in Educational Psychology | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-electrical-engineering">Graduate Pathway in Electrical Engineering | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-english-linguistics">Graduate Pathway in English - Linguistics | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-environmental-science-and-policy">Graduate Pathway in Environmental Science and Policy | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-forensic-science">Graduate Pathway in Forensic Science | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-geographic-and-cartographic-sciences">Graduate Pathway in Geographic and Cartographic Sciences | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-global-affairs">Graduate Pathway in Global Affairs | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-global-health">Graduate Pathway in Global Health | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-graphic-design">Graduate Pathway in Graphic Design | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-health-informatics">Graduate Pathway in Health Informatics | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-health-systems-management">Graduate Pathway in Health Systems Management | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-information-security-and-assurance">Graduate Pathway in Information Security and Assurance | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-information-systems">Graduate Pathway in Information Systems | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-international-commerce-and-policy">Graduate Pathway in International Commerce and Policy | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-management">Graduate Pathway in Management | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-mathematics">Graduate Pathway in Mathematics | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-music">Graduate Pathway in Music | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-nutrition">Graduate Pathway in Nutrition | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-operations-research">Graduate Pathway in Operations Research | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-psychology">Graduate Pathway in Psychology | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-public-policy">Graduate Pathway in Public Policy | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-real-estate-development">Graduate Pathway in Real Estate Development | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-social-work">Graduate Pathway in Social Work | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-software-engineering">Graduate Pathway in Software Engineering | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-special-education">Graduate Pathway in Special Education | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-special-education-early-childhood-education">Graduate Pathway In Special Education Early Childhood Education</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-sport-and-recreation-studies">Graduate Pathway in Sport and Recreation Studies | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-statistical-science">Graduate Pathway in Statistical Science | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-systems-engineering">Graduate Pathway in Systems Engineering | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/graduate-pathway-in-telecommunications">Graduate Pathway in Telecommunications | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/international-year-one-engineering-computing-and-statistics">International Year One Engineering Computing And Statistics</a></li>
+                <li><a href="universities/george-mason-university/programs/international-year-one-in-business">International Year One in Business | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/international-year-one-in-human-and-social-development">International Year One in Human and Social Development | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/international-year-one-in-humanities-and-social-sciences">International Year One in Humanities and Social Sciences | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/international-year-one-in-science">International Year One in Science | George Mason University</a></li>
+                <li><a href="universities/george-mason-university/programs/undergraduate-transfer-program-george-mason-university">Undergraduate Transfer Program | George Mason University</a></li>
+            </ul>
+            <li><a href="universities/george-mason-university/scholarships">Scholarships at INTO George Mason University</a></li>
+            <li><a href="universities/george-mason-university/studying">Studying at INTO George Mason University</a></li>
+            <ul>
+                <li><a href="universities/george-mason-university/studying/faculty">Meet the faculty at INTO George Mason University</a></li>
+                <li><a href="universities/george-mason-university/studying/student-support">Student support at INTO George Mason University</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/glasgow-caledonian-university">Welcome to INTO Glasgow Caledonian University</a></li>
+        <ul>
+            <li><a href="universities/glasgow-caledonian-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/glasgow-caledonian-university/about-the-university">About Glasgow Caledonian University</a></li>
+            <ul>
+                <li><a href="universities/glasgow-caledonian-university/about-the-university/campus-life">Campus Life</a></li>
+            </ul>
+            <li><a href="universities/glasgow-caledonian-university/courses">Courses at INTO Glasgow Caledonian University</a></li>
+            <ul>
+                <li><a href="universities/glasgow-caledonian-university/courses/academic-english">Academic English | Glasgow Caledonian University</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/international-diploma-in-business-and-management">International Diploma In Business And Management</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/international-foundation-in-built-environment">International Foundation In Built Environment</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/international-foundation-in-business-and-management">International Foundation In Business And Management</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/international-foundation-in-computing">International Foundation In Computing</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/international-foundation-in-engineering">International Foundation In Engineering</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/international-foundation-in-science">International Foundation In Science</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/international-graduate-diploma-in-business-and-management">International Graduate Diploma in Business and Management | Glasgow Caledonian University</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/postgraduate-degree-with-graduate-diploma">Postgraduate Degree With Graduate Diploma</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/pre-masters">Pre Masters</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/pre-sessional-english-glasgow-caledonian-university">Pre-sessional English | Glasgow Caledonian University</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/study-abroad-with-english">Study Abroad with English | Glasgow Caledonian University</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/undergraduate-degree-with-international-year-two">Undergraduate Degree With International Year Two</a></li>
+                <li><a href="universities/glasgow-caledonian-university/courses/undergraduatee-degree-with-international-year-one">Undergraduatee Degree With International Year One</a></li>
+            </ul>
+            <li><a href="universities/glasgow-caledonian-university/living-in-glasgow">Living In Glasgow</a></li>
+            <ul>
+                <li><a href="universities/glasgow-caledonian-university/living-in-glasgow/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/glasgow-caledonian-university/scholarships">Scholarships at INTO GCU</a></li>
+            <li><a href="universities/glasgow-caledonian-university/studying">Studying at INTO GCU</a></li>
+            <ul>
+                <li><a href="universities/glasgow-caledonian-university/studying/student-support">Student support at INTO GCU</a></li>
+                <li><a href="universities/glasgow-caledonian-university/studying/teachers">Teachers at INTO GCU</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/hofstra-university">Welcome to INTO Hofstra University</a></li>
+        <ul>
+            <li><a href="universities/hofstra-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/hofstra-university/about-the-university">About the University at INTO Hofstra University</a></li>
+            <ul>
+                <li><a href="universities/hofstra-university/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/hofstra-university/about-the-university/more-about-the-into-center">About our INTO Center at Hofstra University</a></li>
+            </ul>
+            <li><a href="universities/hofstra-university/courses">Courses</a></li>
+            <li><a href="universities/hofstra-university/living-on-long-island">Living On Long Island</a></li>
+            <ul>
+                <li><a href="universities/hofstra-university/living-on-long-island/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/hofstra-university/programs">Programs at INTO Hofstra University</a></li>
+            <ul>
+                <li><a href="universities/hofstra-university/programs/academic-english">Academic English</a></li>
+                <li><a href="universities/hofstra-university/programs/engineering-management">Engineering Management</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-athway-in-computer-science">Graduate Athway In Computer Science</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-accounting">Graduate Pathway In Accounting</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-biology">Graduate Pathway In Biology</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-business-analytics">Graduate Pathway In Business Analytics</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-creative-arts-therapy-counseling">Graduate Pathway In Creative Arts Therapy Counseling</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-finance">Graduate Pathway In Finance</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-health-administration">Graduate Pathway In Health Administration</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-health-informatics">Graduate Pathway In Health Informatics</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-higher-education-leadership-and-policy-studies">Graduate Pathway In Higher Education Leadership And Policy Studies</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-human-resource-management">Graduate Pathway In Human Resource Management</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-information-systems">Graduate Pathway In Information Systems</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-languages-other-than-english-and-tesol-certification">Graduate Pathway In Languages Other Than English And Tesol Certification</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-literacy-studies-birth-grade-6-or-grades-5-12">Graduate Pathway In Literacy Studies Birth Grade 6 Or Grades 5 12</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-marketing">Graduate Pathway In Marketing</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-marketing-research">Graduate Pathway In Marketing Research</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-mba">Graduate Pathway In Mba</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-public-health">Graduate Pathway In Public Health</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-quantitative-finance">Graduate Pathway In Quantitative Finance</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-sports-science-exercise-physiology">Graduate Pathway In Sports Science Exercise Physiology</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-sustainability">Graduate Pathway In Sustainability</a></li>
+                <li><a href="universities/hofstra-university/programs/graduate-pathway-in-urban-ecology">Graduate Pathway In Urban Ecology</a></li>
+                <li><a href="universities/hofstra-university/programs/international-year-one-in-business">International Year One In Business</a></li>
+                <li><a href="universities/hofstra-university/programs/international-year-one-in-communication">International Year One In Communication</a></li>
+                <li><a href="universities/hofstra-university/programs/international-year-one-in-computer-science">International Year One In Computer Science</a></li>
+                <li><a href="universities/hofstra-university/programs/international-year-one-in-engineering">International Year One In Engineering</a></li>
+                <li><a href="universities/hofstra-university/programs/international-year-one-in-fine-and-performing-arts">International Year One In Fine And Performing Arts</a></li>
+                <li><a href="universities/hofstra-university/programs/international-year-one-in-general">International Year One In General</a></li>
+                <li><a href="universities/hofstra-university/programs/international-year-one-in-health-science-exercise-science">International Year One In Health Science Exercise Science</a></li>
+                <li><a href="universities/hofstra-university/programs/international-year-one-in-natural-science">International Year One In Natural Science</a></li>
+                <li><a href="universities/hofstra-university/programs/undergraduate-transfer-program">Undergraduate Transfer Program</a></li>
+            </ul>
+            <li><a href="universities/hofstra-university/scholarships">Scholarships and funding | Hofstra University</a></li>
+            <li><a href="universities/hofstra-university/studying">Studying at INTO Hofstra University</a></li>
+            <ul>
+                <li><a href="universities/hofstra-university/studying/faculty">Faculty at Hofstra University</a></li>
+                <li><a href="universities/hofstra-university/studying/student-support">Student Support at INTO Hofstra</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/illinois-state-university">Welcome to INTO Illinois State University</a></li>
+        <ul>
+            <li><a href="universities/illinois-state-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/illinois-state-university/about-the-university">About Illinois State University</a></li>
+            <ul>
+                <li><a href="universities/illinois-state-university/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/illinois-state-university/about-the-university/more-about-into-isu">More About Into Isu</a></li>
+                <li><a href="universities/illinois-state-university/about-the-university/more-about-the-into-center">About Illinois State University</a></li>
+            </ul>
+            <li><a href="universities/illinois-state-university/courses">Courses</a></li>
+            <li><a href="universities/illinois-state-university/living-in-bloomington-normal">Living In Bloomington Normal</a></li>
+            <ul>
+                <li><a href="universities/illinois-state-university/living-in-bloomington-normal/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/illinois-state-university/programs">Programs at INTO Illinois State University</a></li>
+            <ul>
+                <li><a href="universities/illinois-state-university/programs/academic-english-course">Academic English | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-accountancy-non-accounting-degree">Graduate Pathway in Accountancy with Non-Accounting Degree | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-accountancy-with-accounting-degree">Graduate Pathway in Accountancy with Accounting Degree | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-actuarial-science">Graduate Pathway In Actuarial Science</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-business-administration-mba-non-business">Graduate Pathway In Business Administration Mba Non Business</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-business-administration-mba-with-business-background">Graduate Pathway In Business Administration Mba With Business Background</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-economics">Graduate Pathway in Economics | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-fashion-design">Graduate Pathway In Fashion Design</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-fashion-merchandising">Graduate Pathway In Fashion Merchandising</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-food-nutrition-and-dietetics">Graduate Pathway in Food</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-human-development-and-family-science">Graduate Pathway In Human Development And Family Science</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-hydrogeology">Graduate Pathway in Hydrogeology | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-information-systems-non-is">Graduate Pathway In Information Systems Non Is</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-information-systems-with-information-systems-background">Graduate Pathway In Information Systems With Information Systems Background</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-interior-design">Graduate Pathway in Interior Design | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-kinesiology-and-recreation">Graduate Pathway in Kinesiology and Recreation | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-mathematics">Graduate Pathway in Mathematics | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-mba-with-non-business-degree-plan-b">Graduate Pathway In Mba With Non Business Degree Plan B</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-music">Graduate Pathway In Music</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-studio-arts">Graduate Pathway in Studio Arts | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-teaching-and-learning">Graduate Pathway In Teaching And Learning</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-technology">Graduate Pathway in Technology | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/graduate-pathway-in-theatre-studies">Graduate Pathway In Theatre Studies</a></li>
+                <li><a href="universities/illinois-state-university/programs/international-year-one-in-business">International Year One in Business | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/international-year-one-in-computer-science">International Year One in Computer Science | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/international-year-one-in-fine-arts">International Year One In Fine Arts</a></li>
+                <li><a href="universities/illinois-state-university/programs/international-year-one-in-general">International Year One in General Studies | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/international-year-one-in-information-systems">International Year One in Information Systems | Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/programs/international-year-one-in-science-applied-sciences-technology">International Year One in Science</a></li>
+            </ul>
+            <li><a href="universities/illinois-state-university/scholarships">Scholarships at INTO Illinois State University</a></li>
+            <li><a href="universities/illinois-state-university/studying">Studying at INTO Illinois State University</a></li>
+            <ul>
+                <li><a href="universities/illinois-state-university/studying/faculty">Faculty at INTO Illinois State University</a></li>
+                <li><a href="universities/illinois-state-university/studying/student-support">Student support at INTO Illinois State University</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/into-london">Welcome to INTO London World Education Centre</a></li>
+        <ul>
+            <li><a href="universities/into-london/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/into-london/about-the-into-centre">About the INTO London Study Centre</a></li>
+            <ul>
+                <li><a href="universities/into-london/about-the-into-centre/student-life">Student Life</a></li>
+            </ul>
+            <li><a href="universities/into-london/about-the-university">About The University</a></li>
+            <ul>
+                <li><a href="universities/into-london/about-the-university/more-about-the-campus">More About The Campus</a></li>
+            </ul>
+            <li><a href="universities/into-london/courses">Courses at INTO London World Education Centre</a></li>
+            <ul>
+                <li><a href="universities/into-london/courses/academic-english">Academic English  London World Education Centre</a></li>
+                <li><a href="universities/into-london/courses/general-english">General English  London World Education Centre</a></li>
+                <li><a href="universities/into-london/courses/international-foundation-in-accounting-and-finance">International Foundation in Accounting and Finance  London World Education Centre</a></li>
+                <li><a href="universities/into-london/courses/international-foundation-in-art-and-design">International Foundation in Art and Design  London World Education Centre</a></li>
+                <li><a href="universities/into-london/courses/international-foundation-in-hospitality-events-and-tourism">International Foundation in Hospitality</a></li>
+                <li><a href="universities/into-london/courses/international-foundation-in-science-and-engineering">International Foundation In Science And Engineering</a></li>
+                <li><a href="universities/into-london/courses/international-year-one-in-business">International Year One in Business  London World Education Centre</a></li>
+                <li><a href="universities/into-london/courses/pre-masters-in-banking-and-finance">Pre-Master's in Banking and Finance  London World Education Centre</a></li>
+            </ul>
+            <li><a href="universities/into-london/living-in-city-of-london">Living In City Of London</a></li>
+            <ul>
+                <li><a href="universities/into-london/living-in-city-of-london/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/into-london/living-in-london">Living In London</a></li>
+            <ul>
+                <li><a href="universities/into-london/living-in-london/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/into-london/progression-to-university">Progression To University</a></li>
+            <ul>
+                <li><a href="universities/into-london/progression-to-university/placement-support">Placement Support</a></li>
+                <li><a href="universities/into-london/progression-to-university/your-options">Your Options</a></li>
+            </ul>
+            <li><a href="universities/into-london/scholarships">INTO London scholarships</a></li>
+            <li><a href="universities/into-london/studying">Study in London - 100+ universities to choose from</a></li>
+            <ul>
+                <li><a href="universities/into-london/studying/student-support">Support for international students in London</a></li>
+                <li><a href="universities/into-london/studying/teachers">Meet the teachers at INTO London</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/into-manchester">Welcome to INTO Manchester</a></li>
+        <ul>
+            <li><a href="universities/into-manchester/about-the-centre">About INTO Manchester</a></li>
+            <li><a href="universities/into-manchester/about-the-into-centre">About The Into Centre</a></li>
+            <ul>
+                <li><a href="universities/into-manchester/about-the-into-centre/student-life">Student Life</a></li>
+            </ul>
+            <li><a href="universities/into-manchester/courses">Courses at INTO Manchester</a></li>
+            <ul>
+                <li><a href="universities/into-manchester/courses/academic-english">Academic English  Manchester</a></li>
+                <li><a href="universities/into-manchester/courses/general-english">General English  Manchester</a></li>
+                <li><a href="universities/into-manchester/courses/international-foundation-in-business-and-humanities">International Foundation In Business And Humanities</a></li>
+                <li><a href="universities/into-manchester/courses/international-foundation-in-science-and-engineering">International Foundation in Science and Engineering  Manchester</a></li>
+                <li><a href="universities/into-manchester/courses/international-year-one-in-business-accounting-and-finance">International Year One in International Business</a></li>
+                <li><a href="universities/into-manchester/courses/pre-masters">Pre-Master's  Manchester</a></li>
+            </ul>
+            <li><a href="universities/into-manchester/living-in-manchester">Living In Manchester</a></li>
+            <ul>
+                <li><a href="universities/into-manchester/living-in-manchester/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/into-manchester/progression-to-university">Progression To University</a></li>
+            <ul>
+                <li><a href="universities/into-manchester/progression-to-university/placement-support">Placement Support</a></li>
+                <li><a href="universities/into-manchester/progression-to-university/your-options">Your Options</a></li>
+            </ul>
+            <li><a href="universities/into-manchester/scholarships">Scholarships at INTO Manchester</a></li>
+            <li><a href="universities/into-manchester/studying">Study at INTO Manchester</a></li>
+            <ul>
+                <li><a href="universities/into-manchester/studying/student-support">Student support at INTO Manchester</a></li>
+                <li><a href="universities/into-manchester/studying/teachers">Teachers at INTO Manchester</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/nankai-university">Welcome to Nankai University</a></li>
+        <ul>
+            <li><a href="universities/nankai-university/about-the-university">About Nankai University</a></li>
+            <ul>
+                <li><a href="universities/nankai-university/about-the-university/campus-life">Campus Life</a></li>
+            </ul>
+            <li><a href="universities/nankai-university/courses">Courses at Nankai University</a></li>
+            <ul>
+                <li><a href="universities/nankai-university/courses/ma-international-affairs-and-public-policy">Study an MA in International Affairs and Public Policy in China</a></li>
+                <li><a href="universities/nankai-university/courses/ma-international-economics-and-business">MA International Economics and Business</a></li>
+            </ul>
+            <li><a href="universities/nankai-university/living">Living in Tianjin</a></li>
+            <ul>
+                <li><a href="universities/nankai-university/living/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/nankai-university/studying">Studying at Nankai University</a></li>
+            <ul>
+                <li><a href="universities/nankai-university/studying/teachers">Teaching faculty at Nankai University</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/newcastle-university">Welcome to INTO Newcastle University</a></li>
+        <ul>
+            <li><a href="universities/newcastle-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/newcastle-university/about-the-university">About Newcastle University</a></li>
+            <ul>
+                <li><a href="universities/newcastle-university/about-the-university/campus-life">Campus Life</a></li>
+            </ul>
+            <li><a href="universities/newcastle-university/courses">Courses at INTO Newcastle University</a></li>
+            <ul>
+                <li><a href="universities/newcastle-university/courses/academic-english">Academic English | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/graduate-diploma-in-architecture">Graduate Diploma in Architecture | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/graduate-diploma-in-business-and-humanities">Graduate Diploma in Business and Humanities | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/international-foundation-in-architecture">International Foundation in Architecture | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/international-foundation-in-biological-and-biomedical-sciences">International Foundation in Biological and Biomedical Sciences | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/international-foundation-in-business-and-management">International Foundation in Business and Management | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/international-foundation-in-humanities-and-social-sciences">International Foundation in Humanities and Social Sciences | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/international-foundation-in-physical-sciences-and-engineering">International Foundation in Physical Sciences and Engineering | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/international-year-one-in-architecture">International Year One in Architecture | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/international-year-one-in-business">International Year One in Business | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/pre-sessional-english">Pre-sessional English | Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/courses/study-abroad-with-english">Study Abroad with English | Newcastle University</a></li>
+            </ul>
+            <li><a href="universities/newcastle-university/living-in-newcastle">Living In Newcastle</a></li>
+            <ul>
+                <li><a href="universities/newcastle-university/living-in-newcastle/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/newcastle-university/scholarships">Scholarships at INTO Newcastle University</a></li>
+            <li><a href="universities/newcastle-university/studying">Study at INTO Newcastle University</a></li>
+            <ul>
+                <li><a href="universities/newcastle-university/studying/student-support">Student support at INTO Newcastle University</a></li>
+                <li><a href="universities/newcastle-university/studying/teachers">Teachers at INTO Newcastle University</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/newton-a-level-programme">Welcome to INTO Newton A-level Programme</a></li>
+        <ul>
+            <li><a href="universities/newton-a-level-programme/about">About the Newton A-level Programme</a></li>
+            <ul>
+                <li><a href="universities/newton-a-level-programme/about/campus-life">Campus Life</a></li>
+            </ul>
+            <li><a href="universities/newton-a-level-programme/about-the-university">About The University</a></li>
+            <ul>
+                <li><a href="universities/newton-a-level-programme/about-the-university/more-about-the-university">More About The University</a></li>
+            </ul>
+            <li><a href="universities/newton-a-level-programme/courses">Courses at INTO Newton A-level Programme</a></li>
+            <ul>
+                <li><a href="universities/newton-a-level-programme/courses/newton-a-level-economics-and-actuarial-science">A-level Economics</a></li>
+                <li><a href="universities/newton-a-level-programme/courses/newton-a-level-engineering-and-mathematics">A-level Engineering and Mathematics  Newton A-level Programme</a></li>
+                <li><a href="universities/newton-a-level-programme/courses/newton-a-level-science-and-medicine">A-level Science and Medicine  Newton A-level Programme</a></li>
+            </ul>
+            <li><a href="universities/newton-a-level-programme/living-in-norwich-newton">Living In Norwich Newton</a></li>
+            <ul>
+                <li><a href="universities/newton-a-level-programme/living-in-norwich-newton/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/newton-a-level-programme/scholarships">Scholarships for the Newton A-level Programme</a></li>
+            <li><a href="universities/newton-a-level-programme/studying">Studying on the INTO Newton A-level programme</a></li>
+            <ul>
+                <li><a href="universities/newton-a-level-programme/studying/enhancement-activities">Enhancement activities on the Newton A-level Programme</a></li>
+                <li><a href="universities/newton-a-level-programme/studying/student-support">Student support on the Newton A-level Programme</a></li>
+                <li><a href="universities/newton-a-level-programme/studying/teachers">Teachers on the Newton A-level Programme</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/oregon-state-university">Welcome to INTO Oregon State University</a></li>
+        <ul>
+            <li><a href="universities/oregon-state-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/oregon-state-university/about-the-university">About INTO Oregon State University</a></li>
+            <ul>
+                <li><a href="universities/oregon-state-university/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/oregon-state-university/about-the-university/more-about-into-osu">About our INTO center at Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/about-the-university/more-about-the-into-center">About INTO Oregon State University</a></li>
+            </ul>
+            <li><a href="universities/oregon-state-university/confirm-your-place">Confirm Your Place at INTO OSU</a></li>
+            <li><a href="universities/oregon-state-university/courses">Courses</a></li>
+            <li><a href="universities/oregon-state-university/living-in-corvallis">Living In Corvallis</a></li>
+            <ul>
+                <li><a href="universities/oregon-state-university/living-in-corvallis/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/oregon-state-university/programs">Programs at INTO Oregon State University</a></li>
+            <ul>
+                <li><a href="universities/oregon-state-university/programs/academic-english-course">Academic English | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-applied-economics">Graduate Pathway In Applied Economics</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-bioengineering">Graduate Pathway In Bioengineering</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-biostatistics">Graduate Pathway In Biostatistics</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-chemical-engineering">Graduate Pathway in Chemical Engineering | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-civil-engineering">Graduate Pathway in Civil Engineering | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-comparative-health-sciences">Graduate Pathway in Comparative Health Sciences | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-computer-science">Graduate Pathway in Computer Science | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-electrical-and-computer-engineering">Graduate Pathway in Electrical and Computer Engineering | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-environmental-engineering">Graduate Pathway in Environmental Engineering | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-environmental-sciences">Graduate Pathway in Environmental Sciences | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-global-health">Graduate Pathway In Global Health</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-health-promotion-and-health-behavior">Graduate Pathway In Health Promotion And Health Behavior</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-industrial-engineering">Graduate Pathway in Industrial Engineering | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-masters-of-business-administration-mba">Graduate Pathway in Masters of Business Administration (MBA) | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-materials-chemistry">Graduate Pathway in Materials Chemistry | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-mathematics">Graduate Pathway In Mathematics</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-mechanical-engineering">Graduate Pathway in Mechanical Engineering | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/graduate-pathway-in-ms-business">Graduate Pathway In Ms Business</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-direct">International Direct</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-forestry">International Year One in Forestry | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-business">International Year One in Business | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-computer-science">International Year One in Computer Science | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-design-apparel-and-merchandising-management">International Year One In Design Apparel And Merchandising Management</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-engineering">International Year One in Engineering | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-exercise-and-sport-science">International Year One in Exercise and Sport Science | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-food-science-and-technology">International Year One in Food Science and Technology | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-general-studies">International Year One in General Studies | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-mathematics">International Year One In Mathematics</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-natural-resources-and-renewable-materials">International Year One in Natural Resources and Renewable Materials | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-psychology">International Year One In Psychology</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-public-policy">International Year One in Public Policy | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-in-science">International Year One in Science | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/international-year-one-women-and-gender-studies">International Year One in Women and Gender Studies | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/masters-international-direct">Masters International Direct</a></li>
+                <li><a href="universities/oregon-state-university/programs/study-abroad-with-english">Study Abroad with English | Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/programs/undergraduate-transfer-program">Undergraduate Transfer Program</a></li>
+                <li><a href="universities/oregon-state-university/programs/visiting-international-student-program">Visiting International Student Program | Oregon State University</a></li>
+            </ul>
+            <li><a href="universities/oregon-state-university/scholarships">Scholarships at INTO Oregon State University</a></li>
+            <li><a href="universities/oregon-state-university/studying">Studying at INTO Oregon State University</a></li>
+            <ul>
+                <li><a href="universities/oregon-state-university/studying/faculty">Meet our faculty at INTO Oregon State University</a></li>
+                <li><a href="universities/oregon-state-university/studying/student-support">Student support at INTO Oregon State University</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/queens-university-belfast">Welcome to INTO Queen's University Belfast</a></li>
+        <ul>
+            <li><a href="universities/queens-university-belfast/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/queens-university-belfast/about-the-university">About Queen's University Belfast</a></li>
+            <ul>
+                <li><a href="universities/queens-university-belfast/about-the-university/campus-life">Campus Life</a></li>
+            </ul>
+            <li><a href="universities/queens-university-belfast/courses">Courses at INTO Queen's University Belfast</a></li>
+            <ul>
+                <li><a href="universities/queens-university-belfast/courses/academic-english">Academic English | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/graduate-diploma-in-finance">Graduate Diploma in Finance | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/graduate-diploma-in-management">Graduate Diploma in Management | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/graduate-diploma-in-social-sciences">Graduate Diploma in Social Sciences | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/international-foundation-in-architecture">International Foundation in Architecture | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/international-foundation-in-business-humanities-and-social-sciences">International Foundation in Business</a></li>
+                <li><a href="universities/queens-university-belfast/courses/international-foundation-in-engineering-and-science">International Foundation in Engineering and Science | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/international-year-one-in-accounting">International Year One in Accounting | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/international-year-one-in-engineering">International Year One in Engineering | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/international-year-one-in-management-and-finance">International Year One in Management and Finance | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/pre-sessional-english">Pre-Sessional English | Queen's University Belfast</a></li>
+                <li><a href="universities/queens-university-belfast/courses/undergraduate-degree-with-international-year-one">Undergraduate Degree With International Year One</a></li>
+            </ul>
+            <li><a href="universities/queens-university-belfast/living-in-belfast">Living In Belfast</a></li>
+            <ul>
+                <li><a href="universities/queens-university-belfast/living-in-belfast/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/queens-university-belfast/scholarships">Scholarships at INTO Queen's</a></li>
+            <li><a href="universities/queens-university-belfast/studying">Studying at INTO Queen's</a></li>
+            <ul>
+                <li><a href="universities/queens-university-belfast/studying/student-support">Student support at INTO Queen's</a></li>
+                <li><a href="universities/queens-university-belfast/studying/teachers">Teachers at INTO Queen's</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/saint-louis-university">Welcome to INTO Saint Louis University</a></li>
+        <ul>
+            <li><a href="universities/saint-louis-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/saint-louis-university/about-the-university">About INTO Saint Louis University</a></li>
+            <ul>
+                <li><a href="universities/saint-louis-university/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/saint-louis-university/about-the-university/more-about-into-slu">More about INTO Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/about-the-university/more-about-the-into-center">About INTO Saint Louis University</a></li>
+            </ul>
+            <li><a href="universities/saint-louis-university/confirm-your-place">Confirm Your Place at INTO Saint Louis</a></li>
+            <li><a href="universities/saint-louis-university/courses">Courses</a></li>
+            <li><a href="universities/saint-louis-university/living-in-saint-louis">Living In Saint Louis</a></li>
+            <ul>
+                <li><a href="universities/saint-louis-university/living-in-saint-louis/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/saint-louis-university/programs">Programs at INTO Saint Louis University</a></li>
+            <ul>
+                <li><a href="universities/saint-louis-university/programs/academic-english">Academic English | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-applied-financial-economics">Graduate Pathway in Applied Financial Economics | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-bioinformatics-and-computational-biology">Graduate Pathway in Bioinformatics and Computational Biology | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-business-administration">Graduate Pathway in Business Administration | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-chemistry">Graduate Pathway in Chemistry | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-computer-science">Graduate Pathway in Computer Science | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-engineering">Graduate Pathway in Engineering | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-health-data-science">Graduate Pathway in Health Data Science | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-law-jd">Graduate Pathway in Law (JD) | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-law-llm">Graduate Pathway in Law (LLM) | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-nutrition-and-dietetics">Graduate Pathway in Nutrition and Dietetics | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-software-engineering">Graduate Pathway in Software Engineering | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-supply-chain-management">Graduate Pathway in Supply Chain Management | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/graduate-pathway-in-urban-planning-and-development">Graduate Pathway in Urban Planning and Development | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-aeronautics">International Year One in Aeronautics | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-aerospace-engineering">International Year One in Aerospace Engineering | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-arts">International Year One in Arts | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-business">International Year One in Business | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-computer-science">International Year One in Computer Science | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-engineering">International Year One In Engineering</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-general">International Year One In General</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-health-information-management">International Year One in Health Information Management | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-mathematics-and-statistics">International Year One in Mathematics and Statistics | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-in-science">International Year One in Science | Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/programs/international-year-one-public-health">International Year One Public Health</a></li>
+                <li><a href="universities/saint-louis-university/programs/undergraduate-transfer-program">Undergraduate Transfer Program</a></li>
+            </ul>
+            <li><a href="universities/saint-louis-university/scholarships">Scholarships at INTO Saint Louis University</a></li>
+            <li><a href="universities/saint-louis-university/studying">Studying at INTO Saint Louis University</a></li>
+            <ul>
+                <li><a href="universities/saint-louis-university/studying/faculty">Faculty at INTO Saint Louis University</a></li>
+                <li><a href="universities/saint-louis-university/studying/student-support">Student support at INTO Saint Louis University</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/suffolk-university">Welcome to INTO Suffolk University</a></li>
+        <ul>
+            <li><a href="universities/suffolk-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/suffolk-university/about-the-university">About Suffolk University</a></li>
+            <ul>
+                <li><a href="universities/suffolk-university/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/suffolk-university/about-the-university/more-about-into-suffolk">More about INTO Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/about-the-university/more-about-the-into-center">About Suffolk University</a></li>
+            </ul>
+            <li><a href="universities/suffolk-university/confirm-your-place">Confirm your place at INTO Suffolk University</a></li>
+            <li><a href="universities/suffolk-university/courses">Courses</a></li>
+            <li><a href="universities/suffolk-university/living-in-boston">Living In Boston</a></li>
+            <li><a href="universities/suffolk-university/programs">Programs at INTO Suffolk University</a></li>
+            <ul>
+                <li><a href="universities/suffolk-university/programs/academic-english">Academic English | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/gradate-pathway-in-applied-politics">Gradate Pathway In Applied Politics</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-accounting">Graduate Pathway In Accounting</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-business-administration">Graduate Pathway in Business Administration (MBA) | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-business-analytics">Graduate Pathway in Business Analytics | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-business-analytics-without-statistics-background">Graduate Pathway In Business Analytics Without Statistics Background</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-communication">Graduate Pathway in Communication | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-finance">Graduate Pathway in Finance | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-finance-without-statistics-background">Graduate Pathway In Finance Without Statistics Background</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-global-public-policy">Graduate Pathway In Global Public Policy</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-law">Graduate Pathway in Law | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-management-studies">Graduate Pathway In Management Studies</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-marketing">Graduate Pathway in Marketing | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/graduate-pathway-in-marketing-without-statistics-background">Graduate Pathway In Marketing Without Statistics Background</a></li>
+                <li><a href="universities/suffolk-university/programs/international-year-one-in-business">International Year One in Business | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/international-year-one-in-computer-science">International Year One in Computer Science | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/international-year-one-in-general">International Year One in General Studies | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/international-year-one-in-science-and-mathematics">International Year One in Science and Mathematics | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/international-year-one-in-visual-arts">International Year One in Visual Arts | Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/programs/undergraduate-transfer-program">Undergraduate Transfer Program</a></li>
+            </ul>
+            <li><a href="universities/suffolk-university/scholarships">Scholarships at INTO Suffolk University</a></li>
+            <li><a href="universities/suffolk-university/studying">Studying at INTO Suffolk University</a></li>
+            <ul>
+                <li><a href="universities/suffolk-university/studying/faculty">Faculty at INTO Suffolk University</a></li>
+                <li><a href="universities/suffolk-university/studying/student-support">Student support at INTO Suffolk University</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/the-university-of-alabama-at-birmingham">Welcome to INTO The University of Alabama at Birmingham</a></li>
+        <ul>
+            <li><a href="universities/the-university-of-alabama-at-birmingham/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/the-university-of-alabama-at-birmingham/about-the-university">About INTO The University of Alabama at Birmingham</a></li>
+            <ul>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/about-the-university/more-about-into-uab">More about INTO UAB</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/about-the-university/more-about-the-into-center">About INTO The University of Alabama at Birmingham</a></li>
+            </ul>
+            <li><a href="universities/the-university-of-alabama-at-birmingham/confirm-your-place">Confirm Your Place at INTO UAB</a></li>
+            <li><a href="universities/the-university-of-alabama-at-birmingham/courses">Courses</a></li>
+            <li><a href="universities/the-university-of-alabama-at-birmingham/living-in-birmingham-and-alabama">Living In Birmingham And Alabama</a></li>
+            <ul>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/living-in-birmingham-and-alabama/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/the-university-of-alabama-at-birmingham/programs">Programs at INTO The University of Alabama at Birmingham</a></li>
+            <ul>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/academic-english">Academic English | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-mba-mph-dual-degree">Graduate Pathway in MBA/MPH Dual Degree | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-data-science-non-background-program">Graduate Pathway Data Science Non Background Program</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-biotechnology">Graduate Pathway in Biotechnology | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-business-administration-mba">Graduate Pathway in Business Administration (MBA) | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-civil-engineering">Graduate Pathway in Civil Engineering | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-computer-and-information-science">Graduate Pathway in Computer Science | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-computer-science-non-background-program">Graduate Pathway In Computer Science Non Background Program</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-cyber-security">Graduate Pathway In Cyber Security</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-cyber-security-non-background-program">Graduate Pathway In Cyber Security Non Background Program</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-data-science">Graduate Pathway in MS Data Science | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-educational-studies">Graduate Pathway In Educational Studies</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-electrical-and-computer-engineering">Graduate Pathway In Electrical And Computer Engineering</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-engineering-management">Graduate Pathway In Engineering Management</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-materials-engineering">Graduate Pathway in Materials Engineering | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-mechanical-engineering">Graduate Pathway in Mechanical Engineering | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-public-administration">Graduate Pathway in Public Administration | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-public-health">Graduate Pathway in Public Health | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-public-health-mph">Graduate Pathway In Public Health Mph</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-in-tesol">Graduate Pathway in Teaching English to Speakers of Other Languages (TESOL) | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/graduate-pathway-multidisciplinary-biomedical-sciences">Graduate Pathway Multidisciplinary Biomedical Sciences</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/international-year-one-in-business">International Year One in Business | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/international-year-one-in-computer-and-information-science">International Year One in Computer Science | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/international-year-one-in-engineering">International Year One in Engineering | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/international-year-one-in-general-studies">International Year One in General Studies | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/international-year-one-in-pre-nursing">International Year One in Pre-Nursing | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/international-year-one-in-public-health">International Year One in Public Health | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/international-year-one-in-science">International Year One in Science | The University of Alabama at Birmingham</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/programs/undergraduate-transfer-program">Undergraduate Transfer Program</a></li>
+            </ul>
+            <li><a href="universities/the-university-of-alabama-at-birmingham/scholarships">Scholarships at INTO UAB</a></li>
+            <li><a href="universities/the-university-of-alabama-at-birmingham/studying">Studying at INTO UAB</a></li>
+            <ul>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/studying/faculty">Faculty at INTO UAB</a></li>
+                <li><a href="universities/the-university-of-alabama-at-birmingham/studying/student-support">Student support at INTO UAB</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/university-of-east-anglia">Welcome to INTO University of East Anglia</a></li>
+        <ul>
+            <li><a href="universities/university-of-east-anglia/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/university-of-east-anglia/about-the-university">About UEA and INTO UEA</a></li>
+            <ul>
+                <li><a href="universities/university-of-east-anglia/about-the-university/campus-life">Campus Life</a></li>
+            </ul>
+            <li><a href="universities/university-of-east-anglia/courses">Courses at INTO University of East Anglia</a></li>
+            <ul>
+                <li><a href="universities/university-of-east-anglia/courses/academic-english">Academic English | University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/international-foundation-in-business-economics-society-and-culture">International Foundation in Business</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/international-foundation-in-engineering-physical-sciences-and-mathematics">International Foundation in Physical Sciences and Engineering | University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/international-foundation-in-humanities-and-law">International Foundation in Humanities and Law | University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/international-foundation-in-mathematics-and-actuarial-sciences">International Foundation in Mathematics and Actuarial Sciences | University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/international-foundation-in-pharmacy-biomedicine-and-health">International Foundation in Pharmacy</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/international-graduate-diploma-in-business-economics-and-social-sciences">International Graduate Diploma In Business Economics And Social Sciences</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/international-year-one-in-business-management-and-economics">International Year One in Business Management and Economics | University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/international-year-one-in-international-development-with-media">International Year One in International Development with Media | University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/international-year-one-in-psychology">International Year One in Psychology | University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/pre-sessional-english">Pre-sessional English | University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/courses/study-abroad-with-english">Study Abroad with English | University of East Anglia</a></li>
+            </ul>
+            <li><a href="universities/university-of-east-anglia/living-in-norwich">Living In Norwich</a></li>
+            <ul>
+                <li><a href="universities/university-of-east-anglia/living-in-norwich/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/university-of-east-anglia/scholarships">Scholarships at INTO University of East Anglia</a></li>
+            <li><a href="universities/university-of-east-anglia/studying">Studying at the University of East Anglia</a></li>
+            <ul>
+                <li><a href="universities/university-of-east-anglia/studying/employability">Study at the University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/studying/student-support">Student support at INTO University of East Anglia</a></li>
+                <li><a href="universities/university-of-east-anglia/studying/teachers">Teachers at INTO University of East Anglia</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/university-of-exeter">Welcome to INTO University of Exeter</a></li>
+        <ul>
+            <li><a href="universities/university-of-exeter/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/university-of-exeter/about-the-university">About INTO University of Exeter</a></li>
+            <ul>
+                <li><a href="universities/university-of-exeter/about-the-university/campus-life">Campus Life</a></li>
+            </ul>
+            <li><a href="universities/university-of-exeter/courses">Courses at INTO University of Exeter</a></li>
+            <ul>
+                <li><a href="universities/university-of-exeter/courses/academic-english">Academic English | University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/general-english">General English at INTO Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/graduate-diploma-in-finance">Graduate Diploma in Finance | University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/graduate-diploma-in-management">Graduate Diploma in Management | University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-foundation-in-accounting-and-finance-and-management">International Foundation in Accounting and Finance</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-foundation-in-biomedical-life-and-environmental-sciences">International Foundation in Biomedical</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-foundation-in-economics-finance-and-management">International Foundation in Economics</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-foundation-in-engineering-mathematics-computer-science-and-physical-sciences">International Foundation in Engineering</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-foundation-in-humanities-law-and-social-science">International Foundation in Humanities</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-foundation-in-mathematics-with-finance-economics-and-management">International Foundation in Mathematics with Economics</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-year-one-in-accounting-and-finance">International Year One in Accounting and Finance | University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-year-one-in-engineering">International Year One in Engineering | University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-year-one-in-management-and-business-economics">International Year One in Management and Business Economics | University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-year-one-in-mathematics-with-accounting-economics-finance-or-management">International Year One in Mathematics with Accounting</a></li>
+                <li><a href="universities/university-of-exeter/courses/international-year-one-in-psychology">International Year One in Psychology | University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/pre-sessional-english">Pre-sessional English | University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/pre-sessional-english-for-graduate-diploma">Pre-sessional English for Graduate Diploma | University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/courses/study-abroad-with-english">Study Abroad with English | University of Exeter</a></li>
+            </ul>
+            <li><a href="universities/university-of-exeter/living-in-exeter">Living In Exeter</a></li>
+            <ul>
+                <li><a href="universities/university-of-exeter/living-in-exeter/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/university-of-exeter/scholarships">INTO University of Exeter scholarships</a></li>
+            <li><a href="universities/university-of-exeter/studying">Study at INTO University of Exeter</a></li>
+            <ul>
+                <li><a href="universities/university-of-exeter/studying/student-support">Student support at INTO University of Exeter</a></li>
+                <li><a href="universities/university-of-exeter/studying/teachers">Teachers at INTO University of Exeter</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/university-of-south-florida">Welcome to INTO University of South Florida</a></li>
+        <ul>
+            <li><a href="universities/university-of-south-florida/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/university-of-south-florida/about-the-university">About INTO University of South Florida</a></li>
+            <ul>
+                <li><a href="universities/university-of-south-florida/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/university-of-south-florida/about-the-university/more-about-into-usf">About our INTO University of South Florida Center</a></li>
+                <li><a href="universities/university-of-south-florida/about-the-university/more-about-the-into-center">About INTO University of South Florida</a></li>
+            </ul>
+            <li><a href="universities/university-of-south-florida/confirm-your-place">Confirm Your Place at INTO USF</a></li>
+            <li><a href="universities/university-of-south-florida/courses">Courses</a></li>
+            <li><a href="universities/university-of-south-florida/living-in-tampa-and-florida">Living In Tampa And Florida</a></li>
+            <ul>
+                <li><a href="universities/university-of-south-florida/living-in-tampa-and-florida/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/university-of-south-florida/programs">Programs at INTO University of South Florida</a></li>
+            <ul>
+                <li><a href="universities/university-of-south-florida/programs/academic-english">Academic English | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-architecture">Graduate Pathway in Architecture | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-biology">Graduate Pathway in Biology | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-biomedical-engineering">Graduate Pathway in Biomedical Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-business-administration-mba">Graduate Pathway in Business Administration (MBA) | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-business-analytics-and-information-systems">Graduate Pathway in Business Analytics and Information Systems | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-chemical-engineering">Graduate Pathway in Chemical Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-civil-and-environmental-engineering">Graduate Pathway in Civil or Environmental Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-computer-science-and-engineering">Graduate Pathway in Computer Science or Computer Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-curriculum-and-instruction">Graduate Pathway In Curriculum And Instruction</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-economics">Graduate Pathway in Economics | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-electrical-engineering">Graduate Pathway in Electrical Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-engineering-management">Graduate Pathway in Engineering Management | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-entrepreneurship-in-applied-technologies">Graduate Pathway in Entrepreneurship in Applied Technologies | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-environmental-science-and-policy">Graduate Pathway in Environmental Science and Policy | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-finance">Graduate Pathway in Finance | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-geography">Graduate Pathway in Geography | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-global-sustainability">Graduate Pathway in Global Sustainability | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-industrial-engineering">Graduate Pathway in Industrial Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-information-technology">Graduate Pathway in Information Technology | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-learning-design-and-technology">Graduate Pathway In Learning Design And Technology</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-management">Graduate Pathway in Management | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-marketing">Graduate Pathway in Marketing | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-mass-communications">Graduate Pathway in Mass Communications | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-materials-science-and-engineering">Graduate Pathway in Materials Science and Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-mathematics">Graduate Pathway in Mathematics | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-mechanical-engineering">Graduate Pathway in Mechanical Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-microbiology">Graduate Pathway in Microbiology | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-music">Graduate Pathway in Music | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-music-composition">Graduate Pathway In Music Composition</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-pharmaceutical-nanotechnology">Graduate Pathway in Pharmaceutical Nanotechnology | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-physics">Graduate Pathway in Physics | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-religious-studies">Graduate Pathway in Religious Studies | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-secondary-education-chemistry">Graduate Pathway In Secondary Education Chemistry</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-secondary-education-mathematics">Graduate Pathway In Secondary Education Mathematics</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-secondary-education-physics">Graduate Pathway In Secondary Education Physics</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-statistics">Graduate Pathway in Statistics | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-studio-art">Graduate Pathway in Studio Art | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-tesol">Graduate Pathway in TESOL | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-urban-and-community-design">Graduate Pathway in Urban and Community Design | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-pathway-in-urban-and-regional-planning">Graduate Pathway in Urban and Regional Planning | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/graduate-study-abroad-with-english-in-business">Graduate Study Abroad with English in Business | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/international-year-one-computer-science-engineering">International Year One in Computer Science/Computer Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/international-year-one-education">International Year One in Education | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/international-year-one-in-architecture">International Year One in Architecture | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/international-year-one-in-business">International Year One in Business | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/international-year-one-in-engineering">International Year One in Engineering | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/international-year-one-in-general">International Year One In General</a></li>
+                <li><a href="universities/university-of-south-florida/programs/international-year-one-in-natural-and-health-sciences">International Year One in Natural and Health Sciences | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/international-year-one-in-visual-and-performing-arts">International Year One in Visual and Performing Arts | University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/programs/undergraduate-study-abroad-with-english">Undergraduate Study Abroad with English | University of South Florida</a></li>
+            </ul>
+            <li><a href="universities/university-of-south-florida/scholarships">Scholarships at INTO University of South Florida</a></li>
+            <li><a href="universities/university-of-south-florida/studying">Studying at INTO University of South Florida</a></li>
+            <ul>
+                <li><a href="universities/university-of-south-florida/studying/faculty">Faculty at INTO University of South Florida</a></li>
+                <li><a href="universities/university-of-south-florida/studying/student-support">Student support INTO University of South Florida</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/university-of-stirling">Welcome to INTO University of Stirling</a></li>
+        <ul>
+            <li><a href="universities/university-of-stirling/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/university-of-stirling/about-the-university">About the University of Stirling</a></li>
+            <ul>
+                <li><a href="universities/university-of-stirling/about-the-university/campus-life">Campus Life</a></li>
+            </ul>
+            <li><a href="universities/university-of-stirling/courses">Courses at INTO University of Stirling</a></li>
+            <ul>
+                <li><a href="universities/university-of-stirling/courses/academic-english">Academic English | University of Stirling</a></li>
+                <li><a href="universities/university-of-stirling/courses/graduate-diploma-in-business-finance-and-sport">Graduate Diploma In Business Finance And Sport</a></li>
+                <li><a href="universities/university-of-stirling/courses/graduate-diploma-in-media-humanities-and-social-sciences">Graduate Diploma In Media Humanities And Social Sciences</a></li>
+                <li><a href="universities/university-of-stirling/courses/graduate-diploma-in-science-computing-and-engineering">Graduate Diploma In Science Computing And Engineering</a></li>
+                <li><a href="universities/university-of-stirling/courses/international-diploma-in-business-finance-marketing-and-humanities">International Diploma In Business Finance Marketing And Humanities</a></li>
+                <li><a href="universities/university-of-stirling/courses/international-foundation-in-business-finance-economics-and-marketing">International Foundation in Business</a></li>
+                <li><a href="universities/university-of-stirling/courses/international-foundation-in-media-humanities-and-social-sciences">International Foundation in Media</a></li>
+                <li><a href="universities/university-of-stirling/courses/international-foundation-in-science-computing-and-engineering">International Foundation in Science</a></li>
+                <li><a href="universities/university-of-stirling/courses/international-foundation-in-science-sport-computing-and-engineering">International Foundation in Science</a></li>
+                <li><a href="universities/university-of-stirling/courses/postgraduate-degree-with-graduate-diploma">Postgraduate Degree With Graduate Diploma</a></li>
+                <li><a href="universities/university-of-stirling/courses/pre-masters">Pre-Master's | University of Stirling</a></li>
+                <li><a href="universities/university-of-stirling/courses/undergraduate-degree-with-international-year-one">Undergraduate Degree With International Year One</a></li>
+                <li><a href="universities/university-of-stirling/courses/undergraduate-degree-with-international-year-two">Undergraduate Degree With International Year Two</a></li>
+            </ul>
+            <li><a href="universities/university-of-stirling/living-in-stirling">Living In Stirling</a></li>
+            <ul>
+                <li><a href="universities/university-of-stirling/living-in-stirling/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/university-of-stirling/progression-to-university">Progression To University</a></li>
+            <ul>
+                <li><a href="universities/university-of-stirling/progression-to-university/placement-support">Placement Support</a></li>
+                <li><a href="universities/university-of-stirling/progression-to-university/your-options">Your Options</a></li>
+            </ul>
+            <li><a href="universities/university-of-stirling/scholarships">Scholarships at INTO Stirling</a></li>
+            <li><a href="universities/university-of-stirling/studying">Studying at INTO Stirling</a></li>
+            <ul>
+                <li><a href="universities/university-of-stirling/studying/student-support">Student support at INTO Stirling</a></li>
+                <li><a href="universities/university-of-stirling/studying/teachers">Teachers at INTO Stirling</a></li>
+            </ul>
+        </ul>
+        <li><a href="universities/washington-state-university">Welcome to INTO Washington State University</a></li>
+        <ul>
+            <li><a href="universities/washington-state-university/about-the-centre">About The Centre</a></li>
+            <li><a href="universities/washington-state-university/about-the-university">About the University at INTO Washington State University</a></li>
+            <ul>
+                <li><a href="universities/washington-state-university/about-the-university/campus-life">Campus Life</a></li>
+                <li><a href="universities/washington-state-university/about-the-university/more-about-into-wsu">More about INTO Washington State University</a></li>
+                <li><a href="universities/washington-state-university/about-the-university/more-about-the-into-center">About the University at INTO Washington State University</a></li>
+            </ul>
+            <li><a href="universities/washington-state-university/confirm-your-place">Confirm Your Place at INTO Washington State University</a></li>
+            <li><a href="universities/washington-state-university/courses">Courses</a></li>
+            <li><a href="universities/washington-state-university/living-in-pullman">Living In Pullman</a></li>
+            <ul>
+                <li><a href="universities/washington-state-university/living-in-pullman/accommodation">Accommodation</a></li>
+            </ul>
+            <li><a href="universities/washington-state-university/programs">Programs at INTO Washington State University</a></li>
+            <ul>
+                <li><a href="universities/washington-state-university/programs/academic-english">Academic English | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-apparel-merchandising-design-and-textiles">Graduate Pathway in Apparel</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-applied-economics">Graduate Pathway in Applied Economics | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-architecture">Graduate Pathway in Architecture | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-chemical-engineering">Graduate Pathway In Chemical Engineering</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-civil-engineering">Graduate Pathway In Civil Engineering</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-computer-science">Graduate Pathway in Computer Science | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-curriculum-and-instruction">Graduate Pathway In Curriculum And Instruction</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-educational-psychology">Graduate Pathway in Educational Psychology | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-electrical-engineering">Graduate Pathway in Electrical Engineering | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-environmental-engineering">Graduate Pathway In Environmental Engineering</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-fine-arts">Graduate Pathway in Fine Arts | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-interior-design">Graduate Pathway in Interior Design | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-language-literacy-technology">Graduate Pathway in Language</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-materials-engineering">Graduate Pathway In Materials Engineering</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-mathematics-computational-finance">Graduate Pathway in Mathematics (Computational Finance) | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-mechanical-engineering">Graduate Pathway in Mechanical Engineering | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-political-science">Graduate Pathway in Political Science | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/graduate-pathway-in-statistics">Graduate Pathway in Statistics | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-agricultural-sciences">International Year One in Agricultural Sciences | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-architecture">International Year One in Architecture | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-business">International Year One in Business | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-computer-science">International Year One in Computer Science | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-engineering">International Year One in Engineering | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-fine-arts">International Year One in Fine Arts | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-general">International Year One In General</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-journalism-communication">International Year One in Journalism/Communication | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-mathematics">International Year One in Mathematics | Washington State University</a></li>
+                <li><a href="universities/washington-state-university/programs/international-year-one-in-science">International Year One in Science | Washington State University</a></li>
+            </ul>
+            <li><a href="universities/washington-state-university/scholarships">Scholarships at INTO Washington State University</a></li>
+            <li><a href="universities/washington-state-university/studying">Studying at INTO Washington State University</a></li>
+            <ul>
+                <li><a href="universities/washington-state-university/studying/faculty">INTO Study > Universities > Washington State University > Studying > Faculty</a></li>
+                <li><a href="universities/washington-state-university/studying/student-support">INTO Study > Universities > Washington State University > Studying > Student Support</a></li>
+            </ul>
+        </ul>
+    </ul>
+</ul>
+
+            </div>
+        </section>
+    </div>
+</div>
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/about-into">About INTO</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/study-abroad">Study abroad</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/study-programs">Study programs</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/universities">Universities</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/apply">Apply</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                Students - if you&#x2019;re using an Education Counselor please contact them with any questions; all other students contact us using one of the below methods
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">UK student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">US student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-7 col-lg-6">
+                    <span class="footer-contact-header">China student applications:</span>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:cnadmissions@intoglobal.com" class="email-link">cnadmissions@intoglobal.com</a>
+                    </div>
+                </div>
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/en-gb/legal-and-privacy-policy">Privacy</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/terms">Terms</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/into-sitemap">Sitemap</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/legal-and-privacy-policy/cookies-policy">Cookies Policy</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/governance">Governance</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

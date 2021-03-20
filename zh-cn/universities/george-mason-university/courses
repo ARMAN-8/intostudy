@@ -1,0 +1,3636 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+    
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>乔治梅森大学课程 | INTO</title>
+        <meta name="description" content="INTO乔治梅森大学有55个衔接课程可供选择&#x3002;提高你英语语言技能的同时&#xFF0C;还可获得学位学分&#x3002;" />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/zh-cn/universities/george-mason-university/courses" />
+        <meta property="og:title" content="乔治梅森大学课程 | INTO" />
+        <meta property="og:description" content="INTO乔治梅森大学有55个衔接课程可供选择&#x3002;提高你英语语言技能的同时&#xFF0C;还可获得学位学分&#x3002;" />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/zh-cn.min.css?v=mKhwKuBxdBfb3HqWtRhGe3AGOTadDxzxeI5R0VxNUTo" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/zh-cn/universities/george-mason-university/courses" />
+
+
+    <!-- BrowserTestData: Courses, zh-cn. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/universities/george-mason-university/courses"><span class="l-language-block-text  ">English</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">中文<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/en/universities/george-mason-university/courses">English</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="站内搜索...">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/zh-cn'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/zh-cn'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/success-with-into">
+                                                                                <span>成功学生案例</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/faq">
+                                                                                <span>常见问题</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/uk">
+                                                                                <span>留学英国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/us">
+                                                                                <span>留学美国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/parents-guide">
+                                                                                <span>家长指南</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/fees">
+                                                                                <span>费用细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/admissions/scholarships">
+                                                                                <span>奖学金细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/visas-and-pre-arrival-support-services">
+                                                                                <span>行前指南及签证服务</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/success-with-into">成功学生案例<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/faq">常见问题<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/uk">留学英国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/us">留学美国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/parents-guide">家长指南<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/fees">费用细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/admissions/scholarships">奖学金细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/visas-and-pre-arrival-support-services">行前指南及签证服务<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="站内搜索...">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/zh-cn" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities" class="breadcrumb-item">选择大学</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities/george-mason-university" class="breadcrumb-item">美国乔治梅森大学</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities/george-mason-university/courses" class="breadcrumb-item">课程选择</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            
+
+<!-- Powered by Contentful -->
+<div class="course-listing">
+    <div class="canvas" style="min-height: calc(100vh - 380px);">
+        <div class="headerPane">
+            <div>
+    <style>
+    .uni-colour-primary {
+      background-color: #006633;
+    }
+
+    .uni-text-colour {
+      color: #ffffff;
+    }
+
+    .uni-colour-secondary {
+      background-color: #FFCC33;
+    }
+
+    @media (min-width: 835px) {
+      .l-explore-nav .nav-item .accordian {
+        background-color: #FFCC33;
+      }
+      .l-explore-nav .nav-item .l-subnav .nav-item {
+        background-color: #FFCC33;
+      }
+    }
+    </style>
+
+    <header id="uni-header" class="uni-colour-primary header">
+        <div class="l-content-container header-container">
+            <a href="/zh-cn/universities/george-mason-university">
+                <img id="uni-header-logo" src=https://ctfimages.intoglobal.com/xw2h6mjophtz/7kN0kcwLVCCkcY4QkcUsEg/98bf9062d747b40edcd3adbe1e4cd89a/GMU_PLogo_Rev_17.svg alt="美国乔治梅森大学">
+            </a>
+            <div id="uni-menu-bar" class="l-menu-bar">
+                <a id="explore-button" class="l-header-bar-button l-header-bar-button-right l-header-bar-button-margin" href="">
+                    <span class="css-icon icon-arrow-up-down">Explore<i></i></span>
+                </a>
+            </div>
+            <nav id="explore-nav" class="l-explore-nav uni-colour-primary uni-colour-primary-border no-scrollbar">
+                <ul>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/george-mason-university/about-the-university" class="nav-item-content ">
+                                <span class="l-nav-button">大学简介</span>
+                            </a>
+                            <a href="/zh-cn/universities/george-mason-university/about-the-university" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/george-mason-university/studying/student-support" class="nav-item-content ">
+                                <span class="l-nav-button">学生服务</span>
+                            </a>
+                            <a href="/zh-cn/universities/george-mason-university/studying/student-support" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/george-mason-university/programs" class="nav-item-content ">
+                                <span class="l-nav-button">课程选择</span>
+                            </a>
+                            <a href="/zh-cn/universities/george-mason-university/programs" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/george-mason-university/living-in-fairfax-and-virginia/accommodation" class="nav-item-content ">
+                                <span class="l-nav-button">学生住宿</span>
+                            </a>
+                            <a href="/zh-cn/universities/george-mason-university/living-in-fairfax-and-virginia/accommodation" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="https://apply.intostudy.com/to/university/george-mason-university" class="nav-item-content ">
+                                <span class="l-nav-button">申请留学</span>
+                            </a>
+                            <a href="https://apply.intostudy.com/to/university/george-mason-university" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</div>
+
+        </div>
+        <div class="contentPane">
+            <section class="l-page-block l-text-block">
+                <div class="l-content-container">
+                    <h1>美国乔治梅森大学课程选择</h1>
+                    <div>
+                        <p>除了直升入学，乔治梅森大学还为尚未达到所选学位课程学术和英语语言要求的学生提供了多种入学途径。</p>
+<p>国际大一课程和本科转学课程允许学生能够开始积累学士学位学分，同时在第一年就能获得额外学术、社会和文化支持。</p>
+<p>研究生衔接课程或研究生桥梁课程可帮助学生提高在梅森大学高阶研究生阶段的学习和学术研究所需技能。INTO梅森大学设有独特的二学期制衔接课程，允许具有选定三年制本科学位的学生在完成核心教育要求的同时开始攻读硕士课程。</p>
+
+                        <a href="https://apply.intostudy.com/to/university/george-mason-university" title="Apply" class="l-cta cta">开始申请</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Check for no sub items -->
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id=""></a>
+
+                        <h2>大学直入</h2>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+<div class="accordion-part" name="keyFactsDEAccordion" university-id="b6bea4b7-9a2f-41f9-bac5-34023e22a051" full-course-definition-slug="direct-entry" controller-action="get-de-key-course-facts" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+            <a href="#direct-entry">
+                <span class="tab-title-normal">大学直入</span>
+                <span class="tab-title-mobile">大学直入</span>
+            </a>
+    </h3>
+    <div id="direct-entry" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+
+
+                <br />
+                <div class="row">
+                    <div class="col-md-7">
+                        <section class="l-page-block l-text-block">
+                            <div class="l-content-container">
+                                <div id="gradTabContainer" class="grad-tab-container d-flex mb-3" universityId="b6bea4b7-9a2f-41f9-bac5-34023e22a051">
+    <div class="graduate-container d-flex w-50 justify-content-center align-items-center active" data-type="Undergraduate">
+        <span>Undergraduate</span>
+    </div>
+    <div class="graduate-container d-flex w-50 justify-content-center align-items-center " data-type="Postgraduate">
+        <span>Graduate</span>
+    </div>
+</div>
+                                <div id="keyFactsDETable"></div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12">
+                        <a href="/en/universities/george-mason-university/programs/direct-entry-degree" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                            查看英文版课程信息
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id="into-online-english-for-academic-success"></a>
+
+                        <h2>INTO Online English for Academic Success</h2>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI1p000000PE6XGAW" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#into-english-for-academic-success">
+            <span class="tab-title-normal">INTO在线学术语言课程</span>
+            <span class="tab-title-mobile">INTO在线学术语言课程</span>
+        </a>
+    </h3>
+    <div id="into-english-for-academic-success" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI1p000000PE6XGAW_loading" class="col-md-7"></div>
+                                    <div id="aCI1p000000PE6XGAW_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/into-english-for-academic-success" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI1p000000PE6XGAW" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id=""></a>
+
+                        <h2>国际大学一年级课程</h2>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadVWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-engineering-computing-and-statistics">
+            <span class="tab-title-normal">国际大一课程工程&#x3001;计算和统计学方向&#xFF08;International Year One in Engineering, Computing and Statistics&#xFF09;</span>
+            <span class="tab-title-mobile">国际大一课程工程&#x3001;计算和统计学方向&#xFF08;International Year One in Engineering, Computing and Statistics&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="international-year-one-engineering-computing-and-statistics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadVWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadVWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/international-year-one-engineering-computing-and-statistics" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadVWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadYWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-science">
+            <span class="tab-title-normal">国际大一课程科学方向&#xFF08;International Year One in Science&#xFF09;</span>
+            <span class="tab-title-mobile">国际大一课程科学方向&#xFF08;International Year One in Science&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-science" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadYWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadYWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/international-year-one-in-science" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadYWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadWWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-human-and-social-development">
+            <span class="tab-title-normal">国际大一课程人类与社会发展方向&#xFF08;International Year One in Human and Social Development&#xFF09;</span>
+            <span class="tab-title-mobile">国际大一课程人类与社会发展方向&#xFF08;International Year One in Human and Social Development&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-human-and-social-development" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadWWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadWWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/international-year-one-in-human-and-social-development" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadWWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadUWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-humanities-and-social-sciences">
+            <span class="tab-title-normal">国际大一课程人文学科与社会科学方向&#xFF08;International Year One in Humanities and Social Sciences&#xFF09;</span>
+            <span class="tab-title-mobile">国际大一课程人文学科与社会科学方向&#xFF08;International Year One in Humanities and Social Sciences&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-humanities-and-social-sciences" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadUWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadUWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/international-year-one-in-humanities-and-social-sciences" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadUWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CalBWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-business">
+            <span class="tab-title-normal">国际大一课程商务方向&#xFF08;International Year One in Business&#xFF09;</span>
+            <span class="tab-title-mobile">国际大一课程商务方向&#xFF08;International Year One in Business&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-business" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CalBWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CalBWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/international-year-one-in-business" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CalBWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id=""></a>
+
+                        <h2>转学课程</h2>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadZWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#undergraduate-transfer-program-george-mason-university">
+            <span class="tab-title-normal">本科转学课程&#xFF08;Undergraduate Transfer Program&#xFF09;</span>
+            <span class="tab-title-mobile">本科转学课程&#xFF08;Undergraduate Transfer Program&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="undergraduate-transfer-program-george-mason-university" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadZWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadZWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/undergraduate-transfer-program-george-mason-university" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadZWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id=""></a>
+
+                        <h2>研究生衔接课程</h2>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacwWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-conflict-analysis-and-resolution">
+            <span class="tab-title-normal">研究生衔接课程冲突分析与解决方法方向&#xFF08;Graduate Pathway in Conflict Analysis and Resolution&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程冲突分析与解决方法方向&#xFF08;Graduate Pathway in Conflict Analysis and Resolution&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-conflict-analysis-and-resolution" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacwWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacwWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-conflict-analysis-and-resolution" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacwWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cad5WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-geographic-and-cartographic-sciences">
+            <span class="tab-title-normal">研究生衔接课程地理与制图学方向&#xFF08;Graduate Pathway in Geographic and Cartographic Sciences&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程地理与制图学方向&#xFF08;Graduate Pathway in Geographic and Cartographic Sciences&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-geographic-and-cartographic-sciences" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cad5WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cad5WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-geographic-and-cartographic-sciences" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000Cad5WAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaczWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-earth-systems-science">
+            <span class="tab-title-normal">研究生衔接课程地球系统科学方向&#xFF08;Graduate Pathway in Earth Systems Science&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程地球系统科学方向&#xFF08;Graduate Pathway in Earth Systems Science&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-earth-systems-science" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaczWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaczWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-earth-systems-science" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CaczWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cad1WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-electrical-engineering">
+            <span class="tab-title-normal">研究生衔接课程电气工程工程方向&#xFF08;Graduate Pathway in Electrical Engineering&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程电气工程工程方向&#xFF08;Graduate Pathway in Electrical Engineering&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-electrical-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cad1WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cad1WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-electrical-engineering" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000Cad1WAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadTWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-telecommunications">
+            <span class="tab-title-normal">研究生衔接课程电信方向&#xFF08;Graduate Pathway in Telecommunications&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程电信方向&#xFF08;Graduate Pathway in Telecommunications&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-telecommunications" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadTWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadTWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-telecommunications" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadTWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cad4WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-forensic-science">
+            <span class="tab-title-normal">研究生衔接课程法医学方向&#xFF08;Graduate Pathway in Forensic Science&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程法医学方向&#xFF08;Graduate Pathway in Forensic Science&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-forensic-science" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cad4WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cad4WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-forensic-science" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000Cad4WAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadMWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-real-estate-development">
+            <span class="tab-title-normal">研究生衔接课程房地产开发方向&#xFF08;Graduate Pathway in Real Estate Development&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程房地产开发方向&#xFF08;Graduate Pathway in Real Estate Development&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-real-estate-development" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadMWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadMWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-real-estate-development" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadMWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacqWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-business-administration-mba">
+            <span class="tab-title-normal">研究生衔接课程工商管理方向&#xFF08;Graduate Pathway in Business Administration (MBA)&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程工商管理方向&#xFF08;Graduate Pathway in Business Administration (MBA)&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-business-administration-mba" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacqWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacqWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-business-administration-mba" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacqWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadLWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-public-policy">
+            <span class="tab-title-normal">研究生衔接课程公共政策方向&#xFF08;Graduate Pathway in Public Policy&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程公共政策方向&#xFF08;Graduate Pathway in Public Policy&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-public-policy" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadLWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadLWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-public-policy" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadLWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadFWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-management">
+            <span class="tab-title-normal">研究生衔接课程管理方向&#xFF08;Graduate Pathway in Management&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程管理方向&#xFF08;Graduate Pathway in Management&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-management" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadFWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadFWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-management" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadFWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadEWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-international-commerce-and-policy">
+            <span class="tab-title-normal">研究生衔接课程国际贸易与政策方向&#xFF08;Graduate Pathway in International Commerce and Policy&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程国际贸易与政策方向&#xFF08;Graduate Pathway in International Commerce and Policy&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-international-commerce-and-policy" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadEWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadEWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-international-commerce-and-policy" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadEWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cad3WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-environmental-science-and-policy">
+            <span class="tab-title-normal">研究生衔接课程环境科学与政策方向&#xFF08;Graduate Pathway in Environmental Science and Policy&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程环境科学与政策方向&#xFF08;Graduate Pathway in Environmental Science and Policy&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-environmental-science-and-policy" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cad3WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cad3WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-environmental-science-and-policy" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000Cad3WAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaciWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-accounting">
+            <span class="tab-title-normal">研究生衔接课程会计学方向&#xFF08;Graduate Pathway in Accounting&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程会计学方向&#xFF08;Graduate Pathway in Accounting&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-accounting" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaciWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaciWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-accounting" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CaciWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CactWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-computer-engineering">
+            <span class="tab-title-normal">研究生衔接课程计算机工程方向&#xFF08;Graduate Pathway in Computer Engineering&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程计算机工程方向&#xFF08;Graduate Pathway in Computer Engineering&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-computer-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CactWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CactWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-computer-engineering" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CactWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacvWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-computer-science">
+            <span class="tab-title-normal">研究生衔接课程计算机科学方向&#xFF08;Graduate Pathway in Computer Science&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程计算机科学方向&#xFF08;Graduate Pathway in Computer Science&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-computer-science" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacvWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacvWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-computer-science" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacvWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacsWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-computational-science">
+            <span class="tab-title-normal">研究生衔接课程计算科学方向&#xFF08;Graduate Pathway in Computational Science&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程计算科学方向&#xFF08;Graduate Pathway in Computational Science&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-computational-science" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacsWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacsWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-computational-science" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacsWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadAWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-health-informatics">
+            <span class="tab-title-normal">研究生衔接课程健康信息学方向&#xFF08;Graduate Pathway in Health Informatics&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程健康信息学方向&#xFF08;Graduate Pathway in Health Informatics&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-health-informatics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadAWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadAWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-health-informatics" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadAWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cad0WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-educational-psychology">
+            <span class="tab-title-normal">研究生衔接课程教育心理学方向&#xFF08;Graduate Pathway in Educational Psychology&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程教育心理学方向&#xFF08;Graduate Pathway in Educational Psychology&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-educational-psychology" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cad0WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cad0WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-educational-psychology" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000Cad0WAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI1p000000bo7nGAA" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-economics">
+            <span class="tab-title-normal">研究生衔接课程经济学方向&#xFF08;Graduate Pathway in Economics&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程经济学方向&#xFF08;Graduate Pathway in Economics&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-economics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI1p000000bo7nGAA_loading" class="col-md-7"></div>
+                                    <div id="aCI1p000000bo7nGAA_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-economics" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI1p000000bo7nGAA" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacxWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-curriculum-and-instruction">
+            <span class="tab-title-normal">研究生衔接课程课程和教学&#xFF08;幼儿和基础教育&#xFF09;方向&#xFF08;Graduate Pathway in Curriculum and Instruction (Early Childhood and Elementary Education)&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程课程和教学&#xFF08;幼儿和基础教育&#xFF09;方向&#xFF08;Graduate Pathway in Curriculum and Instruction (Early Childhood and Elementary Education)&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-curriculum-and-instruction" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacxWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacxWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-curriculum-and-instruction" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacxWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cad8WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-global-health">
+            <span class="tab-title-normal">研究生衔接课程全球健康方向&#xFF08;Graduate Pathway in Global Health&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程全球健康方向&#xFF08;Graduate Pathway in Global Health&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-global-health" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cad8WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cad8WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-global-health" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000Cad8WAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cad7WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-global-affairs">
+            <span class="tab-title-normal">研究生衔接课程全球事务方向&#xFF08;Graduate Pathway in Global Affairs&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程全球事务方向&#xFF08;Graduate Pathway in Global Affairs&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-global-affairs" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cad7WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cad7WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-global-affairs" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000Cad7WAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadOWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-software-engineering">
+            <span class="tab-title-normal">研究生衔接课程软件工程方向&#xFF08;Graduate Pathway in Software Engineering&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程软件工程方向&#xFF08;Graduate Pathway in Software Engineering&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-software-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadOWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadOWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-software-engineering" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadOWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadNWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-social-work">
+            <span class="tab-title-normal">研究生衔接课程社会工作学方向&#xFF08;Graduate Pathway in Social Work&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程社会工作学方向&#xFF08;Graduate Pathway in Social Work&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-social-work" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadNWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadNWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-social-work" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadNWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacpWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-biostatistics">
+            <span class="tab-title-normal">研究生衔接课程生物统计学方向&#xFF08;Graduate Pathway in Biostatistics&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程生物统计学方向&#xFF08;Graduate Pathway in Biostatistics&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-biostatistics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacpWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacpWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-biostatistics" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacpWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacoWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-bioinformatics-management">
+            <span class="tab-title-normal">研究生衔接课程生物信息学管理方向&#xFF08;Graduate Pathway in Bioinformatics Management&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程生物信息学管理方向&#xFF08;Graduate Pathway in Bioinformatics Management&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-bioinformatics-management" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacoWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacoWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-bioinformatics-management" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacoWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacnWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-bioinformatics-and-computational-biology">
+            <span class="tab-title-normal">研究生衔接课程生物信息学与计算生物学&#xFF08;Graduate Pathway in Bioinformatics and Computational Biology&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程生物信息学与计算生物学&#xFF08;Graduate Pathway in Bioinformatics and Computational Biology&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-bioinformatics-and-computational-biology" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacnWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacnWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-bioinformatics-and-computational-biology" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacnWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacyWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-data-analytics">
+            <span class="tab-title-normal">研究生衔接课程数据分析工程方向&#xFF08;Graduate Pathway in Data Analytics Engineering&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程数据分析工程方向&#xFF08;Graduate Pathway in Data Analytics Engineering&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-data-analytics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacyWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacyWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-data-analytics" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacyWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadGWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-mathematics">
+            <span class="tab-title-normal">研究生衔接课程数学方向&#xFF08;Graduate Pathway in Mathematics&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程数学方向&#xFF08;Graduate Pathway in Mathematics&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-mathematics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadGWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadGWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-mathematics" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadGWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacuWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-digital-forensics-and-cyber-analysis">
+            <span class="tab-title-normal">研究生衔接课程数字取证和网络分析方向&#xFF08;Graduate Pathway in Digital Forensics and Cyber Analysis&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程数字取证和网络分析方向&#xFF08;Graduate Pathway in Digital Forensics and Cyber Analysis&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-digital-forensics-and-cyber-analysis" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacuWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacuWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-digital-forensics-and-cyber-analysis" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacuWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadPWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-special-education">
+            <span class="tab-title-normal">研究生衔接课程特殊教育方向&#xFF08;Graduate Pathway in Special Education&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程特殊教育方向&#xFF08;Graduate Pathway in Special Education&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-special-education" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadPWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadPWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-special-education" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadPWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI1p000000kAK4GAM" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-special-education-early-childhood-education">
+            <span class="tab-title-normal">研究生衔接课程特殊教育方向&#xFF08;幼儿教育&#xFF09;&#xFF08;Graduate Pathway in Special Education (Early Childhood Education)&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程特殊教育方向&#xFF08;幼儿教育&#xFF09;&#xFF08;Graduate Pathway in Special Education (Early Childhood Education)&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-special-education-early-childhood-education" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI1p000000kAK4GAM_loading" class="col-md-7"></div>
+                                    <div id="aCI1p000000kAK4GAM_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-special-education-early-childhood-education" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI1p000000kAK4GAM" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadQWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-sport-and-recreation-studies">
+            <span class="tab-title-normal">研究生衔接课程体育与康乐学方向&#xFF08;Graduate Pathway in Sport and Recreation Studies&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程体育与康乐学方向&#xFF08;Graduate Pathway in Sport and Recreation Studies&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-sport-and-recreation-studies" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadQWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadQWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-sport-and-recreation-studies" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadQWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadRWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-statistical-science">
+            <span class="tab-title-normal">研究生衔接课程统计科学方向&#xFF08;Graduate Pathway in Statistical Science&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程统计科学方向&#xFF08;Graduate Pathway in Statistical Science&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-statistical-science" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadRWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadRWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-statistical-science" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadRWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacrWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-civil-and-infrastructure-engineering">
+            <span class="tab-title-normal">研究生衔接课程土木与基础设施工程方向&#xFF08;Graduate Pathway in Civil and Infrastructure Engineering&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程土木与基础设施工程方向&#xFF08;Graduate Pathway in Civil and Infrastructure Engineering&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-civil-and-infrastructure-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacrWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacrWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-civil-and-infrastructure-engineering" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacrWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadBWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-health-systems-management">
+            <span class="tab-title-normal">研究生衔接课程卫生系统管理方向&#xFF08;Graduate Pathway in Health Systems Management&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程卫生系统管理方向&#xFF08;Graduate Pathway in Health Systems Management&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-health-systems-management" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadBWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadBWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-health-systems-management" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadBWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadSWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-systems-engineering">
+            <span class="tab-title-normal">研究生衔接课程系统工程方向&#xFF08;Graduate Pathway in Systems Engineering&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程系统工程方向&#xFF08;Graduate Pathway in Systems Engineering&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-systems-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadSWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadSWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-systems-engineering" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadSWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadKWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-psychology">
+            <span class="tab-title-normal">研究生衔接课程心理学方向&#xFF08;Graduate Pathway in Psychology&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程心理学方向&#xFF08;Graduate Pathway in Psychology&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-psychology" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadKWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadKWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-psychology" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadKWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadCWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-information-security-and-assurance">
+            <span class="tab-title-normal">研究生衔接课程信息安全与保障方向&#xFF08;Graduate Pathway in Information Security and Assurance&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程信息安全与保障方向&#xFF08;Graduate Pathway in Information Security and Assurance&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-information-security-and-assurance" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadCWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadCWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-information-security-and-assurance" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadCWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadDWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-information-systems">
+            <span class="tab-title-normal">研究生衔接课程信息系统方向&#xFF08;Graduate Pathway in Information Systems&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程信息系统方向&#xFF08;Graduate Pathway in Information Systems&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-information-systems" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadDWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadDWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-information-systems" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadDWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaclWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-arts-management">
+            <span class="tab-title-normal">研究生衔接课程艺术管理&#xFF08;Graduate Pathway in Arts Management&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程艺术管理&#xFF08;Graduate Pathway in Arts Management&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-arts-management" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaclWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaclWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-arts-management" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CaclWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadHWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-music">
+            <span class="tab-title-normal">研究生衔接课程音乐方向&#xFF08;Graduate Pathway in Music&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程音乐方向&#xFF08;Graduate Pathway in Music&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-music" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadHWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadHWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-music" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadHWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cad2WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-english-linguistics">
+            <span class="tab-title-normal">研究生衔接课程英语&#x2014;&#x2014;语言学方向&#xFF08;Graduate Pathway in English - Linguistics&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程英语&#x2014;&#x2014;语言学方向&#xFF08;Graduate Pathway in English - Linguistics&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-english-linguistics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cad2WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cad2WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-english-linguistics" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000Cad2WAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadIWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-nutrition">
+            <span class="tab-title-normal">研究生衔接课程营养学方向&#xFF08;Graduate Pathway in Nutrition&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程营养学方向&#xFF08;Graduate Pathway in Nutrition&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-nutrition" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadIWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadIWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-nutrition" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadIWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CackWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-applied-information-technology">
+            <span class="tab-title-normal">研究生衔接课程应用信息技术方向&#xFF08;Graduate Pathway in Applied Information Technology&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程应用信息技术方向&#xFF08;Graduate Pathway in Applied Information Technology&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-applied-information-technology" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CackWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CackWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-applied-information-technology" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CackWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacjWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-applied-and-engineering-physics">
+            <span class="tab-title-normal">研究生衔接课程应用与工程物理方向&#xFF08;Graduate Pathway in Applied and Engineering Physics&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程应用与工程物理方向&#xFF08;Graduate Pathway in Applied and Engineering Physics&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-applied-and-engineering-physics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacjWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacjWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-applied-and-engineering-physics" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacjWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CadJWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-operations-research">
+            <span class="tab-title-normal">研究生衔接课程运筹学方向&#xFF08;Graduate Pathway in Operations Research&#xFF09;</span>
+            <span class="tab-title-mobile">研究生衔接课程运筹学方向&#xFF08;Graduate Pathway in Operations Research&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-operations-research" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CadJWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CadJWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>没有达到英语入学要求？请查看本页面的大学阶段英语语言课程信息，该课程专为提高你的学术英语水平而设计。</p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/graduate-pathway-in-operations-research" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CadJWAS" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id="academic-english"></a>
+                            <a class="anchor" id="english-language-courses"></a>
+
+                        <h2>英语语言课程</h2>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CacgWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="正在获取课程关键信息">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#academic-english">
+            <span class="tab-title-normal">学术英语课程&#xFF08;Academic English&#xFF09;</span>
+            <span class="tab-title-mobile">学术英语课程&#xFF08;Academic English&#xFF09;</span>
+        </a>
+    </h3>
+    <div id="academic-english" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CacgWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CacgWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/george-mason-university/programs/academic-english" class="l-cta cta cn-hidden-cta" title="查看英文版课程信息">
+                                查看英文版课程信息
+                            </a>
+                        </div>
+                            <div class="col-12 apply-link">
+                                <a href="https://apply.intostudy.com/cn/to/course/aCI3A000000CacgWAC" class="l-cta cta cn-hidden-cta" title="开始申请">
+                                    开始申请
+                                </a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+            <section class="l-page-block l-text-block">
+                <div class="l-content-container">
+                    <a class="l-cta cta" title="Contact us" href="https://go.intostudy.com/zh-cn/enquiry">联系我们</a>
+                </div>
+            </section>
+
+            <div class="clearfix highlighter-container inline-cta uni-colour-primary">
+                <div class="l-highlight-container">
+                    <div class="text-container">
+                        <span style="color:#ffffff">了解更多信息&#xFF0C;请联系你的留学申请顾问</span>
+                    </div>
+                    <div class="cta-container">
+                        <a href="https://go.intostudy.com/zh-cn/enquiry" onmouseover="this.style.background = '#007679'" onmouseout="this.style.background = '#00aaad'" class="l-cta cta"
+                           style="background: rgb(0, 170, 173);">
+                            <span id="text">联系我们</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                            <a href="http://www.weibo.com/intohigher/" target="_blank" class="footer-social-link social-link-weibo"><img src="/images/footer/icon_weibo.svg" /></a>
+                            <a href="http://i.youku.com/u/UMjYwODYzNTY4" target="_blank" class="footer-social-link social-link-youku"><img src="/images/footer/icon_reverse_youku.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/about-into">关于我们</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-abroad">选择国家</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-programs">查询课程</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/universities">选择大学</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/apply">申请留学</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                学生&#x2014;&#x2014;如果你已签约教育顾问&#xFF0C;请直接联系他们以解答疑问&#xFF1B;未使用代理的学生请通过以下任何方式与我们取得联系
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">英国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">美国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy">法律和隐私</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/terms">使用条款</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/into-sitemap">网站地图</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy/cookies-policy">浏览器缓存政策</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/governance">治理</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

@@ -1,0 +1,1000 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/universities/nankai-university/courses/ma-international-affairs-and-public-policy" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/universities/nankai-university/courses/ma-international-affairs-and-public-policy" hreflang="en" />
+    <link rel="alternate" href="https://www.intostudy.com/en/universities/nankai-university/courses/ma-international-affairs-and-public-policy" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/en/universities/nankai-university/courses/ma-international-affairs-and-public-policy -->
+    <!-- Encoded URL is https://www.intostudy.com/en/universities/nankai-university/courses/ma-international-affairs-and-public-policy -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/en-gb.min.css?v=2-LzaxUI3fHNakVYIXEzBWYXF1AnJPVqPggoRav_PKw" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/en/universities/nankai-university/courses/ma-international-affairs-and-public-policy" />
+
+
+    <!-- BrowserTestData: Course, en. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/universities/nankai-university/courses/ma-international-affairs-and-public-policy"><span class="l-language-block-text   is-current">English</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">English<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/en/universities/nankai-university/courses/ma-international-affairs-and-public-policy">English</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="Search for a subject or program">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/en'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/en'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en/about-into">About INTO</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en/success-with-into">
+                                                                                <span>Success with INTO</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/blog">
+                                                                                <span>Blog</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/faq">
+                                                                                <span>FAQ</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/friend">
+                                                                                <span>Recommend a Friend</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-abroad">Study abroad</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/country-guides/uk">
+                                                                                <span>UK</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/country-guides/us">
+                                                                                <span>US</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/country-guides/china">
+                                                                                <span>China</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/parents-guide">
+                                                                                <span>Parents guide</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/admissions">Admissions</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en/fees">
+                                                                                <span>Fees</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/admissions/scholarships">
+                                                                                <span>Scholarships</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/help/visas-and-pre-arrival-support-services">
+                                                                                <span>Visa and pre-arrival support services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/admissions/meet-the-team">
+                                                                                <span>Enrolment Services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/apply">Apply</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en/about-into">About INTO</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en/success-with-into">Success with INTO<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/blog">Blog<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/faq">FAQ<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/friend">Recommend a Friend<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-abroad">Study abroad</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en/study-abroad/country-guides/uk">UK<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/country-guides/us">US<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/country-guides/china">China<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/parents-guide">Parents guide<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/admissions">Admissions</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en/fees">Fees<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/admissions/scholarships">Scholarships<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/help/visas-and-pre-arrival-support-services">Visa and pre-arrival support services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/admissions/meet-the-team">Enrolment Services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/apply">Apply</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="Search for a subject or program">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/en" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en/universities" class="breadcrumb-item">Universities</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en/universities/nankai-university" class="breadcrumb-item">Nankai University</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en/universities/nankai-university/courses" class="breadcrumb-item">Courses</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en/universities/nankai-university/courses/ma-international-affairs-and-public-policy" class="breadcrumb-item">Ma International Affairs And Public Policy</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            <div class="canvas" style="min-height: calc(100vh - 340px);">
+    <div class="headerPane">
+        <div>
+    <style>
+    .uni-colour-primary {
+      background-color: #4B6BA8;
+    }
+
+    .uni-text-colour {
+      color: #ffffff;
+    }
+
+    .uni-colour-secondary {
+      background-color: #87005C;
+    }
+
+    @media (min-width: 835px) {
+      .l-explore-nav .nav-item .accordian {
+        background-color: #87005C;
+      }
+      .l-explore-nav .nav-item .l-subnav .nav-item {
+        background-color: #87005C;
+      }
+    }
+    </style>
+
+    <header id="uni-header" class="uni-colour-primary header">
+        <div class="l-content-container header-container">
+            <a href="/en/universities/nankai-university">
+                <img id="uni-header-logo" src=https://ctfimages.intoglobal.com/xw2h6mjophtz/1xACiCbmHaEesQiauKICgA/bc59817974de185a374a89c10516f148/NANKAI_LOGO_White.svg alt="Nankai University">
+            </a>
+            <div id="uni-menu-bar" class="l-menu-bar">
+                <a id="explore-button" class="l-header-bar-button l-header-bar-button-right l-header-bar-button-margin" href="">
+                    <span class="css-icon icon-arrow-up-down">Explore<i></i></span>
+                </a>
+            </div>
+            <nav id="explore-nav" class="l-explore-nav uni-colour-primary uni-colour-primary-border no-scrollbar">
+                <ul>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en/universities/nankai-university/about-the-university" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">About the University</span>
+                            </a>
+                            <a href="/en/universities/nankai-university/about-the-university" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/en/universities/nankai-university/about-the-university/more-about-the-university" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">More about the University</span>
+                                                        <span class="l-nav-button mobile-only">More about the University</span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/en/universities/nankai-university/about-the-university/campus-life" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Campus Life</span>
+                                                        <span class="l-nav-button mobile-only">Campus Life</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en/universities/nankai-university/courses" class="nav-item-content ">
+                                <span class="l-nav-button">Courses</span>
+                            </a>
+                            <a href="/en/universities/nankai-university/courses" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en/universities/nankai-university/studying" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">Studying</span>
+                            </a>
+                            <a href="/en/universities/nankai-university/studying" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/en/universities/nankai-university/studying/teachers" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Teachers</span>
+                                                        <span class="l-nav-button mobile-only">Teachers</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en/universities/nankai-university/living" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">Living</span>
+                            </a>
+                            <a href="/en/universities/nankai-university/living" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/en/universities/nankai-university/living-in-london/accommodation" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Accommodation</span>
+                                                        <span class="l-nav-button mobile-only">Accommodation</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="http://unbouncepages.com/enquiry-987387" class="nav-item-content ">
+                                <span class="l-nav-button">Enquire</span>
+                            </a>
+                            <a href="http://unbouncepages.com/enquiry-987387" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</div>
+
+    </div>
+    <div class="contentPane">
+
+        <div class="DnnModule DnnModule-DNN_HTML DnnModule-22771 DnnVersionableControl">
+            <a name="22771"></a>
+            <section class="l-page-block l-text-block">
+                <div id="dnn_ctr22771_ContentPane" class="l-content-container">
+                    <!-- Start_Module_22771 -->
+                    <div id="dnn_ctr22771_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                        <div id="dnn_ctr22771_HtmlModule_lblContent">
+                            <div class="tab-content-panel is-active" data-panel-url="about-this-course">
+                                <h1>MA International Affairs and Public Policy</h1>
+                                <p>The programme will provide you with the ability to deploy strategic foresight and encourage you to engage in the spirit of constructive dialogue and mutual understanding.</p>
+                                <p>Study a postgraduate degree at Nankai University, Tianjin. The University's English-medium degree programmes allow students to study for an internationally recognised Master's degree qualification at a prestigious world-ranked Chinese university.</p>
+                                <h2>About the degree</h2>
+                                <p>This programme is designed to prepare graduates for a wide range of careers in the field of international relations. It will provide you with the academic and analytical skills necessary to understand the contemporary world and the rapidly changing context in which international relations and foreign diplomacy are conducted.</p>
+                                <p>The programme will also provide you with the ability to deploy strategic foresight and encourage you to engage in the spirit of constructive dialogue and mutual understanding. As well as developing your academic and problem-solving capabilities, the programme will equip you with the tools to make sense of the complex world around us, to think on your feet and to consider international issues and events from a global perspective.</p>
+                                <h3>Why choose this programme?</h3>
+                                <p>As one of the most prestigious schools in the People's Republic of China, the Zhou Enlai School of Government is an elite centre for research and teaching in the fields of politics, political science, international political economy, international relations and Sino-Foreign diplomacy. The School is named after Premier Zhou Enlai, one of China's most revered leaders of the 20th century, holding the position as Chinese Premier.</p>
+                                <p>The Zhou Enlai School of Government is ranked number one in China. The programmes are designed and delivered by leading academics with extensive international study and work experience and incorporate international relations modules from a Chinese perspective.</p>
+                                <p>This highly respected programme is designed to provide you with varied career opportunities and has proven high rates of employability.</p>
+                                <a href="https://go.intostudy.com/enquiry" title="Enquire" class="l-cta cta">Enquire</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End_Module_22771 -->
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule DnnModule-DNN_HTML DnnModule-22779 DnnVersionableControl" style="display: none;">
+            <a name="22779"></a>
+            <section class="l-page-block l-text-block">
+                <div id="dnn_ctr22779_ContentPane" class="l-content-container">
+                    <!-- Start_Module_22779 -->
+                    <div id="dnn_ctr22779_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                        <div id="dnn_ctr22779_HtmlModule_lblContent">
+                            <div class="tab-content-panel" data-panel-url="module-description">
+                                <h2>What will I study?</h2>
+                                <p>International relations is the study of how countries form relationships with and interact with each other. China's foreign policy and strategic thinking is highly influential, so studying this subject in China itself will provide some fascinating insights.</p>
+                                <p>As well as developing your academic and problem-solving capabilities, the programme will equip you with the tools to make sense of the complex world around us, to think on your feet and to consider international issues and events from a global perspective.</p>
+                                <p>The 2-year course at Nankai University's prestigious Zhou Enlai School of Government will give you a complete understanding of international relations, with an in depth focus on China's relations with the world.</p>
+                                <table class="r-tbl-headers">
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                <strong>Compulsory modules - 3 credits</strong>
+                                            </th>
+                                            <th>
+                                                <strong>Optional modules - 2 credits</strong>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                                Introduction to International Relations<br>
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                Issues in International Security<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                                The Evolution of World Politics<br>
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                International Relations of the Asia Pacific<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                                Contemporary China Studies<br>
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                China-Europe Relations<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                                Chinese Language (Listening and Writing)<br>
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                China and The Global Economy<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                                Theories of International Relations<br>
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                Chinese Government and Politics<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                                International Political Economy<br>
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                Research Methods for International Relations<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                                Chinese Foreign Policy<br>
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                Foreign Policy Analysis<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                Globalisation and Global Governance<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                China-US Relations<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                China and Africa<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                China and Latin America<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                American Foreign Policy Since 1945<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                Introduction to the European Union<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                International Relations of The Middle East<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                China-Russian Relations<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="Compulsory modules - 3 credits" class="v-top">
+                                            </td>
+                                            <td data-header="Optional modules - 2 credits" class="v-top">
+                                                Masters Thesis Workshop<br>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <p>Students are required to study a minimum of 30 credits + dissertation (non-credited).</p>
+                                <p>All classes will be taught in English, for core Chinese language modules there will be a variation of Chinese and English, for student benefit.&nbsp;</p>
+                                <h3>Master classes</h3>
+                                <p>To provide an insight into what it is like working in China the course incorporates a series of master classes from professionals, who have many years experience of working with in China and with Chinese companies.</p>
+                                <ul>
+                                    <li>Master class speakers include key university alumni and leading professionals in China.</li>
+                                    <li>Small group sizes provide opportunities for group discussion and interaction.</li>
+                                    <li>Develop your network of potential employers in China.</li>
+                                </ul>
+                                <a href="https://go.intostudy.com/enquiry" title="Enquire" class="l-cta cta">Enquire</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End_Module_22779 -->
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule DnnModule-DNN_HTML DnnModule-22780 DnnVersionableControl" style="display: none;">
+            <a name="22780"></a>
+            <section class="l-page-block l-text-block">
+                <div id="dnn_ctr22780_ContentPane" class="l-content-container">
+                    <!-- Start_Module_22780 -->
+                    <div id="dnn_ctr22780_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                        <div id="dnn_ctr22780_HtmlModule_lblContent">
+                            <div class="tab-content-panel" data-panel-url="entry-requirements">
+                                <h2>How do I qualify?</h2>
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <td style="width: 250px;">
+                                                <p>
+                                                    <strong>
+                                                        Academic requirements:
+                                                    </strong>
+                                                </p>
+                                            </td>
+                                            <td>
+                                                <p>
+                                                    Bachelor's degree or equivalent
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>
+                                                    <strong>
+                                                        English requirements:
+                                                    </strong>
+                                                </p>
+                                            </td>
+                                            <td>
+                                                <p>
+                                                    IELTS 6.0 or equivalent
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>
+                                                    <strong>Additional requirements:</strong>
+                                                </p>
+                                            </td>
+                                            <td>
+                                                <p>
+                                                    Applicants must also submit a personal statement outlining why they wish to study International Affairs and Public Policy and why they would be suitable for the course
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>
+                                                    <strong>Age:</strong>
+                                                </p>
+                                            </td>
+                                            <td>
+                                                <p>
+                                                    18 years and above
+                                                </p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <a href="https://go.intostudy.com/enquiry" title="Enquire" class="l-cta cta">Enquire</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End_Module_22780 -->
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule DnnModule-DNN_HTML DnnModule-22781 DnnVersionableControl" style="display: none;">
+            <a name="22781"></a>
+            <section class="l-page-block l-text-block">
+                <div id="dnn_ctr22781_ContentPane" class="l-content-container">
+                    <!-- Start_Module_22781 -->
+                    <div id="dnn_ctr22781_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                        <div id="dnn_ctr22781_HtmlModule_lblContent">
+                            <div class="tab-content-panel" data-panel-url="dates-and-prices">
+                                <h2>When can I start?</h2>
+                                <p><strong>This is a 2-year programme</strong></p>
+                                <table class="r-tbl-headers">
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                <strong>Start date</strong>
+                                            </th>
+                                            <th>
+                                                <strong>Term dates</strong>
+                                            </th>
+                                            <th>
+                                                <strong>Fees</strong>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td class="v-top" data-header="Start date">
+                                                <p>
+                                                    September 2017
+                                                </p>
+                                            </td>
+                                            <td class="v-top" data-header="Term dates">
+                                                <p>
+                                                    September - July
+                                                </p>
+                                            </td>
+                                            <td class="v-top" data-header="Fees">
+                                                <p>
+                                                </p>
+                                                <p>
+                                                    Standard price:&nbsp;RMB 79,000 per year
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="v-top" data-header="Start date">
+                                                <p>&nbsp;</p>
+                                            </td>
+                                            <td class="v-top" data-header="Term dates">
+                                                <p>&nbsp;</p>
+                                            </td>
+                                            <td class="v-top" data-header="Fees">
+                                                <p>
+                                                </p>
+                                                <p>
+                                                    (approx US $11,831 per year)
+                                                </p>
+                                                <p>
+                                                </p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <p>Please note course fees are pegged against China RMB. Prices in other currencies are subject to currency fluctuations.</p>
+                                <p>Tuition fees do not include:</p>
+                                <ul>
+                                    <li>Text books - RMB 500+ per year </li>
+                                    <li>Enrolment&nbsp;fee - RMB 1,000 </li>
+                                    <li>Registration fee - RMB 400 </li>
+                                    <li>Accommodation - find out more about our <a href="/en/universities/nankai-university/living/accommodation" title="Accommodation">accommodation at Nankai University</a></li>
+                                </ul>
+                                <a href="https://go.intostudy.com/enquiry" title="Enquire" class="l-cta cta">Enquire</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End_Module_22781 -->
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/en/about-into">About INTO</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/study-abroad">Study abroad</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/study-programs">Study programs</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/universities">Universities</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/apply">Apply</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                Students - if you&#x2019;re using an Education Counselor please contact them with any questions; all other students contact us using one of the below methods
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">UK student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">US student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-7 col-lg-6">
+                    <span class="footer-contact-header">China student applications:</span>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:cnadmissions@intoglobal.com" class="email-link">cnadmissions@intoglobal.com</a>
+                    </div>
+                </div>
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/en/legal-and-privacy-policy">Privacy</a>
+                &nbsp;|&nbsp;
+                <a href="/en/terms">Terms</a>
+                &nbsp;|&nbsp;
+                <a href="/en/into-sitemap">Sitemap</a>
+                &nbsp;|&nbsp;
+                <a href="/en/legal-and-privacy-policy/cookies-policy">Cookies Policy</a>
+                &nbsp;|&nbsp;
+                <a href="/en/governance">Governance</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

@@ -1,0 +1,232 @@
+﻿$(document).ready(function () {
+    urlLocale = window.location.pathname.split('/')[1];
+
+    var locale_countries = {
+        gb: {
+            "en-gb": "UK",
+            "en": "UK",
+            "zh-cn": "英国",
+            "ar": "المملكة المتحدة",
+        },
+        us: {
+            "en-gb": "US",
+            "en": "US",
+            "zh-cn": "美国",
+            "ar": "الولايات المتحدة",
+        },
+        cn: {
+            "en-gb": "China",
+            "en": "China",
+            "zh-cn": "中国",
+            "ar": "الصين",
+        }
+    }
+
+    adjustFilterPanelPosition = function () {
+        //Adjust left side position
+        var listWidth = $(".l-our-universities").width();
+        var windowWidth = $(window).width();
+        var sidebarWidth = $(".search-bar").width();
+        var leftOffset = ((((windowWidth - listWidth) / 2) - sidebarWidth) / 2);
+        var style = '';
+
+        // Check if sidebar should be fixed to top or bottom
+        var topbarHeight = $(".top-bar-container").height();
+        var filterContainerHeight = $('.search-bar.group').height();
+        var scrollPos = $(window).scrollTop() + topbarHeight;
+        var listOffset = $(".l-university-list").offset().top;
+        var uniListBottom = listOffset + $('.l-university-list').height();
+        var searchBarElem = $(".search-bar")
+
+        // if window is scrolled past the top of the list
+        if (scrollPos >= listOffset && (scrollPos + filterContainerHeight <= uniListBottom)) {
+            searchBarElem.addClass('fixed');
+            style += 'top:' + topbarHeight + 'px';
+        } else if (scrollPos <= listOffset) {
+            searchBarElem.removeClass('fixed');
+        } else {
+            searchBarElem.removeClass('fixed');
+            style += 'top:' + (uniListBottom - (filterContainerHeight * 2.5)) + 'px';
+        }
+
+        searchBarElem.attr('style', style).offset({ left: leftOffset });
+    };
+
+    $(window).on('scroll resize', adjustFilterPanelPosition);
+
+    focusUniversity = function (universityId) {
+        var e = $('#university-' + universityId);
+        e.find('.university-banner').fadeOut();
+        e.find('.university-description').fadeIn();
+        $('.l-our-universities .university-tile').not('#university-' + universityId).addClass('remove-focus');
+    };
+
+    blurUniversity = function (universityId) {
+        var e = $('#university-' + universityId);
+        e.find('.university-description').fadeOut();
+        $('.l-our-universities .university-tile').removeClass('remove-focus');
+        e.find('.university-banner').fadeIn();
+    };
+
+    /*FILTERING*/
+    uniListFilter = function () {
+        var $uniTilesToShow = $('.university-tile');
+
+        function getCountryMapping(countryCode) {
+            try {
+                return locale_countries[countryCode.toLowerCase()][urlLocale];
+            }
+            catch (error) {
+                console.log('Could not find country name for country code.');
+                return countryCode;
+            }
+        }
+
+        showCheckboxesForPresentCountries = function () {
+            //Present a 'true' list of country checkboxes (leave the static as is for SEO)
+            //Go through each uni tile and store its country code
+            var listOfPresentCountryCodes = [];
+            $('.university-tile').each(function () {
+                var countrycode = $(this).data('countrycode');
+                if ($.inArray(countrycode, listOfPresentCountryCodes) == -1) {
+                    listOfPresentCountryCodes.push($(this).data('countrycode'));
+                }
+            });
+
+            //using this list, generate the checkbox elements
+            $('#countryCheckboxContainer').empty();
+            for (var i = 0; i < listOfPresentCountryCodes.length; i++) {
+                var checkboxHTML = '<div class="item"> \
+                                    <input class="checkbox-country" name="' + listOfPresentCountryCodes[i] + '" type="checkbox" checked="checked"> \
+                                    <span class="item-name">' + getCountryMapping(listOfPresentCountryCodes[i]) + '</span>\
+                                    </div>';
+                $('#countryCheckboxContainer').append(checkboxHTML);
+            }
+        }();
+
+        var $filterCheckboxes = $('.checkbox-country');
+        $filterCheckboxes.on('change', function () {
+            applyFilters()
+        });
+
+        // use value of search field to filter
+        var textRegex;
+        var $uniListSearchField = $('#uniListSearchField');
+        var $quicksearch = $uniListSearchField.keyup(debounce(function () {
+            textRegex = new RegExp($quicksearch.val(), 'gi');
+            applyFilters();
+        }, 200));
+
+        function applyCheckboxFilters() {
+            var selectedFilters = [];
+            $filterCheckboxes.filter(':checked').each(function () {
+                selectedFilters.push(this.name); //add checked filters to list
+            });
+
+            //cull through the list of uni tiles that don't have countries in the filtered list.
+            $uniTilesToShow = $uniTilesToShow.filter(function () {
+                uniCountry = $(this).data('countrycode');
+                return ($.inArray(uniCountry, selectedFilters) != -1)
+            });
+        }
+
+        function applyTextFilter() {
+            $uniTilesToShow = $uniTilesToShow.filter(function () {
+                return textRegex ? $(this).find('span.university-title').text().match(textRegex) : true;
+            });
+        }
+
+        function applyFilters() {
+            $uniTilesToShow = $('.university-tile').hide(); //start with a fresh list and hide them all
+            applyCheckboxFilters();
+            applyTextFilter();
+            $uniTilesToShow.show();
+            evaluateResetButtonVisibility();
+        }
+
+        function resetCheckboxFilters() {
+            $filterCheckboxes.prop('checked', true);
+            applyFilters();
+        }
+
+        function resetAllFilters() {
+            $filterCheckboxes.prop('checked', true);
+            textRegex = new RegExp($uniListSearchField.val(''), 'gi');
+            $uniTilesToShow = $('.university-tile').show(); //just show everything
+            evaluateResetButtonVisibility();
+        }
+
+        $btnResetCheckboxes = $('#btnResetCheckboxes');
+        $btnResetAll = $('#btnResetAll');
+        function evaluateResetButtonVisibility() {
+            var textFieldPopulated = $uniListSearchField.val().length > 0;
+            var checkBoxesPopulated = $filterCheckboxes.not(':checked').length > 0;
+
+            textFieldPopulated ? $btnResetAll.show() : $btnResetAll.hide();
+            checkBoxesPopulated ? $btnResetCheckboxes.show() : $btnResetCheckboxes.hide();
+        }
+
+        openMobileFilter = function () {
+            if (window.innerWidth < 992) {
+                $('body').addClass('no-scroll');
+                $('.accordion-overlay').show();
+            }
+        };
+
+        initMobileFilter = function () {
+            // click handler to close drawer
+            $(document).on('click', '.accordion-overlay, .back-mobile, .search-bar a.cta', function () {
+                $('body').removeClass('no-scroll');
+                $('.accordion-overlay').hide();
+            });
+        }();
+
+        // debounce so filtering doesn't happen every millisecond
+        function debounce(fn, threshold) {
+            var timeout;
+            return function debounced() {
+                if (timeout) {
+                    clearTimeout(timeout);
+                }
+                function delayed() {
+                    fn();
+                    timeout = null;
+                }
+                timeout = setTimeout(delayed, threshold || 100);
+            }
+        }
+
+        return {
+            applyFilters: applyFilters,
+            resetAllFilters: resetAllFilters,
+            resetCheckboxFilters: resetCheckboxFilters,
+            openMobileFilter: openMobileFilter
+        };
+    }();
+
+    var prefilterUniversities = function() {
+        var params = new URLSearchParams(window.location.search);
+        var region = params.get("region");
+        if (region) {
+            $("input.checkbox-country").prop("checked", false);
+
+            switch (region) {
+            case "uk":
+                $("input.checkbox-country[name=GB]").prop("checked", true);
+                break;
+            case "us":
+                $("input.checkbox-country[name=US]").prop("checked", true);
+                break;
+            case "cn":
+                $("input.checkbox-country[name=CN]").prop("checked", true);
+                break;
+            default:
+                return;
+            }
+
+            uniListFilter.applyFilters();
+        }
+    }();
+
+    adjustFilterPanelPosition();
+});

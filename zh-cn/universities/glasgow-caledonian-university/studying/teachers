@@ -1,0 +1,1056 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/universities" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/universities" hreflang="en" />
+        <link rel="alternate" href="https://www.intostudy.com/ar/universities" hreflang="ar" />
+        <link rel="alternate" href="https://www.intostudy.com/zh-cn/universities" hreflang="zh-cn" />
+    <link rel="alternate" href="https://www.intostudy.com/en/universities" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/zh-cn/universities -->
+    <!-- Encoded URL is https://www.intostudy.com/zh-cn/universities -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>选择大学 | INTO</title>
+        <meta name="description" content="INTO教育集团为中国留学生提供英国及美国多所大学留学选择&#x3002;" />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/zh-cn/universities" />
+        <meta property="og:title" content="选择大学 | INTO" />
+        <meta property="og:description" content="INTO教育集团为中国留学生提供英国及美国多所大学留学选择&#x3002;" />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/zh-cn.min.css?v=mKhwKuBxdBfb3HqWtRhGe3AGOTadDxzxeI5R0VxNUTo" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/zh-cn/universities" />
+
+
+    <!-- BrowserTestData: Index, zh-cn. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/universities"><span class="l-language-block-text  ">English</span></a>
+                <a class="l-language-block" href="/zh-cn/universities"><span class="l-language-block-text   is-current">中文</span></a>
+                <a class="l-language-block" href="/ar/universities"><span class="l-language-block-text  ">العربية</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">中文<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/en/universities">English</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/zh-cn/universities">中文</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/ar/universities">العربية</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="站内搜索...">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/zh-cn'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/zh-cn'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/success-with-into">
+                                                                                <span>成功学生案例</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/faq">
+                                                                                <span>常见问题</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/uk">
+                                                                                <span>留学英国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/us">
+                                                                                <span>留学美国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/parents-guide">
+                                                                                <span>家长指南</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/fees">
+                                                                                <span>费用细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/admissions/scholarships">
+                                                                                <span>奖学金细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/visas-and-pre-arrival-support-services">
+                                                                                <span>行前指南及签证服务</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/success-with-into">成功学生案例<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/faq">常见问题<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/uk">留学英国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/us">留学美国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/parents-guide">家长指南<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/fees">费用细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/admissions/scholarships">奖学金细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/visas-and-pre-arrival-support-services">行前指南及签证服务<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="站内搜索...">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/zh-cn" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities" class="breadcrumb-item">选择大学</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            
+<!-- Powered by Contentful -->
+<div class="canvas universityList" style="min-height: calc(100vh - 330px);">
+    <div class="contentPane max-width">
+
+        <section class="l-page-block l-text-block">
+            <div class="l-content-container">
+                <div>
+                    <h1 style="padding-top: 0px;">INTO教育集团英美合作伙伴大学</h1>
+                        <p>
+                            查找英国大学或美国大学&#xFF08;排序按照大学英文名字首字母顺序&#xFF09;&#x3002;
+                        </p>
+                </div>
+            </div>
+        </section>
+
+        <div class="DnnModule-IntoUniversityList">
+            <div class="ModIntoUniversityListC">
+                <section class="l-our-universities l-content-container l-page-block">
+                    <div class="mobile-only filter">
+                        <a class="filter-btn" href="#" onclick="uniListFilter.openMobileFilter()">筛选</a>
+                    </div>
+                    <div class="l-university-list group">
+                            <div id="university-into-london" class="university-tile" onmouseenter="focusUniversity('into-london')"
+                                 onmouseleave="blurUniversity('into-london')" data-countrycode="GB">
+                                <a href="universities/into-london">
+                                        <img class="main" alt="INTO伦敦中心" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/3c5zvdwhqEeG8sw4e4cOmC/1842bad1a4b6a25a027862b18ec2d0c1/INTO_London_Centre_Exterior.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            INTO伦敦中心
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            超过一百所大学和数千个学位课程供你选择
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/into-london">了解更多</a>
+                            </div>
+                            <div id="university-into-manchester" class="university-tile" onmouseenter="focusUniversity('into-manchester')"
+                                 onmouseleave="blurUniversity('into-manchester')" data-countrycode="GB">
+                                <a href="universities/into-manchester">
+                                        <img class="main" alt="INTO曼彻斯特中心" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/3Rjocr7UrKwaQSsOy6sWQi/ce56a3da97c2dec07c0054a75053ba71/INTO_Centre_Manchester.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            INTO曼彻斯特中心
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            保证升读16所NCUK成员高校之一
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/into-manchester">了解更多</a>
+                            </div>
+                            <div id="university-manchester-metropolitan-university" class="university-tile" onmouseenter="focusUniversity('manchester-metropolitan-university')"
+                                 onmouseleave="blurUniversity('manchester-metropolitan-university')" data-countrycode="GB">
+                                <a href="universities/manchester-metropolitan-university">
+                                        <img class="main" alt="INTO曼彻斯特中心与曼彻斯特城市大学合作项目" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/6MNapQF3686iGmKUyeeI48/5a4960ce231c918964b9d8379ccb9d25/MMU_Header_Image_.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            INTO曼彻斯特中心与曼彻斯特城市大学合作项目
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            建校 50 年以下大学排名前 200 位&#x3001;令人振奋的城市&#x3001;产业联系
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/manchester-metropolitan-university">了解更多</a>
+                            </div>
+                            <div id="university-the-university-of-manchester" class="university-tile" onmouseenter="focusUniversity('the-university-of-manchester')"
+                                 onmouseleave="blurUniversity('the-university-of-manchester')" data-countrycode="GB">
+                                <a href="universities/the-university-of-manchester">
+                                        <img class="main" alt="INTO曼彻斯特中心与曼彻斯特大学合作项目" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/7e4Gvk1atq2iGaAG4ugGO8/81d20f1f80be80eeddb46ccea1523f26/Aerial_Image_EC.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            INTO曼彻斯特中心与曼彻斯特大学合作项目
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            全球最优大学排名第27位&#xFF0C;毕业生就业率居高不下&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/the-university-of-manchester">了解更多</a>
+                            </div>
+                            <div id="university-newton-a-level-programme" class="university-tile" onmouseenter="focusUniversity('newton-a-level-programme')"
+                                 onmouseleave="blurUniversity('newton-a-level-programme')" data-countrycode="GB">
+                                <a href="universities/newton-a-level-programme">
+                                        <img class="main" alt="INTO牛顿A&#xFF0D;level课程" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/wfE916SG9qIgEQyQEcU2a/3177968a93485a4d2351570a589388cf/Exterior_INTO_Centre.JPG?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            INTO牛顿A&#xFF0D;level课程
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            在东英吉利大学校园内学习A-level课程&#xFF0C;享受一流学术支持&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/newton-a-level-programme">了解更多</a>
+                            </div>
+                            <div id="university-city-university-london" class="university-tile" onmouseenter="focusUniversity('city-university-london')"
+                                 onmouseleave="blurUniversity('city-university-london')" data-countrycode="GB">
+                                <a href="universities/city-university-london">
+                                        <img class="main" alt="伦敦大学城市学院" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/fRzbcOj4rugqWcGk84K4A/a31868e9b7e90fceb22d3212dcf03d15/City_Header_Image_CITY_university_record.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            伦敦大学城市学院
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            位于伦敦市中心&#xFF0C;125多年的全球卓越学术成就
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/city-university-london">了解更多</a>
+                            </div>
+                            <div id="university-the-university-of-alabama-at-birmingham" class="university-tile" onmouseenter="focusUniversity('the-university-of-alabama-at-birmingham')"
+                                 onmouseleave="blurUniversity('the-university-of-alabama-at-birmingham')" data-countrycode="US">
+                                <a href="universities/the-university-of-alabama-at-birmingham">
+                                        <img class="main" alt="美国阿拉巴马大学伯明翰分校" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/1ncNKARoOwGsSUaEwK4q2o/cf5ec3577e3202f4deddec1c53c4be88/UAB_campus_view.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国阿拉巴马大学伯明翰分校
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            魔术城的前沿研究和机遇&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/the-university-of-alabama-at-birmingham">了解更多</a>
+                            </div>
+                            <div id="university-drew-university" class="university-tile" onmouseenter="focusUniversity('drew-university')"
+                                 onmouseleave="blurUniversity('drew-university')" data-countrycode="US">
+                                <a href="universities/drew-university">
+                                        <img class="main" alt="美国德鲁大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2K1iy5n3AVtyG7yvJlQ969/56f12504e2cfaa4c5177475489527c4a/INTO_Drew_students_Campus_Fall.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国德鲁大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            强势文科领域&#xFF0C;充满机会的纽约&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/drew-university">了解更多</a>
+                            </div>
+                            <div id="university-oregon-state-university" class="university-tile" onmouseenter="focusUniversity('oregon-state-university')"
+                                 onmouseleave="blurUniversity('oregon-state-university')" data-countrycode="US">
+                                <a href="universities/oregon-state-university">
+                                        <img class="main" alt="美国俄勒冈州立大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/7kEx4XHfQVU7gijG9Htnfz/48b33d8c27b98f12d88ae0789474cb86/OSU_Header_Campus.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国俄勒冈州立大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            一等研究水平&#x3001;绿色生活和高服务水平校园社区&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/oregon-state-university">了解更多</a>
+                            </div>
+                            <div id="university-hofstra-university" class="university-tile" onmouseenter="focusUniversity('hofstra-university')"
+                                 onmouseleave="blurUniversity('hofstra-university')" data-countrycode="US">
+                                <a href="universities/hofstra-university">
+                                        <img class="main" alt="美国霍夫斯特拉大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/1RNHYnyjgdGHiv4wSlRFuA/a157769a7b53c5659e9e9718d4110595/INTO_Hofstra_students_campus.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国霍夫斯特拉大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            校园生活都市光彩
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/hofstra-university">了解更多</a>
+                            </div>
+                            <div id="university-colorado-state-university" class="university-tile" onmouseenter="focusUniversity('colorado-state-university')"
+                                 onmouseleave="blurUniversity('colorado-state-university')" data-countrycode="US">
+                                <a href="universities/colorado-state-university">
+                                        <img class="main" alt="美国科罗拉多州立大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/59LcKNbJDcLmTMRW6aMYu/bebedd31380293cb9473d808a234c311/23017_04697.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国科罗拉多州立大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            一流研究能力&#x3002;最佳就业大州排名第2位&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/colorado-state-university">了解更多</a>
+                            </div>
+                            <div id="university-university-of-south-florida" class="university-tile" onmouseenter="focusUniversity('university-of-south-florida')"
+                                 onmouseleave="blurUniversity('university-of-south-florida')" data-countrycode="US">
+                                <a href="universities/university-of-south-florida">
+                                        <img class="main" alt="美国南佛罗里达大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2nUlDuQBuc8YYAYO6A886O/ddfd4b908f27be171aee81c31b3ce65b/USF_Outside_campus_bull_statues.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国南佛罗里达大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            跻身于美国十大公共研究大学之列&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/university-of-south-florida">了解更多</a>
+                            </div>
+                            <div id="university-george-mason-university" class="university-tile" onmouseenter="focusUniversity('george-mason-university')"
+                                 onmouseleave="blurUniversity('george-mason-university')" data-countrycode="US">
+                                <a href="universities/george-mason-university">
+                                        <img class="main" alt="美国乔治梅森大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/71nORpJkTDZusiuW5kUpg7/f5e6a27bd012681d6ddb5e4163fa466d/Mason_Students_sitting_sign.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国乔治梅森大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            在华盛顿取得学术成就&#xFF0C;实现个人理想&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/george-mason-university">了解更多</a>
+                            </div>
+                            <div id="university-suffolk-university" class="university-tile" onmouseenter="focusUniversity('suffolk-university')"
+                                 onmouseleave="blurUniversity('suffolk-university')" data-countrycode="US">
+                                <a href="universities/suffolk-university">
+                                        <img class="main" alt="美国萨福克大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2ngOcqMo8sow6UK6eaOAWq/c6690ba6475e744690efdff5139ccc4b/suffolk-campus-overview.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国萨福克大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            在历史悠久的波士顿享受优质教育&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/suffolk-university">了解更多</a>
+                            </div>
+                            <div id="university-saint-louis-university" class="university-tile" onmouseenter="focusUniversity('saint-louis-university')"
+                                 onmouseleave="blurUniversity('saint-louis-university')" data-countrycode="US">
+                                <a href="universities/saint-louis-university">
+                                        <img class="main" alt="美国圣路易斯大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2rcdEvpBlVwbFjKK3GgF97/1030a037230493a0a710097ec5bda60f/19031231-StLouisCity-Arch-004-m.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国圣路易斯大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            百强大学里投入全方位学习&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/saint-louis-university">了解更多</a>
+                            </div>
+                            <div id="university-illinois-state-university" class="university-tile" onmouseenter="focusUniversity('illinois-state-university')"
+                                 onmouseleave="blurUniversity('illinois-state-university')" data-countrycode="US">
+                                <a href="universities/illinois-state-university">
+                                        <img class="main" alt="美国伊利诺伊州立大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/5AYyaCQRDUOaqU0uaQs4y4/b372c2f8b6ba825768838c6fe92318b3/isu-campus-front.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            美国伊利诺伊州立大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            高质量的教学与卓越的学生
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/illinois-state-university">了解更多</a>
+                            </div>
+                            <div id="university-the-university-of-arizona" class="university-tile" onmouseenter="focusUniversity('the-university-of-arizona')"
+                                 onmouseleave="blurUniversity('the-university-of-arizona')" data-countrycode="US">
+                                <a href="universities/the-university-of-arizona">
+                                        <img class="main" alt="亚利桑那大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/2rFs9cqHuRmQcCqQZtcXXs/60987bcab4a6d340a8facf57c9ecd8af/students-at-old-main.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            亚利桑那大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            就读于百强大学 
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/the-university-of-arizona">了解更多</a>
+                            </div>
+                            <div id="university-the-university-of-arizona-global" class="university-tile" onmouseenter="focusUniversity('the-university-of-arizona-global')"
+                                 onmouseleave="blurUniversity('the-university-of-arizona-global')" data-countrycode="US">
+                                <a href="universities/the-university-of-arizona-global">
+                                        <img class="main" alt="亚利桑那大学全球校园" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/10KvkWruXuY3WMdwVT9Bxr/3c60bb67b0d053491d51a8d5f92846cb/IMG_5828.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            亚利桑那大学全球校园
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            百强学位课程&#xFF0C;随处可学&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-US.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/the-university-of-arizona-global">了解更多</a>
+                            </div>
+                            <div id="university-university-of-exeter" class="university-tile" onmouseenter="focusUniversity('university-of-exeter')"
+                                 onmouseleave="blurUniversity('university-of-exeter')" data-countrycode="GB">
+                                <a href="universities/university-of-exeter">
+                                        <img class="main" alt="英国埃克塞特大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/Tb1EgUaX0yQ6qUUyYa2I0/ea4870519fc371a3b5a987b80202e822/University_of_Exeter_areal_view.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            英国埃克塞特大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            世界大学排名前150位&#xFF0C;出色的就业力以及美丽的大学校园
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/university-of-exeter">了解更多</a>
+                            </div>
+                            <div id="university-university-of-east-anglia" class="university-tile" onmouseenter="focusUniversity('university-of-east-anglia')"
+                                 onmouseleave="blurUniversity('university-of-east-anglia')" data-countrycode="GB">
+                                <a href="universities/university-of-east-anglia">
+                                        <img class="main" alt="英国东英吉利大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/3nXBmhKG00kua8wIGyU0cq/cf16cef0ec4400060e9d140ebbec5342/UEA_Oct2014__MG_4682_Joakim_Boren__crop_for_web_.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            英国东英吉利大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            荣获教学卓越金奖&#xFF0C;全英大学排名前15位
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/university-of-east-anglia">了解更多</a>
+                            </div>
+                            <div id="university-glasgow-caledonian-university" class="university-tile" onmouseenter="focusUniversity('glasgow-caledonian-university')"
+                                 onmouseleave="blurUniversity('glasgow-caledonian-university')" data-countrycode="GB">
+                                <a href="universities/glasgow-caledonian-university">
+                                        <img class="main" alt="英国格拉斯哥卡利多尼亚大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/1zLEXq1HioI40i8kA88UQi/529fb6958b7a68768ac184614eb18559/Campus_14.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            英国格拉斯哥卡利多尼亚大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            聚焦于职业的学位&#xFF0C;现代化的市中心校区&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/glasgow-caledonian-university">了解更多</a>
+                            </div>
+                            <div id="university-newcastle-university" class="university-tile" onmouseenter="focusUniversity('newcastle-university')"
+                                 onmouseleave="blurUniversity('newcastle-university')" data-countrycode="GB">
+                                <a href="universities/newcastle-university">
+                                        <img class="main" alt="英国纽卡斯尔大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/5APX2eYEV2CICQe6GsEY8I/95a650e06b66493e3ac4a69f52ad96c6/Newcastle_university_Home_header.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            英国纽卡斯尔大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            全球排名前160的大学&#xFF0C;英国最受欢迎的学生城市&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/newcastle-university">了解更多</a>
+                            </div>
+                            <div id="university-newcastle-university-london" class="university-tile" onmouseenter="focusUniversity('newcastle-university-london')"
+                                 onmouseleave="blurUniversity('newcastle-university-london')" data-countrycode="GB">
+                                <a href="universities/newcastle-university-london">
+                                        <img class="main" alt="英国纽卡斯尔大学伦敦校区" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/6QbEmyf2oMCUwE6YgQ6QcS/eb98adc4f25c2ac06c8518427d3f19d5/NUL_Students_Outside_Gherkin_web.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            英国纽卡斯尔大学伦敦校区
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            在伦敦金融区沉浸入以行业为主导的教育&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/newcastle-university-london">了解更多</a>
+                            </div>
+                            <div id="university-queens-university-belfast" class="university-tile" onmouseenter="focusUniversity('queens-university-belfast')"
+                                 onmouseleave="blurUniversity('queens-university-belfast')" data-countrycode="GB">
+                                <a href="universities/queens-university-belfast">
+                                        <img class="main" alt="英国女王大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/43a78fS4AoYCU40w0oygqu/e1f690da47199a19c13bacdd2c3be8d0/Queens_University_Belfast.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            英国女王大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            可负担得起的世界一流大学教育&#x3002;
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/queens-university-belfast">了解更多</a>
+                            </div>
+                            <div id="university-university-of-stirling" class="university-tile" onmouseenter="focusUniversity('university-of-stirling')"
+                                 onmouseleave="blurUniversity('university-of-stirling')" data-countrycode="GB">
+                                <a href="universities/university-of-stirling">
+                                        <img class="main" alt="英国斯特灵大学" src="https://ctfimages.intoglobal.com/xw2h6mjophtz/1CqG67TI4gyWmEwskqAkaY/71d21256bc7cfca10812bd14781e4879/university-of-stirling-lake-castle.jpg?fm=jpg&h=300&w=300&fit=fill">
+                                    <div class="university-banner">
+                                        <span class="university-title">
+                                            英国斯特灵大学
+                                        </span>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                    <div class="university-description">
+                                        <p>
+                                            来风景优美且治安良好的大学校园&#xFF0C;加入全球学生社区 
+                                        </p>
+                                            <img class="flag" alt="Flag" src="/images/flag-GB.png">
+                                    </div>
+                                </a>
+                                <a class="l-cta cta" href="universities/university-of-stirling">了解更多</a>
+                            </div>
+                    </div>
+                </section>
+                <div class="search-bar group">
+                    <div class="back-mobile">
+                        <i class="fa fa-chevron-left" aria-hidden="true"></i>返回
+                    </div>
+                    <h2>
+                        按国家筛选
+                        <a id="btnResetAll" onclick="uniListFilter.resetAllFilters()" class="clear-btn" style="display:none">全部重新设置</a>
+                    </h2>
+                    <div class="search-bar-inner">
+                        <h3>
+                            国家
+                            <a id="btnResetCheckboxes" onclick="uniListFilter.resetCheckboxFilters();" class="clear-btn" style="display:none">重新设置</a>
+                        </h3>
+                        <div>
+                            <!--country checkbox filters-->
+                            <div id="countryCheckboxContainer" class="item-container">
+                                <div class="item">
+                                    <input class="checkbox-country" name="GB" type="checkbox" checked="checked">
+                                    <span class="item-name">UK</span>
+                                </div>
+                                <div class="item">
+                                    <input class="checkbox-country" name="US" type="checkbox" checked="checked">
+                                    <span class="item-name">US</span>
+                                </div>
+                                <div class="item">
+                                    <input class="checkbox-country" name="CN" type="checkbox" checked="checked">
+                                    <span class="item-name">China</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="container-open">
+                        <input id="uniListSearchField" class="university-filter" type="text" placeholder="按名字搜索">
+                    </span>
+                    <span class="mobile-only">
+                        <a href="#" class="cta l-cta">完成</a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="footerPane">
+            <div class="DnnModule-IntoHighlighter">
+                <div class="ModIntoHighlighterC">
+                    <div class="clearfix highlighter-container inline-cta" style="background-color: #a6a7a7">
+                        <div class="l-highlight-container">
+                            <div class="text-container">
+                                <span style="color:#ffffff">不确定去该去哪里留学&#xFF1F;让我们专业且友好的中文申请顾问帮助你&#xFF01;</span>
+                            </div>
+                            <div class="cta-container">
+                                <a href="https://go.intostudy.com/zh-cn/enquiry" onmouseover="this.style.background = '#007679'" onmouseout="this.style.background = '#00aaad'"
+                                   class="l-cta cta" style="background:#00aaad">
+                                    <span id="text">联系我们</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                            <a href="http://www.weibo.com/intohigher/" target="_blank" class="footer-social-link social-link-weibo"><img src="/images/footer/icon_weibo.svg" /></a>
+                            <a href="http://i.youku.com/u/UMjYwODYzNTY4" target="_blank" class="footer-social-link social-link-youku"><img src="/images/footer/icon_reverse_youku.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/about-into">关于我们</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-abroad">选择国家</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-programs">查询课程</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/universities">选择大学</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/apply">申请留学</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                学生&#x2014;&#x2014;如果你已签约教育顾问&#xFF0C;请直接联系他们以解答疑问&#xFF1B;未使用代理的学生请通过以下任何方式与我们取得联系
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">英国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">美国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy">法律和隐私</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/terms">使用条款</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/into-sitemap">网站地图</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy/cookies-policy">浏览器缓存政策</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/governance">治理</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script src="/js/into/universityList.js?v=1PXdylxCXr9jf-yFaBfLO7eXwz6YTxbU5_lofwDudzE"></script>
+
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

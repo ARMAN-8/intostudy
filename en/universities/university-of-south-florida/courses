@@ -1,0 +1,3163 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+    
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>Programs at University of South Florida | INTO</title>
+        <meta name="description" content="No matter what program you choose at INTO University of South Florida, you&#x27;ll experience academic development that gets you ready for your career. Apply today." />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/en/universities/university-of-south-florida/courses" />
+        <meta property="og:title" content="Programs at University of South Florida | INTO" />
+        <meta property="og:description" content="No matter what program you choose at INTO University of South Florida, you&#x27;ll experience academic development that gets you ready for your career. Apply today." />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/en-gb.min.css?v=2-LzaxUI3fHNakVYIXEzBWYXF1AnJPVqPggoRav_PKw" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/en/universities/university-of-south-florida/courses" />
+
+
+    <!-- BrowserTestData: Courses, en. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/universities/university-of-south-florida/courses"><span class="l-language-block-text   is-current">English</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">English<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/en/universities/university-of-south-florida/courses">English</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="Search for a subject or program">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/en'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/en'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en/about-into">About INTO</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en/success-with-into">
+                                                                                <span>Success with INTO</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/blog">
+                                                                                <span>Blog</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/faq">
+                                                                                <span>FAQ</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/friend">
+                                                                                <span>Recommend a Friend</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-abroad">Study abroad</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/country-guides/uk">
+                                                                                <span>UK</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/country-guides/us">
+                                                                                <span>US</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/country-guides/china">
+                                                                                <span>China</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/parents-guide">
+                                                                                <span>Parents guide</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/admissions">Admissions</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en/fees">
+                                                                                <span>Fees</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/admissions/scholarships">
+                                                                                <span>Scholarships</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/help/visas-and-pre-arrival-support-services">
+                                                                                <span>Visa and pre-arrival support services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/admissions/meet-the-team">
+                                                                                <span>Enrolment Services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/apply">Apply</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en/about-into">About INTO</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en/success-with-into">Success with INTO<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/blog">Blog<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/faq">FAQ<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/friend">Recommend a Friend<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-abroad">Study abroad</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en/study-abroad/country-guides/uk">UK<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/country-guides/us">US<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/country-guides/china">China<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/parents-guide">Parents guide<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/admissions">Admissions</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en/fees">Fees<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/admissions/scholarships">Scholarships<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/help/visas-and-pre-arrival-support-services">Visa and pre-arrival support services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/admissions/meet-the-team">Enrolment Services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/apply">Apply</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="Search for a subject or program">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/en" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en/universities" class="breadcrumb-item">Universities</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en/universities/university-of-south-florida" class="breadcrumb-item">University of South Florida</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en/universities/university-of-south-florida/courses" class="breadcrumb-item">Courses</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            
+
+<!-- Powered by Contentful -->
+<div class="course-listing">
+    <div class="canvas" style="min-height: calc(100vh - 380px);">
+        <div class="headerPane">
+            <div>
+    <style>
+    .uni-colour-primary {
+      background-color: #006747;
+    }
+
+    .uni-text-colour {
+      color: #ffffff;
+    }
+
+    .uni-colour-secondary {
+      background-color: #cfc493;
+    }
+
+    @media (min-width: 835px) {
+      .l-explore-nav .nav-item .accordian {
+        background-color: #cfc493;
+      }
+      .l-explore-nav .nav-item .l-subnav .nav-item {
+        background-color: #cfc493;
+      }
+    }
+    </style>
+
+    <header id="uni-header" class="uni-colour-primary header">
+        <div class="l-content-container header-container">
+            <a href="/en/universities/university-of-south-florida">
+                <img id="uni-header-logo" src=https://ctfimages.intoglobal.com/xw2h6mjophtz/1YtftZDsvucIui2MaWMcoy/71c680e37cea8b8b05b1a18592e4eeb8/1_USouthFlorida-darkbg-1c-white-h.svg alt="University of South Florida">
+            </a>
+            <div id="uni-menu-bar" class="l-menu-bar">
+                <a id="explore-button" class="l-header-bar-button l-header-bar-button-right l-header-bar-button-margin" href="">
+                    <span class="css-icon icon-arrow-up-down">Explore<i></i></span>
+                </a>
+            </div>
+            <nav id="explore-nav" class="l-explore-nav uni-colour-primary uni-colour-primary-border no-scrollbar">
+                <ul>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en/universities/university-of-south-florida/about-the-university" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">About the University</span>
+                            </a>
+                            <a href="/en/universities/university-of-south-florida/about-the-university" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/en/universities/university-of-south-florida/about-the-university/more-about-into-usf" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">More about INTO USF</span>
+                                                        <span class="l-nav-button mobile-only">More about INTO USF</span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/en/universities/university-of-south-florida/about-the-university/campus-life" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Campus Life</span>
+                                                        <span class="l-nav-button mobile-only">Campus Life</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en/universities/university-of-south-florida/programs" class="nav-item-content ">
+                                <span class="l-nav-button">Programs</span>
+                            </a>
+                            <a href="/en/universities/university-of-south-florida/programs" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en/universities/university-of-south-florida/studying" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">Studying</span>
+                            </a>
+                            <a href="/en/universities/university-of-south-florida/studying" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/en/universities/university-of-south-florida/studying/student-support" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Student support</span>
+                                                        <span class="l-nav-button mobile-only">Student support</span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/en/universities/university-of-south-florida/studying/faculty" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Faculty</span>
+                                                        <span class="l-nav-button mobile-only">Faculty</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en/universities/university-of-south-florida/living-in-tampa-and-florida" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">Living</span>
+                            </a>
+                            <a href="/en/universities/university-of-south-florida/living-in-tampa-and-florida" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/en/universities/university-of-south-florida/living-in-tampa-and-florida/accommodation" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Accommodation</span>
+                                                        <span class="l-nav-button mobile-only">Accommodation</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en/universities/university-of-south-florida/scholarships" class="nav-item-content ">
+                                <span class="l-nav-button">Scholarships</span>
+                            </a>
+                            <a href="/en/universities/university-of-south-florida/scholarships" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="https://apply.intostudy.com/to/university/university-of-south-florida" class="nav-item-content ">
+                                <span class="l-nav-button">Apply</span>
+                            </a>
+                            <a href="https://apply.intostudy.com/to/university/university-of-south-florida" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</div>
+
+        </div>
+        <div class="contentPane">
+            <section class="l-page-block l-text-block">
+                <div class="l-content-container">
+                    <h1>Your programs at University of South Florida</h1>
+                    <div>
+                        <p>There are three ways to begin your undergraduate studies at USF. With more than 79 bachelor’s degrees, flexible study plans and multiple start dates throughout the year, we’ll help you find the degree program that’s right for you to study in the US.</p>
+
+                        <a href="https://apply.intostudy.com/to/university/university-of-south-florida" title="Apply" class="l-cta cta">Apply</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Check for no sub items -->
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id="international-year-one"></a>
+
+                        <h2>International Year One</h2>
+                            <div class="l-text-block">
+                                <p>International Year One allows you to begin earning credits toward your degree even if you don&#x2019;t meet the academic and English requirements for direct entry. You&#x2019;ll receive additional support to move you successfully through your first year and graduate in the same amount of time as domestic students. Depending on your English language scores, you&#x2019;ll enter International Year One through a customized program that lasts one or more semesters.</p>
+                            </div>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiRWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-architecture">
+            <span class="tab-title-normal">International Year One in Architecture</span>
+            <span class="tab-title-mobile">International Year One in Architecture</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-architecture" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiRWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiRWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/international-year-one-in-architecture" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiSWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-business">
+            <span class="tab-title-normal">International Year One in Business</span>
+            <span class="tab-title-mobile">International Year One in Business</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-business" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiSWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiSWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/international-year-one-in-business" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiTWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-computer-science-engineering">
+            <span class="tab-title-normal">International Year One in Computer Science/Computer Engineering</span>
+            <span class="tab-title-mobile">International Year One in Computer Science/Computer Engineering</span>
+        </a>
+    </h3>
+    <div id="international-year-one-computer-science-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiTWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiTWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/international-year-one-computer-science-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiVWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-engineering">
+            <span class="tab-title-normal">International Year One in Engineering</span>
+            <span class="tab-title-mobile">International Year One in Engineering</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiVWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiVWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/international-year-one-in-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI1p000000blPqGAI" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-general">
+            <span class="tab-title-normal">International Year One in General</span>
+            <span class="tab-title-mobile">International Year One in General</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-general" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI1p000000blPqGAI_loading" class="col-md-7"></div>
+                                    <div id="aCI1p000000blPqGAI_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/international-year-one-in-general" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiXWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-natural-and-health-sciences">
+            <span class="tab-title-normal">International Year One in Natural and Health Sciences</span>
+            <span class="tab-title-mobile">International Year One in Natural and Health Sciences</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-natural-and-health-sciences" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiXWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiXWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/international-year-one-in-natural-and-health-sciences" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiYWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#international-year-one-in-visual-and-performing-arts">
+            <span class="tab-title-normal">International Year One in Visual and Performing Arts</span>
+            <span class="tab-title-mobile">International Year One in Visual and Performing Arts</span>
+        </a>
+    </h3>
+    <div id="international-year-one-in-visual-and-performing-arts" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiYWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiYWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/international-year-one-in-visual-and-performing-arts" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id="graduate-pathway"></a>
+
+                        <h2>Graduate Pathway</h2>
+                            <div class="l-text-block">
+                                <p>Our Graduate Pathway program will give you the academic foundation and essential language skills to successfully move on to your master&#x2019;s degree. You&#x2019;ll receive the highest level of support throughout your program, including personalized academic advising.</p>
+                            </div>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahlWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-architecture">
+            <span class="tab-title-normal">Graduate Pathway in Architecture</span>
+            <span class="tab-title-mobile">Graduate Pathway in Architecture</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-architecture" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahlWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahlWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-architecture" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahmWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-biology">
+            <span class="tab-title-normal">Graduate Pathway in Biology</span>
+            <span class="tab-title-mobile">Graduate Pathway in Biology</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-biology" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahmWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahmWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-biology" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahnWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-biomedical-engineering">
+            <span class="tab-title-normal">Graduate Pathway in Biomedical Engineering</span>
+            <span class="tab-title-mobile">Graduate Pathway in Biomedical Engineering</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-biomedical-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahnWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahnWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-biomedical-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahoWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-business-administration-mba">
+            <span class="tab-title-normal">Graduate Pathway in Business Administration (MBA)</span>
+            <span class="tab-title-mobile">Graduate Pathway in Business Administration (MBA)</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-business-administration-mba" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahoWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahoWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-business-administration-mba" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahpWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-business-analytics-and-information-systems">
+            <span class="tab-title-normal">Graduate Pathway in Business Analytics and Information Systems</span>
+            <span class="tab-title-mobile">Graduate Pathway in Business Analytics and Information Systems</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-business-analytics-and-information-systems" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahpWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahpWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-business-analytics-and-information-systems" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahqWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-chemical-engineering">
+            <span class="tab-title-normal">Graduate Pathway in Chemical Engineering</span>
+            <span class="tab-title-mobile">Graduate Pathway in Chemical Engineering</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-chemical-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahqWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahqWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-chemical-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahrWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-civil-and-environmental-engineering">
+            <span class="tab-title-normal">Graduate Pathway in Civil or Environmental Engineering</span>
+            <span class="tab-title-mobile">Graduate Pathway in Civil or Environmental Engineering</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-civil-and-environmental-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahrWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahrWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-civil-and-environmental-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahsWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-computer-science-and-engineering">
+            <span class="tab-title-normal">Graduate Pathway in Computer Science or Computer Engineering</span>
+            <span class="tab-title-mobile">Graduate Pathway in Computer Science or Computer Engineering</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-computer-science-and-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahsWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahsWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-computer-science-and-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahvWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-economics">
+            <span class="tab-title-normal">Graduate Pathway in Economics</span>
+            <span class="tab-title-mobile">Graduate Pathway in Economics</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-economics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahvWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahvWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-economics" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahwWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-electrical-engineering">
+            <span class="tab-title-normal">Graduate Pathway in Electrical Engineering</span>
+            <span class="tab-title-mobile">Graduate Pathway in Electrical Engineering</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-electrical-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahwWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahwWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-electrical-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahxWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-engineering-management">
+            <span class="tab-title-normal">Graduate Pathway in Engineering Management</span>
+            <span class="tab-title-mobile">Graduate Pathway in Engineering Management</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-engineering-management" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahxWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahxWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-engineering-management" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahyWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-entrepreneurship-in-applied-technologies">
+            <span class="tab-title-normal">Graduate Pathway in Entrepreneurship in Applied Technologies</span>
+            <span class="tab-title-mobile">Graduate Pathway in Entrepreneurship in Applied Technologies</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-entrepreneurship-in-applied-technologies" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahyWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahyWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-entrepreneurship-in-applied-technologies" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahzWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-environmental-science-and-policy">
+            <span class="tab-title-normal">Graduate Pathway in Environmental Science and Policy</span>
+            <span class="tab-title-mobile">Graduate Pathway in Environmental Science and Policy</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-environmental-science-and-policy" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahzWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahzWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-environmental-science-and-policy" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cai1WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-finance">
+            <span class="tab-title-normal">Graduate Pathway in Finance</span>
+            <span class="tab-title-mobile">Graduate Pathway in Finance</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-finance" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cai1WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cai1WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-finance" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cai2WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-geography">
+            <span class="tab-title-normal">Graduate Pathway in Geography</span>
+            <span class="tab-title-mobile">Graduate Pathway in Geography</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-geography" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cai2WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cai2WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-geography" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cai4WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-global-sustainability">
+            <span class="tab-title-normal">Graduate Pathway in Global Sustainability</span>
+            <span class="tab-title-mobile">Graduate Pathway in Global Sustainability</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-global-sustainability" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cai4WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cai4WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-global-sustainability" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cai6WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-industrial-engineering">
+            <span class="tab-title-normal">Graduate Pathway in Industrial Engineering</span>
+            <span class="tab-title-mobile">Graduate Pathway in Industrial Engineering</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-industrial-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cai6WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cai6WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-industrial-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000Cai7WAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-information-technology">
+            <span class="tab-title-normal">Graduate Pathway in Information Technology</span>
+            <span class="tab-title-mobile">Graduate Pathway in Information Technology</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-information-technology" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000Cai7WAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000Cai7WAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-information-technology" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI1p000000blaSGAQ" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-learning-design-and-technology">
+            <span class="tab-title-normal">Graduate Pathway in Learning Design and Technology</span>
+            <span class="tab-title-mobile">Graduate Pathway in Learning Design and Technology</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-learning-design-and-technology" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI1p000000blaSGAQ_loading" class="col-md-7"></div>
+                                    <div id="aCI1p000000blaSGAQ_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-learning-design-and-technology" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiAWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-management">
+            <span class="tab-title-normal">Graduate Pathway in Management</span>
+            <span class="tab-title-mobile">Graduate Pathway in Management</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-management" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiAWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiAWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-management" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiBWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-marketing">
+            <span class="tab-title-normal">Graduate Pathway in Marketing</span>
+            <span class="tab-title-mobile">Graduate Pathway in Marketing</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-marketing" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiBWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiBWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-marketing" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiCWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-mass-communications">
+            <span class="tab-title-normal">Graduate Pathway in Mass Communications</span>
+            <span class="tab-title-mobile">Graduate Pathway in Mass Communications</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-mass-communications" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiCWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiCWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-mass-communications" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiDWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-materials-science-and-engineering">
+            <span class="tab-title-normal">Graduate Pathway in Materials Science and Engineering</span>
+            <span class="tab-title-mobile">Graduate Pathway in Materials Science and Engineering</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-materials-science-and-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiDWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiDWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-materials-science-and-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiEWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-mathematics">
+            <span class="tab-title-normal">Graduate Pathway in Mathematics</span>
+            <span class="tab-title-mobile">Graduate Pathway in Mathematics</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-mathematics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiEWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiEWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-mathematics" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiFWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-mechanical-engineering">
+            <span class="tab-title-normal">Graduate Pathway in Mechanical Engineering</span>
+            <span class="tab-title-mobile">Graduate Pathway in Mechanical Engineering</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-mechanical-engineering" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiFWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiFWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-mechanical-engineering" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiGWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-microbiology">
+            <span class="tab-title-normal">Graduate Pathway in Microbiology</span>
+            <span class="tab-title-mobile">Graduate Pathway in Microbiology</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-microbiology" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiGWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiGWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-microbiology" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiHWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-music">
+            <span class="tab-title-normal">Graduate Pathway in Music</span>
+            <span class="tab-title-mobile">Graduate Pathway in Music</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-music" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiHWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiHWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-music" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI1p000000bo8qGAA" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-music-composition">
+            <span class="tab-title-normal">Graduate Pathway in Music Composition</span>
+            <span class="tab-title-mobile">Graduate Pathway in Music Composition</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-music-composition" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI1p000000bo8qGAA_loading" class="col-md-7"></div>
+                                    <div id="aCI1p000000bo8qGAA_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-music-composition" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiIWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-pharmaceutical-nanotechnology">
+            <span class="tab-title-normal">Graduate Pathway in Pharmaceutical Nanotechnology</span>
+            <span class="tab-title-mobile">Graduate Pathway in Pharmaceutical Nanotechnology</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-pharmaceutical-nanotechnology" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiIWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiIWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-pharmaceutical-nanotechnology" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiJWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-physics">
+            <span class="tab-title-normal">Graduate Pathway in Physics</span>
+            <span class="tab-title-mobile">Graduate Pathway in Physics</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-physics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiJWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiJWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-physics" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiKWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-religious-studies">
+            <span class="tab-title-normal">Graduate Pathway in Religious Studies</span>
+            <span class="tab-title-mobile">Graduate Pathway in Religious Studies</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-religious-studies" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiKWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiKWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-religious-studies" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahuWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-curriculum-and-instruction">
+            <span class="tab-title-normal">Graduate Pathway in Secondary Education: Biology</span>
+            <span class="tab-title-mobile">Graduate Pathway in Secondary Education: Biology</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-curriculum-and-instruction" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahuWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahuWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-curriculum-and-instruction" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI1p000000bo7xGAA" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-secondary-education-chemistry">
+            <span class="tab-title-normal">Graduate Pathway in Secondary Education: Chemistry</span>
+            <span class="tab-title-mobile">Graduate Pathway in Secondary Education: Chemistry</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-secondary-education-chemistry" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI1p000000bo7xGAA_loading" class="col-md-7"></div>
+                                    <div id="aCI1p000000bo7xGAA_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-secondary-education-chemistry" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI1p000000bo82GAA" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-secondary-education-mathematics">
+            <span class="tab-title-normal">Graduate Pathway in Secondary Education: Mathematics</span>
+            <span class="tab-title-mobile">Graduate Pathway in Secondary Education: Mathematics</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-secondary-education-mathematics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI1p000000bo82GAA_loading" class="col-md-7"></div>
+                                    <div id="aCI1p000000bo82GAA_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-secondary-education-mathematics" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI1p000000bo87GAA" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-secondary-education-physics">
+            <span class="tab-title-normal">Graduate Pathway in Secondary Education: Physics</span>
+            <span class="tab-title-mobile">Graduate Pathway in Secondary Education: Physics</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-secondary-education-physics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI1p000000bo87GAA_loading" class="col-md-7"></div>
+                                    <div id="aCI1p000000bo87GAA_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-secondary-education-physics" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiLWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-statistics">
+            <span class="tab-title-normal">Graduate Pathway in Statistics</span>
+            <span class="tab-title-mobile">Graduate Pathway in Statistics</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-statistics" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiLWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiLWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-statistics" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiMWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-studio-art">
+            <span class="tab-title-normal">Graduate Pathway in Studio Art</span>
+            <span class="tab-title-mobile">Graduate Pathway in Studio Art</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-studio-art" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiMWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiMWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-studio-art" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiNWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-tesol">
+            <span class="tab-title-normal">Graduate Pathway in Teaching English to Speakers of Other Languages (TESOL)</span>
+            <span class="tab-title-mobile">Graduate Pathway in Teaching English to Speakers of Other Languages (TESOL)</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-tesol" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiNWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiNWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-tesol" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiOWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-urban-and-community-design">
+            <span class="tab-title-normal">Graduate Pathway in Urban and Community Design</span>
+            <span class="tab-title-mobile">Graduate Pathway in Urban and Community Design</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-urban-and-community-design" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiOWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiOWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-urban-and-community-design" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiPWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-pathway-in-urban-and-regional-planning">
+            <span class="tab-title-normal">Graduate Pathway in Urban and Regional Planning</span>
+            <span class="tab-title-mobile">Graduate Pathway in Urban and Regional Planning</span>
+        </a>
+    </h3>
+    <div id="graduate-pathway-in-urban-and-regional-planning" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiPWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiPWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-pathway-in-urban-and-regional-planning" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id="academic-english"></a>
+
+                        <h2>Academic English</h2>
+                            <div class="l-text-block">
+                                <p>The Academic English Program creates opportunities for international students to develop the academic, critical thinking, and linguistic skills necessary to succeed in a US university.</p>
+                            </div>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CahiWAC" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#academic-english">
+            <span class="tab-title-normal">Academic English</span>
+            <span class="tab-title-mobile">Academic English</span>
+        </a>
+    </h3>
+    <div id="academic-english" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CahiWAC_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CahiWAC_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/academic-english" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id="study-abroad-with-english"></a>
+
+                        <h2>Study Abroad With English</h2>
+                            <div class="l-text-block">
+                                <p>Study Abroad with English (SAWE) combines Academic English courses with the chance to experience undergraduate courses and earn credits. This unique program allows students to earn college credits in their field of interest without having to enroll in a long-term degree program. The program can be customized for specific academic interests, with options in engineering, business, liberal arts and more.&#xA;&#xA;</p>
+                            </div>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiZWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#undergraduate-study-abroad-with-english">
+            <span class="tab-title-normal">Undergraduate Study Abroad with English</span>
+            <span class="tab-title-mobile">Undergraduate Study Abroad with English</span>
+        </a>
+    </h3>
+    <div id="undergraduate-study-abroad-with-english" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiZWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiZWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/undergraduate-study-abroad-with-english" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+                <section class="l-detailed-info l-page-block">
+                    <div class="l-content-container">
+                            <a class="anchor" id="study-abroad-with-english-graduate"></a>
+
+                        <h2>Study Abroad With English (Graduate)</h2>
+                            <div class="l-text-block">
+                                <p>Study Abroad with English is a long-term program combining English language study with the opportunity to experience university courses. This program combines English language study with graduate-level courses.</p>
+                            </div>
+                    </div>
+                </section>
+                <div class="DnnModule-Panes">
+                    <div class="DNNModuleContent ModPanesC">
+                        <div id="panes1" class="accordion-layout">
+
+
+
+
+<div class="accordion-part" name="keyFactsAccordion" outcome-id="aCI3A000000CaiQWAS" controller-action="get-key-course-facts" isoalpha2code="US" loading-message="Collecting key course information">
+    <h3 class="tab-title <%= courseNumber === 1 ? 'first' : '' %>">
+        <a href="#graduate-study-abroad-with-english-in-business">
+            <span class="tab-title-normal">Graduate Study Abroad with English in Business</span>
+            <span class="tab-title-mobile">Graduate Study Abroad with English in Business</span>
+        </a>
+    </h3>
+    <div id="graduate-study-abroad-with-english-in-business" class="tab-panel clearfix">
+        
+<div class="accordion-back-mobile back-btn-anim modified-back-mobile">
+    <i class="fa fa-chevron-left" aria-hidden="true"></i>Back
+</div>
+        <div class="tab-content course-listings-detail">
+            <div class="pane">
+                                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <section class="l-page-block l-text-block">
+                                <div class="l-content-container">
+                                    <div id="aCI3A000000CaiQWAS_loading" class="col-md-7"></div>
+                                    <div id="aCI3A000000CaiQWAS_keyFactsTable" style="padding-left: 0px;" class="col-md-7"></div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                                        <div class="row">
+                            <div class="col-md-12">
+                                <section class="l-page-block l-text-block">
+                                    <div class="l-content-container">
+<p>Don't meet the entry requirements? We also offer an <a title="Acadecmic English course" href="programs/academic-english">Academic English course</a></p>                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="/en/universities/university-of-south-florida/programs/graduate-study-abroad-with-english-in-business" class="l-cta cta cn-hidden-cta" title="View full details">
+                                View full details
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <script id="tabsScriptUniversityCourses1" type="text/javascript">
+                            $(document).ready(function () {
+                                initializeAccordionLayout("#panes1" + " .accordion-part");
+                            });
+                        </script>
+                    </div>
+                </div>
+            <section class="l-page-block l-text-block">
+                <div class="l-content-container">
+                    <a class="l-cta cta" title="Contact us" href="https://go.intostudy.com/enquiry">Contact us</a>
+                </div>
+            </section>
+
+            <div class="clearfix highlighter-container inline-cta uni-colour-primary">
+                <div class="l-highlight-container">
+                    <div class="text-container">
+                        <span style="color:#ffffff">For more information contact our friendly advisers</span>
+                    </div>
+                    <div class="cta-container">
+                        <a href="https://go.intostudy.com/enquiry" onmouseover="this.style.background = '#007679'" onmouseout="this.style.background = '#00aaad'" class="l-cta cta"
+                           style="background: rgb(0, 170, 173);">
+                            <span id="text">Contact us</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/en/about-into">About INTO</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/study-abroad">Study abroad</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/study-programs">Study programs</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/universities">Universities</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/apply">Apply</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                Students - if you&#x2019;re using an Education Counselor please contact them with any questions; all other students contact us using one of the below methods
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">UK student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">US student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-7 col-lg-6">
+                    <span class="footer-contact-header">China student applications:</span>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:cnadmissions@intoglobal.com" class="email-link">cnadmissions@intoglobal.com</a>
+                    </div>
+                </div>
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/en/legal-and-privacy-policy">Privacy</a>
+                &nbsp;|&nbsp;
+                <a href="/en/terms">Terms</a>
+                &nbsp;|&nbsp;
+                <a href="/en/into-sitemap">Sitemap</a>
+                &nbsp;|&nbsp;
+                <a href="/en/legal-and-privacy-policy/cookies-policy">Cookies Policy</a>
+                &nbsp;|&nbsp;
+                <a href="/en/governance">Governance</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

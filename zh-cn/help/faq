@@ -1,0 +1,1608 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/help/faq" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/help/faq" hreflang="en" />
+        <link rel="alternate" href="https://www.intostudy.com/ar/help/faq" hreflang="ar" />
+        <link rel="alternate" href="https://www.intostudy.com/zh-cn/help/faq" hreflang="zh-cn" />
+    <link rel="alternate" href="https://www.intostudy.com/en/help/faq" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/zh-cn/help/faq -->
+    <!-- Encoded URL is https://www.intostudy.com/zh-cn/help/faq -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>留学常见问题 | INTO</title>
+        <meta name="description" content="英美留学常见问题集锦&#xFF0C;包括有关留学签证申请&#x3001;留学预科课程申请等系列热门留学问题&#x3002;" />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/zh-cn/help/faq" />
+        <meta property="og:title" content="留学常见问题 | INTO" />
+        <meta property="og:description" content="英美留学常见问题集锦&#xFF0C;包括有关留学签证申请&#x3001;留学预科课程申请等系列热门留学问题&#x3002;" />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/zh-cn.min.css?v=mKhwKuBxdBfb3HqWtRhGe3AGOTadDxzxeI5R0VxNUTo" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/zh-cn/help/faq" />
+
+
+    <!-- BrowserTestData: Faq, zh-cn. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/help/faq"><span class="l-language-block-text  ">English</span></a>
+                <a class="l-language-block" href="/zh-cn/help/faq"><span class="l-language-block-text   is-current">中文</span></a>
+                <a class="l-language-block" href="/ar/help/faq"><span class="l-language-block-text  ">العربية</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">中文<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/en/help/faq">English</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/zh-cn/help/faq">中文</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/ar/help/faq">العربية</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="站内搜索...">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/zh-cn'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/zh-cn'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/success-with-into">
+                                                                                <span>成功学生案例</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/faq">
+                                                                                <span>常见问题</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/uk">
+                                                                                <span>留学英国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/us">
+                                                                                <span>留学美国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/parents-guide">
+                                                                                <span>家长指南</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/fees">
+                                                                                <span>费用细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/admissions/scholarships">
+                                                                                <span>奖学金细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/visas-and-pre-arrival-support-services">
+                                                                                <span>行前指南及签证服务</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/success-with-into">成功学生案例<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/faq">常见问题<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/uk">留学英国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/us">留学美国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/parents-guide">家长指南<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/fees">费用细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/admissions/scholarships">奖学金细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/visas-and-pre-arrival-support-services">行前指南及签证服务<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="站内搜索...">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/zh-cn" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/help" class="breadcrumb-item">需要帮助</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/help/faq" class="breadcrumb-item">FAQ</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            <div class="canvas" style="min-height: calc(100vh - 340px);">
+   <div class="contentPane">
+      <div class="DnnModule-IntoFAQ">
+         <div>
+            <div>
+               <div class="DNNModuleContent ModIntoFAQC">
+                  <div>
+                  </div>
+                  <section class="l-faqs l-page-block">
+                     <div class="l-content-container">
+                        <div class="faq-filters-container group">
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_2">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 64 80" enable-background="new 0 0 64 64" xml:space="preserve">
+                                    <g>
+                                       <path d="M8.354,0.553v62.895h47.29V0.553H8.354z M32.352,56.172H16.04v-2h16.312V56.172z M32.352,49.551H16.04v-2h16.312V49.551z    M32.352,42.932H16.04v-2h16.312V42.932z M32.352,36.311H16.04v-2h16.312V36.311z M47.959,55.172H37.793V35.311h10.166V55.172z    M47.959,29.69H16.04v-2h31.919V29.69z M47.959,23.069H16.04v-2h31.919V23.069z M47.959,16.449H16.04v-2h31.919V16.449z    M47.959,9.828H16.04v-2h31.919V9.828z"></path>
+                                    </g>
+                                 </svg>
+                              </div>
+                              <p>申请相关问题</p>
+                           </a>
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_3">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" enable-background="new 0 0 100 100" xml:space="preserve">
+                                    <g display="none">
+                                       <rect x="-192" display="inline" width="185" height="99"></rect>
+                                       <rect y="-36" display="inline" width="100" height="30"></rect>
+                                       <rect x="-126.514" y="34.815" display="inline" fill="#000000" width="10.261" height="10.185"></rect>
+                                       <rect x="-126.477" y="31.766" display="inline" fill="#000000" width="0.522" height="2.337"></rect>
+                                       <rect x="-116.812" y="31.766" display="inline" fill="#000000" width="0.523" height="2.337"></rect>
+                                       <rect x="-127" y="32.337" display="inline" fill="#000000" width="11.233" height="0.572"></rect>
+                                       <g display="inline">
+                                          <rect x="-83.805" y="33.844" fill="#000000" width="10.305" height="10.156"></rect>
+                                          <rect x="-76.809" y="28.707" fill="#000000" width="3.308" height="3.261"></rect>
+                                       </g>
+                                       <rect x="-178.5" y="22.5" display="inline" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"></rect>
+                                       <rect x="-136.5" y="22.5" display="inline" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"></rect>
+                                       <rect x="-93.5" y="22.5" display="inline" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"></rect>
+                                       <rect x="-49.5" y="22.5" display="inline" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"></rect>
+                                    </g>
+                                    <g>
+                                       <path d="M50.125,57.783l-28.08-11.355c-1.162,2.481-2.034,5.402-2.329,9.346c16.641,0.486,31.603,18.082,31.603,18.082   S67.45,56.169,83.799,55.842c-0.419-4.54-1.46-7.776-2.855-10.525L50.125,57.783z"></path>
+                                       <path d="M100,35.457v-3.416l-6.81-2.755l-1.823-2.961c-1.243-1.701-5.708-2.551-8.069-1.039L50.29,11.939L0.58,32.041v3.416   l25.529,10.323l24.181,9.777L76.83,44.824l11.693-4.729V75.99c-1.34,0.711-2.263,2.102-2.263,3.723v10.779h8.453V79.713   c0-1.543-0.837-2.88-2.073-3.618l0.144-37.72L100,35.457z"></path>
+                                    </g>
+                                 </svg>
+                              </div>
+                              <p>学术相关问题</p>
+                           </a>
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_4">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 48 60" enable-background="new 0 0 48 48" xml:space="preserve">
+                                    <g>
+                                       <path d="M42.49,31.748l-1.206-1.211l-6.157,2.588c-0.13-0.135-0.26-0.268-0.39-0.396c-3.12-3.143-4.565-3.828-5.038-3.352   c-0.47,0.475,0.211,1.93,3.33,5.072c0.127,0.129,0.261,0.262,0.394,0.393l-2.568,6.199l1.205,1.211l3.715-5.201   c1.025,0.918,2.033,1.764,2.889,2.42l-0.767,2.771l0.813,0.82l1.567-2.486c0.374,0.199,0.628,0.273,0.725,0.178   c0.097-0.094,0.021-0.354-0.177-0.729l2.468-1.576l-0.814-0.822l-2.752,0.771c-0.65-0.861-1.492-1.875-2.404-2.906L42.49,31.748z"></path>
+                                       <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="   M5.128,28.895L1.236,17.697c-0.767-2.207,0.397-4.645,2.591-5.416L35.165,1.238c2.193-0.773,4.614,0.4,5.381,2.607l5.678,16.332   c0.258,0.742,0.298,1.512,0.151,2.234"></path>
+                                       <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="   M47,42.748C47,45.086,45.102,47,42.778,47H9.576c-2.323,0-4.225-1.914-4.225-4.252V25.447c0-2.338,1.901-4.252,4.225-4.252h33.203   c1.307,0,2.479,0.605,3.256,1.551C46.638,23.482,47,24.424,47,25.447V42.748z"></path>
+                                       <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="10.998" y1="25.803" x2="26.177" y2="25.803"></line>
+                                       <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="10.998" y1="31.625" x2="26.177" y2="31.625"></line>
+                                       <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="10.998" y1="37.447" x2="26.177" y2="37.447"></line>
+                                    </g>
+                                 </svg>
+                              </div>
+                              <p>行前指南问题</p>
+                           </a>
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_5">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+                                    <g>
+                                       <polygon points="31.488,34.641 64.991,23.53 58.37,14.338 36.596,30.007 36.596,30.007 29.647,35.007 30.39,35.007  "></polygon>
+                                       <polygon points="76.837,35.007 75.89,32.17 73.8,25.869 73.019,26.13 46.261,35.007  "></polygon>
+                                       <path d="M82.481,35.007c1.387,0,2.5,1.123,2.5,2.5v11.912l2.783-1.387l2.217-1.113V33.508c0-1.929-1.563-3.501-3.496-3.501H80.44   l1.66,5H82.481z"></path>
+                                       <path d="M84.981,85h1.504c1.934,0,3.496-1.572,3.496-3.506v-8.408l-5,2.5V85z"></path>
+                                       <path d="M62.491,65c0-6.89,5.605-12.5,12.49-12.5h3.828l1.172-0.591v-8.494c0-1.931-1.563-3.501-3.496-3.501H49.151H28.495H16.869   c-1.074-0.278-1.87-1.24-1.87-2.407c0-1.377,1.118-2.5,2.5-2.5h3.594l1.909-1.377l5.034-3.623H17.499c-4.146,0-7.5,3.362-7.5,7.5   V57.5v20v5c0,4.141,3.354,7.5,7.5,7.5h44.992c0.371,0,0.732-0.039,1.094-0.098h8.896h4.004c1.934,0,3.496-1.563,3.496-3.496V77.5   h-5C68.097,77.5,62.491,71.895,62.491,65z"></path>
+                                       <path d="M79.981,57.5h-5c-4.141,0-7.49,3.364-7.49,7.5c0,4.141,3.35,7.5,7.49,7.5h5l10-5l0.02-15L79.981,57.5z M74.981,67.5   c-1.377,0-2.5-1.123-2.5-2.5s1.123-2.5,2.5-2.5c1.387,0,2.5,1.123,2.5,2.5S76.368,67.5,74.981,67.5z"></path>
+                                    </g>
+                                 </svg>
+                              </div>
+                              <p>费用相关问题</p>
+                           </a>
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_7">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" data-icon="home" data-container-transform="translate(0 3)" viewBox="0 0 128 160" x="0px" y="0px">
+                                    <path d="M64 .625c-.413 0-.794.125-1.094.375l-61.813 54c-.6.6-.394 1 .406 1h9c.8 0 1.994-.4 2.594-1l49.719-42c.6-.5 1.681-.5 2.281 0l49.813 42c.6.6 1.794 1 2.594 1h9c.9 0 1.006-.5.406-1l-61.719-54c-.35-.25-.775-.375-1.188-.375zm.063 16c-.425 0-.856.125-1.156.375l-40.906 34-4.813 4c-.011.009-.02.022-.031.031-.675.599-1.145 1.653-1.156 2.438 0 .009 0 .022 0 .031l.188 60.5h37.813v-24h20v24h38v-60.5c0-.788-.473-1.863-1.156-2.469l-22.844-19.031-22.813-19c-.3-.25-.7-.375-1.125-.375z" transform="translate(0 3)"></path>
+                                 </svg>
+                              </div>
+                              <p>生活相关问题</p>
+                           </a>
+                        </div>
+                        <div class="faq-filters-container sub-category-filters is-hidden">
+                           <a class="faq-sub-filter" title="美国" id="cat_2_subcat_1" style="display: none;">美国</a>
+                           <a class="faq-sub-filter" title="英国" id="cat_2_subcat_2" style="display: none;">英国</a>
+                           <a class="faq-sub-filter" title="美国" id="cat_3_subcat_4" style="display: none;">美国</a>
+                           <a class="faq-sub-filter" title="英国" id="cat_3_subcat_5" style="display: none;">英国</a>
+                           <a class="faq-sub-filter" title="中国（不适用于中国大陆、香港及台湾地区学生）" id="cat_3_subcat_6" style="display: none;">中国（不适用于中国大陆、香港及台湾地区学生）</a>
+                           <a class="faq-sub-filter" title="美国" id="cat_4_subcat_7" style="display: none;">美国</a>
+                           <a class="faq-sub-filter" title="英国" id="cat_4_subcat_8" style="display: none;">英国</a>
+                           <a class="faq-sub-filter" title="中国（不适用于中国大陆、香港及台湾地区学生）" id="cat_4_subcat_9" style="display: none;">中国（不适用于中国大陆、香港及台湾地区学生）</a>
+                           <a class="faq-sub-filter" title="美国" id="cat_5_subcat_10" style="display: none;">美国</a>
+                           <a class="faq-sub-filter" title="英国" id="cat_5_subcat_11" style="display: none;">英国</a>
+                           <a class="faq-sub-filter" title="中国（不适用于中国大陆、香港及台湾地区学生）" id="cat_5_subcat_12" style="display: none;">中国（不适用于中国大陆、香港及台湾地区学生）</a>
+                           <a class="faq-sub-filter" title="美国" id="cat_7_subcat_13" style="display: none;">美国</a>
+                           <a class="faq-sub-filter" title="英国" id="cat_7_subcat_14" style="display: none;">英国</a>
+                           <a class="faq-sub-filter" title="中国（不适用于中国大陆、香港及台湾地区学生）" id="cat_7_subcat_15" style="display: none;">中国（不适用于中国大陆、香港及台湾地区学生）</a>
+                           <a class="faq-sub-filter" title="中国（不适用于中国大陆、香港及台湾地区学生）" id="cat_2_subcat_19" style="display: none;">中国（不适用于中国大陆、香港及台湾地区学生）</a>
+                        </div>
+                        <div class="faq-question-container" role="tablist">
+                           <div class="faq-question" id="cat_2_subcat_1_ques_3" data-h-url="Do-I-need-to-take-an-IELTS-or-TOEFL-exam-before-applying-to-the-US">
+                              <a href="javascript:void(0)" title="
+                                 我在申请去美国留学前是否要参加雅思或托福考试？
+                                 " class="faq-title" role="tab" aria-controls="a_3" id="q_3">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我在申请去美国留学前是否要参加雅思或托福考试？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_3" aria-labelledby="q_3">
+                                 <div class="a-icon">A</div>
+                                 <p>大部分情况下，申请本科或硕士预科课程，需要参加雅思或托福iBT考试。各个课程或学位的最低语言要求有所不同，请至课程页面查询具体要求。你若申请学术英语、综合英语、海外学年课程或留学英语课程，则无需参加这些考试。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_5" data-h-url="What-documents-do-I-need-to-submit-with-my-application-for-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 我申请英国留学需要准备什么材料？
+                                 " class="faq-title" role="tab" aria-controls="a_5" id="q_5">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我申请英国留学需要准备什么材料？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_5" aria-labelledby="q_5">
+                                 <div class="a-icon">A</div>
+                                 <p>当你提交申请时，需要准备好下列文件：最近三年的学习成绩单及证明文件复印件；最近一次SELT（安全英语语言考试）成绩复印件。对于某些课程，我们只接受UKVI（英国签证与移民局）批准的雅思考试成绩单。了解更多UKVI雅思考试信息或联系我们了解更多详情。考试日期必须在所选课程开课日期前两年内。我们需要查看原件和加盖学校章或机构章的英文翻译件。英语课程只需提供SELT成绩证明。综合英语课程需提供护照复印件。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_7" data-h-url="How-do-I-accept-an-offer">
+                              <a href="javascript:void(0)" title="
+                                 我要如何接受入学/录取通知？
+                                 " class="faq-title" role="tab" aria-controls="a_7" id="q_7">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我要如何接受入学/录取通知？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_7" aria-labelledby="q_7">
+                                 <div class="a-icon">A</div>
+                                 <p>要接受你的入学通知，你需要在我们给你发送的入学通知书上填写相关信息并签字发回，同时需要缴纳所需保证金。保证金金额会在入学通知书中明示。保证金是总费用的一部分，通常包括学费保证金和住宿保证金。如果你选择留学英国，你的保证金中也包含Uniplan医疗保险费用。如果你选择留学美国，你需要在抵达大学后支付健康保险费用。你的入学通知书上会写明支付选项。如果你是公派留学学生（由政府、组织或公司提供财力支持），你只需支付资助方未覆盖部分的保证金，如住宿保证金。如果你收到的是有条件录取通知书，你仍可以接受该通知。关于录取、课程、住宿或其他地方有任何问题，请与我们联系。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_8" data-h-url="How-do-I-know-if-I-am-eligible-for-a-specific-course-or-program">
+                              <a href="javascript:void(0)" title="
+                                 我怎样才能知道自己是否具备申请某课程的资格？
+                                 " class="faq-title" role="tab" aria-controls="a_8" id="q_8">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我怎样才能知道自己是否具备申请某课程的资格？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_8" aria-labelledby="q_8">
+                                 <div class="a-icon">A</div>
+                                 <p>通过使用课程选择器，你可以在我们的任一大学里查看各个课程的申请要求详情。如果你想与我们沟通，看看哪个选择最适合你，我们乐意为你提供帮助！</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_1_ques_9" data-h-url="What-documents-do-I-need-to-submit-with-my-application-for-the-US">
+                              <a href="javascript:void(0)" title="
+                                 我申请去美国留学需要提交什么文件？
+                                 " class="faq-title" role="tab" aria-controls="a_9" id="q_9">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我申请去美国留学需要提交什么文件？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_9" aria-labelledby="q_9">
+                                 <div class="a-icon">A</div>
+                                 <p>当你申请预科课程时，需要提交下列文件：护照复印件、高中及中学以上教育的所有成绩单和成绩证明复印件，有效英语能力测试成绩复印件，第一年学习的财力证明（银行证明）。如果你已经在美国学习，你还需提交你的美国签证复印件和现有I-20表格。如果非本人承担学费，你需要提交资助人的正式财务担保或由此人签字的财力支持誓书，且此人姓名需与银行证明所示姓名一致。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_10" data-h-url="What-is-an-International-Foundation-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 英国的“国际预科课程（International Foundation）”是什么？
+                                 " class="faq-title" role="tab" aria-controls="a_10" id="q_10">
+                                 <div class="q-icon">Q</div>
+                                 <h2>英国的“国际预科课程（International Foundation）”是什么？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_10" aria-labelledby="q_10">
+                                 <div class="a-icon">A</div>
+                                 <p>国际预科课程专为不能满足直升本科学位课程条件的学生而设计。国际预科课程帮助你适应英国大学的教育系统，提升你的英文能力。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_4_ques_11" data-h-url="What-is-a-Pathway-program-in-the-US">
+                              <a href="javascript:void(0)" title="
+                                 美国的“国际衔接课程（Pathway）”是什么？
+                                 " class="faq-title" role="tab" aria-controls="a_11" id="q_11">
+                                 <div class="q-icon">Q</div>
+                                 <h2>美国的“国际衔接课程（Pathway）”是什么？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_11" aria-labelledby="q_11">
+                                 <div class="a-icon">A</div>
+                                 <p>就读美国的衔接课程，你可以积累本科或硕士学位学习学分，同时提升你的学术能力和英文能力。如果你的语言分数和成绩不能达到直升大学的入学要求，你可以通过上预科课程来节省时间。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_12" data-h-url="What-is-International-Year-one-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 英国的“国际大一课程（International Year one）”是什么？
+                                 " class="faq-title" role="tab" aria-controls="a_12" id="q_12">
+                                 <div class="q-icon">Q</div>
+                                 <h2>英国的“国际大一课程（International Year one）”是什么？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_12" aria-labelledby="q_12">
+                                 <div class="a-icon">A</div>
+                                 <p>国际大一课程（有时又称国际文凭课程）相当于英国本科学位一年级课程（或苏格兰大学二年级课程）。这一课程能让你做好升入所选大学二年级学习（如为苏格兰大学则升入三年级学习）的准备。你会发展你的学习技能、英语能力和学科知识，做好去大学学习的准备。我们亲切的员工会为你所选学位课程的UCAS申请提供支持。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_13" data-h-url="What-is-a-graduate-diploma-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 英国的“国际大学硕士文凭课程（Graduate Diploma）”是什么？
+                                 " class="faq-title" role="tab" aria-controls="a_13" id="q_13">
+                                 <div class="q-icon">Q</div>
+                                 <h2>英国的“国际大学硕士文凭课程（Graduate Diploma）”是什么？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_13" aria-labelledby="q_13">
+                                 <div class="a-icon">A</div>
+                                 <p>英国的国际大学硕士文凭课程是一个硕士预科课程。这一课程为你上英国硕士课程做好准备。你会展开硕士学习，在研究技巧、英语能力、小组作业和高效时间管理上有所进步。我们还会为你的个人和学术发展提供指导。（注意：在美国，这种课程被称为“硕士衔接课程”，保证你能够升入正式学位课程，同时还能积累硕士学位学分。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_14" data-h-url="What-English-language-courses-are-available-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 在英国有什么英语语言课程可以选择？
+                                 " class="faq-title" role="tab" aria-controls="a_14" id="q_14">
+                                 <div class="q-icon">Q</div>
+                                 <h2>在英国有什么英语语言课程可以选择？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_14" aria-labelledby="q_14">
+                                 <div class="a-icon">A</div>
+                                 <p>我们在英国提供两种学术英语课程：大学阶段英语学习课程和学位预备英语课程。大学阶段英语学习课程中会学到取得大学成功学业所需的语言和学习技能。如果你已经获得本科或研究生课程录取通知书，专业资格已经得到校方认可，但需要提高英语成绩，那么学位预备英语课程就非常适合你。这一课程专注学术英语和综合学习能力培养。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_15" data-h-url="What-is-a-UK-multi-pathway-centre">
+                              <a href="javascript:void(0)" title="
+                                 英国的“选择中心（Choice centre）”或多专业方向中心（Multi Pathway）是什么？
+                                 " class="faq-title" role="tab" aria-controls="a_15" id="q_15">
+                                 <div class="q-icon">Q</div>
+                                 <h2>英国的“选择中心（Choice centre）”或多专业方向中心（Multi Pathway）是什么？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_15" aria-labelledby="q_15">
+                                 <div class="a-icon">A</div>
+                                 <p>多专业方向中心是可以学习INTO预科课程并选择升读多个英国大学的INTO中心。我们的多专业方向中心有：INTO曼彻斯特（可升读NCUK大学），INTO伦敦（可升读INTO附属大学）和INTO斯特灵大学（可升读一系列苏格兰一流大学）</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_16" data-h-url="How-can-I-find-out-my-English-language-level-for-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 我如何能够知道自己的英文水平在英国怎么样？
+                                 " class="faq-title" role="tab" aria-controls="a_16" id="q_16">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我如何能够知道自己的英文水平在英国怎么样？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_16" aria-labelledby="q_16">
+                                 <div class="a-icon">A</div>
+                                 <p>你可以参加SELT（安全英语语言考试）或联系我们了解更多参加INTO考试的信息。雅思考试是安全英语语言考试，需在认证考试中心参加考试，可证明你的英语水平。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_17" data-h-url="How-is-academic-conduct-monitoried">
+                              <a href="javascript:void(0)" title="
+                                 学术方面的要求有多严格？
+                                 " class="faq-title" role="tab" aria-controls="a_17" id="q_17">
+                                 <div class="q-icon">Q</div>
+                                 <h2>学术方面的要求有多严格？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_17" aria-labelledby="q_17">
+                                 <div class="a-icon">A</div>
+                                 <p>你需要按时上课，完成所有课堂作业和考试，尊重其它学生和教职员工，完成课内课外作业，确保所有上交的作业均为自己独立完成。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_18" data-h-url="What-happens-if-I-dont-pass">
+                              <a href="javascript:void(0)" title="
+                                 如果我考试不过怎么办？
+                                 " class="faq-title" role="tab" aria-controls="a_18" id="q_18">
+                                 <div class="q-icon">Q</div>
+                                 <h2>如果我考试不过怎么办？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_18" aria-labelledby="q_18">
+                                 <div class="a-icon">A</div>
+                                 <p>如果你考试没有通过，可能可以重考。考试不过或需要重考可能会影响你所选大学的升读成功率。不过，我们会根据你的情况为你提供参考建议。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_19" data-h-url="What-are-the-current-rates-of-progression">
+                              <a href="javascript:void(0)" title="
+                                 INTO现在的升学率如何？
+                                 " class="faq-title" role="tab" aria-controls="a_19" id="q_19">
+                                 <div class="q-icon">Q</div>
+                                 <h2>INTO现在的升学率如何？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_19" aria-labelledby="q_19">
+                                 <div class="a-icon">A</div>
+                                 <p>通过预科课程的INTO学生100%都升入了高等教育学府。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_20" data-h-url="Does-INTOs-International-Foundation-guarantee-progression-to-a-degree">
+                              <a href="javascript:void(0)" title="
+                                 INTO的国际预科课程能否保证升读学位课程？
+                                 " class="faq-title" role="tab" aria-controls="a_20" id="q_20">
+                                 <div class="q-icon">Q</div>
+                                 <h2>INTO的国际预科课程能否保证升读学位课程？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_20" aria-labelledby="q_20">
+                                 <div class="a-icon">A</div>
+                                 <p>如果你能顺利完成国际预科课程，遵守INTO教学中心的专业建议并满足最低考勤要求，我们保证能够帮你定位升读适合的学位和大学。如果你已经达到所选学位课程的学术入学要求，我们的英语课程可确保你能升读相关本科或硕士学位课程。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_21" data-h-url="How-long-does-it-take-to-complete-a-degree-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 在英国完成学位学习需要多少年？
+                                 " class="faq-title" role="tab" aria-controls="a_21" id="q_21">
+                                 <div class="q-icon">Q</div>
+                                 <h2>在英国完成学位学习需要多少年？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_21" aria-labelledby="q_21">
+                                 <div class="a-icon">A</div>
+                                 <p>通常，完成标准本科学位需要三年（苏格兰需要四年）。硕士学位通常需要一年，博士学位需要三年。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_6_ques_22" data-h-url="How-long-does-it-take-to-complete-a-degree-in-China">
+                              <a href="javascript:void(0)" title="
+                                 在中国完成学位学习需要多少年？
+                                 " class="faq-title" role="tab" aria-controls="a_22" id="q_22">
+                                 <div class="q-icon">Q</div>
+                                 <h2>在中国完成学位学习需要多少年？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_22" aria-labelledby="q_22">
+                                 <div class="a-icon">A</div>
+                                 <p>我们在南开大学的硕士课程为两年制。南开大学的临床医学学士课程为六年制。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_4_ques_23" data-h-url="How-long-does-it-take-to-complete-a-degree-in-the-US">
+                              <a href="javascript:void(0)" title="
+                                 在美国完成学位学习需要多少年？
+                                 " class="faq-title" role="tab" aria-controls="a_23" id="q_23">
+                                 <div class="q-icon">Q</div>
+                                 <h2>在美国完成学位学习需要多少年？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_23" aria-labelledby="q_23">
+                                 <div class="a-icon">A</div>
+                                 <p>通常在美国包括本科预科学习在内完成标准本科学位需要四年。大部分美国的硕士课程设计为两年制。某些硕士课程（如MBA）的课程设计为三年制。博士学位通常需要五年才能完成。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_8_ques_24" data-h-url="What-will-happen-when-I-arrive-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 我抵达英国后会发生什么？
+                                 " class="faq-title" role="tab" aria-controls="a_24" id="q_24">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我抵达英国后会发生什么？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_24" aria-labelledby="q_24">
+                                 <div class="a-icon">A</div>
+                                 <p>你到达英国机场后，需要通过边检进入英国。移民官员会在你提取行李前检查你的文件，放行后你才能前往INTO中心。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_7_ques_25" data-h-url="What-will-happen-when-I-arrive-in-the-US">
+                              <a href="javascript:void(0)" title="
+                                 我抵达美国后会发生什么？
+                                 " class="faq-title" role="tab" aria-controls="a_25" id="q_25">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我抵达美国后会发生什么？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_25" aria-labelledby="q_25">
+                                 <div class="a-icon">A</div>
+                                 <p>当你抵达美国时，需要向移民官员出示下列材料：含新签证在内的护照、I-20、I-94卡（飞机上会提供给你的小白卡）和海关表。在你的随身行李中还需要准备入学通知书和资产证明，以便询问时可向官员出示。然后你才可以提取行李。我们会尽力安排员工和学生在你抵达时去你大学附近的机场迎接你。如果你向我们提出接机要求，我们会安排车辆从机场接你至宿舍。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_9_ques_26" data-h-url="What-will-happen-when-I-arrive-in-China">
+                              <a href="javascript:void(0)" title="
+                                 我抵达中国后会发生什么？
+                                 " class="faq-title" role="tab" aria-controls="a_26" id="q_26">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我抵达中国后会发生什么？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_26" aria-labelledby="q_26">
+                                 <div class="a-icon">A</div>
+                                 参加学术学习的学生，应在开课（注册日）前抵达中国，这点非常重要。  如果你无法提前抵达，请务必让INTO中国招生团队尽快知晓。中文夏季课程学生应计划在开课前即周五抵达。如果你计划较晚抵达，我们仍会确保有人去机场接你，并帮助你补习缺漏的功课。如果你提前或推迟抵达，通常可提供延期住宿。
+                                 <p></p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_27" data-h-url="What-should-I-pack">
+                              <a href="javascript:void(0)" title="
+                                 我需要带什么行李？
+                                 " class="faq-title" role="tab" aria-controls="a_27" id="q_27">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我需要带什么行李？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_27" aria-labelledby="q_27">
+                                 <div class="a-icon">A</div>
+                                 <p>能尽量多带就多带！大部分航空公司允许托运20至23公斤行李，且对所有手提行李的规格和重量都有严格要求。请确保在手提随身行李中放好文件、重要药品（及相关处方）、你的手机和换洗衣服。核对你所选课程或大学的出发指南，查看详细打包列表。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_28" data-h-url="Can-I-arrive-early-or-late">
+                              <a href="javascript:void(0)" title="
+                                 我可以提前或推迟抵达吗？
+                                 " class="faq-title" role="tab" aria-controls="a_28" id="q_28">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我可以提前或推迟抵达吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_28" aria-labelledby="q_28">
+                                 <div class="a-icon">A</div>
+                                 <p>在英国，你需在课程开课两天前抵达。如果更晚抵达，你可能会错过上课或重要的新生活动。在美国，你的学生签证准许你在开课日期前30天抵达美国。如果你选择校园宿舍并决定在校方提供的迁入日期前入境，你需要自己解决临时住宿问题。你可以查看大学的出发指南，了解当地酒店信息。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_29" data-h-url="How-do-I-arrange-an-airport-pick-up">
+                              <a href="javascript:void(0)" title="
+                                 我要如何安排机场接机？
+                                 " class="faq-title" role="tab" aria-controls="a_29" id="q_29">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我要如何安排机场接机？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_29" aria-labelledby="q_29">
+                                 <div class="a-icon">A</div>
+                                 <p>我们可以安排出租车去机场接你。若需预定接机服务，请完成抵达详情表并于抵达日期至少7天前交至你所选INTO中心的招生办公室。在美国，我们会尽力安排员工和学生在你抵达时去你大学附近的机场迎接你。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_30" data-h-url="How-will-I-contact-my-family">
+                              <a href="javascript:void(0)" title="
+                                 我怎样才能与家人联络？
+                                 " class="faq-title" role="tab" aria-controls="a_30" id="q_30">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我怎样才能与家人联络？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_30" aria-labelledby="q_30">
+                                 <div class="a-icon">A</div>
+                                 <p>所有大学和INTO中心都有无线网络，你可以在那里用Skype给家里打电话。你还可以在离境前与手机运营商开通目的地漫游服务。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_31" data-h-url="How-do-I-apply-for-accommodation">
+                              <a href="javascript:void(0)" title="
+                                 我该如何申请宿舍？
+                                 " class="faq-title" role="tab" aria-controls="a_31" id="q_31">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我该如何申请宿舍？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_31" aria-labelledby="q_31">
+                                 <div class="a-icon">A</div>
+                                 <p>你需要在课程申请中提交住宿申请。如果你在课程申请时未提交住宿申请，你可以与招生团队联络并补交住宿申请。我们建议你尽早申请住宿，因为我们的INTO中心住宿名额有限，先到先得。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_32" data-h-url="Is-accommodation-guaranteed">
+                              <a href="javascript:void(0)" title="
+                                 宿舍是有保障的吗？
+                                 " class="faq-title" role="tab" aria-controls="a_32" id="q_32">
+                                 <div class="q-icon">Q</div>
+                                 <h2>宿舍是有保障的吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_32" aria-labelledby="q_32">
+                                 <div class="a-icon">A</div>
+                                 <p>我们在英国的宿舍采取先到先得的政策。支付住宿保证金后即可锁定你的所选宿舍。一些美国大学在学生规划中会要求本科预科学生选择校园住宿，如果你的课程对住宿有所要求，那么你的校园住宿资格会得到保证。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_33" data-h-url="What-are-the-visa-requirements">
+                              <a href="javascript:void(0)" title="
+                                 签证要求是什么？
+                                 " class="faq-title" role="tab" aria-controls="a_33" id="q_33">
+                                 <div class="q-icon">Q</div>
+                                 <h2>签证要求是什么？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_33" aria-labelledby="q_33">
+                                 <div class="a-icon">A</div>
+                                 <p>每个国家的特定签证要求有所不同，我们会帮助你了解这些要求。查看本网站“选择国家”部分获得各个国家的签证具体要求。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_34" data-h-url="How-do-I-pay-my-fees">
+                              <a href="javascript:void(0)" title="
+                                 我应如何支付费用？
+                                 " class="faq-title" role="tab" aria-controls="a_34" id="q_34">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我应如何支付费用？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_34" aria-labelledby="q_34">
+                                 <div class="a-icon">A</div>
+                                 <p>你可以通过任意银行转账或信用卡支付费用。你的押金详情及支付方式信息会包含在入学通知书中。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_35" data-h-url="When-will-I-need-to-pay-my-fees">
+                              <a href="javascript:void(0)" title="
+                                 我什么时候需要支付费用？
+                                 " class="faq-title" role="tab" aria-controls="a_35" id="q_35">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我什么时候需要支付费用？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_35" aria-labelledby="q_35">
+                                 <div class="a-icon">A</div>
+                                 <p>你需要在开课前支付费用，以免延误入学登记。如果你使用信用卡支付，通常需要给信用卡开户行发出事前通知。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_36" data-h-url="Do-I-get-a-refund-if-I-cancel">
+                              <a href="javascript:void(0)" title="
+                                 如果我取消入学的话是否可以收到退款？
+                                 " class="faq-title" role="tab" aria-controls="a_36" id="q_36">
+                                 <div class="q-icon">Q</div>
+                                 <h2>如果我取消入学的话是否可以收到退款？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_36" aria-labelledby="q_36">
+                                 <div class="a-icon">A</div>
+                                 <p>仅在签证拒签或未达到入学要求的情况下才可退全款。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_37" data-h-url="Do-I-need-to-pay-a-deposit">
+                              <a href="javascript:void(0)" title="
+                                 我需要支付保证金吗？
+                                 " class="faq-title" role="tab" aria-controls="a_37" id="q_37">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我需要支付保证金吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_37" aria-labelledby="q_37">
+                                 <div class="a-icon">A</div>
+                                 <p>你在课程开课至少六周前需支付保证金确认你的所选课程资格。如果你还申请了住宿，则需要支付额外保证金来确保住宿资格。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat_12_ques_38" data-h-url="What-currency-will-an-invoice-for-study-in-China-be-quoted-in">
+                              <a href="javascript:void(0)" title="
+                                 留学中国所需的学费是什么货币单位？（答案为英文）
+                                 " class="faq-title" role="tab" aria-controls="a_38" id="q_38">
+                                 <div class="q-icon">Q</div>
+                                 <h2>留学中国所需的学费是什么货币单位？（答案为英文）</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_38" aria-labelledby="q_38">
+                                 <div class="a-icon">A</div>
+                                 <p>Your course fees will be shown in RMB but an exchange example will also be shown in $US dollars and £Sterling.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_39" data-h-url="How-much-cash-should-I-bring">
+                              <a href="javascript:void(0)" title="
+                                 我应该携带多少现金？
+                                 " class="faq-title" role="tab" aria-controls="a_39" id="q_39">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我应该携带多少现金？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_39" aria-labelledby="q_39">
+                                 <div class="a-icon">A</div>
+                                 <p>我们建议你带足最初两周的花销费用。大概金额约为250英镑或400美金。请不要随身携带过多现金。查看你所在中心或大学提供的行前指南并了解我们会如何帮你开立银行账户。 </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_40" data-h-url="Do-I-need-medical-insurance">
+                              <a href="javascript:void(0)" title="
+                                 我需要医疗保险吗？
+                                 " class="faq-title" role="tab" aria-controls="a_40" id="q_40">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我需要医疗保险吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_40" aria-labelledby="q_40">
+                                 <div class="a-icon">A</div>
+                                 <p>你需要有覆盖旅行、医疗和健康的全面保险。除非你在申请过程中能够提交相应保险证明，我们会在你的学习计划中为你登记适合的医疗保险。如果你将在英国学习，Uniplan保险费用会自动加在你的课程费用里。如果你选择留学美国，你需要在抵达大学后支付健康保险费用。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_41" data-h-url="When-do-I-get-my-student-card">
+                              <a href="javascript:void(0)" title="
+                                 我什么时候可以拿到学生卡？
+                                 " class="faq-title" role="tab" aria-controls="a_41" id="q_41">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我什么时候可以拿到学生卡？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_41" aria-labelledby="q_41">
+                                 <div class="a-icon">A</div>
+                                 <p>在新生欢迎周期间我们会为你提供学生卡。拿到学生卡后即可在校园的各类设施中使用。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_42" data-h-url="Who-should-I-inform-if-my-contact-details-change">
+                              <a href="javascript:void(0)" title="
+                                 如果我的联络信息有变更应该联系谁？
+                                 " class="faq-title" role="tab" aria-controls="a_42" id="q_42">
+                                 <div class="q-icon">Q</div>
+                                 <h2>如果我的联络信息有变更应该联系谁？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_42" aria-labelledby="q_42">
+                                 <div class="a-icon">A</div>
+                                 <p>如果你在抵达前要变更信息，请联系处理你申请的招生团队。如果你在INTO中心或大学时更改信息，你需要将新信息提交给所在中心或大学的相关员工。 </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_43" data-h-url="Will-I-be-able-to-find-food-from-my-country">
+                              <a href="javascript:void(0)" title="
+                                 我能找到我们国家的风味美食吗？
+                                 " class="faq-title" role="tab" aria-controls="a_43" id="q_43">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我能找到我们国家的风味美食吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_43" aria-labelledby="q_43">
+                                 <div class="a-icon">A</div>
+                                 <p>当然能！大部分城市都有亚洲超市和其它国际杂货店售卖正宗食材。大城市都有中国城和国际社区，里面的餐厅都供应正宗美食。你还可以将家常菜谱与大学员工和学生一起分享。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_44" data-h-url="Will-I-be-able-to-find-Halal-food">
+                              <a href="javascript:void(0)" title="
+                                 我能找到清真食品吗？
+                                 " class="faq-title" role="tab" aria-controls="a_44" id="q_44">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我能找到清真食品吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_44" aria-labelledby="q_44">
+                                 <div class="a-icon">A</div>
+                                 <p>当然！许多大型超市都有清真食品专区。尤其是在英国和美国大城市，你可以在许多城市找到清真商店</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_45" data-h-url="Will-I-be-able-to-find-food-that-meets-my-dietary-needs-if-I-live-on-campus">
+                              <a href="javascript:void(0)" title="
+                                 我如果住在校园宿舍里，能找到满足我膳食需求的餐厅吗？
+                                 " class="faq-title" role="tab" aria-controls="a_45" id="q_45">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我如果住在校园宿舍里，能找到满足我膳食需求的餐厅吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_45" aria-labelledby="q_45">
+                                 <div class="a-icon">A</div>
+                                 <p>当然能！大学里的食堂和餐厅提供各种校园餐饮选择，尤其是美国校园内。你能够找到素食、犹太洁食、清真食品和无谷蛋白食品等多种选择。大部分情况下，大学餐饮服务会接受学生的食谱建议，如果你想在学校菜单上看到某种食物，请尽管咨询！</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_57" data-h-url="Can-I-take-my-IELTS-exam-at-an-INTO-centre">
+                              <a href="javascript:void(0)" title="
+                                 我可以在INTO中心参加雅思考试吗？
+                                 " class="faq-title" role="tab" aria-controls="a_57" id="q_57">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我可以在INTO中心参加雅思考试吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_57" aria-labelledby="q_57">
+                                 <div class="a-icon">A</div>
+                                 <p>INTO UEA和INTO GCU均为雅思考试中心，全年均有考试安排。</p>
+                                 <p></p>
+                                 <ul>
+                                    <li>雅思学术类考试衡量的是高等教育学术环境中学习所需的英语语言水平。</li>
+                                    <li> 雅思普通类考试衡量的是日常实用英语语言水平。</li>
+                                 </ul>
+                                 <p></p>
+                                 <p>两类考试都会测试阅读、写作、听力和口语等综合英语语言能力。你的成绩单上会显示各单项分数及总分。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_19_ques_58" data-h-url="Is-there-a-language-requirement-for-studying-in-China">
+                              <a href="javascript:void(0)" title="
+                                 在中国学习是否有语言要求？
+                                 " class="faq-title" role="tab" aria-controls="a_58" id="q_58">
+                                 <div class="q-icon">Q</div>
+                                 <h2>在中国学习是否有语言要求？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_58" aria-labelledby="q_58">
+                                 <div class="a-icon">A</div>
+                                 <p>中文夏季课程无需流利英语或中文。我们在教授英语和中文初学者方面有着丰富的经验。对于英文授课的本科或硕士学位课程，非英语母语人士需至少拿到雅思6分的成绩。如果你来参加INTO中国学位课程项目且是中文初学者，无需中文语言能力要求。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat_14_ques_59" data-h-url="how-can-i-open-a-bank-account-in-the-uk">
+                              <a href="javascript:void(0)" title="
+                                 我在英国要如何开立银行账户？
+                                 " class="faq-title" role="tab" aria-controls="a_59" id="q_59">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我在英国要如何开立银行账户？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_59" aria-labelledby="q_59">
+                                 <div class="a-icon">A</div>
+                                 <p>抵达英国以后，你可以开立银行账户并在学习中心登记注册。要开立学生银行账户，你需要提供入学通知。我们的学生服务人员会在新生周期间指导你完成这一流程。</p>
+                                 <a href="/zh-cn/study-abroad/country-guides/uk/currency-banking" class="l-cta cta">更多英国货币信息</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_8_ques_60" data-h-url="what-documents-should-i-bring-with-me">
+                              <a href="javascript:void(0)" title="
+                                 我需要携带什么文件？
+                                 " class="faq-title" role="tab" aria-controls="a_60" id="q_60">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我需要携带什么文件？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_60" aria-labelledby="q_60">
+                                 <div class="a-icon">A</div>
+                                 <p>你需要随身携带护照、签证、CAS证明、成绩单、相关证书及肺结核健康证明（如适用）。</p>
+                                 <a>href="/apps" class="l-cta cta"&gt;阅读行前指南</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_8_ques_61" data-h-url="do-i-need-to-bring-my-own-bed-linen">
+                              <a href="javascript:void(0)" title="
+                                 我需要携带自己的床上用品吗？
+                                 " class="faq-title" role="tab" aria-controls="a_61" id="q_61">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我需要携带自己的床上用品吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_61" aria-labelledby="q_61">
+                                 <div class="a-icon">A</div>
+                                 <p>如果你计划在INTO宿舍楼入住，我们会提供枕头、被子、被罩等必备床品。</p>
+                                 <a>href="/apps" class="l-cta cta"&gt;阅读行前指南</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_63" data-h-url="What-Secure-English-Test-should-I-take-if-I-want-to-study-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 如果我要在英国学习，应该参加哪种安全英语语言考试？
+                                 " class="faq-title" role="tab" aria-controls="a_63" id="q_63">
+                                 <div class="q-icon">Q</div>
+                                 <h2>如果我要在英国学习，应该参加哪种安全英语语言考试？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_63" aria-labelledby="q_63">
+                                 <div class="a-icon">A</div>
+                                 <p>如果你想要来英国留学，你需要参加UKVI雅思考试证明你的英语能力，并以此申请Tier 4学生签证。所有申请Tier 4签证来英国就读学士学位以下级别课程的学生，必须在签证申请中提交相应的雅思学术类考试证明。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_65" data-h-url="Am-I-able-to-get-an-offer-before-receiving-my-final-transcripts-and-certificates">
+                              <a href="javascript:void(0)" title="
+                                 我在拿到最终成绩单和证书以前，可以拿到录取通知书吗？
+                                 " class="faq-title" role="tab" aria-controls="a_65" id="q_65">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我在拿到最终成绩单和证书以前，可以拿到录取通知书吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_65" aria-labelledby="q_65">
+                                 <div class="a-icon">A</div>
+                                 <p>如果你还未拿到最终成绩单和证书，别担心。我们可以给你发出有条件录取通知，指定学业成绩或英语成绩达到一定分数有效。当你提供最终证明并满足通知书录取条件后，我们会将你的通知书改为无条件录取通知。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_67" data-h-url="I-have-an-EU-passport-will-I-need-a-VISA-to-study-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 我有欧盟国家护照，我需要申请签证吗？
+                                 " class="faq-title" role="tab" aria-controls="a_67" id="q_67">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我有欧盟国家护照，我需要申请签证吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_67" aria-labelledby="q_67">
+                                 <div class="a-icon">A</div>
+                                 <p>不需要，你来英国读书不需要申请签证。虽然英国最近公投决定退欧，但至少两年内不会有任何影响。请联系我们了解更多详情。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_68" data-h-url="I-have-a-non-EU-passport-will-I-need-a-visa">
+                              <a href="javascript:void(0)" title="
+                                 我的护照为非欧盟国家护照，我需要申请签证吗？
+                                 " class="faq-title" role="tab" aria-controls="a_68" id="q_68">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我的护照为非欧盟国家护照，我需要申请签证吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_68" aria-labelledby="q_68">
+                                 <div class="a-icon">A</div>
+                                 <p>是的，你参加INTO课程需要申请签证。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_69" data-h-url="How-much-money-will-I-need-to-show-for-a-Tier-4-visa-application-to-study-at-INTO-City-INTO-London-or-INTO-St-Georges">
+                              <a href="javascript:void(0)" title="
+                                 申请Tier 4签证前往INTO城市大学、INTO伦敦中心或INTO圣乔治学院就读课程，需要出示多少资金证明？
+                                 " class="faq-title" role="tab" aria-controls="a_69" id="q_69">
+                                 <div class="q-icon">Q</div>
+                                 <h2>申请Tier 4签证前往INTO城市大学、INTO伦敦中心或INTO圣乔治学院就读课程，需要出示多少资金证明？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_69" aria-labelledby="q_69">
+                                 <div class="a-icon">A</div>
+                                 <p->
+                                    你需要提供你名下或你父母名下最近期的银行证明，显示拥有足够的资金支付全额学费以及每月1265英镑的INTO学习费用（最多九个月）。
+                                    <p></p>
+                                 </p->
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_70" data-h-url="Is-INTO-a-registered-Tier-4-sponsor">
+                              <a href="javascript:void(0)" title="
+                                 INTO是Tier 4签证的注册担保机构吗？
+                                 " class="faq-title" role="tab" aria-controls="a_70" id="q_70">
+                                 <div class="q-icon">Q</div>
+                                 <h2>INTO是Tier 4签证的注册担保机构吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_70" aria-labelledby="q_70">
+                                 <div class="a-icon">A</div>
+                                 <p>INTO曼彻斯特中心和INTO伦敦中心具有INTO曼彻斯特担保机构执照。在其他INTO中心学习的学生需由留学的大学提供Tier 4签证担保。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_71" data-h-url="How-much-money-will-I-need-to-show-for-a-Tier-4-visa-application-to-study-at-most-INTO-Centres">
+                              <a href="javascript:void(0)" title="
+                                 申请Tier 4签证前往大部分INTO中心就读课程，需要出示多少资金证明？
+                                 " class="faq-title" role="tab" aria-controls="a_71" id="q_71">
+                                 <div class="q-icon">Q</div>
+                                 <h2>申请Tier 4签证前往大部分INTO中心就读课程，需要出示多少资金证明？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_71" aria-labelledby="q_71">
+                                 <div class="a-icon">A</div>
+                                 <p>你需要提供你名下或你父母名下最近期的银行证明，显示拥有足够的资金支付全额学费以及每月1015英镑的INTO学习费用（最多九个月）。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_72" data-h-url="Will-I-need-any-medical-documents-for-my-visa-application">
+                              <a href="javascript:void(0)" title="
+                                 我申请签证是否需要提供任何医疗文件？
+                                 " class="faq-title" role="tab" aria-controls="a_72" id="q_72">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我申请签证是否需要提供任何医疗文件？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_72" aria-labelledby="q_72">
+                                 <div class="a-icon">A</div>
+                                 <p>来自一些国家的学生需要提交肺结核证明。</p>
+                                 <a href="https://www.gov.uk/tb-test-visa/countries-where-you-need-a-tb-test-to-enter-the-uk" class="l-cta cta">关于肺结核证明（英文信息）</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_73" data-h-url="What-do-I-need-to-apply-for-a-tier-4-visa">
+                              <a href="javascript:void(0)" title="
+                                 我申请Tier 4签证需要做些什么准备？
+                                 " class="faq-title" role="tab" aria-controls="a_73" id="q_73">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我申请Tier 4签证需要做些什么准备？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_73" aria-labelledby="q_73">
+                                 <div class="a-icon">A</div>
+                                 <p>你需要持有来INTO学习的无条件录取通知，并已支付你的INTO课程押金，然后我们会发给你签证申请所需的CAS号码。</p>
+                                 <a href="/zh-cn/study-abroad/country-guides/uk/visas" class="l-cta cta">更多签证信息</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_74" data-h-url="Where-do-I-apply-for-a-tier-4-visa">
+                              <a href="javascript:void(0)" title="
+                                 我在哪里可以申请Tier 4签证？
+                                 " class="faq-title" role="tab" aria-controls="a_74" id="q_74">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我在哪里可以申请Tier 4签证？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_74" aria-labelledby="q_74">
+                                 <div class="a-icon">A</div>
+                                 <p>你可以通过英国政府网站在线进行Tier 4签证申请。</p>
+                                 <a href="https://www.gov.uk/tier-4-general-visa/apply" class="l-cta cta">立即申请</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_75" data-h-url="Can-I-extend-my-Tier-4-visa-in-the-UK-when-my-INTO-course-ends">
+                              <a href="javascript:void(0)" title="
+                                 我的INTO课程结束后，可以在英国延期Tier 4签证吗？
+                                 " class="faq-title" role="tab" aria-controls="a_75" id="q_75">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我的INTO课程结束后，可以在英国延期Tier 4签证吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_75" aria-labelledby="q_75">
+                                 <div class="a-icon">A</div>
+                                 <p>如果你在INTO伦敦中心或INTO曼彻斯特中心学习，你需要回国申请新签证。如果你在其它中心学习，且课程在现签证到期前28天内开课，你可以在英国境内续签。</p>
+                                 <a href="/zh-cn/study-abroad/country-guides/uk/visas" class="l-cta cta">更多签证信息</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_76" data-h-url="Can-I-work-in-the-UK-on-my-Tier-4-visa">
+                              <a href="javascript:void(0)" title="
+                                 我持有Tier 4签证，可以在英国工作吗？
+                                 " class="faq-title" role="tab" aria-controls="a_76" id="q_76">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我持有Tier 4签证，可以在英国工作吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_76" aria-labelledby="q_76">
+                                 <div class="a-icon">A</div>
+                                 <p>在INTO伦敦中心和INTO曼彻斯特中心学习的学生不可以持Tier 4签证在英国工作。在其它中心学习的学生，最长工作时长不得超过10小时，攻读硕士文凭或本科/硕士学位的学生，最长工作时长不得超过20小时。</p>
+                                 <a href="/zh-cn/study-abroad/country-guides/uk/visas" class="l-cta cta">更多签证信息</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_77" data-h-url="Can-I-speak-to-someone-in-my-native-language about my application">
+                              <a href="javascript:void(0)" title="
+                                 我可以使用母语与你们沟通申请相关事宜吗？
+                                 " class="faq-title" role="tab" aria-controls="a_77" id="q_77">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我可以使用母语与你们沟通申请相关事宜吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_77" aria-labelledby="q_77">
+                                 <div class="a-icon">A</div>
+                                 <p>可以，我们的工作人员可使用阿拉伯语、俄罗斯语、中文和波斯语。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_79" data-h-url="If-I-start-a-General-English-course-can-I-progress-to-English-for-University-Study-after-taking-an-IELTS-test">
+                              <a href="javascript:void(0)" title="
+                                 如果我一开始就读综合英语课程，我可以在参加雅思考试以后升入大学英语学习课程吗？
+                                 " class="faq-title" role="tab" aria-controls="a_79" id="q_79">
+                                 <div class="q-icon">Q</div>
+                                 <h2>如果我一开始就读综合英语课程，我可以在参加雅思考试以后升入大学英语学习课程吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_79" aria-labelledby="q_79">
+                                 <div class="a-icon">A</div>
+                                 <p>可以</p>
+                                 <a href="/zh-cn/study-programs" class="l-cta cta">查询课程</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_80" data-h-url="Can-I-study-on-a-tourist-visa-if-Im-already-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 如果我已经在英国境内，可以持旅游签证学习吗？
+                                 " class="faq-title" role="tab" aria-controls="a_80" id="q_80">
+                                 <div class="q-icon">Q</div>
+                                 <h2>如果我已经在英国境内，可以持旅游签证学习吗？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_80" aria-labelledby="q_80">
+                                 <div class="a-icon">A</div>
+                                 <p>持旅游签证只能学习四周。</p>
+                                 <a href="/zh-cn/study-abroad/country-guides/uk/visas" class="l-cta cta">更多签证信息</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_81" data-h-url="Im-already-in-the-UK-and-I-dont-have-an-IELTS-can-your-centre-provide-alternative-assessment-so-I-can-study-English-for-University-Study">
+                              <a href="javascript:void(0)" title="
+                                 我已经在英国境内，我没有雅思成绩。你们中心是否能够提供其他评估，让我可以参加EUS课程？
+                                 " class="faq-title" role="tab" aria-controls="a_81" id="q_81">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我已经在英国境内，我没有雅思成绩。你们中心是否能够提供其他评估，让我可以参加EUS课程？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_81" aria-labelledby="q_81">
+                                 <div class="a-icon">A</div>
+                                 <p>我们大多数中心都提供EUS课程英语能力直接测试。</p>
+                                 <a href="/zh-cn/study-abroad/country-guides/uk/visas/ielts" class="l-cta cta">更多签证信息</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_82" data-h-url="Can-I-complete-four-terms-of-EUS-on-a-Student-Visitor-visa">
+                              <a href="javascript:void(0)" title="
+                                 我持访问学生签证是否可以完成四个学期的EUS课程？
+                                 " class="faq-title" role="tab" aria-controls="a_82" id="q_82">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我持访问学生签证是否可以完成四个学期的EUS课程？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_82" aria-labelledby="q_82">
+                                 <div class="a-icon">A</div>
+                                 <p>在英国参加四个学期课程需要持有Tier 4签证。</p>
+                                 <a href="/zh-cn/study-abroad/country-guides/uk/visas" class="l-cta cta">更多签证信息</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_83" data-h-url="Where-do-your-students-come-from">
+                              <a href="javascript:void(0)" title="
+                                 你们的学生都来自哪里？
+                                 " class="faq-title" role="tab" aria-controls="a_83" id="q_83">
+                                 <div class="q-icon">Q</div>
+                                 <h2>你们的学生都来自哪里？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_83" aria-labelledby="q_83">
+                                 <div class="a-icon">A</div>
+                                 <p>我们的所有学习中心都是多国教学，学生来自全世界各地。</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_84" data-h-url="Why-is-an-EUS-course-also-called-academic-English">
+                              <a href="javascript:void(0)" title="
+                                 为什么大学英语学习课程（EUS）也叫“学术英语”？
+                                 " class="faq-title" role="tab" aria-controls="a_84" id="q_84">
+                                 <div class="q-icon">Q</div>
+                                 <h2>为什么大学英语学习课程（EUS）也叫“学术英语”？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_84" aria-labelledby="q_84">
+                                 <div class="a-icon">A</div>
+                                 <p>在这门课程中，你将学习到学术英语。我们会教你如何开发研究及陈述演示等学术技能，同时提高你的英文水平。</p>
+                                 <a href="/zh-cn/study-programs" class="l-cta cta">查询课程</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_85" data-h-url="Whats-the-minimum-age-required-for-a-student-to-apply-for-General-English">
+                              <a href="javascript:void(0)" title="
+                                 我持访问学生签证是否可以完成四个学期的EUS课程？
+                                 " class="faq-title" role="tab" aria-controls="a_85" id="q_85">
+                                 <div class="q-icon">Q</div>
+                                 <h2>我持访问学生签证是否可以完成四个学期的EUS课程？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_85" aria-labelledby="q_85">
+                                 <div class="a-icon">A</div>
+                                 <p>在英国参加四个学期课程需要持有Tier 4签证。</p>
+                                 <a href="/zh-cn/study-programs " class="l-cta cta">查询课程</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_86" data-h-url="Will-a-General-English-course-help-me-improve-my-sub-skills-in-IELTS">
+                              <a href="javascript:void(0)" title="
+                                 通用英语课程是否可以帮助我提升雅思单项技能？
+                                 " class="faq-title" role="tab" aria-controls="a_86" id="q_86">
+                                 <div class="q-icon">Q</div>
+                                 <h2>通用英语课程是否可以帮助我提升雅思单项技能？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_86" aria-labelledby="q_86">
+                                 <div class="a-icon">A</div>
+                                 <p>综合英语课程学习适用于日常对话。该课程会帮助你提高英语能力，但课程设计并非旨在帮助学生备考雅思。</p>
+                                 <a href="/zh-cn/study-abroad/country-guides/uk/visas/ielts " class="l-cta cta">更多雅思信息</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_87" data-h-url="Is-your-end-of-term-assessment-for-my-English-language-level-at-English-for-University-Study-course-accepted-by-other-non-INTO-partners">
+                              <a href="javascript:void(0)" title="
+                                 EUS课程结束后的英语语言水平期末评估成绩是否在非INTO合作机构通用？
+                                 " class="faq-title" role="tab" aria-controls="a_87" id="q_87">
+                                 <div class="q-icon">Q</div>
+                                 <h2>EUS课程结束后的英语语言水平期末评估成绩是否在非INTO合作机构通用？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_87" aria-labelledby="q_87">
+                                 <div class="a-icon">A</div>
+                                 <p>你需要向其它非INTO合作机构核实是否接受我们的评估成绩。</p>
+                                 <a href="/zh-cn/study-programs " class="l-cta cta">查询课程</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_89" data-h-url="Do-I-need-to-retake-a-IELTS-test-after-completing-my-programme-of-EUS">
+                              <a href="javascript:void(0)" title="
+                                 完成EUS课程后，我是否需要重考雅思？
+                                 " class="faq-title" role="tab" aria-controls="a_89" id="q_89">
+                                 <div class="q-icon">Q</div>
+                                 <h2>完成EUS课程后，我是否需要重考雅思？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_89" aria-labelledby="q_89">
+                                 <div class="a-icon">A</div>
+                                 <p>如果你的考试成绩达到INTO合作院校雅思同等要求，则无需再重考雅思。</p>
+                                 <a href="/zh-cn/study-abroad/country-guides/uk/visas/ielts " class="l-cta cta">更多雅思信息</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_90" data-h-url="tef">
+                              <a href="javascript:void(0)" title="
+                                 什么是教育水平框架（TEF）质量标准？
+                                 " class="faq-title" role="tab" aria-controls="a_90" id="q_90">
+                                 <div class="q-icon">Q</div>
+                                 <h2>什么是教育水平框架（TEF）质量标准？</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_90" aria-labelledby="q_90">
+                                 <div class="a-icon">A</div>
+                                 <p>教育水平框架是由政府支持、对英格兰及部分苏格兰和威尔士大学本科教学水平评估的衡量标准。</p>
+                                 <p>该框架对参评高校的评估方面包括：</p>
+                                 <ul>
+                                    <li>教学质量</li>
+                                    <li>学习环境</li>
+                                    <li>学生学习成果及收获</li>
+                                 </ul>
+                                 <p>大学可获得该框架颁发的金、银、铜奖。</p>
+                                 <p>
+                                    更多详细信息请访问：<a href="http://www.hefce.ac.uk/TEFoutcomes" title="www.hefce.ac.uk/TEFoutcomes" target="_blank">www.hefce.ac.uk/TEFoutcomes</a>
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_91" data-h-url="guaranteedprogression">
+                              <a href="javascript:void(0)" title="
+                                 What does guaranteed progression mean?
+                                 " class="faq-title" role="tab" aria-controls="a_91" id="q_91">
+                                 <div class="q-icon">Q</div>
+                                 <h2>What does guaranteed progression mean?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_91" aria-labelledby="q_91">
+                                 <div class="a-icon">A</div>
+                                 <p>To ensure you are eligible to progress on to the relevant university, you must:</p>
+                                 <ul>
+                                    <li>Meet the minimum attendance requirements for your INTO course.</li>
+                                    Meet the University’s required progression grades for your chosen degree course - each individual degree programme has unique progression requirements.
+                                    <li>Follow the academic advice and guidance of INTO staff throughout your pathway programme.</li>
+                                    <ul>
+                                       <p>If you follow these guidelines, we guarantee you a conditional offer at your pathway provider university. If you are studying at one of our multi-pathway choice Centres, you will be eligible for a conditional offer at a relevant INTO affiliate or partner university.</p>
+                                       <p>Have questions about progression? <a title="Contact us" href="/en/help">contact us</a></p>
+                                    </ul>
+                                 </ul>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_92" data-h-url="visa-application">
+                              <a href="javascript:void(0)" title="
+                                 When should I apply for my Tier 4 visa?
+                                 " class="faq-title" role="tab" aria-controls="a_92" id="q_92">
+                                 <div class="q-icon">Q</div>
+                                 <h2>When should I apply for my Tier 4 visa?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_92" aria-labelledby="q_92">
+                                 <div class="a-icon">A</div>
+                                 Visas can take up to 30 days to come through. Please ensure that you apply as soon as you have received your offer.
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_93" data-h-url="ingenico">
+                              <a href="javascript:void(0)" title="
+                                 When I pay my fees why does the web site say I am making a payment to Ingenico’s ‘GlobalCollect’ and not directly to my chosen INTO Centre?
+                                 " class="faq-title" role="tab" aria-controls="a_93" id="q_93">
+                                 <div class="q-icon">Q</div>
+                                 <h2>When I pay my fees why does the web site say I am making a payment to Ingenico’s ‘GlobalCollect’ and not directly to my chosen INTO Centre?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_93" aria-labelledby="q_93">
+                                 <div class="a-icon">A</div>
+                                 <p>INTO Centres in the UK and US have recently partnered with Ingenico, one of the world’s major payment providers, to take payments via Ingenico’s GlobalCollect platform. </p>
+                                 <p>
+                                    Working with Ingenico allows INTO to offer a much broader range of secure payment methods and currencies in many countries across the world.
+                                 </p>
+                                 <p>This is why you will see GlobalCollect’s name on your bank statement and not the name of the INTO Centre in question.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </section>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                            <a href="http://www.weibo.com/intohigher/" target="_blank" class="footer-social-link social-link-weibo"><img src="/images/footer/icon_weibo.svg" /></a>
+                            <a href="http://i.youku.com/u/UMjYwODYzNTY4" target="_blank" class="footer-social-link social-link-youku"><img src="/images/footer/icon_reverse_youku.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/about-into">关于我们</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-abroad">选择国家</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-programs">查询课程</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/universities">选择大学</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/apply">申请留学</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                学生&#x2014;&#x2014;如果你已签约教育顾问&#xFF0C;请直接联系他们以解答疑问&#xFF1B;未使用代理的学生请通过以下任何方式与我们取得联系
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">英国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">美国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy">法律和隐私</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/terms">使用条款</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/into-sitemap">网站地图</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy/cookies-policy">浏览器缓存政策</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/governance">治理</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

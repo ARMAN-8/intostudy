@@ -1,0 +1,1439 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/fees" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/fees" hreflang="en" />
+        <link rel="alternate" href="https://www.intostudy.com/zh-cn/fees" hreflang="zh-cn" />
+    <link rel="alternate" href="https://www.intostudy.com/en/fees" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/zh-cn/fees -->
+    <!-- Encoded URL is https://www.intostudy.com/zh-cn/fees -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>资费细则 | INTO</title>
+        <meta name="description" content="来INTO留学期间你需知晓的学费及资金管理相关的所有信息&#x3002;" />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/zh-cn/fees" />
+        <meta property="og:title" content="资费细则 | INTO" />
+        <meta property="og:description" content="来INTO留学期间你需知晓的学费及资金管理相关的所有信息&#x3002;" />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/zh-cn.min.css?v=mKhwKuBxdBfb3HqWtRhGe3AGOTadDxzxeI5R0VxNUTo" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/zh-cn/fees" />
+
+
+    <!-- BrowserTestData: Fees, zh-cn. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/fees"><span class="l-language-block-text  ">English</span></a>
+                <a class="l-language-block" href="/zh-cn/fees"><span class="l-language-block-text   is-current">中文</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">中文<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/en/fees">English</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/zh-cn/fees">中文</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="站内搜索...">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/zh-cn'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/zh-cn'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/success-with-into">
+                                                                                <span>成功学生案例</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/faq">
+                                                                                <span>常见问题</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/uk">
+                                                                                <span>留学英国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/us">
+                                                                                <span>留学美国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/parents-guide">
+                                                                                <span>家长指南</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/fees">
+                                                                                <span>费用细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/admissions/scholarships">
+                                                                                <span>奖学金细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/visas-and-pre-arrival-support-services">
+                                                                                <span>行前指南及签证服务</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/success-with-into">成功学生案例<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/faq">常见问题<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/uk">留学英国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/us">留学美国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/parents-guide">家长指南<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/fees">费用细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/admissions/scholarships">奖学金细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/visas-and-pre-arrival-support-services">行前指南及签证服务<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="站内搜索...">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/zh-cn" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/fees" class="breadcrumb-item">资费细则</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            
+<div class="feesPage">
+    <div class="canvas" style="min-height: calc(100vh - 380px);">
+        <div class="headerPane">
+            <div class="DnnModule-DNN_HTML DnnVersionableControl">
+                <div class="hero_banner nolazyload">
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div>
+                            <img src="/Images/Top-level-images/uog-students-sitting-on-bench-hero.jpg" alt="International students on campus">
+                            <div class="caption_holder">
+                                <h1>资费细则</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="dnn_ContentPane" class="contentPane">
+            <div class="DnnModule DnnModule-DNN_HTML DnnModule-42850 DnnVersionableControl">
+                <a name="42850"></a>
+                <section class="l-page-block l-text-block">
+                    <div id="dnn_ctr42850_ContentPane" class="l-content-container">
+                        <!-- Start_Module_42850 -->
+                        <div id="dnn_ctr42850_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                            <div id="dnn_ctr42850_HtmlModule_lblContent">
+                                <h2>学费支付</h2>
+                                <p>决定去哪里学习哪个专业时，预算是非常重要的一个考量因素。海外留学的时候，有三种主要支出需要考虑：学费、生活费和保险费。</p>
+                                <p>其中最大的一项支出就是你的学费。这项支出根据你的所选大学和专业课程类型而定。</p>
+                                <h3>学费包含哪些内容？</h3>
+                                <ul>
+                                    <li>授课教学（在INTO学习期间平均每周接触时长超过12小时）</li>
+                                    <li>支持服务</li>
+                                    <li>大学设施使用（学术与社交设施）</li>
+                                </ul>
+                                <p>当你决定好要上的大学和专业课程后，你需要考虑学费的支付方式问题。学费需在课程开始前全额支付。你可以通过我们的支付合作伙伴<a href="/zh-cn/help/faq#!/ingenico">安智公司</a>进行银行转账或信用卡支付。</p>
+                                <p>如有需要可提供付款规划方案。<a href="https://go.intostudy.com/zh-cn/enquiry">请联系我们</a>获取详情。</p>
+                                <p><a href="/zh-cn/study-abroad/country-guides/scholarships">我们还为国际学生提供多个学费减免的奖学金项目。</a></p>
+                                <p>关于学费支付存在任何问题吗？</p>
+                                <a href="https://go.intostudy.com/zh-cn/enquiry" class="l-cta cta">给我们发送消息</a>
+                            </div>
+                        </div>
+                        <!-- End_Module_42850 -->
+                    </div>
+                </section>
+            </div>
+            <div class="DnnModule DnnModule-DNN_HTML DnnModule-42851 DnnVersionableControl">
+                <a name="42851"></a>
+                <section class="l-page-block l-text-block">
+                    <div id="dnn_ctr42851_ContentPane" class="l-content-container">
+                        <!-- Start_Module_42851 -->
+                        <div id="dnn_ctr42851_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                            <div id="dnn_ctr42851_HtmlModule_lblContent">
+                                <h2>学费</h2>
+                                <p>下方所列为INTO各中心课程价格简表。请注意该价格不包含书本和实验室费用等课程特定支出。</p>
+                                <p>此信息在发布之时真实有效，但可能会有所变更。</p>
+                            </div>
+                        </div>
+                        <!-- End_Module_42851 -->
+                    </div>
+                </section>
+            </div>
+            <div class="DnnModule DnnModule-DNN_HTML DnnModule-42852 DnnVersionableControl">
+                <a name="42852"></a>
+                <section class="l-detailed-info l-page-block block-bottom-spacere">
+                    <div id="dnn_ctr42852_ContentPane" class="l-content-container">
+                        <!-- Start_Module_42852 -->
+                        <div id="dnn_ctr42852_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                            <div id="dnn_ctr42852_HtmlModule_lblContent">
+                                <section>
+                                    <div class="l-accordian-container">
+                                        <a class="accordian-control">
+                                            <span>
+                                                <em></em>
+                                            </span>
+                                            英国费用
+                                        </a>
+                                        <div class="l-accordian">
+                                            <div>
+                                                <h2>英国费用</h2>
+                                                <p>请注意此信息在发布之时真实有效，但可能会有所变更。</p>
+                                                <table class="r-tbl-headers">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>
+                                                                <strong>学习中心</strong>
+                                                            </th>
+                                                            <th>
+                                                                <strong>国际预科课程</strong>
+                                                            </th>
+                                                            <th>
+                                                                <strong>连读课程</strong>
+                                                            </th>
+                                                            <th><strong>国际大一课程*</strong> </th>
+                                                            <th><strong>学位课程** </strong></th>
+                                                            <th>
+                                                                <strong>大学英语课程</strong>
+                                                            </th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top">
+                                                                <p><a href="/zh-cn/universities/university-of-east-anglia">INTO东英吉利大学</a></p>
+                                                            </td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                <p>£17,495 - £22,745</p>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                <p>N/A</p>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                <p>£17,495 - £22,245</p>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                <p>N/A</p>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                <p>£4,750 每学期</p>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/university-of-exeter">INTO埃克塞特大学</a></td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £15,995 - £23,245 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">£18,495 </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">£4,750 每学期 </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/newcastle-university">INTO纽卡斯尔大学</a></td>
+                                                            <td data-header="国际预科课程" class="v-top">£17,995 - £23,245 </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                £17,995 - £23,245 <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £4,750 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/newcastle-university-london">INTO纽卡斯尔大学伦敦分校</a></td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £14,995 - £19,295 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                £13,980 (Year 1) <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                £14,995 - £19,295 <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                £13,980 每年 <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £4,300 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-ch/universities/the-university-of-manchester">INTO曼彻斯特中心与曼彻斯特大学合作项目</a></td>
+                                                            <td data-header="国际预科课程" class="v-top">£16,495 - £20,945 </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £4,450 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/manchester-metropolitan-university">INTO曼彻斯特中心与曼彻斯特城市大学合作项目</a></td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £14,495 - £18,945 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                £14,495 - £18,945 <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                £12,720 - £14,100 <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £4,450 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/glasgow-caledonian-university">INTO格拉斯哥卡利多尼亚大学</a> </td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £12,495 - £21,395 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                £12,495 - £19,395 <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £3,450 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/queens-university-belfast">INTO英国女王大学</a></td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £15,495 - £24,595 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                £15,495 - £24,095 <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £4,450 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/city-university-london">INTO伦敦大学城市学院</a> </td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £15,495 - £21,795 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £4,300 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/university-of-gloucestershire">INTO格鲁斯特大学</a></td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £7,500 - £15,945 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                £12,495 - £15,945 (Year 1) <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                £12,495 - £15,945 <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £3,450 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/university-of-stirling">INTO斯特灵大学</a> </td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £14,495 - £18,795 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                £14,495 (Year 1) <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £4,300 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/into-manchester">INTO曼彻斯特中心</a> </td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £14,495 - £18,945 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                £14,495 - £18,945 <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £4,450 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-header="学习中心" class="v-top"><a href="/zh-cn/universities/into-london">INTO伦敦中心</a> </td>
+                                                            <td data-header="国际预科课程" class="v-top">
+                                                                £17,995 - £22,295 <br>
+                                                            </td>
+                                                            <td data-header="连读课程" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="国际大一课程*" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="学位课程**" class="v-top">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td data-header="大学英语课程" class="v-top">
+                                                                £4,300 每学期 <br>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <p> </p>
+                                                <p>
+                                                    *等同于英国本科学位一年级学习
+                                                </p>
+                                                <p>**<strong>针对纽卡斯尔大学伦敦分校学位课程：</strong>如果你的课程时长超过一年，请注意学费每年会有所更新。每年一般上浮5%，我们会针对任何的费用变更尽早予以通知。取决于实习提供方成本因素，实习年度费用可能较高。</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="l-accordian-container">
+                                        <a class="accordian-control">
+                                            美国费用
+                                            <span>
+                                                <em></em>
+                                            </span>
+                                        </a>
+                                        <div class="l-accordian">
+                                            <div>
+                                                <h2>美国费用</h2>
+                                                <p>请注意此信息在发布之时真实有效，但可能会有所变更。</p>
+                                                <table class="r-tbl-headers">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>
+                                                                <strong>学习中心</strong>
+                                                            </th>
+                                                            <th>
+                                                                <strong>学期跨度</strong>
+                                                            </th>
+                                                            <th>
+                                                                <strong>本科衔接课程</strong>
+                                                            </th>
+                                                            <th>
+                                                                <strong>研究生衔接课程</strong><br>
+                                                            </th>
+                                                            <th>
+                                                                <strong>学术英语课程*</strong>
+                                                            </th>
+                                                            <th><strong>本科直升课程**</strong> </th>
+                                                            <th>
+                                                                <strong>研究生直升课程**</strong>
+                                                            </th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">
+                                                                <p><a href="/zh-cn/universities/oregon-state-university">INTO俄勒冈州立大学</a></p>
+                                                            </td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                <p>1-term</p>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">
+                                                                <p>$11,845            </p>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$11,845 </td>
+                                                            <td class="v-center" data-header="学术英语课程*">
+                                                                <p>$5,630</p>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">
+                                                                <p>
+                                                                    $10,114
+                                                                </p>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                <p>
+                                                                    $8,406
+                                                                </p>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                2学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">
+                                                                $23,690<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                $23,690 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                <p>$11,260</p>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">$20,228 </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">$16,812 </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                3学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">
+                                                                $30,900 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                $30,900 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                <p>$16,890 </p>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">$30,342 </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                $25,218 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                4学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">
+                                                                $37,380<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">N/A </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                <p>N/A (15 学分/学期) </p>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">N/A (15 学分/学期) </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">N/A (15 学分/学期) </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心"><a href="/zh-cn/universities/university-of-south-florida">INTO南佛罗里达大学</a> </td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                1学期 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">
+                                                                <div class="page" title="Page 50">
+                                                                    <div class="layoutArea">
+                                                                        <div class="column">
+                                                                            <p><span>$14,600 </span></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                $17,810<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                $7,400 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">
+                                                                $17,324 (30 学分 - 15 学分/学期) <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                $15,864 (24 学分 - 12 学分/学期) <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                2学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">
+                                                                <div class="page" title="Page 50">
+                                                                    <div class="layoutArea">
+                                                                        <div class="column">
+                                                                            <p><span>$25,260 </span></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                $30,830<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                3学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">
+                                                                <div class="page" title="Page 50">
+                                                                    <div class="layoutArea">
+                                                                        <div class="column">
+                                                                            <p><span>$33,200 </span></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                &nbsp; <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                N/A<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心"><a href="/zh-cn/universities/colorado-state-university">INTO科罗拉多州立大学</a></td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                1学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">
+                                                                $18,150<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                $17,060 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                $8,530 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">
+                                                                $29,626 (24 学分 - 12 学分/学期) <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                $27,091 (18 学分 - 9 学分/学期) <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">2学期 </td>
+                                                            <td class="v-top" data-header="本科衔接课程">$32,190 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$29,680 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">3学期 </td>
+                                                            <td class="v-top" data-header="本科衔接课程">$41,310 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">N/A </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心"><a href="/zh-cn/universities/marshall-university">INTO马歇尔大学</a></td>
+                                                            <td class="v-top" data-header="学期跨度">1学期 </td>
+                                                            <td class="v-top" data-header="本科衔接课程">$13,160 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                $14,660 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                $6,170 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">
+                                                                $19,917 (24 学分 - 12 学分/学期) <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                $21,796 (18 学分 - 9 学分/学期) <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">2学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$22,890 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$25,500 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心"><a href="/zh-cn/universities/george-mason-university">INTO乔治梅森大学</a></td>
+                                                            <td class="v-top" data-header="学期跨度">1学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$21,150 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                $21,150 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                $8,610 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">
+                                                                $36,090 (24-32 学分 - 12-16 学分/学期) <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                $25,688 (18 学分 - 9 学分/学期) <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">2学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$36,800 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$36,800 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">3学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$46,150 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$46,150 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心"><a href="/zh-cn/universities/drew-university">INTO德鲁大学</a> </td>
+                                                            <td class="v-top" data-header="学期跨度">4学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">
+                                                                $39,500<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                $6,180 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">$39,500 (32 学分 - 16 学分/学期) </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                N/A <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                5学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">$46,610 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">N/A </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心"><a href="/zh-cn/universities/saint-louis-university">INTO圣路易斯大学</a></td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                1学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">$25,310 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$18,950 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                $7,820 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">
+                                                                $44,015 (24-36 学分 - 12-18 学分/学期) <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                $20,815 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">2学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$44,015 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$32,960 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心"><a href="/zh-cn/universities/the-university-of-alabama-at-birmingham">INTO阿拉巴马大学伯明翰分校</a></td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                1学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">$14,030 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$15,240 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                $7,060 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">
+                                                                $24,225 (30 学分 - 15 学分/学期) <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                $18,344 (18 学分 - 9 学分/学期) <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">2学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$24,400 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$26,500 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">3学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$32,280 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">&nbsp;</td>
+                                                            <td class="v-top" data-header="本科直升课程**">&nbsp;</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心"><a href="/zh-cn/universities/washington-state-university">INTO华盛顿州立大学</a></td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                1学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">$16,500 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$16,200 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                $6,900 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">
+                                                                $12,742 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                $12,608 <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">2学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$28,700 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$28,200 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">$13,800</td>
+                                                            <td class="v-top" data-header="本科直升课程**">$25,484</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">$25,216</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">3学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$36,300 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">$20,700</td>
+                                                            <td class="v-top" data-header="本科直升课程**">$38,226</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">$37,824</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心"><a href="/zh-cn/universities/suffolk-university">INTO萨福克大学</a></td>
+                                                            <td class="v-top" data-header="学期跨度">
+                                                                1学期<br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科衔接课程">$22,970 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$18,030-$29,360 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">
+                                                                $7,570 <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="本科直升课程**">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="研究生直升课程**">
+                                                                N/A <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">2学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$39,960 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">$31,310-$50,990 </td>
+                                                            <td class="v-top" data-header="学术英语课程*">$15,140</td>
+                                                            <td class="v-top" data-header="本科直升课程**">$37,270</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">$42,560</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="v-top" data-header="学习中心">&nbsp;</td>
+                                                            <td class="v-top" data-header="学期跨度">3学期</td>
+                                                            <td class="v-top" data-header="本科衔接课程">$48,560 </td>
+                                                            <td class="v-top" data-header="研究生衔接课程">
+                                                                N/A <br>
+                                                            </td>
+                                                            <td class="v-top" data-header="学术英语课程*">$22,710</td>
+                                                            <td class="v-top" data-header="本科直升课程**">N/A</td>
+                                                            <td class="v-top" data-header="研究生直升课程**">N/A</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <p> </p>
+                                                <p>*价格/学期（期）</p>
+                                                <p>**每学年学费及杂费价格。费用仅为预估，可能根据学位课程和所在大学二有所不同。请访问大学网站获取最新价格。</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                        <!-- End_Module_42852 -->
+                    </div>
+                </section>
+            </div>
+            <div class="DnnModule DnnModule-DNN_HTML DnnModule-42853 DnnVersionableControl">
+                <a name="42853"></a>
+                <section class="l-page-block l-text-block">
+                    <div id="dnn_ctr42853_ContentPane" class="l-content-container">
+                        <!-- Start_Module_42853 -->
+                        <div id="dnn_ctr42853_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                            <div id="dnn_ctr42853_HtmlModule_lblContent">
+                                <h2>生活成本</h2>
+                                <p>在校园生活能让你很好地适应大学，从第一天开始就能交到朋友。如果你想住在大学宿舍，我们可以为你安排。</p>
+                                <p>住宿费用可能因地点和大学不同而有所差别。当你选好大学后，可至“住宿”页面查找相关信息。</p>
+                                <p>你还需要考虑饮食、出行和其它花销所需的费用。这部分金额由你的生活地点和生活方式而定。</p>
+                                <p><a href="https://international.studentcalculator.org/" target="_blank">“国际学生支出计算器”</a>是个非常有用的工具，能够帮助你做好预算规划。我们还为你提供了简单易用的货币指南，请参见下方来管理你的预算和生活支出：</p>
+                                <a href="/zh-cn/study-abroad/country-guides/uk/currency-banking" class="l-cta cta">管理你在英国的资金</a>
+                                <br>
+                                <a href="/zh-cn/study-abroad/country-guides/us/currency-banking" class="l-cta cta">管理你在美国的资金</a>
+                            </div>
+                        </div>
+                        <!-- End_Module_42853 -->
+                    </div>
+                </section>
+            </div>
+            <div class="DnnModule DnnModule-DNN_HTML DnnModule-42854 DnnVersionableControl">
+                <a name="42854"></a>
+                <section class="l-page-block l-text-block">
+                    <div id="dnn_ctr42854_ContentPane" class="l-content-container">
+                        <!-- Start_Module_42854 -->
+                        <div id="dnn_ctr42854_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                            <div id="dnn_ctr42854_HtmlModule_lblContent">
+                                <h2>保险</h2>
+                                <p>准备踏上海外留学之旅了吗？别忘了购买保险。你需要旅行和医疗保险来覆盖你在英国或美国生活可能产生的任何相应支出。</p>
+                                <p>针对英国学生，为确保你能得到保障，我们会在你的申请中纳入Uniplan保险。Uniplan专为在英国生活和学习的国际学生设计，涵盖个人物品遗失、旅行、健康和医疗索赔等内容。</p>
+                                <p>如果你已有保险，请确保你的保险覆盖医疗支出并提供证明材料。如不包含，我们会在你的课程费用中加入Uniplan的费用。</p>
+                                <p>Uniplan费用详情见下：</p>
+                                <table class="r-tbl-headers">
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                <strong>覆盖期间</strong>
+                                            </th>
+                                            <th>
+                                                <strong>费用</strong>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                1个月以内<br>
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                <p>
+                                                    £66.40
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                6周以内<br>
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £77.51
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                2个月以内<br>
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £88.61
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                3个月以内
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £121.98
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                4个月以内<br>
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £144.24
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                5个月以内<br>
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £173.14<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                6个月以内
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £195.35
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                12个月以内 <br>
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £356.95
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                13个月以内
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £384.41
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                18个月以内
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £465.82
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td data-header="覆盖期间" class="v-top">
+                                                24个月以内
+                                            </td>
+                                            <td data-header="费用" class="v-top">
+                                                £528.29
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <p></p>
+                                <p>关于保险或费用存在任何问题吗？</p>
+                                <a href="https://go.intostudy.com/zh-cn/enquiry" class="l-cta cta">给我们发送消息</a>
+                            </div>
+                        </div>
+                        <!-- End_Module_42854 -->
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                            <a href="http://www.weibo.com/intohigher/" target="_blank" class="footer-social-link social-link-weibo"><img src="/images/footer/icon_weibo.svg" /></a>
+                            <a href="http://i.youku.com/u/UMjYwODYzNTY4" target="_blank" class="footer-social-link social-link-youku"><img src="/images/footer/icon_reverse_youku.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/about-into">关于我们</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-abroad">选择国家</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-programs">查询课程</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/universities">选择大学</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/apply">申请留学</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                学生&#x2014;&#x2014;如果你已签约教育顾问&#xFF0C;请直接联系他们以解答疑问&#xFF1B;未使用代理的学生请通过以下任何方式与我们取得联系
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">英国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">美国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy">法律和隐私</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/terms">使用条款</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/into-sitemap">网站地图</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy/cookies-policy">浏览器缓存政策</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/governance">治理</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

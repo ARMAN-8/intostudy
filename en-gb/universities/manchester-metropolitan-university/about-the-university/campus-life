@@ -1,0 +1,848 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/universities/manchester-metropolitan-university/about-the-university/campus-life" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/universities/manchester-metropolitan-university/about-the-university/campus-life" hreflang="en" />
+    <link rel="alternate" href="https://www.intostudy.com/en/universities/manchester-metropolitan-university/about-the-university/campus-life" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/en-gb/universities/manchester-metropolitan-university/about-the-university/campus-life -->
+    <!-- Encoded URL is https://www.intostudy.com/en-gb/universities/manchester-metropolitan-university/about-the-university/campus-life -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>Facilities at Manchester Metropolitan University | INTO</title>
+        <meta name="description" content="Manchester Metropolitan University offers world-class learning and leisure facilities for international students" />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/en-gb/universities/manchester-metropolitan-university/about-the-university/campus-life" />
+        <meta property="og:title" content="Facilities at Manchester Metropolitan University | INTO" />
+        <meta property="og:description" content="Manchester Metropolitan University offers world-class learning and leisure facilities for international students" />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/en-gb.min.css?v=2-LzaxUI3fHNakVYIXEzBWYXF1AnJPVqPggoRav_PKw" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/en-gb/universities/manchester-metropolitan-university/about-the-university/campus-life" />
+
+
+    <!-- BrowserTestData: CampusAndStudentLife, en-gb. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/universities/manchester-metropolitan-university/about-the-university/campus-life"><span class="l-language-block-text   is-current">English</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">English<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/en/universities/manchester-metropolitan-university/about-the-university/campus-life">English</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="Search for a subject or program">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/en-gb'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/en-gb'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en-gb/about-into">About INTO</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en-gb/success-with-into">
+                                                                                <span>Success with INTO</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/blog">
+                                                                                <span>Blog</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/faq">
+                                                                                <span>FAQ</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/friend">
+                                                                                <span>Recommend a Friend</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-abroad">Study abroad</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/country-guides/uk">
+                                                                                <span>UK</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/country-guides/us">
+                                                                                <span>US</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/country-guides/china">
+                                                                                <span>China</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/study-abroad/parents-guide">
+                                                                                <span>Parents guide</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/admissions">Admissions</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en-gb/fees">
+                                                                                <span>Fees</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/admissions/scholarships">
+                                                                                <span>Scholarships</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/help/visas-and-pre-arrival-support-services">
+                                                                                <span>Visa and pre-arrival support services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en-gb/admissions/meet-the-team">
+                                                                                <span>Enrolment Services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/apply">Apply</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en-gb/about-into">About INTO</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en-gb/success-with-into">Success with INTO<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/blog">Blog<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/faq">FAQ<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/friend">Recommend a Friend<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-abroad">Study abroad</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/country-guides/uk">UK<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/country-guides/us">US<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/country-guides/china">China<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/study-abroad/parents-guide">Parents guide<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/admissions">Admissions</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en-gb/fees">Fees<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/admissions/scholarships">Scholarships<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/help/visas-and-pre-arrival-support-services">Visa and pre-arrival support services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en-gb/admissions/meet-the-team">Enrolment Services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en-gb/apply">Apply</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="Search for a subject or program">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/en-gb" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en-gb/universities" class="breadcrumb-item">Universities</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en-gb/universities/manchester-metropolitan-university" class="breadcrumb-item">INTO Manchester in partnership with Manchester Metropolitan University</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en-gb/universities/manchester-metropolitan-university/about-the-university" class="breadcrumb-item">About The University</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en-gb/universities/manchester-metropolitan-university/about-the-university/campus-life" class="breadcrumb-item">Campus Life</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            
+<div class="canvas" style="min-height: calc(100vh - 340px);">
+    <div class="headerPane">
+        <div>
+    <style>
+    .uni-colour-primary {
+      background-color: #000000;
+    }
+
+    .uni-text-colour {
+      color: #ffffff;
+    }
+
+    .uni-colour-secondary {
+      background-color: #004a97;
+    }
+
+    @media (min-width: 835px) {
+      .l-explore-nav .nav-item .accordian {
+        background-color: #004a97;
+      }
+      .l-explore-nav .nav-item .l-subnav .nav-item {
+        background-color: #004a97;
+      }
+    }
+    </style>
+
+    <header id="uni-header" class="uni-colour-primary header">
+        <div class="l-content-container header-container">
+            <a href="/en-gb/universities/manchester-metropolitan-university">
+                <img id="uni-header-logo" src=https://ctfimages.intoglobal.com/xw2h6mjophtz/7a94lExPsAgecAWkwS2i8O/24c90a32254e096b04203b1f80eb23f7/mmu-logo-white.svg alt="INTO Manchester in partnership with Manchester Metropolitan University">
+            </a>
+            <div id="uni-menu-bar" class="l-menu-bar">
+                <a id="explore-button" class="l-header-bar-button l-header-bar-button-right l-header-bar-button-margin" href="">
+                    <span class="css-icon icon-arrow-up-down">Explore<i></i></span>
+                </a>
+            </div>
+            <nav id="explore-nav" class="l-explore-nav uni-colour-primary uni-colour-primary-border no-scrollbar">
+                <ul>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en-gb/universities/manchester-metropolitan-university/about-the-university" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">About the University</span>
+                            </a>
+                            <a href="/en-gb/universities/manchester-metropolitan-university/about-the-university" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/en-gb/universities/manchester-metropolitan-university/about-the-university/more-about-the-into-centre" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">More about the INTO Centre</span>
+                                                        <span class="l-nav-button mobile-only">More about the INTO Centre</span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/en-gb/universities/manchester-metropolitan-university/about-the-university/campus-life" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Campus Life</span>
+                                                        <span class="l-nav-button mobile-only">Campus Life</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en-gb/universities/manchester-metropolitan-university/courses" class="nav-item-content ">
+                                <span class="l-nav-button">Courses</span>
+                            </a>
+                            <a href="/en-gb/universities/manchester-metropolitan-university/courses" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en-gb/universities/manchester-metropolitan-university/studying" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">Studying</span>
+                            </a>
+                            <a href="/en-gb/universities/manchester-metropolitan-university/studying" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/en-gb/universities/manchester-metropolitan-university/studying/student-support" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Student support</span>
+                                                        <span class="l-nav-button mobile-only">Student support</span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/en-gb/universities/manchester-metropolitan-university/studying/teachers" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Teachers</span>
+                                                        <span class="l-nav-button mobile-only">Teachers</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en-gb/universities/manchester-metropolitan-university/living-in-manchester" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">Living</span>
+                            </a>
+                            <a href="/en-gb/universities/manchester-metropolitan-university/living-in-manchester" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/en-gb/universities/manchester-metropolitan-university/living-in-manchester/accommodation" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">Accommodation</span>
+                                                        <span class="l-nav-button mobile-only">Accommodation</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/en-gb/universities/manchester-metropolitan-university/scholarships" class="nav-item-content ">
+                                <span class="l-nav-button">Scholarships</span>
+                            </a>
+                            <a href="/en-gb/universities/manchester-metropolitan-university/scholarships" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="https://apply.intostudy.com/to/university/manchester-metropolitan-university" class="nav-item-content ">
+                                <span class="l-nav-button">Apply</span>
+                            </a>
+                            <a href="https://apply.intostudy.com/to/university/manchester-metropolitan-university" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</div>
+
+<div class="hero_banner nolazyload">
+    <img class="header-image" src="//ctfimages.intoglobal.com/xw2h6mjophtz/3Xn07FUYAWZnJyh5PLuIA3/956cc0139ea318fbcfc19a2136865c9d/Contentful_-_Campus_LifeMMU.jpg?w=1255&q=80">
+</div>    </div>
+    <div class="contentPane">
+        <section class="l-page-block l-text-block bottom-line">
+            <div class="l-content-container container">
+                <div class="row">
+                    <div class="col">
+                        <h1>Campus life at Manchester Metropolitan University</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <p><strong>What does the MMU campus have to offer?</strong></p>
+<p>Like the city it is located in, Manchester Metropolitan University is full of energy, creativity and diversity. The campus is designed around the student experience and based in the heart of one of the UK’s largest student cities, just a 10-minute walk from the INTO Centre.</p>
+<p>As an INTO Manchester in partnership with Manchester Metropolitan University student, you'll be able to enjoy a variety of exceptional city campus facilities - including Science labs, Art and Design studios and the All-Saints Library.</p>
+<p>Access also includes outstanding IT facilities, some of the best sports amenities in the region, and confidential support open to all.</p>
+<p>View a map of the <a href="http://www2.mmu.ac.uk/travel/manchester/" target="_blank">Manchester Metropolitan University campus</a></p>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyDLGSVTSKHIwTRMEnl10NY-xcBIzOUgVCM"></script>
+<div id="l-map-container"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        Into.GoogleMap.displayGoogleMap([{"name":"Manchester Metropolitan University campus","lat":53.47047,"lon":-2.23941}], "l-map-container");
+    });
+</script>
+        
+
+
+        
+            <section class="l-page-block l-text-block bottom-line">
+                <div class="l-content-container">
+                            <h2>Manchester Metroplitan Students&#x27; Union</h2>
+                            <div>
+                                <p>The £10 million Students' Union building is perfect for student events, meeting friends, or catching up on your studies.</p>
+<p>There’s a whole range of activities to try out, organised by societies such as the Islamic Society and African-Caribbean Society.</p>
+<p>60 sports clubs cover everything from archery to water polo, and from Chinese boxing to Wing Tsun. And if your sport isn’t provided, they can help you set up a new club.</p>
+<p>A range of confidential support is also on offer from the Students' Union Advice Centre.</p>
+
+                            </div>
+                </div>
+            </section>
+                    <section class="l-page-block l-text-block bottom-line">
+                <div class="l-content-container">
+                    <h2>Sports and recreation</h2>
+                    <div>
+                        <p>Manchester Metropolitan University has a close relationship with the Manchester Sport and Leisure Trust. This means you'll experience some of the best sporting facilities in the region - including an indoor BMX track, a velodrome, and an indoor and outdoor athletics venue.</p>
+<p>Your <a href="http://www2.mmu.ac.uk/sport/" target="_blank"> campus sporting experience</a> includes an athletics track, swimming pool, badminton, squash, netball and basketball courts, fitness studios, and indoor football pitches. You'll also enjoy substantial discounts including pay-as-you-go membership for city centre facilities such as the Manchester Aquatics Centre.</p>
+<p>You can take part in over 60 student-led sports clubs, or speak to your Students' Union about setting-up something new. Not sure what to choose? Free taster sessions are available to sample a range of activities, including aikido, canoeing, cheerleading, Chinese boxing, dance, hockey, and water polo.</p>
+
+                    </div>
+                </div>
+            </section>
+                    <section class="l-page-block l-text-block bottom-line">
+                <div class="l-content-container">
+                    <h2>Faith, support and advice</h2>
+                    <div>
+                        <p>Confidential advice is offered to people of all beliefs. The Chaplaincy Centre offers spiritual help, facilities for regular worship and quiet prayer, and further information for other places of worship.</p>
+<p>In addition to the centre, you can access a number of multifaith rooms across the campus. There is also a dedicated Muslim prayer room open seven days a week.</p>
+
+                    </div>
+                </div>
+            </section>
+                    <section class="l-page-block l-text-block bottom-line">
+                <div class="l-content-container">
+                    <h2>Eating on campus</h2>
+                    <div>
+                        <p>While on your pathway, you can enjoy the numerous food and drink options in venues across the MMU site, including British and international cuisine.</p>
+<p>Whether you're in the mood for a proper cup of coffee, a quick bite to eat or a freshly prepared hot meal, there's an option to suit every appetite. Services include:</p>
+<ul>
+<li>All Saints Snack Bar</li>
+<li>Art School Café</li>
+<li>Atrium Café</li>
+<li>Birley Cafe</li>
+<li>Birley Kitchen</li>
+<li>GROW Café</li>
+<li>Hub Cafe</li>
+<li>Hub Kitchen</li>
+<li>Dalton Food</li>
+<li>Number 70</li>
+<li>Righton Coffee Bar</li>
+</ul>
+
+                    </div>
+                </div>
+            </section>
+                    <section class="l-page-block l-text-block bottom-line">
+                <div class="l-content-container">
+                    <h2>Health and safety</h2>
+                    <div>
+                        <p>For any student enquiries, the first port of call for students is the Student Hub. This face-to-face service is there to provide you with advice on what student services and facilities are available to you.</p>
+<p>If you're looking for advice on personal health, MMU's Wellbeing Service will provide you with help on any personal issues you're facing while studying.</p>
+
+                    </div>
+                </div>
+            </section>
+        
+
+<section class='l-page-block'><div class='l-content-container'>
+<div id="15297ef8-897c-45a4-9339-3b02375e6aaa" class="slick-gallery-container into-slick-gallery">
+        <div>
+                <img title="Students socialising in the Art School Caf&#xE9; on the Manchester Metropolitan University campus" alt="Students socialising in the Art School Caf&#xE9; on the Manchester Metropolitan University campus" class="multiple-image"
+                     data-lazy=https://ctfimages.intoglobal.com/xw2h6mjophtz/0JekZEdWMXmEqsgNRZ4U/88d4b331f95e52698bb76c1a38ff0b99/Contentful_-_Campus_LifeMMU-1.jpg?fit=fill&amp;q=70&amp;w=340&amp;h=300
+                     data-fullres="https://ctfimages.intoglobal.com/xw2h6mjophtz/0JekZEdWMXmEqsgNRZ4U/88d4b331f95e52698bb76c1a38ff0b99/Contentful_-_Campus_LifeMMU-1.jpg?w=1024&amp;q=80"
+                     data-caption="Students socialising in the Art School Caf&#xE9; on the Manchester Metropolitan University campus" />
+        </div>
+        <div>
+                <img title="Students playing pool in a breakout area on Manchester Metropolitan University campus" alt="Students playing pool in a breakout area on Manchester Metropolitan University campus" class="multiple-image"
+                     data-lazy=https://ctfimages.intoglobal.com/xw2h6mjophtz/2bpA51th8ysxQBhmW7d294/c556c9671999be4109c183ae4b93e81b/Contentful_-_Campus_LifeMMU-2.jpg?fit=fill&amp;q=70&amp;w=340&amp;h=300
+                     data-fullres="https://ctfimages.intoglobal.com/xw2h6mjophtz/2bpA51th8ysxQBhmW7d294/c556c9671999be4109c183ae4b93e81b/Contentful_-_Campus_LifeMMU-2.jpg?w=1024&amp;q=80"
+                     data-caption="Students playing pool in a breakout area on Manchester Metropolitan University campus" />
+        </div>
+        <div>
+                <img title="Students taking part in a free drop in sports session at Manchester Metropolitan University" alt="Students taking part in a free drop in sports session at Manchester Metropolitan University" class="multiple-image"
+                     data-lazy=https://ctfimages.intoglobal.com/xw2h6mjophtz/1s4qcKO5Zq9szZOrmL8ibr/6facdd94eab377906890cc32f8d1925d/Contentful_-_Campus_LifeMMU-3.jpg?fit=fill&amp;q=70&amp;w=340&amp;h=300
+                     data-fullres="https://ctfimages.intoglobal.com/xw2h6mjophtz/1s4qcKO5Zq9szZOrmL8ibr/6facdd94eab377906890cc32f8d1925d/Contentful_-_Campus_LifeMMU-3.jpg?w=1024&amp;q=80"
+                     data-caption="Students taking part in a free drop in sports session at Manchester Metropolitan University" />
+        </div>
+        <div>
+                <img title="International student using Manchester Metropolitan University&#x27;s careers and employability service" alt="International student using Manchester Metropolitan University&#x27;s careers and employability service" class="multiple-image"
+                     data-lazy=https://ctfimages.intoglobal.com/xw2h6mjophtz/1WGJQpPo5QFjY9yHhDR0fz/f5dddc89ebf2795130ba57ae839b5a6c/Contentful_-_Campus_LifeMMU-4.jpg?fit=fill&amp;q=70&amp;w=340&amp;h=300
+                     data-fullres="https://ctfimages.intoglobal.com/xw2h6mjophtz/1WGJQpPo5QFjY9yHhDR0fz/f5dddc89ebf2795130ba57ae839b5a6c/Contentful_-_Campus_LifeMMU-4.jpg?w=1024&amp;q=80"
+                     data-caption="International student using Manchester Metropolitan University&#x27;s careers and employability service" />
+        </div>
+        <div>
+                <img title="Manchester Metropolitan University&#x27;s Student Hub offers advice to students on campus" alt="Manchester Metropolitan University&#x27;s Student Hub offers advice to students on campus" class="multiple-image"
+                     data-lazy=https://ctfimages.intoglobal.com/xw2h6mjophtz/5t2cJmrwyAScJT4byN0DhJ/18a0b852cbf52de1fa729c5baaccc672/Contentful_-_Campus_LifeMMU-5.jpg?fit=fill&amp;q=70&amp;w=340&amp;h=300
+                     data-fullres="https://ctfimages.intoglobal.com/xw2h6mjophtz/5t2cJmrwyAScJT4byN0DhJ/18a0b852cbf52de1fa729c5baaccc672/Contentful_-_Campus_LifeMMU-5.jpg?w=1024&amp;q=80"
+                     data-caption="Manchester Metropolitan University&#x27;s Student Hub offers advice to students on campus" />
+        </div>
+        <div>
+                <img title="Students socialising and walking through Manchester Metropolitan University campus" alt="Students socialising and walking through Manchester Metropolitan University campus" class="multiple-image"
+                     data-lazy=https://ctfimages.intoglobal.com/xw2h6mjophtz/6YjWz9ptb5kBGvvNJ8MW3J/144a49ab53445302c3df0815c730225e/Contentful_-_Campus_LifeMMU-6.jpg?fit=fill&amp;q=70&amp;w=340&amp;h=300
+                     data-fullres="https://ctfimages.intoglobal.com/xw2h6mjophtz/6YjWz9ptb5kBGvvNJ8MW3J/144a49ab53445302c3df0815c730225e/Contentful_-_Campus_LifeMMU-6.jpg?w=1024&amp;q=80"
+                     data-caption="Students socialising and walking through Manchester Metropolitan University campus" />
+        </div>
+        <div>
+                <img title="The Grosvenor Gallery is situated in the Grosvenor Building on the Manchester Metropolitan University campus" alt="The Grosvenor Gallery is situated in the Grosvenor Building on the Manchester Metropolitan University campus" class="multiple-image"
+                     data-lazy=https://ctfimages.intoglobal.com/xw2h6mjophtz/70Cf1cAnZZkImP9Dv5VM52/d66041ede12cac10696f75b28e2f9fa4/Contentful_-_Campus_LifeMMU-7.jpg?fit=fill&amp;q=70&amp;w=340&amp;h=300
+                     data-fullres="https://ctfimages.intoglobal.com/xw2h6mjophtz/70Cf1cAnZZkImP9Dv5VM52/d66041ede12cac10696f75b28e2f9fa4/Contentful_-_Campus_LifeMMU-7.jpg?w=1024&amp;q=80"
+                     data-caption="The Grosvenor Gallery is situated in the Grosvenor Building on the Manchester Metropolitan University campus" />
+        </div>
+        <div>
+                <img title="Students speaking to a member of staff at Manchester Metropolitan University" alt="Students speaking to a member of staff at Manchester Metropolitan University" class="multiple-image"
+                     data-lazy=https://ctfimages.intoglobal.com/xw2h6mjophtz/45O2YNUAAzfZTtEARScjrt/d7be2409f31b66e06128de6740258dc0/Contentful_-_Campus_LifeMMU-8.jpg?fit=fill&amp;q=70&amp;w=340&amp;h=300
+                     data-fullres="https://ctfimages.intoglobal.com/xw2h6mjophtz/45O2YNUAAzfZTtEARScjrt/d7be2409f31b66e06128de6740258dc0/Contentful_-_Campus_LifeMMU-8.jpg?w=1024&amp;q=80"
+                     data-caption="Students speaking to a member of staff at Manchester Metropolitan University" />
+        </div>
+</div>
+<script type="text/javascript">
+    $(() => Into.SlickGallery.initialize("15297ef8-897c-45a4-9339-3b02375e6aaa", {"autoplay":false,"autoplaySpeed":3000,"speed":300,"infinite":true,"slidesToShow":3,"slidesToScroll":1,"dots":true,"variableWidth":false,"centerMode":false,"centerPadding":"50px","lazyLoad":"ondemand","rtl":false,"responsive":[{"breakpoint":933,"settings":{"slidesToShow":2,"slidesToScroll":1,"infinite":true,"variableWidth":false}},{"breakpoint":700,"settings":{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"variableWidth":false}}]}, true));
+</script>
+</div></section>
+        <div class="l-page-block block-bottom-spacer">
+            <div class="l-content-container">
+                <a href="/en/universities/manchester-metropolitan-university/living-in-manchester/accommodation" class="l-internal-link group">
+                    <div><span class="l-internal-link-title">More about accommodation</span></div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/about-into">About INTO</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/study-abroad">Study abroad</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/study-programs">Study programs</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/universities">Universities</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en-gb/apply">Apply</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                Students - if you&#x2019;re using an Education Counselor please contact them with any questions; all other students contact us using one of the below methods
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">UK student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">US student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-7 col-lg-6">
+                    <span class="footer-contact-header">China student applications:</span>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:cnadmissions@intoglobal.com" class="email-link">cnadmissions@intoglobal.com</a>
+                    </div>
+                </div>
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/en-gb/legal-and-privacy-policy">Privacy</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/terms">Terms</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/into-sitemap">Sitemap</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/legal-and-privacy-policy/cookies-policy">Cookies Policy</a>
+                &nbsp;|&nbsp;
+                <a href="/en-gb/governance">Governance</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

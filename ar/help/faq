@@ -1,0 +1,1536 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/help/faq" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/help/faq" hreflang="en" />
+        <link rel="alternate" href="https://www.intostudy.com/ar/help/faq" hreflang="ar" />
+        <link rel="alternate" href="https://www.intostudy.com/zh-cn/help/faq" hreflang="zh-cn" />
+    <link rel="alternate" href="https://www.intostudy.com/en/help/faq" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/ar/help/faq -->
+    <!-- Encoded URL is https://www.intostudy.com/ar/help/faq -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>الأسئلة والاستفسارات | INTO</title>
+        <meta name="description" content="" />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/ar/help/faq" />
+        <meta property="og:title" content="الأسئلة والاستفسارات | INTO" />
+        <meta property="og:description" content="" />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+            <link rel="stylesheet" href="https://cdn.rtlcss.com/bootstrap/v4.2.1/css/bootstrap.min.css" integrity="sha384-vus3nQHTD+5mpDiZ4rkEPlnkcyTP+49BhJ4wJeJunw06ZAp+wzzeBPUXr42fi8If" crossorigin="anonymous">
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/ar.min.css?v=z9qajYCuU0l7KUUgCebsXP0rnYTHUnAxmCdti6hNQQE" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/ar/help/faq" />
+
+
+    <!-- BrowserTestData: Faq, ar. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="rtl">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/help/faq"><span class="l-language-block-text  ">English</span></a>
+                <a class="l-language-block" href="/zh-cn/help/faq"><span class="l-language-block-text  ">中文</span></a>
+                <a class="l-language-block" href="/ar/help/faq"><span class="l-language-block-text   is-current">العربية</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">العربية<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/en/help/faq">English</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/zh-cn/help/faq">中文</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/ar/help/faq">العربية</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="...بحث">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/ar'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/ar'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/ar/study-abroad">الدراسة في الخارج</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/universities">الجامعات</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/about-into">عن مراكز INTO</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/help">مساعدة</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/apply">تقدم بطلب</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/ar/study-abroad">الدراسة في الخارج</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/universities">الجامعات</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/about-into">عن مراكز INTO</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/help">مساعدة</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/apply">تقدم بطلب</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="...بحث">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/ar" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                            <a href="/ar/help" class="breadcrumb-item">مساعدة</a>
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                            <a href="/ar/help/faq" class="breadcrumb-item">FAQ</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            <div class="canvas" style="min-height: calc(100vh - 340px);">
+   <div class="contentPane">
+      <div class="DnnModule-DNN_HTML DnnVersionableControl"></div>
+      <div class="DnnModule-IntoFAQ">
+         <div>
+            <div>
+               <div class="DNNModuleContent ModIntoFAQC">
+                  <div>
+                  </div>
+                  <section class="l-faqs l-page-block">
+                     <div class="l-content-container">
+                        <div class="faq-filters-container group">
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_2">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 64 80" enable-background="new 0 0 64 64" xml:space="preserve">
+                                    <g>
+                                       <path d="M8.354,0.553v62.895h47.29V0.553H8.354z M32.352,56.172H16.04v-2h16.312V56.172z M32.352,49.551H16.04v-2h16.312V49.551z    M32.352,42.932H16.04v-2h16.312V42.932z M32.352,36.311H16.04v-2h16.312V36.311z M47.959,55.172H37.793V35.311h10.166V55.172z    M47.959,29.69H16.04v-2h31.919V29.69z M47.959,23.069H16.04v-2h31.919V23.069z M47.959,16.449H16.04v-2h31.919V16.449z    M47.959,9.828H16.04v-2h31.919V9.828z"></path>
+                                    </g>
+                                 </svg>
+                              </div>
+                              <p>التقدم بطلب</p>
+                           </a>
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_3">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" enable-background="new 0 0 100 100" xml:space="preserve">
+                                    <g display="none">
+                                       <rect x="-192" display="inline" width="185" height="99"></rect>
+                                       <rect y="-36" display="inline" width="100" height="30"></rect>
+                                       <rect x="-126.514" y="34.815" display="inline" fill="#000000" width="10.261" height="10.185"></rect>
+                                       <rect x="-126.477" y="31.766" display="inline" fill="#000000" width="0.522" height="2.337"></rect>
+                                       <rect x="-116.812" y="31.766" display="inline" fill="#000000" width="0.523" height="2.337"></rect>
+                                       <rect x="-127" y="32.337" display="inline" fill="#000000" width="11.233" height="0.572"></rect>
+                                       <g display="inline">
+                                          <rect x="-83.805" y="33.844" fill="#000000" width="10.305" height="10.156"></rect>
+                                          <rect x="-76.809" y="28.707" fill="#000000" width="3.308" height="3.261"></rect>
+                                       </g>
+                                       <rect x="-178.5" y="22.5" display="inline" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"></rect>
+                                       <rect x="-136.5" y="22.5" display="inline" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"></rect>
+                                       <rect x="-93.5" y="22.5" display="inline" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"></rect>
+                                       <rect x="-49.5" y="22.5" display="inline" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"></rect>
+                                    </g>
+                                    <g>
+                                       <path d="M50.125,57.783l-28.08-11.355c-1.162,2.481-2.034,5.402-2.329,9.346c16.641,0.486,31.603,18.082,31.603,18.082   S67.45,56.169,83.799,55.842c-0.419-4.54-1.46-7.776-2.855-10.525L50.125,57.783z"></path>
+                                       <path d="M100,35.457v-3.416l-6.81-2.755l-1.823-2.961c-1.243-1.701-5.708-2.551-8.069-1.039L50.29,11.939L0.58,32.041v3.416   l25.529,10.323l24.181,9.777L76.83,44.824l11.693-4.729V75.99c-1.34,0.711-2.263,2.102-2.263,3.723v10.779h8.453V79.713   c0-1.543-0.837-2.88-2.073-3.618l0.144-37.72L100,35.457z"></path>
+                                    </g>
+                                 </svg>
+                              </div>
+                              <p>الجانب الأكاديمي</p>
+                           </a>
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_4">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 48 60" enable-background="new 0 0 48 48" xml:space="preserve">
+                                    <g>
+                                       <path d="M42.49,31.748l-1.206-1.211l-6.157,2.588c-0.13-0.135-0.26-0.268-0.39-0.396c-3.12-3.143-4.565-3.828-5.038-3.352   c-0.47,0.475,0.211,1.93,3.33,5.072c0.127,0.129,0.261,0.262,0.394,0.393l-2.568,6.199l1.205,1.211l3.715-5.201   c1.025,0.918,2.033,1.764,2.889,2.42l-0.767,2.771l0.813,0.82l1.567-2.486c0.374,0.199,0.628,0.273,0.725,0.178   c0.097-0.094,0.021-0.354-0.177-0.729l2.468-1.576l-0.814-0.822l-2.752,0.771c-0.65-0.861-1.492-1.875-2.404-2.906L42.49,31.748z"></path>
+                                       <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="   M5.128,28.895L1.236,17.697c-0.767-2.207,0.397-4.645,2.591-5.416L35.165,1.238c2.193-0.773,4.614,0.4,5.381,2.607l5.678,16.332   c0.258,0.742,0.298,1.512,0.151,2.234"></path>
+                                       <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="   M47,42.748C47,45.086,45.102,47,42.778,47H9.576c-2.323,0-4.225-1.914-4.225-4.252V25.447c0-2.338,1.901-4.252,4.225-4.252h33.203   c1.307,0,2.479,0.605,3.256,1.551C46.638,23.482,47,24.424,47,25.447V42.748z"></path>
+                                       <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="10.998" y1="25.803" x2="26.177" y2="25.803"></line>
+                                       <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="10.998" y1="31.625" x2="26.177" y2="31.625"></line>
+                                       <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="10.998" y1="37.447" x2="26.177" y2="37.447"></line>
+                                    </g>
+                                 </svg>
+                              </div>
+                              <p>ما قبل الوصول</p>
+                           </a>
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_5">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+                                    <g>
+                                       <polygon points="31.488,34.641 64.991,23.53 58.37,14.338 36.596,30.007 36.596,30.007 29.647,35.007 30.39,35.007  "></polygon>
+                                       <polygon points="76.837,35.007 75.89,32.17 73.8,25.869 73.019,26.13 46.261,35.007  "></polygon>
+                                       <path d="M82.481,35.007c1.387,0,2.5,1.123,2.5,2.5v11.912l2.783-1.387l2.217-1.113V33.508c0-1.929-1.563-3.501-3.496-3.501H80.44   l1.66,5H82.481z"></path>
+                                       <path d="M84.981,85h1.504c1.934,0,3.496-1.572,3.496-3.506v-8.408l-5,2.5V85z"></path>
+                                       <path d="M62.491,65c0-6.89,5.605-12.5,12.49-12.5h3.828l1.172-0.591v-8.494c0-1.931-1.563-3.501-3.496-3.501H49.151H28.495H16.869   c-1.074-0.278-1.87-1.24-1.87-2.407c0-1.377,1.118-2.5,2.5-2.5h3.594l1.909-1.377l5.034-3.623H17.499c-4.146,0-7.5,3.362-7.5,7.5   V57.5v20v5c0,4.141,3.354,7.5,7.5,7.5h44.992c0.371,0,0.732-0.039,1.094-0.098h8.896h4.004c1.934,0,3.496-1.563,3.496-3.496V77.5   h-5C68.097,77.5,62.491,71.895,62.491,65z"></path>
+                                       <path d="M79.981,57.5h-5c-4.141,0-7.49,3.364-7.49,7.5c0,4.141,3.35,7.5,7.49,7.5h5l10-5l0.02-15L79.981,57.5z M74.981,67.5   c-1.377,0-2.5-1.123-2.5-2.5s1.123-2.5,2.5-2.5c1.387,0,2.5,1.123,2.5,2.5S76.368,67.5,74.981,67.5z"></path>
+                                    </g>
+                                 </svg>
+                              </div>
+                              <p>الرسوم</p>
+                           </a>
+                           <a href="javascript: void(0);" title="Applying" class="faq-filter" id="cat_7">
+                              <div class="filter-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" data-icon="home" data-container-transform="translate(0 3)" viewBox="0 0 128 160" x="0px" y="0px">
+                                    <path d="M64 .625c-.413 0-.794.125-1.094.375l-61.813 54c-.6.6-.394 1 .406 1h9c.8 0 1.994-.4 2.594-1l49.719-42c.6-.5 1.681-.5 2.281 0l49.813 42c.6.6 1.794 1 2.594 1h9c.9 0 1.006-.5.406-1l-61.719-54c-.35-.25-.775-.375-1.188-.375zm.063 16c-.425 0-.856.125-1.156.375l-40.906 34-4.813 4c-.011.009-.02.022-.031.031-.675.599-1.145 1.653-1.156 2.438 0 .009 0 .022 0 .031l.188 60.5h37.813v-24h20v24h38v-60.5c0-.788-.473-1.863-1.156-2.469l-22.844-19.031-22.813-19c-.3-.25-.7-.375-1.125-.375z" transform="translate(0 3)"></path>
+                                 </svg>
+                              </div>
+                              <p>الإقامة</p>
+                           </a>
+                        </div>
+                        <div class="faq-filters-container sub-category-filters is-hidden">
+                           <a class="faq-sub-filter" title="الولايات المتحدة" id="cat_2_subcat_1" style="display: none;">الولايات المتحدة</a>
+                           <a class="faq-sub-filter" title="المملكة المتحدة" id="cat_2_subcat_2" style="display: none;">المملكة المتحدة</a>
+                           <a class="faq-sub-filter" title="الولايات المتحدة" id="cat_3_subcat_4" style="display: none;">الولايات المتحدة</a>
+                           <a class="faq-sub-filter" title="المملكة المتحدة" id="cat_3_subcat_5" style="display: none;">المملكة المتحدة</a>
+                           <a class="faq-sub-filter" title="الصين" id="cat_3_subcat_6" style="display: none;">الصين</a>
+                           <a class="faq-sub-filter" title="الولايات المتحدة" id="cat_4_subcat_7" style="display: none;">الولايات المتحدة</a>
+                           <a class="faq-sub-filter" title="المملكة المتحدة" id="cat_4_subcat_8" style="display: none;">المملكة المتحدة</a>
+                           <a class="faq-sub-filter" title="الصين" id="cat_4_subcat_9" style="display: none;">الصين</a>
+                           <a class="faq-sub-filter" title="الولايات المتحدة" id="cat_5_subcat_10" style="display: none;">الولايات المتحدة</a>
+                           <a class="faq-sub-filter" title="المملكة المتحدة" id="cat_5_subcat_11" style="display: none;">المملكة المتحدة</a>
+                           <a class="faq-sub-filter" title="الصين" id="cat_5_subcat_12" style="display: none;">الصين</a>
+                           <a class="faq-sub-filter" title="الولايات المتحدة" id="cat_7_subcat_13" style="display: none;">الولايات المتحدة</a>
+                           <a class="faq-sub-filter" title="المملكة المتحدة" id="cat_7_subcat_14" style="display: none;">المملكة المتحدة</a>
+                           <a class="faq-sub-filter" title="الصين" id="cat_7_subcat_15" style="display: none;">الصين</a>
+                           <a class="faq-sub-filter" title="China" id="cat_2_subcat_19" style="display: none;">China</a>
+                        </div>
+                        <div class="faq-question-container" role="tablist">
+                           <div class="faq-question" id="cat_2_subcat_1_ques_3" data-h-url="Do-I-need-to-take-an-IELTS-or-TOEFL-exam-before-applying-to-the-US">
+                              <a href="javascript:void(0)" title="
+                                 هل أحتاج إلى الخضوع لاختبار IELTS أو TOEFL قبل التقدم بطلب للولايات المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_3" id="q_3">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل أحتاج إلى الخضوع لاختبار IELTS أو TOEFL قبل التقدم بطلب للولايات المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_3" aria-labelledby="q_3">
+                                 <div class="a-icon">ج</div>
+                                 <p>في أكثر الحالات، ستحتاج إلى الخضوع لاختبار IELTS أو TOEFL iBT للتقدم بطلب للالتحاق ببرنامج المسار الجامعي أو الدراسات العليا. تختلف أدنى المتطلبات اللغوية لكل برنامج وشهادة، لذا تحقق من المتطلبات في صفحة البرنامج. لن تحتاج إلى الخضوع لهذه الاختبارات قبل التقدم بطلب للالتحاق ببرامج اللغة الإنجليزية الأكاديمية، أو اللغة الإنجليزية العامة، أو العام الجامعي بالخارج، أو الدراسة بالخارج باللغة الإنجليزية.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_5" data-h-url="What-documents-do-I-need-to-submit-with-my-application-for-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 ما المستندات التي يتعين عليّ إرسالها مع طلب التقديم للمملكة المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_5" id="q_5">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما المستندات التي يتعين عليّ إرسالها مع طلب التقديم للمملكة المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_5" aria-labelledby="q_5">
+                                 <div class="a-icon">ج</div>
+                                 <p>عندما تقوم بإرسال طلب التقديم، ستحتاج إلى توفير هذه المستندات: نسخة (نسخ) من سجلاتك وشهاداتك الأكاديمية من آخر ثلاث سنوات دراسية. نسخة من أحدث شهادة لاختبار اللغة الإنجليزية الآمن (SELT). بدءًا من 6 من أبريل 2015، لا يستطيع المركز أن يقبل سوى اختبار IELTS المعتمد من UKVI لهذه الدورة التدريبية. إذا كنت قد خضعت لاختبار آخر للغة الإنجليزية الآمن (SELT)، فقد تتمكن من استخدامه كاختبار "SELT الانتقالي" لطلبات التقديم حتى 5 من نوفمبر 2015. اطلع على المزيد حول UKVI IELTS أو اتصل بنا للحصول على المزيد من التفاصيل. يجب الخضوع للاختبار في غضون عامين قبل تاريخ بدء برنامجك الأكاديمي المعني. سنحتاج إلى رؤية الشهادة الأصلية بالإضافة إلى نسخة مترجمة باللغة الإنجليزية لختم المدرسة أو ختم الوكيل. لبرامج اللغة الإنجليزية، ستحتاج فقط إلى تقديم شهادة SELT الخاصة بك. لدورات اللغة الإنجليزية العامة، ستحتاج إلى تقديم نسخة من جواز السفر الخاص بك.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_7" data-h-url="How-do-I-accept-an-offer">
+                              <a href="javascript:void(0)" title="
+                                 كيف أقبل بأحد العروض؟
+                                 " class="faq-title" role="tab" aria-controls="a_7" id="q_7">
+                                 <div class="q-icon">س</div>
+                                 <h2>كيف أقبل بأحد العروض؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_7" aria-labelledby="q_7">
+                                 <div class="a-icon">ج</div>
+                                 <p>
+                                    إن قبول مكانك الدراسي سهل جدا! حتى لو كان مكانك الدراسي مشروطا، فلا يزال بإمكانك قبول العرض الخاص. إذا، ولأي سبب من الأسباب، لم تستوفي الشروط الخاصة بك، سوف تتلقى المبلغ المدفوع كمرتجع كامل مع عدم وجود أي رسوم على إلغاء الحجز المستحقة.
+                                 </p>
+                                 <p></p>
+                                 <p>
+                                    &nbsp;
+                                    لقبول مكانك، فقط اكمل استمارة القبول الذي أدرجناه مع خطاب العرض الخاص بك مع توقيعك وثم يرجى إعادة الاستمارة مع دفعة الوديعة الخاصة بك.
+                                 </p>
+                                 <p></p>
+                                 <p>
+                                    &nbsp;
+                                    إن مبلغ الوديعة الخاص بك هو جزء من إجمالي المبلغ الذي يضم عادة مبلغ وديعة عن الرسوم الدراسية ورسوم الإقامة. يمكنك العثور على حجم المبلغ المطلوب كوديعة في خطاب العرض المرسل إليك.
+                                 </p>
+                                 <p></p>
+                                 <p>
+                                    &nbsp;
+                                    إن قررت الدراسة في المملكة المتحدة ، فإن مبلغ الوديعة الخاص بك يتضمن أيضا رسوم التأمين الطبي الطارئ. وإذا كنت تخطط للدراسة في الولايات المتحدة سوف تدفع رسوم التأمين الصحي بعد وصولك إلى الجامعة.
+                                 </p>
+                                 <p></p>
+                                 <p>
+                                    سيتضمن خطاب العرض شرحاً تفصيلياً عن خيارات الدفع المتعددة الخاصة بك. إذا كنت طالبا مبتعثاً (أي طالب يتلقى مساعدات مالية من حكومة أو منظمة أو شركة) فستحتاج فقط إلى دفع عربون للمواد التي لا يوفرها الراعي الرسمي لك، مثل الإقامة.
+                                 </p>
+                                 <p>
+                                 </p>
+                                 <p>
+                                    إذا كان لديك أي أسئلة حول عرضك الدراسي، دراستك والسكن، أو أي شيء آخر يرجى الاتصال بنا أو بمستشار التعليم الخاص بك.
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_8" data-h-url="How-do-I-know-if-I-am-eligible-for-a-specific-course-or-program">
+                              <a href="javascript:void(0)" title="
+                                 كيف أعرف ما إذا كنت مؤهلاً لدورة معينة أو برنامج معين أم لا؟
+                                 " class="faq-title" role="tab" aria-controls="a_8" id="q_8">
+                                 <div class="q-icon">س</div>
+                                 <h2>كيف أعرف ما إذا كنت مؤهلاً لدورة معينة أو برنامج معين أم لا؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_8" aria-labelledby="q_8">
+                                 <div class="a-icon">ج</div>
+                                 <p>يمكنك مراجعة تفاصيل متطلبات التأهيل لكل دورة أو برنامج في أي من جامعاتنا من خلال استخدام أداة اختيار الدورة التدريبية. إذا أردت الدردشة معنا حول أفضل خياراتك، فيسعدنا مساعدتك!</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_1_ques_9" data-h-url="What-documents-do-I-need-to-submit-with-my-application-for-the-US">
+                              <a href="javascript:void(0)" title="
+                                 ما المستندات التي يتعين عليّ إرسالها مع طلب التقديم للولايات المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_9" id="q_9">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما المستندات التي يتعين عليّ إرسالها مع طلب التقديم للولايات المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_9" aria-labelledby="q_9">
+                                 <div class="a-icon">ج</div>
+                                 <p>عندما ترسل طلب التقدّم الخاص بك إلى أحد المسارات، فستحتاج إلى توفير هذه المستندات: نسخة من جواز السفر، ونسخة (نسخ) من سجلاتك الأكاديمية وشهادات التعليم الثانوي وما بعد المرحلة الثانوية، ونسخة من اختبار صالح للغة الإنجليزية، ودليل للدعم المالي لتكاليف عامك الأول (خطاب المصرف أو شهادة). إذا كنت تدرس بالفعل في الولايات المتحدة، فأنت بحاجة أيضًا إلى إرسال نسخة من تأشيرتك الأمريكية ونموذج I-20 الحالي. إذا كان هناك شخص آخر يدفع مصاريف دراستك، فأنت بحاجة إلى إرسال ضمان مالي رسمي من الشخص الذي يتكفل بك أو إقرارًا بالدعم المالي موقّع من الشخص الذي يظهر اسمه على الخطاب المصرفي أو الشهادة.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_10" data-h-url="What-is-an-International-Foundation-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 ما المرحلة التأسيسية الدولية في المملكة المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_10" id="q_10">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما المرحلة التأسيسية الدولية في المملكة المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_10" aria-labelledby="q_10">
+                                 <div class="a-icon">ج</div>
+                                 <p>برنامج التأسيس الدولي مصمم للمساعدة عندما لا تتوفر لديك المتطلبات اللازمة لدخول برنامج الشهادة الجامعية بشكل مباشر. كما أنك ستتأقلم أيضًا مع النظام التعليمي في الجامعة البريطانية وتحسّن مهاراتك في اللغة الإنجليزية.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_4_ques_11" data-h-url="What-is-a-Pathway-program-in-the-US">
+                              <a href="javascript:void(0)" title="
+                                 ما برنامج المسار في الولايات المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_11" id="q_11">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما برنامج المسار في الولايات المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_11" aria-labelledby="q_11">
+                                 <div class="a-icon">ج</div>
+                                 <p>برامج المسار المتوفرة في شركاء الجامعات الأمريكية تسمح لك بربح اعتمادات شهادة البكالوريوس أو الماجستير الخاصة بك بينما تعمل على تنمية مهاراتك الأكاديمية ولغتك الإنجليزية. يمكنك توفير الوقت من خلال دخول برنامج مساري إذا كانت نتائج ودرجات لغتك لا تلبي متطلبات الدخول للجامعة بشكل مباشر.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_12" data-h-url="What-is-International-Year-one-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 ما العام الدولي الأول في المملكة المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_12" id="q_12">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما العام الدولي الأول في المملكة المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_12" aria-labelledby="q_12">
+                                 <div class="a-icon">ج</div>
+                                 <p>العام الدولي الأول (يسمى أحيانًا بالدبلومة الدولية) هو معادل للعام الأول للشهادة الجامعية بالمملكة المتحدة (أو العام الثاني بالجامعات الإسكتلندية). يعدك هذا العام لدخول العام الثاني من برنامج الشهادة بالجامعة التي تختارها (العام الثالث إذا كنت تدرس بجامعة إسكتلندية). ستقوم بتنمية المهارات الدراسية، واللغة الإنجليزية، والإلمام بالمواد، والاستعداد للدراسة الجامعية. ستتلقى أيضًا الدعم من موظفينا الودودين لإنهاء طلب التقدم UCAS إلى برنامج الشهادة الذي تختاره.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_13" data-h-url="What-is-a-graduate-diploma-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 ما دبلومة الدراسات العليا في المملكة المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_13" id="q_13">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما دبلومة الدراسات العليا في المملكة المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_13" aria-labelledby="q_13">
+                                 <div class="a-icon">ج</div>
+                                 <p>دبلومة الدراسات العليا في المملكة المتحدة هي دورة تدريبية قبل الحصول على الماجستير. ستعمل تلك الدبلومة على تجهيزك للحصول على شهادة الماجستير في المملكة المتحدة. ستتعلم عن الدراسات العليا، وتغطية مجالات مثل المهارات البحثية ومهارات اللغة الإنجليزية والعمل الجماعي والإدارة الفعالة للوقت. كما أنك ستستفيد أيضًا من الإرشاد حول التنمية الشخصية والأكاديمية. (ملحوظة: في الولايات المتحدة، يُعرف هذا البرنامج بمسار الدراسات العليا، وهو يضمن تقدمك لشهادة كاملة، كما يسمح لك عادةً بالحصول على اعتمادات لشهادة الماجستير الخاصة بك. </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_14" data-h-url="What-English-language-courses-are-available-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 ما دورات اللغة الإنجليزية المتوفرة في المملكة المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_14" id="q_14">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما دورات اللغة الإنجليزية المتوفرة في المملكة المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_14" aria-labelledby="q_14">
+                                 <div class="a-icon">ج</div>
+                                 <p>نحن نقدم نوعين من دورات اللغة الإنجليزية الأكاديمية في المملكة المتحدة: اللغة الإنجليزية للدراسة الجامعية ودورة تمهيدية للغة الإنجليزية. مع دورة اللغة الإنجليزية للدراسة الجامعية، ستتعلم اللغة وتكتسب المهارات الدراسية اللازمة للدراسة الأكاديمية الناجحة في الجامعة. ستساعدك دورة اللغة الإنجليزية التمهيدية إذا تلقيت عرضًا من إحدى الجامعات لحضور دورة جامعية أو دورة للدراسات العليا وكنت مؤهلاً من الناحية الأكاديمية، لكنك تريد تحسين لغتك الإنجليزية. فهي تركز على اللغة الإنجليزية الأكاديمية والمهارات الدراسية العامة.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_15" data-h-url="What-is-a-UK-multi-pathway-centre">
+                              <a href="javascript:void(0)" title="
+                                 ما المركز متعدد المسارات بالمملكة المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_15" id="q_15">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما المركز متعدد المسارات بالمملكة المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_15" aria-labelledby="q_15">
+                                 <div class="a-icon">ج</div>
+                                 <p>المركز متعدد المسارات هو مركز INTO الذي تدرس فيه أحد مسارات INTO ويمكنك التقدم منه لمجموعة واسعة من الجامعات في المملكة المتحدة. المراكز متعددة المسارات هي: مركز INTO بمانشستر (التقدم لجامعات NCUK)، ومركز INTO بلندن (التقدم للجامعات التابعة لمركز INTO)، ومركز INTO بجامعة ستيرلينغ (التقدم لمجموعة من الجامعات الإسكتلندية الرائدة)</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_16" data-h-url="How-can-I-find-out-my-English-language-level-for-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 كيف أعرف مستوى لغتي الإنجليزية للمملكة المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_16" id="q_16">
+                                 <div class="q-icon">س</div>
+                                 <h2>كيف أعرف مستوى لغتي الإنجليزية للمملكة المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_16" aria-labelledby="q_16">
+                                 <div class="a-icon">ج</div>
+                                 <p>يمكنك الخضوع لاختبار اللغة الإنجليزية الآمن (SELT)، أو الاتصال بنا لتعرف المزيد عن الخضوع لاختبار INTO. اختبارات IELTS هي اختبارات اللغة الإنجليزية الآمنة التي يتم الخضوع لها في مراكز اختبار معتمدة وتوفر دليلاً على مستوى لغتك الإنجليزية.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_17" data-h-url="How-is-academic-conduct-monitoried">
+                              <a href="javascript:void(0)" title="
+                                 ما مدى صرامة القواعد السلوكية الأكاديمية؟
+                                 " class="faq-title" role="tab" aria-controls="a_17" id="q_17">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما مدى صرامة القواعد السلوكية الأكاديمية؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_17" aria-labelledby="q_17">
+                                 <div class="a-icon">ج</div>
+                                 <p>نتوقع منك حضور الصفوف الدراسية في وقتها، وإنهاء جميع الواجبات والاختبارات، واحترام الطلاب الآخرين والموظفين، والعمل بجد داخل الفصل وخارجه، والتأكد من أداء واجباتك بنفسك.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_18" data-h-url="What-happens-if-I-dont-pass">
+                              <a href="javascript:void(0)" title="
+                                 ماذا سيحدث إذا لم أنجح؟
+                                 " class="faq-title" role="tab" aria-controls="a_18" id="q_18">
+                                 <div class="q-icon">س</div>
+                                 <h2>ماذا سيحدث إذا لم أنجح؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_18" aria-labelledby="q_18">
+                                 <div class="a-icon">ج</div>
+                                 <p>إذا فشلت في إحدى التقييمات فقد تتمكن من إعادته. إن الفشل في أي دورة أو إعادة أي تقييم قد يؤثر على اختيار الجامعات التي يمكنك التقدّم لها. لكننا سنتواجد من أجلك لتقديم النصيحة لك بشأن خياراتك.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_19" data-h-url="What-are-the-current-rates-of-progression">
+                              <a href="javascript:void(0)" title="
+                                 ما معدلات التقدم الحالية؟
+                                 " class="faq-title" role="tab" aria-controls="a_19" id="q_19">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما معدلات التقدم الحالية؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_19" aria-labelledby="q_19">
+                                 <div class="a-icon">ج</div>
+                                 <p>يتقدم 100% من طلاب مركز INTO ممن يجتازون الدورات المسارية إلى التعليم العالي.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_20" data-h-url="Does-INTOs-International-Foundation-guarantee-progression-to-a-degree">
+                              <a href="javascript:void(0)" title="
+                                 هل يضمن البرنامج التأسيسي الدولي بمركز INTO التقدم للحصول على أي شهادة؟
+                                 " class="faq-title" role="tab" aria-controls="a_20" id="q_20">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل يضمن البرنامج التأسيسي الدولي بمركز INTO التقدم للحصول على أي شهادة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_20" aria-labelledby="q_20">
+                                 <div class="a-icon">ج</div>
+                                 <p>نحن نضمن لك الحصول على شهادة ملائمة ومكانًا بالجامعة إذا أنهيت البرنامج التأسيسي الدولي بنجاح، واتبعت النصيحة التي يقدمها موظفو INTO المتخصصين، وتوفر فيك الحد الأدنى من متطلبات الحضور. إذا توفرت بك بالفعل متطلبات الدخول الأكاديمي لبرنامج الشهادة الذي اخترته، فقد تزودك دورات اللغة الإنجليزية بتقدم مضمون لدورات الدراسة الجامعية أو الدراسات العليا.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_21" data-h-url="How-long-does-it-take-to-complete-a-degree-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 ما المدة التي يستغرقها الحصول على شهادة في المملكة المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_21" id="q_21">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما المدة التي يستغرقها الحصول على شهادة في المملكة المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_21" aria-labelledby="q_21">
+                                 <div class="a-icon">ج</div>
+                                 <p>يستغرق إنهاء الشهادة الجامعية القياسية عادةً ثلاثة أعوام (أربعة أعوام في إسكتلندا). يستغرق الحصول على شهادة الماجستير عادة عام واحد، وتستغرق الدكتوراه ثلاثة أعوام.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_6_ques_22" data-h-url="How-long-does-it-take-to-complete-a-degree-in-China">
+                              <a href="javascript:void(0)" title="
+                                 ما المدة التي يستغرقها الحصول على شهادة في الصين؟
+                                 " class="faq-title" role="tab" aria-controls="a_22" id="q_22">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما المدة التي يستغرقها الحصول على شهادة في الصين؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_22" aria-labelledby="q_22">
+                                 <div class="a-icon">ج</div>
+                                 <p>يتم تدريس شهادات الماجستير لدينا في جامعة نانكاي على مدار عامين. يمتد برنامج MBBS في نانكاي لستة أعوام.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_4_ques_23" data-h-url="How-long-does-it-take-to-complete-a-degree-in-the-US">
+                              <a href="javascript:void(0)" title="
+                                 ما المدة التي يستغرقها الحصول على شهادة في الولايات المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_23" id="q_23">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما المدة التي يستغرقها الحصول على شهادة في الولايات المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_23" aria-labelledby="q_23">
+                                 <div class="a-icon">ج</div>
+                                 <p>سيستغرق منك الأمر عادة أربعة أعوام لإنهاء شهادة البكالوريوس القياسية في الولايات المتحدة، بما في ذلك المسار الجامعي. تم تصميم أغلبية شهادات الماجستير في الولايات المتحدة لتنتهي في غضون عامين. وتم تصميم بعض شهادات الماجستير النهائية (مثل ماجستير إدارة الأعمال) لتنتهي في غضون ثلاثة أعوام. تستغرق شهادة الدكتوراة ما يقرب من خمسة أعوام لإنهائها.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_8_ques_24" data-h-url="What-will-happen-when-I-arrive-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 ما الذي سيحدث عند وصولي إلى المملكة المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_24" id="q_24">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما الذي سيحدث عند وصولي إلى المملكة المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_24" aria-labelledby="q_24">
+                                 <div class="a-icon">ج</div>
+                                 <p>عند وصولك إلى مطار المملكة المتحدة، ستحتاج إلى الدخول إلى المملكة المتحدة عبر الهجرة. وستقابل مسؤول الهجرة الذي سيراجع مستنداتك قبل أن تتمكن من جمع أمتعتك والذهاب إلى مركز INTO.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_7_ques_25" data-h-url="What-will-happen-when-I-arrive-in-the-US">
+                              <a href="javascript:void(0)" title="
+                                 ما الذي سيحدث عند وصولي إلى الولايات المتحدة؟
+                                 " class="faq-title" role="tab" aria-controls="a_25" id="q_25">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما الذي سيحدث عند وصولي إلى الولايات المتحدة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_25" aria-labelledby="q_25">
+                                 <div class="a-icon">ج</div>
+                                 <p>عند وصولك إلى الولايات المتحدة، ستحتاج إلى تقديم ما يلي لمسؤول الهجرة: جواز سفر مرفق بداخله تأشيرة جديدة، ونموذج I-20، وبطاقة I-94 (وهي بطاقة بيضاء صغيرة سيتم منحها لك على الطائرة) ونموذج الجمارك. يجب أن يكون معك خطاب القبول وإثبات مواردك المالية في حقيبة يدك تحسبًا إذا طُلب منك إظهارها. ستحتاج حينها إلى جمع أمتعتك. نحن نبذل قصارى جهدنا ليستقبلك الموظفون والطلاب في المطار بالقرب من الجامعة عند وصولك. إذا طلبت منا وسيلة نقل من المطار، فسنقوم بترتيب وسيلة نقل من المطار إلى محل سكنك. </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_9_ques_26" data-h-url="What-will-happen-when-I-arrive-in-China">
+                              <a href="javascript:void(0)" title="
+                                 ما الذي سيحدث عند وصولي إلى الصين؟
+                                 " class="faq-title" role="tab" aria-controls="a_26" id="q_26">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما الذي سيحدث عند وصولي إلى الصين؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_26" aria-labelledby="q_26">
+                                 <div class="a-icon">ج</div>
+                                 <p>بالنسبة للطلاب الأكاديميين، من المهم أن تصل إلى الصين قبل تاريخ البدء (تاريخ التسجيل). إذا لم يكن ذلك ممكنًا، فمن المهم أن تخبر فريق قبول الطلبات بمركز INTO بالصين في أقرب وقت ممكن. يجب أن يخطط طلاب البرنامج الصيفي لتعلّم اللغة الصينية للوصول في تاريخ بدء دورتهم التدريبية، والذي سيكون يوم جمعة. إذا كنت تخطط للوصول متأخرًا، فسنحرص على إحضارك من المطار ومساعدتك على القيام بأي واجبات مدرسية فاتتك. إذا وصلت مبكرًا أو غادرت متأخرًا، يمكن عادة توفير إقامة لليالي الإضافية. </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_27" data-h-url="What-should-I-pack">
+                              <a href="javascript:void(0)" title="
+                                 ما الذي يتعين عليّ إحضاره معي؟
+                                 " class="faq-title" role="tab" aria-controls="a_27" id="q_27">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما الذي يتعين عليّ إحضاره معي؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_27" aria-labelledby="q_27">
+                                 <div class="a-icon">ج</div>
+                                 <p>أحضر معك فقط ما يمكنك حمله! أكثر خطوط الطيران تسمح بحمل 20 إلى 23 كجم من الأمتعة المسجلة وتوجد قيود صارمة على حجم ووزن جميع حقائب اليد. احرص على الاحتفاظ بمستنداتك وأدويتك الضرورية (والوصفات الطبية ذات الصلة)، وهاتفك ومجموعة ملابس في حقيبة يدك. راجع دليل ما قبل المغادرة للتعرّف على المزيد من قائمة الحزم التفصيلية من أجل دورتك التدريبية أو جامعتك.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_28" data-h-url="Can-I-arrive-early-or-late">
+                              <a href="javascript:void(0)" title="
+                                 هل يمكنني الوصول مبكرًا أم متأخرًا؟
+                                 " class="faq-title" role="tab" aria-controls="a_28" id="q_28">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل يمكنني الوصول مبكرًا أم متأخرًا؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_28" aria-labelledby="q_28">
+                                 <div class="a-icon">ج</div>
+                                 <p>في المملكة المتحدة، يتعين عليك الوصول قبل يومين من تاريخ بدء الدورة التدريبية. إذا تأخرت، فقد تفوتك الصفوف وأحداث التعريف المهمة. في الولايات المتحدة، تسمح لك تأشيرة طلابك بالدخول إلى البلد قبل تاريخ بدء البرنامج بـ 30 يومًا. إذا كنت تقيم في الحرم الجامعي واخترت الوصول قبل تاريخ التقدم المحدد، فستحتاج إلى ترتيب أمر سكنك المؤقت. راجع دليل ما قبل المغادرة الخاص بجامعتك للعثور على معلومات حول الفنادق المحلية.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_29" data-h-url="How-do-I-arrange-an-airport-pick-up">
+                              <a href="javascript:void(0)" title="
+                                 ترتيب نقلك من وإلى المطار
+                                 " class="faq-title" role="tab" aria-controls="a_29" id="q_29">
+                                 <div class="q-icon">س</div>
+                                 <h2>ترتيب نقلك من وإلى المطار</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_29" aria-labelledby="q_29">
+                                 <div class="a-icon">ج</div>
+                                 <p>يمكننا توفير سيارة أجرة لمقابلتك عند وصولك المطار. لحجز وسيلة انتقال، يُرجى إكمال نموذج تفاصيل الوصول وإعادته إلى مكتب قبول الطلبات بمركز INTO لتحديد المركز الذي تختاره قبل وصولك بسبعة أيام على الأقل. في الولايات المتحدة، نحن نبذل قصارى جهدنا ليستقبلك الموظفون والطلاب في المطار بالقرب من الجامعة عند وصولك.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_30" data-h-url="How-will-I-contact-my-family">
+                              <a href="javascript:void(0)" title="
+                                 كيف سأتواصل مع عائلتي؟
+                                 " class="faq-title" role="tab" aria-controls="a_30" id="q_30">
+                                 <div class="q-icon">س</div>
+                                 <h2>كيف سأتواصل مع عائلتي؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_30" aria-labelledby="q_30">
+                                 <div class="a-icon">ج</div>
+                                 <p>يوجد لدى جميع الجامعات والمراكز شبكة WiFi، وبذلك ستتمكن من الاتصال بالمنزل عبر Skype. قد تريد أيضُا التحقق من مشغل هاتفك المحمول/الخلوي قبل المغادرة لضمان تشغيله في وجهتك. </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_31" data-h-url="How-do-I-apply-for-accommodation">
+                              <a href="javascript:void(0)" title="
+                                 كيف أتقدم بطلب للحصول على سكن؟
+                                 " class="faq-title" role="tab" aria-controls="a_31" id="q_31">
+                                 <div class="q-icon">س</div>
+                                 <h2>كيف أتقدم بطلب للحصول على سكن؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_31" aria-labelledby="q_31">
+                                 <div class="a-icon">ج</div>
+                                 <p>ستتقدم بطلب للحصول على سكن في طلب التقدم لدورتك التدريبية أو للبرنامج. إذا لم تقم بتقديم طلب للحصول على سكن عند التقدم لدورتك التدريبية، فسيمكنك التواصل مع فريق قبول الطلبات الخاص بنا لإضافة سكن في وقت لاحق. نحن ننصحك بالتقدم بطلب للحصول على سكن في أقرب وقت ممكن، نظرًا لأن الأماكن تمتلئ سريعًا في كل دورة من دوراتنا التدريبية.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_32" data-h-url="Is-accommodation-guaranteed">
+                              <a href="javascript:void(0)" title="
+                                 هل السكن مضمون؟
+                                 " class="faq-title" role="tab" aria-controls="a_32" id="q_32">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل السكن مضمون؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_32" aria-labelledby="q_32">
+                                 <div class="a-icon">ج</div>
+                                 <p>يتم تخصيص السكن على أساس من يأتي أولاً ومن تتم خدمته أولاً في المملكة المتحدة. ستضمن حصولك على السكن المفضل بعد دفع دفعة مسبقة مباشرةً. تتطلب بعض جامعاتنا الأمريكية توفير مسكن للطلاب بالحرم الجامعي ممن يتبعون مسارًا جامعيًا في خططهم الدراسية؛ وسيكون السكن مضمونًا إذا كان مطلوبًا لبرنامجك. </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat__ques_33" data-h-url="What-are-the-visa-requirements">
+                              <a href="javascript:void(0)" title="
+                                 ما متطلبات الحصول على التأشيرة؟
+                                 " class="faq-title" role="tab" aria-controls="a_33" id="q_33">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما متطلبات الحصول على التأشيرة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_33" aria-labelledby="q_33">
+                                 <div class="a-icon">ج</div>
+                                 <p>كل بلد له متطلبات خاصة بتأشيرته والتي سنساعدك على فهمها.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_34" data-h-url="How-do-I-pay-my-fees">
+                              <a href="javascript:void(0)" title="
+                                 كيف أدفع رسومي؟
+                                 " class="faq-title" role="tab" aria-controls="a_34" id="q_34">
+                                 <div class="q-icon">س</div>
+                                 <h2>كيف أدفع رسومي؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_34" aria-labelledby="q_34">
+                                 <div class="a-icon">ج</div>
+                                 <p>يمكنك دفع رسومك عبر تحويل مصرفي أو بواسطة بطاقة الائتمان. يُرجى الاتصال بنا لمعرفة تفاصيل التحويل المصرفي.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_35" data-h-url="When-will-I-need-to-pay-my-fees">
+                              <a href="javascript:void(0)" title="
+                                 متى سأحتاج إلى دفع رسومي؟
+                                 " class="faq-title" role="tab" aria-controls="a_35" id="q_35">
+                                 <div class="q-icon">س</div>
+                                 <h2>متى سأحتاج إلى دفع رسومي؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_35" aria-labelledby="q_35">
+                                 <div class="a-icon">ج</div>
+                                 <p>ستحتاج إلى دفع رسومك قبل بدء دورتك التدريبية لتجنب تأخير تسجيلك. إذا كنت تدفع من خلال بطاقة الائتمان، فستحتاج عادةً إلى إخطار موفر الخدمة لديك بذلك مسبقًا.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_36" data-h-url="Do-I-get-a-refund-if-I-cancel">
+                              <a href="javascript:void(0)" title="
+                                 هل أسترد أموالي في حالة الإلغاء؟
+                                 " class="faq-title" role="tab" aria-controls="a_36" id="q_36">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل أسترد أموالي في حالة الإلغاء؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_36" aria-labelledby="q_36">
+                                 <div class="a-icon">ج</div>
+                                 <p>يمكنك استرداد أموالك فقط في حالة رفض طلبات التقدم للحصول على تأشيرة.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_37" data-h-url="Do-I-need-to-pay-a-deposit">
+                              <a href="javascript:void(0)" title="
+                                 هل يتعين علي دفع دفعة مسبقة؟
+                                 " class="faq-title" role="tab" aria-controls="a_37" id="q_37">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل يتعين علي دفع دفعة مسبقة؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_37" aria-labelledby="q_37">
+                                 <div class="a-icon">ج</div>
+                                 <p>Yستحتاج إلى دفع دفعة مسبقة للحصول على مكان في دورتك التدريبية التي تختارها حتى ستة أسابيع قبل بدء الدورة التدريبية. إذا تقدمت بطلب للحصول على سكن، فستحتاج إلى دفع دفعة مسبقة إضافية لضمان الحصول على مكان في السكن.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat_12_ques_38" data-h-url="What-currency-will-an-invoice-for-study-in-China-be-quoted-in">
+                              <a href="javascript:void(0)" title="
+                                 ما العملة التي ستصدر بها فاتورة الدراسة في الصين؟
+                                 " class="faq-title" role="tab" aria-controls="a_38" id="q_38">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما العملة التي ستصدر بها فاتورة الدراسة في الصين؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_38" aria-labelledby="q_38">
+                                 <div class="a-icon">ج</div>
+                                 <p>ستظهر رسوم دورتك التدريبية بالرنمينبي، لكن سيظهر أيضًا مثالاً لتحويلها إلى الدولار الأمريكي والجنيه الإسترليني..</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_39" data-h-url="How-much-cash-should-I-bring">
+                              <a href="javascript:void(0)" title="
+                                 ما المبلغ الذي ينبغي علي إحضاره؟
+                                 " class="faq-title" role="tab" aria-controls="a_39" id="q_39">
+                                 <div class="q-icon">س</div>
+                                 <h2>ما المبلغ الذي ينبغي علي إحضاره؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_39" aria-labelledby="q_39">
+                                 <div class="a-icon">ج</div>
+                                 <p>نحن ننصحك بإحضار أموال كافية لتغطية نفقات أول أسبوعين. يجب أن يتراوح ذلك ما بين 250 دولارًا أمريكيًا أو 400 دولار أمريكي. يُرجى عدم حمل مبالغ أكبر أو أموال نقدية. راجع دليل ما قبل المغادرة الخاص بمركزك أو جامعتك لتعرف كيف يمكننا مساعدتك في إعداد حساب مصرفي. </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_40" data-h-url="Do-I-need-medical-insurance">
+                              <a href="javascript:void(0)" title="
+                                 هل أحتاج إلى تأمين طبي؟
+                                 " class="faq-title" role="tab" aria-controls="a_40" id="q_40">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل أحتاج إلى تأمين طبي؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_40" aria-labelledby="q_40">
+                                 <div class="a-icon">ج</div>
+                                 <p>ستحتاج إلى تأمين للانتقالات وتأمين طبي وصحي شامل. سنقوم بتسجيلك في التأمين الطبي الملائم لخطتك الدراسية ما لم تقدم إثباتًا بالتأمين المناسب أثناء عملية تقديم الطلب. إذا كنت ستدرس في المملكة المتحدة، فسيتم إضافة تأمين Uniplan إلى رسوم دورتك التدريبية تلقائيًا. إذا كنت ستدرس في الولايات المتحدة، فستدفع رسومك بعد وصولك إلى جامعتك. </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_41" data-h-url="When-do-I-get-my-student-card">
+                              <a href="javascript:void(0)" title="
+                                 متى أحصل على بطاقة الطالب الخاصة بي؟
+                                 " class="faq-title" role="tab" aria-controls="a_41" id="q_41">
+                                 <div class="q-icon">س</div>
+                                 <h2>متى أحصل على بطاقة الطالب الخاصة بي؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_41" aria-labelledby="q_41">
+                                 <div class="a-icon">ج</div>
+                                 <p>سيتم إعطاؤك هذه البطاقة خلال أسبوع الترحيب أو أسبوع التوجيه. بعد حصولك على بطاقة الطالب مباشرةً ستتمكن من استخدام جميع المرافق الموجودة بالحرم الجامعي.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_42" data-h-url="Who-should-I-inform-if-my-contact-details-change">
+                              <a href="javascript:void(0)" title="
+                                 كيف أقوم بالإبلاغ إذا تغيرت تفاصيل الاتصال الخاصة بي؟
+                                 " class="faq-title" role="tab" aria-controls="a_42" id="q_42">
+                                 <div class="q-icon">س</div>
+                                 <h2>كيف أقوم بالإبلاغ إذا تغيرت تفاصيل الاتصال الخاصة بي؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_42" aria-labelledby="q_42">
+                                 <div class="a-icon">ج</div>
+                                 <p>Iإذا تغيرت معلوماتك قبل وصولك، فسيتعين عليك إبلاغ فريق القبول الذي يقوم بمعالجة طلبك. إذا تغيرت التفاصيل الخاصة بك أثناء تواجدك بالمركز أو الجامعة، فستحتاج إلى إعطاء معلوماتك الجديدة للموظفين في المركز أو الجامعة. </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_43" data-h-url="Will-I-be-able-to-find-food-from-my-country">
+                              <a href="javascript:void(0)" title="
+                                 هل سأتمكن من العثور على طعام من بلدي؟
+                                 " class="faq-title" role="tab" aria-controls="a_43" id="q_43">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل سأتمكن من العثور على طعام من بلدي؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_43" aria-labelledby="q_43">
+                                 <div class="a-icon">ج</div>
+                                 <p>نعم! تتوفر في معظم المدن أسواق آسيوية ومتاجر بقالة دولية أخرى والتي تبيع المكونات الأصلية. يوجد بالمدن الكبرى مناطق صينية وأحياء دولية بها مطاعم تقدم المأكولات الأصلية. يُرجى التخطيط لمشاركة وصفاتك المنزلية مع موظفي الجامعة والزملاء.(/p&gt;</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_44" data-h-url="Will-I-be-able-to-find-Halal-food">
+                              <a href="javascript:void(0)" title="
+                                 هل سأتمكن من العثور على طعام حلال؟
+                                 " class="faq-title" role="tab" aria-controls="a_44" id="q_44">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل سأتمكن من العثور على طعام حلال؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_44" aria-labelledby="q_44">
+                                 <div class="a-icon">ج</div>
+                                 <p>نعم! يتوفر بالعديد من الأسواق الكبيرة خيارات من الطعام الموافق للشريعة الإسلامية. كما ستجد أيضًا متاجر للطعام الموافق للشريعة الإسلامية، وخاصةً في المملكة المتحدة والمدن الأكبر حجمًا في الولايات المتحدة.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat__ques_45" data-h-url="Will-I-be-able-to-find-food-that-meets-my-dietary-needs-if-I-live-on-campus">
+                              <a href="javascript:void(0)" title="
+                                 هل سأتمكن من العثور على الطعام الذي يلبي احتياجاتي الغذائية إذا أقمت في الحرم الجامعي؟
+                                 " class="faq-title" role="tab" aria-controls="a_45" id="q_45">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل سأتمكن من العثور على الطعام الذي يلبي احتياجاتي الغذائية إذا أقمت في الحرم الجامعي؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_45" aria-labelledby="q_45">
+                                 <div class="a-icon">ج</div>
+                                 <p>نعم! توفر الجامعات مجموعة كبيرة ومتنوعة من المطاعم داخل قاعات تناول الطعام والمطاعم الموجودة بالحرم الجامعي، وخاصةً في الولايات المتحدة. ستتمكن دائمًا من العثور على خيارات نباتية أو موافقة للشريعة اليهودية أو موافقة للشريعة الإسلامية أو خالية من الغلوتين. في معظم الحالات، تدون خدمات الطعام بالجامعة اقتراحات الطلاب بشأن الوصفات، لذا إذا كنت تريد وضع عنصر معين على القائمة، ما عليك إلا أن تطلب!</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_57" data-h-url="Can-I-take-my-IELTS-exam-at-an-INTO-centre">
+                              <a href="javascript:void(0)" title="
+                                 هل يمكنني الخضوع لاختبار IELTS في مركز من مراكز INTO؟
+                                 " class="faq-title" role="tab" aria-controls="a_57" id="q_57">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل يمكنني الخضوع لاختبار IELTS في مركز من مراكز INTO؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_57" aria-labelledby="q_57">
+                                 <div class="a-icon">ج</div>
+                                 <p>
+                                    "نعم. يُعد مركز INTO في جامعة إيست أنجليا مركز اختبارات لنظام اختبار اللغة الإنجليزية الدولية (IELTS). يقدم مركز INTO في جامعة إيست أنجليا مواعيد اختبارات على مدار العام. يقيس اختبار IELTS الأكاديمي درجة إتقانك للغة الإنجليزية المطلوبة للبيئة الأكاديمية وبيئة التعليم العالي. يقيس أيضًا اختبار تدريب IELTS العام إتقانك للغة الإنجليزية في سياق عملي وفي سياق الحياة اليومية. يعمل كلا الاختبارين على تقييم مهارات اللغة الإنجليزية لديك بالكامل بما في ذلك القراءة والكتابة والاستماع والتحدث. ستحصل على نتائج منفصلة لكل من هذه المهارات، إلى جانب نتيجة كلية.
+                                    LINK &gt; www.ielts.intouea.com"
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_19_ques_58" data-h-url="Is-there-a-language-requirement-for-studying-in-China">
+                              <a href="javascript:void(0)" title="
+                                 هل توجد متطلبات لغوية للدراسة في الصين؟
+                                 " class="faq-title" role="tab" aria-controls="a_58" id="q_58">
+                                 <div class="q-icon">س</div>
+                                 <h2>هل توجد متطلبات لغوية للدراسة في الصين؟</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_58" aria-labelledby="q_58">
+                                 <div class="a-icon">ج</div>
+                                 <p>للبرامج الصيفية لتعلّم اللغة الصينية، لا تحتاج لإتقان اللغة الإنجليزية أو الصينية. نحن خبراء في تعليم الطلاب المبتدئين في كلٍ من اللغتين الصينية والإنجليزية. للبرامج الأكاديمية، مثل الدورات التدريبية الخاصة بالشهادة الجامعية والماجستير التي يتم تعليمها باللغة الإنجليزية، فيجب ألا تقل نتيجة اختبار IELTS لغير المتحدثين باللغة الإنجليزية عن 6.0 درجات. يمكنك بدء برامج INTO الأكاديمية في الصين كمبتدئ باللغة الصينية، لا يلزم توفر مهارات سابقة في اللغة الصينية.</p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_7_subcat_14_ques_59" data-h-url="how-can-i-open-a-bank-account-in-the-uk">
+                              <a href="javascript:void(0)" title="
+                                 How can I open a Bank Account in the UK?
+                                 " class="faq-title" role="tab" aria-controls="a_59" id="q_59">
+                                 <div class="q-icon">س</div>
+                                 <h2>How can I open a Bank Account in the UK?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_59" aria-labelledby="q_59">
+                                 <div class="a-icon">ج</div>
+                                 <p>You can open a Bank account in the UK after you arrive and register at your study centre. You’ll need your student enrolment letter in order to open a student bank Account. Our student services will guide you through this process during your induction week. </p>
+                                 <a href="/en/study-abroad/country-guides/uk/currency-banking" class="l-cta cta">More about UK money</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_8_ques_60" data-h-url="what-documents-should-i-bring-with-me">
+                              <a href="javascript:void(0)" title="
+                                 What documents should I bring with me?
+                                 " class="faq-title" role="tab" aria-controls="a_60" id="q_60">
+                                 <div class="q-icon">س</div>
+                                 <h2>What documents should I bring with me?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_60" aria-labelledby="q_60">
+                                 <div class="a-icon">ج</div>
+                                 <p>
+                                    You’ll need to bring your passport, visa, CAS Statement, transcripts, certificates and TB certificate, if applicable. href="/apps" class="l-cta cta"&gt;Read our pre-departure guides
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_4_subcat_8_ques_61" data-h-url="do-i-need-to-bring-my-own-bed-linen">
+                              <a href="javascript:void(0)" title="
+                                 Do I need to bring my own bed linen?
+                                 " class="faq-title" role="tab" aria-controls="a_61" id="q_61">
+                                 <div class="q-icon">س</div>
+                                 <h2>Do I need to bring my own bed linen?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_61" aria-labelledby="q_61">
+                                 <div class="a-icon">ج</div>
+                                 <p>We’ll provide you with essentials such as a pillow, duvet and bedding, you’re planning to stay at INTO residential accommodation.</p>
+                                 href="/apps" class="l-cta cta"&gt;Read our pre-departure guides
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_63" data-h-url="What-Secure-English-Test-should-I-take-if-I-want-to-study-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 What Secure English Test should I take if I want to study in the UK?
+                                 " class="faq-title" role="tab" aria-controls="a_63" id="q_63">
+                                 <div class="q-icon">س</div>
+                                 <h2>What Secure English Test should I take if I want to study in the UK?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_63" aria-labelledby="q_63">
+                                 <div class="a-icon">ج</div>
+                                 <p>If you'd like to study in the UK, you may need to take a IELTS Academic for UKVI to show your English language ability in order to apply for a Tier 4 Student visa. All students applying for a Tier 4 visa to study in the UK, at below level degree, must provide an appropriate IELTS Academic for UKVI with their visa application. </p>
+                                 <a href=" /en-gb/study-abroad/country-guides/uk/visas/ielts " class="l-cta cta">About IELTS</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_65" data-h-url="Am-I-able-to-get-an-offer-before-receiving-my-final-transcripts-and-certificates">
+                              <a href="javascript:void(0)" title="
+                                 Am I able to get an offer before receiving my final transcripts and certificates?
+                                 " class="faq-title" role="tab" aria-controls="a_65" id="q_65">
+                                 <div class="q-icon">س</div>
+                                 <h2>Am I able to get an offer before receiving my final transcripts and certificates?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_65" aria-labelledby="q_65">
+                                 <div class="a-icon">ج</div>
+                                 <p>Don’t worry if you haven’t received your final transcripts and certificates yet. We can always give you an offer that’s conditional on achieving specific academic or English grades. When you provide your final certificates and meet the conditions of your offer, we will change your offer to an unconditional one. </p>
+                                 <a href="/en/Apply" class="l-cta cta">Apply now</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_67" data-h-url="I-have-an-EU-passport-will-I-need-a-VISA-to-study-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 I have an EU passport, will I need a VISA?
+                                 " class="faq-title" role="tab" aria-controls="a_67" id="q_67">
+                                 <div class="q-icon">س</div>
+                                 <h2>I have an EU passport, will I need a VISA?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_67" aria-labelledby="q_67">
+                                 <div class="a-icon">ج</div>
+                                 <p>No, you won’t need a visa to study in the UK. Although the UK recently voted to leave the EU, this will have no effect for at least 2 years. Please contact us for further details. </p>
+                                 <a href="/en/study-abroad/country-guides/uk/visas" class="l-cta cta">More about visas</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_68" data-h-url="I-have-a-non-EU-passport-will-I-need-a-visa">
+                              <a href="javascript:void(0)" title="
+                                 I have a non-EU passport, will I need a visa?
+                                 " class="faq-title" role="tab" aria-controls="a_68" id="q_68">
+                                 <div class="q-icon">س</div>
+                                 <h2>I have a non-EU passport, will I need a visa?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_68" aria-labelledby="q_68">
+                                 <div class="a-icon">ج</div>
+                                 <p>Yes, you may need a visa for an INTO course. </p>
+                                 <a href="/en/study-abroad/country-guides/uk/visas" class="l-cta cta">More about visas</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_69" data-h-url="How-much-money-will-I-need-to-show-for-a-Tier-4-visa-application-to-study-at-INTO-City-INTO-London-or-INTO-St-Georges">
+                              <a href="javascript:void(0)" title="
+                                 How much money will I need to show for a Tier 4 visa application to study at INTO City, INTO London or INTO St George’s?
+                                 " class="faq-title" role="tab" aria-controls="a_69" id="q_69">
+                                 <div class="q-icon">س</div>
+                                 <h2>How much money will I need to show for a Tier 4 visa application to study at INTO City, INTO London or INTO St George’s?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_69" aria-labelledby="q_69">
+                                 <div class="a-icon">ج</div>
+                                 <p->
+                                    You’ll need to provide a recent bank statement in your name, or your parents name, showing funds to cover full tuition fees + £1265 per month of study with INTO (up to a maximum of nine).
+                                    <p></p>
+                                    <a href="/en/study-abroad/country-guides/uk/visas" class="l-cta cta">More about visas</a>
+                                 </p->
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_70" data-h-url="Is-INTO-a-registered-Tier-4-sponsor">
+                              <a href="javascript:void(0)" title="
+                                 Is INTO a registered Tier 4 sponsor?
+                                 " class="faq-title" role="tab" aria-controls="a_70" id="q_70">
+                                 <div class="q-icon">س</div>
+                                 <h2>Is INTO a registered Tier 4 sponsor?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_70" aria-labelledby="q_70">
+                                 <div class="a-icon">ج</div>
+                                 <p>INTO Manchester and INTO London operate on the INTO Manchester sponsor license. Students studying at other INTO centres will be sponsored for their tier 4 VISA by their host university. </p>
+                                 <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/538372/Tier_4_Sponsor_Guidance-Sponsorship_Duties_July_2016.pdf" class="l-cta cta">Tier 4 sponsorship</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_71" data-h-url="How-much-money-will-I-need-to-show-for-a-Tier-4-visa-application-to-study-at-most-INTO-Centres">
+                              <a href="javascript:void(0)" title="
+                                 How much money will I need to show for a Tier 4 visa application to study at most INTO Centres?
+                                 " class="faq-title" role="tab" aria-controls="a_71" id="q_71">
+                                 <div class="q-icon">س</div>
+                                 <h2>How much money will I need to show for a Tier 4 visa application to study at most INTO Centres?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_71" aria-labelledby="q_71">
+                                 <div class="a-icon">ج</div>
+                                 <p>You’ll need to provide a bank statement in your name, or your parents name, showing funds to cover full tuition fees + £1015 per month of study with INTO (up to a maximum of nine). </p>
+                                 <a href="/en/study-abroad/country-guides/uk/visas" class="l-cta cta">More about visas</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_72" data-h-url="Will-I-need-any-medical-documents-for-my-visa-application">
+                              <a href="javascript:void(0)" title="
+                                 Will I need any medical documents for my visa application?
+                                 " class="faq-title" role="tab" aria-controls="a_72" id="q_72">
+                                 <div class="q-icon">س</div>
+                                 <h2>Will I need any medical documents for my visa application?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_72" aria-labelledby="q_72">
+                                 <div class="a-icon">ج</div>
+                                 <p>Students from some countries are required to provide a TB certificate. </p>
+                                 <a href="https://www.gov.uk/tb-test-visa/countries-where-you-need-a-tb-test-to-enter-the-uk" class="l-cta cta">About TB tests</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_73" data-h-url="What-do-I-need-to-apply-for-a-tier-4-visa">
+                              <a href="javascript:void(0)" title="
+                                 What do I need to apply for a tier 4 visa?
+                                 " class="faq-title" role="tab" aria-controls="a_73" id="q_73">
+                                 <div class="q-icon">س</div>
+                                 <h2>What do I need to apply for a tier 4 visa?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_73" aria-labelledby="q_73">
+                                 <div class="a-icon">ج</div>
+                                 <p>You’ll need to hold an unconditional offer to study with INTO and have paid your deposit for your INTO course. We’ll then issue a CAS number that you’ll use for your VISA application. </p>
+                                 <a href="/en/study-abroad/country-guides/uk/visas" class="l-cta cta">More about visas</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_74" data-h-url="Where-do-I-apply-for-a-tier-4-visa">
+                              <a href="javascript:void(0)" title="
+                                 Where do I apply for a tier 4 visa?
+                                 " class="faq-title" role="tab" aria-controls="a_74" id="q_74">
+                                 <div class="q-icon">س</div>
+                                 <h2>Where do I apply for a tier 4 visa?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_74" aria-labelledby="q_74">
+                                 <div class="a-icon">ج</div>
+                                 <p>Applications can be made online for tier 4 visas via the UK Government’s website. </p>
+                                 <a href="https://www.gov.uk/tier-4-general-visa/apply" class="l-cta cta">Apply now</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_75" data-h-url="Can-I-extend-my-Tier-4-visa-in-the-UK-when-my-INTO-course-ends">
+                              <a href="javascript:void(0)" title="
+                                 Can I extend my Tier 4 visa in the UK when my INTO course ends?
+                                 " class="faq-title" role="tab" aria-controls="a_75" id="q_75">
+                                 <div class="q-icon">س</div>
+                                 <h2>Can I extend my Tier 4 visa in the UK when my INTO course ends?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_75" aria-labelledby="q_75">
+                                 <div class="a-icon">ج</div>
+                                 <p>If you are studying at INTO London or INTO Manchester, you’ll need to return home to apply for a new visa. If you are studying at another centres, you can apply for your next visa in the UK, if the course starts within 28 days of the end of your current visa. </p>
+                                 <a href="/en/study-abroad/country-guides/uk/visas" class="l-cta cta">More about visas</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_76" data-h-url="Can-I-work-in-the-UK-on-my-Tier-4-visa">
+                              <a href="javascript:void(0)" title="
+                                 Can I work in the UK on my Tier 4 visa?
+                                 " class="faq-title" role="tab" aria-controls="a_76" id="q_76">
+                                 <div class="q-icon">س</div>
+                                 <h2>Can I work in the UK on my Tier 4 visa?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_76" aria-labelledby="q_76">
+                                 <div class="a-icon">ج</div>
+                                 <p>Students at INTO Manchester and INTO London can’t work in the UK on a Tier 4 visa. Students at other INTO centres can work a maximum of 10 hours, or 20 hours if studying a Graduate Diploma or undergraduate/postgraduate degree. </p>
+                                 <a href="/en/study-abroad/country-guides/uk/visas" class="l-cta cta">More about visas</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_77" data-h-url="Can-I-speak-to-someone-in-my-native-language about my application">
+                              <a href="javascript:void(0)" title="
+                                 Can I speak to someone in my native language about my application?
+                                 " class="faq-title" role="tab" aria-controls="a_77" id="q_77">
+                                 <div class="q-icon">س</div>
+                                 <h2>Can I speak to someone in my native language about my application?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_77" aria-labelledby="q_77">
+                                 <div class="a-icon">ج</div>
+                                 <p>Yes, we speak Arabic, Russian, Chinese and Farsi. </p>
+                                 <a href=" /en-gb/help" class="l-cta cta">Contact us</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_79" data-h-url="If-I-start-a-General-English-course-can-I-progress-to-English-for-University-Study-after-taking-an-IELTS-test">
+                              <a href="javascript:void(0)" title="
+                                 If I start a General English course, can I progress to English for University Study after taking an IELTS test?
+                                 " class="faq-title" role="tab" aria-controls="a_79" id="q_79">
+                                 <div class="q-icon">س</div>
+                                 <h2>If I start a General English course, can I progress to English for University Study after taking an IELTS test?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_79" aria-labelledby="q_79">
+                                 <div class="a-icon">ج</div>
+                                 <p>Yes, you can.</p>
+                                 <a href=" /en-gb/study-programs" class="l-cta cta">Find a study program</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_80" data-h-url="Can-I-study-on-a-tourist-visa-if-Im-already-in-the-UK">
+                              <a href="javascript:void(0)" title="
+                                 Can I study on a tourist visa if I’m already in the UK?
+                                 " class="faq-title" role="tab" aria-controls="a_80" id="q_80">
+                                 <div class="q-icon">س</div>
+                                 <h2>Can I study on a tourist visa if I’m already in the UK?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_80" aria-labelledby="q_80">
+                                 <div class="a-icon">ج</div>
+                                 <p>A tourist visa will only allow you to study for four weeks.</p>
+                                 <a href="/en/study-abroad/country-guides/uk/visas" class="l-cta cta">More about visas</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_81" data-h-url="Im-already-in-the-UK-and-I-dont-have-an-IELTS-can-your-centre-provide-alternative-assessment-so-I-can-study-English-for-University-Study">
+                              <a href="javascript:void(0)" title="
+                                 I’m already in the UK and I don’t have an IELTS. Can your centre provide alternative assessment so I can study EUS?
+                                 " class="faq-title" role="tab" aria-controls="a_81" id="q_81">
+                                 <div class="q-icon">س</div>
+                                 <h2>I’m already in the UK and I don’t have an IELTS. Can your centre provide alternative assessment so I can study EUS?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_81" aria-labelledby="q_81">
+                                 <div class="a-icon">ج</div>
+                                 <p>Most of our centres can provide a walk-in assessment for English language for EUS programme. </p>
+                                 <a href=" /en-gb/study-abroad/country-guides/uk/visas/ielts" class="l-cta cta">More about IELTS</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_82" data-h-url="Can-I-complete-four-terms-of-EUS-on-a-Student-Visitor-visa">
+                              <a href="javascript:void(0)" title="
+                                 Can I complete four terms of EUS on a Student Visitor visa?
+                                 " class="faq-title" role="tab" aria-controls="a_82" id="q_82">
+                                 <div class="q-icon">س</div>
+                                 <h2>Can I complete four terms of EUS on a Student Visitor visa?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_82" aria-labelledby="q_82">
+                                 <div class="a-icon">ج</div>
+                                 <p>Four terms of study in the UK will require a Tier 4 visa. </p>
+                                 <a href="/en/study-abroad/country-guides/uk/visas" class="l-cta cta">More about visas</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat__ques_83" data-h-url="Where-do-your-students-come-from">
+                              <a href="javascript:void(0)" title="
+                                 Where do your students come from?
+                                 " class="faq-title" role="tab" aria-controls="a_83" id="q_83">
+                                 <div class="q-icon">س</div>
+                                 <h2>Where do your students come from?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_83" aria-labelledby="q_83">
+                                 <div class="a-icon">ج</div>
+                                 <p>All our centres are multinational and we have students from all over the world. </p>
+                                 <a href=" /en-gb/study-abroad " class="l-cta cta">More about studying abroad</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat__ques_84" data-h-url="Why-is-an-EUS-course-also-called-academic-English">
+                              <a href="javascript:void(0)" title="
+                                 Why is an EUS course also called academic English?
+                                 " class="faq-title" role="tab" aria-controls="a_84" id="q_84">
+                                 <div class="q-icon">س</div>
+                                 <h2>Why is an EUS course also called academic English?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_84" aria-labelledby="q_84">
+                                 <div class="a-icon">ج</div>
+                                 <p>On this course you’ll study academic English. You’ll learn how to develop your academic skills such as researching and presenting, alongside improving your English. </p>
+                                 <a href="/en/study-programs" class="l-cta cta">Search study programs</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_85" data-h-url="Whats-the-minimum-age-required-for-a-student-to-apply-for-General-English">
+                              <a href="javascript:void(0)" title="
+                                 What’s the minimum age required for a student to apply for General English?
+                                 " class="faq-title" role="tab" aria-controls="a_85" id="q_85">
+                                 <div class="q-icon">س</div>
+                                 <h2>What’s the minimum age required for a student to apply for General English?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_85" aria-labelledby="q_85">
+                                 <div class="a-icon">ج</div>
+                                 <p>Most of our centres accept 16 years old and above. </p>
+                                 <a href="/en/study-programs " class="l-cta cta">Search study programs</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_86" data-h-url="Will-a-General-English-course-help-me-improve-my-sub-skills-in-IELTS">
+                              <a href="javascript:void(0)" title="
+                                 Will a General English course help me improve my sub-skills in IELTS?
+                                 " class="faq-title" role="tab" aria-controls="a_86" id="q_86">
+                                 <div class="q-icon">س</div>
+                                 <h2>Will a General English course help me improve my sub-skills in IELTS?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_86" aria-labelledby="q_86">
+                                 <div class="a-icon">ج</div>
+                                 <p>General English is for everyday conversation. It will improve your English language skills but it isn’t designed to help students prepare for IELTS. </p>
+                                 <a href=" /en-gb/study-abroad/country-guides/uk/visas/ielts " class="l-cta cta">More about IELTS</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_87" data-h-url="Is-your-end-of-term-assessment-for-my-English-language-level-at-English-for-University-Study-course-accepted-by-other-non-INTO-partners">
+                              <a href="javascript:void(0)" title="
+                                 Is your end of term assessment for my English language level at EUS course, accepted by other non-INTO partners?
+                                 " class="faq-title" role="tab" aria-controls="a_87" id="q_87">
+                                 <div class="q-icon">س</div>
+                                 <h2>Is your end of term assessment for my English language level at EUS course, accepted by other non-INTO partners?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_87" aria-labelledby="q_87">
+                                 <div class="a-icon">ج</div>
+                                 <p>You’ll need to check with other non-INTO partners, if they accept our assessment. </p>
+                                 <a href=" /en-gb/study-programs " class="l-cta cta">Search study programs</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_3_subcat_5_ques_89" data-h-url="Do-I-need-to-retake-a-IELTS-test-after-completing-my-programme-of-EUS">
+                              <a href="javascript:void(0)" title="
+                                 Do I need to retake a IELTS test after completing my programme of EUS?
+                                 " class="faq-title" role="tab" aria-controls="a_89" id="q_89">
+                                 <div class="q-icon">س</div>
+                                 <h2>Do I need to retake a IELTS test after completing my programme of EUS?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_89" aria-labelledby="q_89">
+                                 <div class="a-icon">ج</div>
+                                 <p>If you achieve the equivalent IELTS grade required by our INTO partner, you won’t need to re-take IELTS. </p>
+                                 <a href=" /en-gb/study-abroad/country-guides/uk/visas/ielts " class="l-cta cta">More about IELTS</a>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_90" data-h-url="tef">
+                              <a href="javascript:void(0)" title="
+                                 What are TEF quality standards?
+                                 " class="faq-title" role="tab" aria-controls="a_90" id="q_90">
+                                 <div class="q-icon">س</div>
+                                 <h2>What are TEF quality standards?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_90" aria-labelledby="q_90">
+                                 <div class="a-icon">ج</div>
+                                 <p>The Teaching Excellence Framework is a government-backed assessment of undergraduate teaching quality across higher education institutions in England, and some institutions in Scotland and Wales.</p>
+                                 <p>It assesses participating universities in:</p>
+                                 <ul>
+                                    <li>teaching quality</li>
+                                    <li>learning environment</li>
+                                    <li>student outcomes and learning gain</li>
+                                 </ul>
+                                 <p>Universities are awarded a bronze, silver or gold rating to recognise the quality of their teaching.</p>
+                                 <p>
+                                    For further information please visit: <a href="http://www.hefce.ac.uk/TEFoutcomes" title="www.hefce.ac.uk/TEFoutcomes" target="_blank">www.hefce.ac.uk/TEFoutcomes</a>
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_91" data-h-url="guaranteedprogression">
+                              <a href="javascript:void(0)" title="
+                                 What does guaranteed progression mean?
+                                 " class="faq-title" role="tab" aria-controls="a_91" id="q_91">
+                                 <div class="q-icon">س</div>
+                                 <h2>What does guaranteed progression mean?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_91" aria-labelledby="q_91">
+                                 <div class="a-icon">ج</div>
+                                 <p>To ensure you are eligible to progress on to the relevant university, you must:</p>
+                                 <ul>
+                                    <li>Meet the minimum attendance requirements for your INTO course.</li>
+                                    Meet the University’s required progression grades for your chosen degree course - each individual degree programme has unique progression requirements.
+                                    <li>Follow the academic advice and guidance of INTO staff throughout your pathway programme.</li>
+                                    <ul>
+                                       <p>If you follow these guidelines, we guarantee you a conditional offer at your pathway provider university. If you are studying at one of our multi-pathway choice Centres, you will be eligible for a conditional offer at a relevant INTO affiliate or partner university.</p>
+                                       <p>Have questions about progression? <a title="Contact us" href="/en/help">contact us</a></p>
+                                    </ul>
+                                 </ul>
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_2_subcat_2_ques_92" data-h-url="visa-application">
+                              <a href="javascript:void(0)" title="
+                                 When should I apply for my Tier 4 visa?
+                                 " class="faq-title" role="tab" aria-controls="a_92" id="q_92">
+                                 <div class="q-icon">س</div>
+                                 <h2>When should I apply for my Tier 4 visa?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_92" aria-labelledby="q_92">
+                                 <div class="a-icon">ج</div>
+                                 Visas can take up to 30 days to come through. Please ensure that you apply as soon as you have received your offer.
+                              </div>
+                           </div>
+                           <div class="faq-question" id="cat_5_subcat__ques_93" data-h-url="ingenico">
+                              <a href="javascript:void(0)" title="
+                                 When I pay my fees why does the web site say I am making a payment to Ingenico’s ‘GlobalCollect’ and not directly to my chosen INTO Centre?
+                                 " class="faq-title" role="tab" aria-controls="a_93" id="q_93">
+                                 <div class="q-icon">س</div>
+                                 <h2>When I pay my fees why does the web site say I am making a payment to Ingenico’s ‘GlobalCollect’ and not directly to my chosen INTO Centre?</h2>
+                                 <span></span>
+                              </a>
+                              <div class="l-text-block is-hidden" role="tabpanel" aria-hidden="true" id="a_93" aria-labelledby="q_93">
+                                 <div class="a-icon">ج</div>
+                                 <p>INTO Centres in the UK and US have recently partnered with Ingenico, one of the world’s major payment providers, to take payments via Ingenico’s GlobalCollect platform. </p>
+                                 <p>
+                                    Working with Ingenico allows INTO to offer a much broader range of secure payment methods and currencies in many countries across the world.
+                                 </p>
+                                 <p>This is why you will see GlobalCollect’s name on your bank statement and not the name of the INTO Centre in question.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </section>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/ar/about-into">عن مراكز INTO</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/ar/study-abroad">الدراسة في الخارج</a>
+            </div>
+            
+            <div class="col-sm-auto col-7">
+                <a href="/ar/universities">الجامعات</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/ar/apply">تقدم بطلب</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                الطلاب الأعزاء &#x2013; إن كنتم تتقدمون بطلبكم عبر مستشار تعليمي، فيرجى الاتصال بهم بشكل مباشر لطرح أي أسئلة لديكم; جميع الطلاب الآخرين يتصلون بنا بإستخدام إحدى الطرق التالية
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">للاستفسار عن إستمارة الطالب للمملكة المتحدة:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">للاستفسار عن إستمارة الطالب للولايات المتحدة:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-7 col-lg-6">
+                    <span class="footer-contact-header">للاستفسار عن إستمارة الطالب للصين:</span>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:cnadmissions@intoglobal.com" class="email-link">cnadmissions@intoglobal.com</a>
+                    </div>
+                </div>
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/ar/legal-and-privacy-policy">قوانين الخصوصية</a>
+                &nbsp;|&nbsp;
+                <a href="/ar/terms">شروط ومصطلحات</a>
+                &nbsp;|&nbsp;
+                <a href="/ar/into-sitemap">خريطة الموقع</a>
+                &nbsp;|&nbsp;
+                <a href="/ar/legal-and-privacy-policy/cookies-policy">سياسة تعريف ملفات الاتصال</a>
+                &nbsp;|&nbsp;
+                <a href="/ar/governance">الحوكمة</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

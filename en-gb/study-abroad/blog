@@ -1,0 +1,946 @@
+<!DOCTYPE html> 
+<html class="no-js" lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://blog.intostudy.com/xmlrpc.php">
+	
+	<style>
+.stb-container-css {margin: 10px 10px 10px 10px;}.stb-box {}.stb-caption-box {}.stb-body-box {}
+/* Class Dependent Parameters */
+.stb-border.stb-alert-container {border: 1px none #FF4F4A;}.stb-side.stb-alert-container {background: #1D1A1A;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1D1A1A', endColorstr='#504848',GradientType=0 );background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);}.stb-side-none.stb-alert-container {background: #fDCBC9;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fDCBC9', endColorstr='#FB7D78',GradientType=0 );background: -moz-linear-gradient(top,  #fDCBC9 30%, #FB7D78 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#fDCBC9), color-stop(90%,#FB7D78));background: -webkit-linear-gradient(top,  #fDCBC9 30%,#FB7D78 90%);background: -o-linear-gradient(top,  #fDCBC9 30%,#FB7D78 90%);background: -ms-linear-gradient(top,  #fDCBC9 30%,#FB7D78 90%);background: linear-gradient(#fDCBC9 30%, #FB7D78 90%);}.stb-alert_box {background: #fDCBC9;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fDCBC9', endColorstr='#FB7D78',GradientType=0 );background: -moz-linear-gradient(top,  #fDCBC9 30%, #FB7D78 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#fDCBC9), color-stop(90%,#FB7D78));background: -webkit-linear-gradient(top,  #fDCBC9 30%,#FB7D78 90%);background: -o-linear-gradient(top,  #fDCBC9 30%,#FB7D78 90%);background: -ms-linear-gradient(top,  #fDCBC9 30%,#FB7D78 90%);background: linear-gradient(#fDCBC9 30%, #FB7D78 90%);color: #000000;}.stb-alert-caption_box {background: #1D1A1A;background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);color: #FFFFFF;}.stb-alert-body_box {background: #fDCBC9;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fDCBC9', endColorstr='#FB7D78',GradientType=0 );background: -moz-linear-gradient(top,  #fDCBC9 30%, #FB7D78 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#fDCBC9), color-stop(90%,#FB7D78));background: -webkit-linear-gradient(top,  #fDCBC9 30%,#FB7D78 90%);background: -o-linear-gradient(top,  #fDCBC9 30%,#FB7D78 90%);background: -ms-linear-gradient(top,  #fDCBC9 30%,#FB7D78 90%);background: linear-gradient(#fDCBC9 30%, #FB7D78 90%);color: #000000;}.stb-border.stb-black-container {border: 1px none #6E6E6E;}.stb-side.stb-black-container {background: #4B4747;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4B4747', endColorstr='#141414',GradientType=0 );background: -moz-linear-gradient(top,  #4B4747 30%, #141414 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#4B4747), color-stop(90%,#141414));background: -webkit-linear-gradient(top,  #4B4747 30%,#141414 90%);background: -o-linear-gradient(top,  #4B4747 30%,#141414 90%);background: -ms-linear-gradient(top,  #4B4747 30%,#141414 90%);background: linear-gradient(#4B4747 30%, #141414 90%);}.stb-side-none.stb-black-container {background: #3B3B3B;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3B3B3B', endColorstr='#000000',GradientType=0 );background: -moz-linear-gradient(top,  #3B3B3B 30%, #000000 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#3B3B3B), color-stop(90%,#000000));background: -webkit-linear-gradient(top,  #3B3B3B 30%,#000000 90%);background: -o-linear-gradient(top,  #3B3B3B 30%,#000000 90%);background: -ms-linear-gradient(top,  #3B3B3B 30%,#000000 90%);background: linear-gradient(#3B3B3B 30%, #000000 90%);}.stb-black_box {background: #3B3B3B;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3B3B3B', endColorstr='#000000',GradientType=0 );background: -moz-linear-gradient(top,  #3B3B3B 30%, #000000 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#3B3B3B), color-stop(90%,#000000));background: -webkit-linear-gradient(top,  #3B3B3B 30%,#000000 90%);background: -o-linear-gradient(top,  #3B3B3B 30%,#000000 90%);background: -ms-linear-gradient(top,  #3B3B3B 30%,#000000 90%);background: linear-gradient(#3B3B3B 30%, #000000 90%);color: #FFFFFF;}.stb-black-caption_box {background: #4B4747;background: -moz-linear-gradient(top,  #4B4747 30%, #141414 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#4B4747), color-stop(90%,#141414));background: -webkit-linear-gradient(top,  #4B4747 30%,#141414 90%);background: -o-linear-gradient(top,  #4B4747 30%,#141414 90%);background: -ms-linear-gradient(top,  #4B4747 30%,#141414 90%);background: linear-gradient(#4B4747 30%, #141414 90%);color: #FFFFFF;}.stb-black-body_box {background: #3B3B3B;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3B3B3B', endColorstr='#000000',GradientType=0 );background: -moz-linear-gradient(top,  #3B3B3B 30%, #000000 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#3B3B3B), color-stop(90%,#000000));background: -webkit-linear-gradient(top,  #3B3B3B 30%,#000000 90%);background: -o-linear-gradient(top,  #3B3B3B 30%,#000000 90%);background: -ms-linear-gradient(top,  #3B3B3B 30%,#000000 90%);background: linear-gradient(#3B3B3B 30%, #000000 90%);color: #FFFFFF;}.stb-border.stb-download-container {border: 1px none #65ADFE;}.stb-side.stb-download-container {background: #1D1A1A;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1D1A1A', endColorstr='#504848',GradientType=0 );background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);}.stb-side-none.stb-download-container {background: #78C0F7;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#78C0F7', endColorstr='#2E7CB9',GradientType=0 );background: -moz-linear-gradient(top,  #78C0F7 30%, #2E7CB9 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#78C0F7), color-stop(90%,#2E7CB9));background: -webkit-linear-gradient(top,  #78C0F7 30%,#2E7CB9 90%);background: -o-linear-gradient(top,  #78C0F7 30%,#2E7CB9 90%);background: -ms-linear-gradient(top,  #78C0F7 30%,#2E7CB9 90%);background: linear-gradient(#78C0F7 30%, #2E7CB9 90%);}.stb-download_box {background: #78C0F7;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#78C0F7', endColorstr='#2E7CB9',GradientType=0 );background: -moz-linear-gradient(top,  #78C0F7 30%, #2E7CB9 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#78C0F7), color-stop(90%,#2E7CB9));background: -webkit-linear-gradient(top,  #78C0F7 30%,#2E7CB9 90%);background: -o-linear-gradient(top,  #78C0F7 30%,#2E7CB9 90%);background: -ms-linear-gradient(top,  #78C0F7 30%,#2E7CB9 90%);background: linear-gradient(#78C0F7 30%, #2E7CB9 90%);color: #000000;}.stb-download-caption_box {background: #1D1A1A;background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);color: #FFFFFF;}.stb-download-body_box {background: #78C0F7;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#78C0F7', endColorstr='#2E7CB9',GradientType=0 );background: -moz-linear-gradient(top,  #78C0F7 30%, #2E7CB9 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#78C0F7), color-stop(90%,#2E7CB9));background: -webkit-linear-gradient(top,  #78C0F7 30%,#2E7CB9 90%);background: -o-linear-gradient(top,  #78C0F7 30%,#2E7CB9 90%);background: -ms-linear-gradient(top,  #78C0F7 30%,#2E7CB9 90%);background: linear-gradient(#78C0F7 30%, #2E7CB9 90%);color: #000000;}.stb-border.stb-info-container {border: 1px none #7AD975;}.stb-side.stb-info-container {background: #1D1A1A;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1D1A1A', endColorstr='#504848',GradientType=0 );background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);}.stb-side-none.stb-info-container {background: #A1EA94;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#A1EA94', endColorstr='#79B06E',GradientType=0 );background: -moz-linear-gradient(top,  #A1EA94 30%, #79B06E 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#A1EA94), color-stop(90%,#79B06E));background: -webkit-linear-gradient(top,  #A1EA94 30%,#79B06E 90%);background: -o-linear-gradient(top,  #A1EA94 30%,#79B06E 90%);background: -ms-linear-gradient(top,  #A1EA94 30%,#79B06E 90%);background: linear-gradient(#A1EA94 30%, #79B06E 90%);}.stb-info_box {background: #A1EA94;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#A1EA94', endColorstr='#79B06E',GradientType=0 );background: -moz-linear-gradient(top,  #A1EA94 30%, #79B06E 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#A1EA94), color-stop(90%,#79B06E));background: -webkit-linear-gradient(top,  #A1EA94 30%,#79B06E 90%);background: -o-linear-gradient(top,  #A1EA94 30%,#79B06E 90%);background: -ms-linear-gradient(top,  #A1EA94 30%,#79B06E 90%);background: linear-gradient(#A1EA94 30%, #79B06E 90%);color: #000000;}.stb-info-caption_box {background: #1D1A1A;background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);color: #FFFFFF;}.stb-info-body_box {background: #A1EA94;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#A1EA94', endColorstr='#79B06E',GradientType=0 );background: -moz-linear-gradient(top,  #A1EA94 30%, #79B06E 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#A1EA94), color-stop(90%,#79B06E));background: -webkit-linear-gradient(top,  #A1EA94 30%,#79B06E 90%);background: -o-linear-gradient(top,  #A1EA94 30%,#79B06E 90%);background: -ms-linear-gradient(top,  #A1EA94 30%,#79B06E 90%);background: linear-gradient(#A1EA94 30%, #79B06E 90%);color: #000000;}.stb-border.stb-warning-container {border: 1px none #FE9A05;}.stb-side.stb-warning-container {background: #1D1A1A;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1D1A1A', endColorstr='#504848',GradientType=0 );background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);}.stb-side-none.stb-warning-container {background: #F8FC91;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F8FC91', endColorstr='#F0D208',GradientType=0 );background: -moz-linear-gradient(top,  #F8FC91 30%, #F0D208 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#F8FC91), color-stop(90%,#F0D208));background: -webkit-linear-gradient(top,  #F8FC91 30%,#F0D208 90%);background: -o-linear-gradient(top,  #F8FC91 30%,#F0D208 90%);background: -ms-linear-gradient(top,  #F8FC91 30%,#F0D208 90%);background: linear-gradient(#F8FC91 30%, #F0D208 90%);}.stb-warning_box {background: #F8FC91;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F8FC91', endColorstr='#F0D208',GradientType=0 );background: -moz-linear-gradient(top,  #F8FC91 30%, #F0D208 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#F8FC91), color-stop(90%,#F0D208));background: -webkit-linear-gradient(top,  #F8FC91 30%,#F0D208 90%);background: -o-linear-gradient(top,  #F8FC91 30%,#F0D208 90%);background: -ms-linear-gradient(top,  #F8FC91 30%,#F0D208 90%);background: linear-gradient(#F8FC91 30%, #F0D208 90%);color: #000000;}.stb-warning-caption_box {background: #1D1A1A;background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);color: #FFFFFF;}.stb-warning-body_box {background: #F8FC91;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F8FC91', endColorstr='#F0D208',GradientType=0 );background: -moz-linear-gradient(top,  #F8FC91 30%, #F0D208 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#F8FC91), color-stop(90%,#F0D208));background: -webkit-linear-gradient(top,  #F8FC91 30%,#F0D208 90%);background: -o-linear-gradient(top,  #F8FC91 30%,#F0D208 90%);background: -ms-linear-gradient(top,  #F8FC91 30%,#F0D208 90%);background: linear-gradient(#F8FC91 30%, #F0D208 90%);color: #000000;}.stb-border.stb-grey-container {border: 1px none #BBBBBB;}.stb-side.stb-grey-container {background: #B5B5B5;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#B5B5B5', endColorstr='#6E6E6E',GradientType=0 );background: -moz-linear-gradient(top,  #B5B5B5 30%, #6E6E6E 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#B5B5B5), color-stop(90%,#6E6E6E));background: -webkit-linear-gradient(top,  #B5B5B5 30%,#6E6E6E 90%);background: -o-linear-gradient(top,  #B5B5B5 30%,#6E6E6E 90%);background: -ms-linear-gradient(top,  #B5B5B5 30%,#6E6E6E 90%);background: linear-gradient(#B5B5B5 30%, #6E6E6E 90%);}.stb-side-none.stb-grey-container {background: #E3E3E3;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E3E3E3', endColorstr='#ABABAB',GradientType=0 );background: -moz-linear-gradient(top,  #E3E3E3 30%, #ABABAB 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#E3E3E3), color-stop(90%,#ABABAB));background: -webkit-linear-gradient(top,  #E3E3E3 30%,#ABABAB 90%);background: -o-linear-gradient(top,  #E3E3E3 30%,#ABABAB 90%);background: -ms-linear-gradient(top,  #E3E3E3 30%,#ABABAB 90%);background: linear-gradient(#E3E3E3 30%, #ABABAB 90%);}.stb-grey_box {background: #E3E3E3;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E3E3E3', endColorstr='#ABABAB',GradientType=0 );background: -moz-linear-gradient(top,  #E3E3E3 30%, #ABABAB 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#E3E3E3), color-stop(90%,#ABABAB));background: -webkit-linear-gradient(top,  #E3E3E3 30%,#ABABAB 90%);background: -o-linear-gradient(top,  #E3E3E3 30%,#ABABAB 90%);background: -ms-linear-gradient(top,  #E3E3E3 30%,#ABABAB 90%);background: linear-gradient(#E3E3E3 30%, #ABABAB 90%);color: #000000;}.stb-grey-caption_box {background: #B5B5B5;background: -moz-linear-gradient(top,  #B5B5B5 30%, #6E6E6E 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#B5B5B5), color-stop(90%,#6E6E6E));background: -webkit-linear-gradient(top,  #B5B5B5 30%,#6E6E6E 90%);background: -o-linear-gradient(top,  #B5B5B5 30%,#6E6E6E 90%);background: -ms-linear-gradient(top,  #B5B5B5 30%,#6E6E6E 90%);background: linear-gradient(#B5B5B5 30%, #6E6E6E 90%);color: #FFFFFF;}.stb-grey-body_box {background: #E3E3E3;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E3E3E3', endColorstr='#ABABAB',GradientType=0 );background: -moz-linear-gradient(top,  #E3E3E3 30%, #ABABAB 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#E3E3E3), color-stop(90%,#ABABAB));background: -webkit-linear-gradient(top,  #E3E3E3 30%,#ABABAB 90%);background: -o-linear-gradient(top,  #E3E3E3 30%,#ABABAB 90%);background: -ms-linear-gradient(top,  #E3E3E3 30%,#ABABAB 90%);background: linear-gradient(#E3E3E3 30%, #ABABAB 90%);color: #000000;}.stb-border.stb-custom-container {border: 1px none #F844EE;}.stb-side.stb-custom-container {background: #1D1A1A;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1D1A1A', endColorstr='#504848',GradientType=0 );background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);}.stb-side-none.stb-custom-container {background: #F7CDF5;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F7CDF5', endColorstr='#F77DF1',GradientType=0 );background: -moz-linear-gradient(top,  #F7CDF5 30%, #F77DF1 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#F7CDF5), color-stop(90%,#F77DF1));background: -webkit-linear-gradient(top,  #F7CDF5 30%,#F77DF1 90%);background: -o-linear-gradient(top,  #F7CDF5 30%,#F77DF1 90%);background: -ms-linear-gradient(top,  #F7CDF5 30%,#F77DF1 90%);background: linear-gradient(#F7CDF5 30%, #F77DF1 90%);}.stb-custom_box {background: #F7CDF5;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F7CDF5', endColorstr='#F77DF1',GradientType=0 );background: -moz-linear-gradient(top,  #F7CDF5 30%, #F77DF1 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#F7CDF5), color-stop(90%,#F77DF1));background: -webkit-linear-gradient(top,  #F7CDF5 30%,#F77DF1 90%);background: -o-linear-gradient(top,  #F7CDF5 30%,#F77DF1 90%);background: -ms-linear-gradient(top,  #F7CDF5 30%,#F77DF1 90%);background: linear-gradient(#F7CDF5 30%, #F77DF1 90%);color: #000000;}.stb-custom-caption_box {background: #1D1A1A;background: -moz-linear-gradient(top,  #1D1A1A 30%, #504848 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#1D1A1A), color-stop(90%,#504848));background: -webkit-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -o-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: -ms-linear-gradient(top,  #1D1A1A 30%,#504848 90%);background: linear-gradient(#1D1A1A 30%, #504848 90%);color: #FFFFFF;}.stb-custom-body_box {background: #F7CDF5;filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F7CDF5', endColorstr='#F77DF1',GradientType=0 );background: -moz-linear-gradient(top,  #F7CDF5 30%, #F77DF1 90%);background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#F7CDF5), color-stop(90%,#F77DF1));background: -webkit-linear-gradient(top,  #F7CDF5 30%,#F77DF1 90%);background: -o-linear-gradient(top,  #F7CDF5 30%,#F77DF1 90%);background: -ms-linear-gradient(top,  #F7CDF5 30%,#F77DF1 90%);background: linear-gradient(#F7CDF5 30%, #F77DF1 90%);color: #000000;}</style>
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>INTO Study blog</title>
+	<meta name="description" content="A student blog all about living, learning and adventure while studying abroad in the UK, USA &amp; China." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://blog.intostudy.com/" />
+	<link rel="next" href="https://blog.intostudy.com/page/2/" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="INTO Study blog" />
+	<meta name="twitter:description" content="A student blog all about living, learning and adventure while studying abroad in the UK, USA &amp; China." />
+	<meta name="twitter:site" content="@intostudy" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://blog.intostudy.com/#website","url":"https://blog.intostudy.com/","name":"INTO Study Blog","description":"Your student guide to living, adventure and studying abroad in the UK and USA","potentialAction":[{"@type":"SearchAction","target":"https://blog.intostudy.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://blog.intostudy.com/#webpage","url":"https://blog.intostudy.com/","name":"INTO Study blog","isPartOf":{"@id":"https://blog.intostudy.com/#website"},"description":"A student blog all about living, learning and adventure while studying abroad in the UK, USA & China.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://blog.intostudy.com/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="INTO Study Blog &raquo; Feed" href="https://blog.intostudy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="INTO Study Blog &raquo; Comments Feed" href="https://blog.intostudy.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blog.intostudy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://blog.intostudy.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://blog.intostudy.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='avatar-manager-css'  href='https://blog.intostudy.com/wp-content/plugins/avatar-manager/assets/css/avatar-manager.min.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='https://blog.intostudy.com/wp-content/plugins/responsive-lightbox/assets/swipebox/swipebox.min.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='spu-public-css-css'  href='https://blog.intostudy.com/wp-content/plugins/popups/public/assets/css/public.css?ver=1.9.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='hueman-main-style-css'  href='https://blog.intostudy.com/wp-content/themes/hueman/assets/front/css/main.min.css?ver=3.6.8' type='text/css' media='all' />
+<style id='hueman-main-style-inline-css' type='text/css'>
+body { font-size:1.00rem; }@media only screen and (min-width: 720px) {
+        .nav > li { font-size:1.00rem; }
+      }.container-inner { max-width: 1250px; }::selection { background-color: #ed1b24; }
+::-moz-selection { background-color: #ed1b24; }a,a>span.hu-external::after,.themeform label .required,#flexslider-featured .flex-direction-nav .flex-next:hover,#flexslider-featured .flex-direction-nav .flex-prev:hover,.post-hover:hover .post-title a,.post-title a:hover,.sidebar.s1 .post-nav li a:hover i,.content .post-nav li a:hover i,.post-related a:hover,.sidebar.s1 .widget_rss ul li a,#footer .widget_rss ul li a,.sidebar.s1 .widget_calendar a,#footer .widget_calendar a,.sidebar.s1 .alx-tab .tab-item-category a,.sidebar.s1 .alx-posts .post-item-category a,.sidebar.s1 .alx-tab li:hover .tab-item-title a,.sidebar.s1 .alx-tab li:hover .tab-item-comment a,.sidebar.s1 .alx-posts li:hover .post-item-title a,#footer .alx-tab .tab-item-category a,#footer .alx-posts .post-item-category a,#footer .alx-tab li:hover .tab-item-title a,#footer .alx-tab li:hover .tab-item-comment a,#footer .alx-posts li:hover .post-item-title a,.comment-tabs li.active a,.comment-awaiting-moderation,.child-menu a:hover,.child-menu .current_page_item > a,.wp-pagenavi a{ color: #ed1b24; }input[type="submit"],.themeform button[type="submit"],.sidebar.s1 .sidebar-top,.sidebar.s1 .sidebar-toggle,#flexslider-featured .flex-control-nav li a.flex-active,.post-tags a:hover,.sidebar.s1 .widget_calendar caption,#footer .widget_calendar caption,.author-bio .bio-avatar:after,.commentlist li.bypostauthor > .comment-body:after,.commentlist li.comment-author-admin > .comment-body:after{ background-color: #ed1b24; }.post-format .format-container { border-color: #ed1b24; }.sidebar.s1 .alx-tabs-nav li.active a,#footer .alx-tabs-nav li.active a,.comment-tabs li.active a,.wp-pagenavi a:hover,.wp-pagenavi a:active,.wp-pagenavi span.current{ border-bottom-color: #ed1b24!important; }.sidebar.s2 .post-nav li a:hover i,
+.sidebar.s2 .widget_rss ul li a,
+.sidebar.s2 .widget_calendar a,
+.sidebar.s2 .alx-tab .tab-item-category a,
+.sidebar.s2 .alx-posts .post-item-category a,
+.sidebar.s2 .alx-tab li:hover .tab-item-title a,
+.sidebar.s2 .alx-tab li:hover .tab-item-comment a,
+.sidebar.s2 .alx-posts li:hover .post-item-title a { color: #505050; }
+.sidebar.s2 .sidebar-top,.sidebar.s2 .sidebar-toggle,.post-comments,.jp-play-bar,.jp-volume-bar-value,.sidebar.s2 .widget_calendar caption{ background-color: #505050; }.sidebar.s2 .alx-tabs-nav li.active a { border-bottom-color: #505050; }
+.post-comments::before { border-right-color: #505050; }
+      .search-expand,
+              #nav-topbar.nav-container { background-color: #ed1b24}@media only screen and (min-width: 720px) {
+                #nav-topbar .nav ul { background-color: #ed1b24; }
+              }.is-scrolled #header .nav-container.desktop-sticky,
+              .is-scrolled #header .search-expand { background-color: #ed1b24; background-color: rgba(237,27,36,0.90) }.is-scrolled .topbar-transparent #nav-topbar.desktop-sticky .nav ul { background-color: #ed1b24; background-color: rgba(237,27,36,0.95) }#header { background-color: #f4f4f4; }
+@media only screen and (min-width: 720px) {
+  #nav-header .nav ul { background-color: #f4f4f4; }
+}
+        #header #nav-mobile { background-color: #33363b; }.is-scrolled #header #nav-mobile { background-color: #33363b; background-color: rgba(51,54,59,0.90) }#nav-header.nav-container, #main-header-search .search-expand { background-color: #f4f4f4; }
+@media only screen and (min-width: 720px) {
+  #nav-header .nav ul { background-color: #f4f4f4; }
+}
+        #footer-bottom { background-color: #ed1b24; }
+</style>
+<link rel='stylesheet' id='theme-stylesheet-css'  href='https://blog.intostudy.com/wp-content/themes/INTO-theme/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hueman-font-awesome-css'  href='https://blog.intostudy.com/wp-content/themes/hueman/assets/front/css/font-awesome.min.css?ver=3.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-gallery-css'  href='https://blog.intostudy.com/wp-content/plugins/youtube-channel-gallery/styles.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.magnific-popup-css'  href='https://blog.intostudy.com/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='stbCoreCSS-css'  href='https://blog.intostudy.com/wp-content/plugins/wp-special-textboxes/css/stb-core.css?ver=5.9.109' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://blog.intostudy.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://blog.intostudy.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-content/plugins/avatar-manager/assets/js/avatar-manager.min.js?ver=1.2.1' id='avatar-manager-js'></script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-content/plugins/responsive-lightbox/assets/swipebox/jquery.swipebox.min.js?ver=2.2.3' id='responsive-lightbox-swipebox-js'></script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=5.5.3' id='responsive-lightbox-infinite-scroll-js'></script>
+<script type='text/javascript' id='responsive-lightbox-js-extra'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0","woocommerce_gallery":"0","ajaxurl":"https:\/\/blog.intostudy.com\/wp-admin\/admin-ajax.php","nonce":"29cdff89b0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.2.3' id='responsive-lightbox-js'></script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-content/themes/hueman/assets/front/js/libs/jquery.flexslider.min.js?ver=3.6.8' id='flexslider-js' defer></script>
+<link rel="https://api.w.org/" href="https://blog.intostudy.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.intostudy.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.intostudy.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://wp.me/8yHiv' />
+<script type='text/javascript' data-cfasync='false'>var _mmunch = {'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false};_mmunch['front'] = true;</script><script data-cfasync="false" src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-plugin="mc_mm" data-mailmunch-site-id="138365" async></script><style type='text/css'>img#wpstats{display:none}</style>    <link rel="preload" as="font" type="font/woff2" href="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/webfonts/fa-brands-400.woff2?v=5.12.1" crossorigin="anonymous"/>
+    <link rel="preload" as="font" type="font/woff2" href="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/webfonts/fa-regular-400.woff2?v=5.12.1" crossorigin="anonymous"/>
+    <link rel="preload" as="font" type="font/woff2" href="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/webfonts/fa-solid-900.woff2?v=5.12.1" crossorigin="anonymous"/>
+  <link rel="preload" as="font" type="font/woff" href="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-light-webfont.woff" crossorigin="anonymous"/>
+<link rel="preload" as="font" type="font/woff" href="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-lightitalic-webfont.woff" crossorigin="anonymous"/>
+<link rel="preload" as="font" type="font/woff" href="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regular-webfont.woff" crossorigin="anonymous"/>
+<link rel="preload" as="font" type="font/woff" href="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regularitalic-webfont.woff" crossorigin="anonymous"/>
+<link rel="preload" as="font" type="font/woff" href="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-semibold-webfont.woff" crossorigin="anonymous"/>
+<style type="text/css">
+  /*  base : fonts
+/* ------------------------------------ */
+body { font-family: "Titillium", Arial, sans-serif; }
+@font-face {
+  font-family: 'Titillium';
+  src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-light-webfont.eot');
+  src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-light-webfont.svg#titillium-light-webfont') format('svg'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-light-webfont.eot?#iefix') format('embedded-opentype'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-light-webfont.woff') format('woff'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-light-webfont.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Titillium';
+  src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-lightitalic-webfont.eot');
+  src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-lightitalic-webfont.svg#titillium-lightitalic-webfont') format('svg'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-lightitalic-webfont.woff') format('woff'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-lightitalic-webfont.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Titillium';
+  src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regular-webfont.eot');
+  src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regular-webfont.svg#titillium-regular-webfont') format('svg'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regular-webfont.eot?#iefix') format('embedded-opentype'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regular-webfont.woff') format('woff'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regular-webfont.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Titillium';
+  src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regularitalic-webfont.eot');
+  src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regularitalic-webfont.svg#titillium-regular-webfont') format('svg'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regularitalic-webfont.woff') format('woff'),
+     url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-regularitalic-webfont.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+    font-family: 'Titillium';
+    src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-semibold-webfont.eot');
+    src: url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-semibold-webfont.svg#titillium-semibold-webfont') format('svg'),
+         url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-semibold-webfont.woff') format('woff'),
+         url('https://blog.intostudy.com/wp-content/themes/hueman/assets/front/fonts/titillium-semibold-webfont.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+</style>
+  <!--[if lt IE 9]>
+<script src="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/js/ie/html5shiv-printshiv.min.js"></script>
+<script src="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/js/ie/selectivizr.js"></script>
+<![endif]-->
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="INTO Study Blog" />
+<meta property="og:description" content="Your student guide to living, adventure and studying abroad in the UK and USA" />
+<meta property="og:url" content="https://blog.intostudy.com/" />
+<meta property="og:site_name" content="INTO Study Blog" />
+<meta property="og:image" content="https://blog.intostudy.com/wp-content/uploads/2017/08/INTO_roundel_rgb_large-1.png" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="300" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@intostudy" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://blog.intostudy.com/wp-content/uploads/2017/08/INTO_roundel_rgb_large-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://blog.intostudy.com/wp-content/uploads/2017/08/INTO_roundel_rgb_large-1-320x320.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://blog.intostudy.com/wp-content/uploads/2017/08/INTO_roundel_rgb_large-1-320x320.png" />
+<meta name="msapplication-TileImage" content="https://blog.intostudy.com/wp-content/uploads/2017/08/INTO_roundel_rgb_large-1-320x320.png" />
+	
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32635333-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body class="home blog wp-custom-logo wp-embed-responsive col-3cm full-width topbar-enabled header-desktop-sticky header-mobile-sticky hueman-3-6-8-with-child-theme chrome">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TK5QRX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TK5QRX');</script>
+<!-- End Google Tag Manager -->
+
+<div id="wrapper">
+
+	<header id="header">
+	
+					<nav class="nav-container group" id="nav-topbar">
+				<div class="nav-toggle"><i class="fa fa-bars"></i></div>
+				<div class="nav-text"><!-- put your mobile menu text here --></div>
+				<div class="nav-wrap container"><ul id="menu-top-menu" class="nav container-inner group"><li id="menu-item-19728" class="topbar-logo menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-19728"><a href="https://blog.intostudy.com" aria-current="page">Menu Item</a></li>
+<li id="menu-item-20925" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20925"><a href="https://blog.intostudy.com/living-abroad/">Living Abroad</a>
+<ul class="sub-menu">
+	<li id="menu-item-20927" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20927"><a href="https://blog.intostudy.com/living-abroad/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-19764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19764"><a href="https://blog.intostudy.com/living-abroad/travel/">Travel</a></li>
+	<li id="menu-item-19765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19765"><a href="https://blog.intostudy.com/living-abroad/culture/">Culture</a></li>
+</ul>
+</li>
+<li id="menu-item-20926" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20926"><a href="https://blog.intostudy.com/studying/">Studying</a>
+<ul class="sub-menu">
+	<li id="menu-item-19769" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19769"><a href="https://blog.intostudy.com/studying/exams-revision/">Exams &#038; Revision</a></li>
+	<li id="menu-item-19767" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19767"><a href="https://blog.intostudy.com/studying/study-tools/">Study Tools</a></li>
+	<li id="menu-item-19771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19771"><a href="https://blog.intostudy.com/studying/academic-programmes/">Academic Programmes</a></li>
+	<li id="menu-item-19806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19806"><a href="https://blog.intostudy.com/studying/success-stories/">Success Stories</a></li>
+</ul>
+</li>
+<li id="menu-item-19796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-19796"><a href="https://blog.intostudy.com/how-to-with-into/">How to&#8230;</a>
+<ul class="sub-menu">
+	<li id="menu-item-19801" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19801"><a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/">Prepare to Study Abroad</a></li>
+	<li id="menu-item-19798" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19798"><a href="https://blog.intostudy.com/how-to-with-into/career-advice/">Career Advice</a></li>
+	<li id="menu-item-19797" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19797"><a href="https://blog.intostudy.com/how-to-with-into/ask-an-expert/">Ask an Expert</a></li>
+</ul>
+</li>
+<li id="menu-item-20922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20922"><a href="https://blog.intostudy.com/into-centres/">INTO Centres</a>
+<ul class="sub-menu">
+	<li id="menu-item-20923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20923"><a href="https://blog.intostudy.com/into-centres/uk-centres/">UK</a>
+	<ul class="sub-menu">
+		<li id="menu-item-19778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19778"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-city-university-of-london/">INTO City, University of London</a></li>
+		<li id="menu-item-19787" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19787"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-university-of-east-anglia/">INTO University of East Anglia</a></li>
+		<li id="menu-item-19788" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19788"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-university-of-exeter/">INTO University of Exeter</a></li>
+		<li id="menu-item-19784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19784"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-glasgow-caledonian-university/">INTO Glasgow Caledonian University</a></li>
+		<li id="menu-item-19789" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19789"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-university-of-gloucestershire/">University of Gloucestershire</a></li>
+		<li id="menu-item-19782" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19782"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-newcastle-university/">INTO Newcastle University</a></li>
+		<li id="menu-item-19781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19781"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-manchester/">INTO Manchester</a></li>
+		<li id="menu-item-19783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19783"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-queens-university-belfast/">INTO Queen&#8217;s University Belfast</a></li>
+		<li id="menu-item-19780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19780"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-london-world-education-centre-uk/">INTO London World Education Centre</a></li>
+		<li id="menu-item-21538" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21538"><a href="https://blog.intostudy.com/into-centres/uk-centres/into-stirling/">INTO University of Stirling</a></li>
+		<li id="menu-item-21537" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21537"><a href="https://blog.intostudy.com/into-centres/uk-centres/newcastle-university-london/">Newcastle University London</a></li>
+	</ul>
+</li>
+	<li id="menu-item-20924" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20924"><a href="https://blog.intostudy.com/into-centres/us-centres/">US</a>
+	<ul class="sub-menu">
+		<li id="menu-item-19791" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19791"><a href="https://blog.intostudy.com/into-centres/us-centres/into-colorado-state-university/">INTO Colorado State University</a></li>
+		<li id="menu-item-19799" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19799"><a href="https://blog.intostudy.com/into-centres/us-centres/into-drew/">INTO Drew University</a></li>
+		<li id="menu-item-19800" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19800"><a href="https://blog.intostudy.com/into-centres/us-centres/into-george-mason/">INTO George Mason University</a></li>
+		<li id="menu-item-19790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19790"><a href="https://blog.intostudy.com/into-centres/us-centres/into-marshall-university/">INTO Marshall University</a></li>
+		<li id="menu-item-19792" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19792"><a href="https://blog.intostudy.com/into-centres/us-centres/into-oregon-state-university/">INTO Oregon State University</a></li>
+		<li id="menu-item-26577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26577"><a href="https://blog.intostudy.com/into-centres/us-centres/into-suffolk-university/">INTO Suffolk University</a></li>
+		<li id="menu-item-19793" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19793"><a href="https://blog.intostudy.com/into-centres/us-centres/into-university-of-south-florida/">INTO University of South Florida</a></li>
+		<li id="menu-item-26931" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26931"><a href="https://blog.intostudy.com/into-centres/us-centres/into-university-of-alabama-at-birmingham/">INTO University of Alabama at Birmingham</a></li>
+		<li id="menu-item-26932" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26932"><a href="https://blog.intostudy.com/into-centres/us-centres/into-saint-louis-university/">INTO Saint Louis University</a></li>
+		<li id="menu-item-26933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26933"><a href="https://blog.intostudy.com/into-centres/us-centres/into-washington-state-university/">INTO Washington State University</a></li>
+		<li id="menu-item-27225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27225"><a href="https://blog.intostudy.com/into-centres/us-centres/into-illinois-state-university/">INTO Illinois State University</a></li>
+		<li id="menu-item-29925" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29925"><a href="https://blog.intostudy.com/into-centres/us-centres/into-hofstra-university/">INTO Hofstra University</a></li>
+	</ul>
+</li>
+	<li id="menu-item-19802" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19802"><a href="https://blog.intostudy.com/into-centres/into-china/">INTO China</a></li>
+	<li id="menu-item-25373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25373"><a href="https://blog.intostudy.com/into-centres/into-giving/">INTO Giving</a></li>
+</ul>
+</li>
+<li id="menu-item-19731" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19731"><a target="_blank" rel="noopener noreferrer" href="https://www.intostudy.com/en-gb/about-into">About INTO</a></li>
+<li id="menu-item-24104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24104"><a target="_blank" rel="noopener noreferrer" href="https://www.intostudy.com/en-gb/study-programs">Find your course</a></li>
+</ul></div>
+				
+				<div class="container">
+					<div class="container-inner">		
+						<div class="toggle-search"><i class="fa fa-search"></i></div>
+						<div class="search-expand">
+							<div class="search-expand-inner">
+								<form role="search" method="get" class="search-form" action="https://blog.intostudy.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>							</div>
+						</div>
+					</div><!--/.container-inner-->
+				</div><!--/.container-->
+				
+			</nav><!--/#nav-topbar-->
+				
+		<div class="container group">
+			<div class="container-inner">
+				
+				<div class="group pad">
+					<p class="site-title">                  <a class="custom-logo-link" href="https://blog.intostudy.com/" rel="home" title="INTO Study Blog | Home page"><img src="https://blog.intostudy.com/wp-content/uploads/2017/08/INTO_roundel_rgb_large-1.png" alt="INTO Study Blog" width="300" height="300"/></a>                </p>														</div>
+				
+								
+			</div><!--/.container-inner-->
+		</div><!--/.container-->
+		
+	</header><!--/#header-->
+	
+	<div class="container" id="page">
+		<div class="container-inner">			
+			<div class="main">
+				<div class="main-inner group">
+              <section class="content" id="content">
+              <div class="page-title hu-pad group">
+          	    		<h2>INTO Study <span class="hu-blog-subheading">Blog</span></h2>
+            
+    </div><!--/.page-title-->
+          <div class="hu-pad group">
+                    
+
+	<div class="featured flexslider" id="flexslider-featured">
+		<ul class="slides">
+						<li>
+				<article id="post-30701" class="group post-30701 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to-with-into category-into-centres category-into-queens-university-belfast category-living-abroad category-prepare-to-study-abroad category-travel tag-arrival tag-arrivals tag-arriving tag-chartered-flight tag-flight tag-qub tag-queens-university-belfast tag-student-experience">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/flying-during-pandemic/" title="Flying to the UK during the global pandemic: Yifan’s story">
+									<img width="720" height="340" src="https://blog.intostudy.com/wp-content/uploads/2020/12/QUB-Lanyon-Building_3542-1-720x340.jpg" class="attachment-thumb-large size-thumb-large wp-post-image" alt="" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/12/QUB-Lanyon-Building_3542-1-720x340.jpg 720w, https://blog.intostudy.com/wp-content/uploads/2020/12/QUB-Lanyon-Building_3542-1-520x245.jpg 520w" sizes="(max-width: 720px) 100vw, 720px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		<div class="slider-overlay">
+		<div class="post-meta group">
+			<p class="post-category"><a href="https://blog.intostudy.com/how-to-with-into/" rel="category tag">How to...</a> / <a href="https://blog.intostudy.com/into-centres/" rel="category tag">INTO Centres</a> / <a href="https://blog.intostudy.com/into-centres/uk-centres/into-queens-university-belfast/" rel="category tag">INTO Queen's University Belfast</a> / <a href="https://blog.intostudy.com/living-abroad/" rel="category tag">Living Abroad</a> / <a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/" rel="category tag">Prepare to Study Abroad</a> / <a href="https://blog.intostudy.com/living-abroad/travel/" rel="category tag">Travel</a></p>
+			<p class="post-date">8 Dec, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/flying-during-pandemic/" rel="bookmark" title="Flying to the UK during the global pandemic: Yifan’s story">Flying to the UK during the global pandemic: Yifan’s story		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>Leaving your home country for a study abroad experience in the UK must be a daunting prospect anyway, and those fears can only be heightened during a global pandemic. However,&#46;&#46;&#46;</p>
+		</div><!--/.entry--></a>
+				</div>
+	</div><!--/.post-inner-->	
+</article><!--/.post-->				</li>
+						<li>
+				<article id="post-30716" class="group post-30716 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to-with-into category-into-centres category-into-university-of-exeter category-prepare-to-study-abroad category-uk-centres tag-abdenour tag-coronavirus tag-exeter tag-exeter-university tag-pandemic tag-studying-in-exeter tag-teeb">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/studying-during-pandemic/" title="5 things you should know about studying at university during the global pandemic">
+									<img width="720" height="340" src="https://blog.intostudy.com/wp-content/uploads/2020/11/exe1-720x340.jpg" class="attachment-thumb-large size-thumb-large wp-post-image" alt="The INTO Exeter Centre" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/11/exe1-720x340.jpg 720w, https://blog.intostudy.com/wp-content/uploads/2020/11/exe1-520x245.jpg 520w" sizes="(max-width: 720px) 100vw, 720px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		<div class="slider-overlay">
+		<div class="post-meta group">
+			<p class="post-category"><a href="https://blog.intostudy.com/how-to-with-into/" rel="category tag">How to...</a> / <a href="https://blog.intostudy.com/into-centres/" rel="category tag">INTO Centres</a> / <a href="https://blog.intostudy.com/into-centres/uk-centres/into-university-of-exeter/" rel="category tag">INTO University of Exeter</a> / <a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/" rel="category tag">Prepare to Study Abroad</a> / <a href="https://blog.intostudy.com/into-centres/uk-centres/" rel="category tag">UK</a></p>
+			<p class="post-date">27 Nov, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/studying-during-pandemic/" rel="bookmark" title="5 things you should know about studying at university during the global pandemic">5 things you should know about studying at university during the global pandemic		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>Still unsure about whether you should travel to the UK to start your studies or start online from your home country first? A whole host of international students across our&#46;&#46;&#46;</p>
+		</div><!--/.entry--></a>
+				</div>
+	</div><!--/.post-inner-->	
+</article><!--/.post-->				</li>
+						<li>
+				<article id="post-30622" class="group post-30622 post type-post status-publish format-standard has-post-thumbnail hentry category-into-drew category-studying category-uncategorized tag-drew-university tag-into-drew tag-into-drew-university tag-liberal-arts tag-liberal-arts-colleges">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/into-centres/us-centres/into-drew/what-is-a-liberal-arts-college/" title="Ask us anything: What is a liberal arts college?">
+									<img width="540" height="340" src="https://blog.intostudy.com/wp-content/uploads/2020/11/Drew-University_s-Campus_43446-drewblog-540x340.jpg" class="attachment-thumb-large size-thumb-large wp-post-image" alt="Drew student on campus" loading="lazy" />																			</a>
+					</div><!--/.post-thumbnail-->
+		<div class="slider-overlay">
+		<div class="post-meta group">
+			<p class="post-category"><a href="https://blog.intostudy.com/into-centres/us-centres/into-drew/" rel="category tag">INTO Drew University</a> / <a href="https://blog.intostudy.com/studying/" rel="category tag">Studying</a> / <a href="https://blog.intostudy.com/uncategorized/" rel="category tag">Uncategorized</a></p>
+			<p class="post-date">20 Nov, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/into-centres/us-centres/into-drew/what-is-a-liberal-arts-college/" rel="bookmark" title="Ask us anything: What is a liberal arts college?">Ask us anything: What is a liberal arts college?		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>So, you&#8217;re wondering if a liberal arts college is right for you. In the US, there are different types of universities based on specialties and their mission. Liberal arts colleges&#46;&#46;&#46;</p>
+		</div><!--/.entry--></a>
+				</div>
+	</div><!--/.post-inner-->	
+</article><!--/.post-->				</li>
+					</ul>
+	</div><!--/.featured-->
+
+          <div id="grid-wrapper" class="post-list group">
+    <div class="post-row">        <article id="post-26361" class="group post-26361 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-how-to-with-into category-prepare-to-study-abroad tag-arriving tag-fiest-week tag-hellointo tag-how-to-prepare tag-studying-abroad tag-tips">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/preparing-to-study-abroad/" title="7 ways to prepare for studying abroad">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2017/03/desk_-employee_-ILLC_-inside_-interior_-International-Living-and-Learning-Center_-OSU_-staff_-student_-welcome_23703-520x245.png" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2017/03/desk_-employee_-ILLC_-inside_-interior_-International-Living-and-Learning-Center_-OSU_-staff_-student_-welcome_23703-520x245.png 520w, https://blog.intostudy.com/wp-content/uploads/2017/03/desk_-employee_-ILLC_-inside_-interior_-International-Living-and-Learning-Center_-OSU_-staff_-student_-welcome_23703-720x340.png 720w" sizes="(max-width: 520px) 100vw, 520px" />																<span class="thumb-icon"><i class="fa fa-star"></i></span>			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/how-to-with-into/" title="How to...">How to...</a></p>
+			<p class="post-date">7 Sep, 2017</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/preparing-to-study-abroad/" rel="bookmark" title="7 ways to prepare for studying abroad">7 ways to prepare for studying abroad</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>So, you’ve made the decision to study abroad and you’ve been offered a place. You’re super excited! But, what next? It may be weeks – or months – until it’s&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	            <article id="post-30682" class="group post-30682 post type-post status-publish format-standard has-post-thumbnail hentry category-alumni-stories category-success-stories tag-engineering tag-manchester">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/studying/success-stories/the-path-to-success-studying-engineering-and-becoming-a-reservoir-engineer/" title="The path to success: studying Engineering and becoming a Reservoir Engineer">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/11/Abdulrahim-520x245.png" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/11/Abdulrahim-520x245.png 520w, https://blog.intostudy.com/wp-content/uploads/2020/11/Abdulrahim-720x340.png 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"></p>
+			<p class="post-date">17 Nov, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/studying/success-stories/the-path-to-success-studying-engineering-and-becoming-a-reservoir-engineer/" rel="bookmark" title="The path to success: studying Engineering and becoming a Reservoir Engineer">The path to success: studying Engineering and becoming a Reservoir Engineer</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>In our latest Instagram Live Broadcast, Abdulrahim from Oman shares his experience of studying at university in the UK, describing his time as “the best years of my life”.&nbsp; Abdulrahim’s&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	    </div><div class="post-row">        <article id="post-30668" class="group post-30668 post type-post status-publish format-standard has-post-thumbnail hentry category-alumni-stories category-into-university-of-alabama-birmingham category-uncategorized tag-alumni-stories tag-into-uab tag-study-at-uab tag-study-in-usa tag-uab tag-working-abroad">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/studying/alumni-stories/studying-and-working-abroad-the-rewarding-experience-of-two-uab-graduates/" title="Studying and working abroad: the rewarding experience of two UAB graduates">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/10/UAB-alumni-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/10/UAB-alumni-520x245.jpg 520w, https://blog.intostudy.com/wp-content/uploads/2020/10/UAB-alumni-150x72.jpg 150w, https://blog.intostudy.com/wp-content/uploads/2020/10/UAB-alumni-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/uncategorized/" title="Uncategorized">Uncategorized</a></p>
+			<p class="post-date">29 Oct, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/studying/alumni-stories/studying-and-working-abroad-the-rewarding-experience-of-two-uab-graduates/" rel="bookmark" title="Studying and working abroad: the rewarding experience of two UAB graduates">Studying and working abroad: the rewarding experience of two UAB graduates</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>We’ve had another Instagram Live Broadcast! This time Ryan from Vietnam and Anagha from India answered your questions about their time as international students in the US. They met at&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	            <article id="post-30648" class="group post-30648 post type-post status-publish format-standard has-post-thumbnail hentry category-culture category-how-to-with-into category-living-abroad category-prepare-to-study-abroad category-study-tools category-studying tag-colloquialisms tag-english tag-history tag-language tag-phrases">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/living-abroad/modern-english/" title="It’s raining cats and dogs – an introduction to modern English">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/10/dog-4415649_1920-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="A corgi looking very happy in the raid" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/10/dog-4415649_1920-520x245.jpg 520w, https://blog.intostudy.com/wp-content/uploads/2020/10/dog-4415649_1920-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/how-to-with-into/" title="How to...">How to...</a>,  <a href="https://blog.intostudy.com/living-abroad/" title="Living Abroad">Living Abroad</a>,  <a href="https://blog.intostudy.com/studying/" title="Studying">Studying</a></p>
+			<p class="post-date">7 Oct, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/living-abroad/modern-english/" rel="bookmark" title="It’s raining cats and dogs – an introduction to modern English">It’s raining cats and dogs – an introduction to modern English</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>A brief history of the English language Although present-day English has a lot in common with the Romance languages, which themselves evolved from Latin, this was not always the case.&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	    </div><div class="post-row">        <article id="post-30626" class="group post-30626 post type-post status-publish format-standard has-post-thumbnail hentry category-alumni-stories category-career-advice category-how-to-with-into category-into-city-university-of-london category-into-university-of-exeter category-prepare-to-study-abroad category-uk-centres tag-answer tag-iana tag-instagram tag-polina tag-questions tag-russia tag-takeover">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/studying/alumni-stories/into-to-entrepreneurs/" title="From INTO to entrepreneurs – successful alumni answer your studying abroad questions">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/10/UAB-alumni-2-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/10/UAB-alumni-2-520x245.jpg 520w, https://blog.intostudy.com/wp-content/uploads/2020/10/UAB-alumni-2-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/how-to-with-into/" title="How to...">How to...</a></p>
+			<p class="post-date">2 Oct, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/studying/alumni-stories/into-to-entrepreneurs/" rel="bookmark" title="From INTO to entrepreneurs – successful alumni answer your studying abroad questions">From INTO to entrepreneurs – successful alumni answer your studying abroad questions</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>Iana and Polina from Russia recently took over our Instagram account to answer your questions about studying abroad with INTO and career success. Iana studied at INTO City, University of&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	            <article id="post-30597" class="group post-30597 post type-post status-publish format-standard has-post-thumbnail hentry category-into-centres category-into-queens-university-belfast category-living-abroad category-travel category-uk-centres tag-explore tag-holiday tag-staycation">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/into-centres/uk-centres/into-queens-university-belfast/staycations-in-northern-ireland/" title="Top 5 staycation destinations in Northern Ireland">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/09/Giants-Causeway-520x245.jpeg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="Sunset at Giant s Causeway in North Antrim, Northern Ireland" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/09/Giants-Causeway-520x245.jpeg 520w, https://blog.intostudy.com/wp-content/uploads/2020/09/Giants-Causeway-720x340.jpeg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/into-centres/" title="INTO Centres">INTO Centres</a>,  <a href="https://blog.intostudy.com/living-abroad/" title="Living Abroad">Living Abroad</a></p>
+			<p class="post-date">14 Sep, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/into-centres/uk-centres/into-queens-university-belfast/staycations-in-northern-ireland/" rel="bookmark" title="Top 5 staycation destinations in Northern Ireland">Top 5 staycation destinations in Northern Ireland</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>If you’ve recently arrived at INTO Queen’s University Belfast, you’ll be eager start exploring some of the amazing places Northern Ireland has to offer. This year some of our staff&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	    </div><div class="post-row">        <article id="post-30577" class="group post-30577 post type-post status-publish format-standard has-post-thumbnail hentry category-studying tag-ua tag-university-of-arizona tag-why-choose-the-university-of-arizona">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/studying/why-choose-the-university-of-arizona/" title="Why choose the University of Arizona?">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/09/IMG_5828-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/09/IMG_5828-520x245.jpg 520w, https://blog.intostudy.com/wp-content/uploads/2020/09/IMG_5828-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/studying/" title="Studying">Studying</a></p>
+			<p class="post-date">9 Sep, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/studying/why-choose-the-university-of-arizona/" rel="bookmark" title="Why choose the University of Arizona?">Why choose the University of Arizona?</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>If you’re thinking about studying at the University of Arizona (UArizona) but haven’t decided yet – look no further! Here’s the definitive guide to becoming an Arizona Wildcat and we’ll&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	            <article id="post-30563" class="group post-30563 post type-post status-publish format-standard has-post-thumbnail hentry category-studying tag-bioprocessing tag-health-or-biotechnology tag-jefferson-institute-for-bioprocessing tag-study-bioprocessing">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/studying/bioprocessing-what-is-it-and-why-study-it/" title="Bioprocessing – what is it and why study it? All you need to know!">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/09/Jefferson-Institute-for-Bioprocessing-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/09/Jefferson-Institute-for-Bioprocessing-520x245.jpg 520w, https://blog.intostudy.com/wp-content/uploads/2020/09/Jefferson-Institute-for-Bioprocessing-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/studying/" title="Studying">Studying</a></p>
+			<p class="post-date">4 Sep, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/studying/bioprocessing-what-is-it-and-why-study-it/" rel="bookmark" title="Bioprocessing – what is it and why study it? All you need to know!">Bioprocessing – what is it and why study it? All you need to know!</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>For students considering their career options, many are looking at a broad range of options in the Health or Biotechnology fields. And the expanding industry of Bioprocessing is definitely worth&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	    </div><div class="post-row">        <article id="post-30543" class="group post-30543 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to-with-into category-into-centres category-into-university-of-exeter category-prepare-to-study-abroad category-uk-centres tag-alumni tag-exeter tag-graduates tag-hugo tag-nicola tag-qa tag-university-of-exeter">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/into-centres/uk-centres/into-university-of-exeter/exeter-student-questions/" title="University of Exeter graduates answer your questions about studying abroad">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/08/image2-520x245.png" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="Hugo, a University of Exeter graduate" loading="lazy" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/how-to-with-into/" title="How to...">How to...</a>,  <a href="https://blog.intostudy.com/into-centres/" title="INTO Centres">INTO Centres</a></p>
+			<p class="post-date">26 Aug, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/into-centres/uk-centres/into-university-of-exeter/exeter-student-questions/" rel="bookmark" title="University of Exeter graduates answer your questions about studying abroad">University of Exeter graduates answer your questions about studying abroad</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>Hugo and Nicola, from Hong Kong, recently took over our Instagram account to answer your questions about studying at INTO University of Exeter. They met through the Hong Kong Public&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	            <article id="post-30528" class="group post-30528 post type-post status-publish format-standard has-post-thumbnail hentry category-studying tag-architects tag-how-to-be-an-architect tag-study-in-usa">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/studying/6-ways-architects-make-the-world-a-better-place-3/" title="6 ways Architects make the world a better place">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/08/Dr.-Barbara-Klinkhammer-2-e1597829093787-520x245.jpeg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/08/Dr.-Barbara-Klinkhammer-2-e1597829093787-520x245.jpeg 520w, https://blog.intostudy.com/wp-content/uploads/2020/08/Dr.-Barbara-Klinkhammer-2-e1597829093787-720x340.jpeg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/studying/" title="Studying">Studying</a></p>
+			<p class="post-date">19 Aug, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/studying/6-ways-architects-make-the-world-a-better-place-3/" rel="bookmark" title="6 ways Architects make the world a better place">6 ways Architects make the world a better place</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>With everything going on in the world today, many students are asking “What can I study that will help make things better?” We sat down with Dr. Barbara Klinkhammer, Dean&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	    </div><div class="post-row">        <article id="post-30521" class="group post-30521 post type-post status-publish format-standard has-post-thumbnail hentry category-academic-programmes category-how-to-with-into category-prepare-to-study-abroad category-studying tag-degree tag-intoonline tag-online-classes tag-online-courses tag-online-degree tag-online-learning">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://blog.intostudy.com/studying/academic-programmes/online-learning-questions/" title="Online learning: your top questions answered">
+									<img width="520" height="245" src="https://blog.intostudy.com/wp-content/uploads/2020/08/Studying-from-Home-520x245.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="" loading="lazy" srcset="https://blog.intostudy.com/wp-content/uploads/2020/08/Studying-from-Home-520x245.jpg 520w, https://blog.intostudy.com/wp-content/uploads/2020/08/Studying-from-Home-720x340.jpg 720w" sizes="(max-width: 520px) 100vw, 520px" />																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"> <a href="https://blog.intostudy.com/how-to-with-into/" title="How to...">How to...</a>,  <a href="https://blog.intostudy.com/studying/" title="Studying">Studying</a></p>
+			<p class="post-date">10 Aug, 2020</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://blog.intostudy.com/studying/academic-programmes/online-learning-questions/" rel="bookmark" title="Online learning: your top questions answered">Online learning: your top questions answered</a>
+		</h2><!--/.post-title-->
+		
+				<div class="entry excerpt">				
+			<p>All of a sudden, the whole world has moved online – from family dinners to fitness classes, and now even university degrees and pathway courses! Hundreds of international students have&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->	    </div>  </div><!--/.post-list-->
+
+<nav class="pagination group">
+			<div class='wp-pagenavi' role='navigation'>
+<span class='pages'>Page 1 of 52</span><span aria-current='page' class='current'>1</span><a class="page larger" title="Page 2" href="https://blog.intostudy.com/page/2/">2</a><a class="page larger" title="Page 3" href="https://blog.intostudy.com/page/3/">3</a><a class="page larger" title="Page 4" href="https://blog.intostudy.com/page/4/">4</a><a class="page larger" title="Page 5" href="https://blog.intostudy.com/page/5/">5</a><span class='extend'>...</span><a class="larger page" title="Page 10" href="https://blog.intostudy.com/page/10/">10</a><a class="larger page" title="Page 20" href="https://blog.intostudy.com/page/20/">20</a><a class="larger page" title="Page 30" href="https://blog.intostudy.com/page/30/">30</a><span class='extend'>...</span><a class="nextpostslink" rel="next" href="https://blog.intostudy.com/page/2/">&raquo;</a><a class="last" href="https://blog.intostudy.com/page/52/">Last &raquo;</a>
+</div>	</nav><!--/.pagination-->
+
+          </div><!--/.hu-pad-->
+        </section><!--/.content-->
+          
+
+	<div class="sidebar s1 collapsed" data-position="left" data-layout="col-3cm" data-sb-id="s1">
+
+		<button class="sidebar-toggle" title="Expand Sidebar"><i class="fas sidebar-toggle-arrows"></i></button>
+
+		<div class="sidebar-content">
+
+			           			<div class="sidebar-top group">
+                        <p>Follow:</p>                    <ul class="social-links"><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Facebook" aria-label="Facebook" href="https://www.facebook.com/intostudy" target="_blank"  style="color:"><i class="fab fa-facebook"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Twitter" aria-label="Twitter" href="https://twitter.com/intostudy" target="_blank"  style="color:"><i class="fab fa-twitter"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Linked In" aria-label="Linked In" href="https://www.linkedin.com/edu/school?id=161200&#038;trk=tyah&#038;trkInfo=clickedVertical%3Aschool%2Cidx%3A3-1-6%2CtarId%3A1430213660221%2Ctas%3Ainto%20university" target="_blank"  style="color:"><i class="fab fa-linkedin"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Weibo" aria-label="Weibo" href="https://www.weibo.com/intohigher?topnav=1&#038;wvr=4" target="_blank"  style="color:"><i class="fab fa-weibo"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="YouTube" aria-label="YouTube" href="https://www.youtube.com/user/INTOTV?sub_confirmation=1" target="_blank"  style="color:"><i class="fab fa-youtube"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Instagram" aria-label="Instagram" href="https://instagram.com/intostudy/" target="_blank"  style="color:"><i class="fab fa-instagram"></i></a></li></ul>  			</div>
+			
+			
+			
+			<div id="top-posts-4" class="widget widget_top-posts"><h3 class="widget-title">Top posts</h3><ul class='widgets-list-layout no-grav'>
+					<li>
+						<a href="https://blog.intostudy.com/studying/exams-revision/8-simple-tips-for-exam-success/" title="8 simple tips for exam success" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i2.wp.com/blog.intostudy.com/wp-content/uploads/2013/05/Student-studying-on-campus1.jpg?resize=40%2C40&#038;ssl=1" alt="8 simple tips for exam success" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/studying/exams-revision/8-simple-tips-for-exam-success/" title="8 simple tips for exam success" class="bump-view" data-bump-view="tp">8 simple tips for exam success</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://blog.intostudy.com/into-centres/uk-centres/pounds-and-pence-a-guide-to-british-currency/" title="Pounds and pence: a guide to British currency" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i0.wp.com/blog.intostudy.com/wp-content/uploads/2018/02/Coins-British-currency.jpg?resize=40%2C40&#038;ssl=1" alt="Pounds and pence: a guide to British currency" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/into-centres/uk-centres/pounds-and-pence-a-guide-to-british-currency/" title="Pounds and pence: a guide to British currency" class="bump-view" data-bump-view="tp">Pounds and pence: a guide to British currency</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://blog.intostudy.com/living-abroad/diwali-celebrations-2/" title="9 ways to prepare for Diwali celebration" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i0.wp.com/blog.intostudy.com/wp-content/uploads/2016/10/Lights-.gif?resize=40%2C40&#038;ssl=1" alt="9 ways to prepare for Diwali celebration" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/living-abroad/diwali-celebrations-2/" title="9 ways to prepare for Diwali celebration" class="bump-view" data-bump-view="tp">9 ways to prepare for Diwali celebration</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/preparing-to-study-abroad/" title="7 ways to prepare for studying abroad" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i1.wp.com/blog.intostudy.com/wp-content/uploads/2017/03/desk_-employee_-ILLC_-inside_-interior_-International-Living-and-Learning-Center_-OSU_-staff_-student_-welcome_23703.png?resize=40%2C40&#038;ssl=1" alt="7 ways to prepare for studying abroad" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/how-to-with-into/prepare-to-study-abroad/preparing-to-study-abroad/" title="7 ways to prepare for studying abroad" class="bump-view" data-bump-view="tp">7 ways to prepare for studying abroad</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://blog.intostudy.com/studying/7-benefits-of-online-learning/" title="7 benefits of starting your studies online with INTO" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i0.wp.com/blog.intostudy.com/wp-content/uploads/2020/07/OnlineClasses.jpg?resize=40%2C40&#038;ssl=1" alt="7 benefits of starting your studies online with INTO" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/studying/7-benefits-of-online-learning/" title="7 benefits of starting your studies online with INTO" class="bump-view" data-bump-view="tp">7 benefits of starting your studies online with INTO</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://blog.intostudy.com/into-centres/uk-centres/into-queens-university-belfast/irish-slang/" title="Your guide to Irish slang" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i2.wp.com/blog.intostudy.com/wp-content/uploads/2016/10/Irish-flag.jpg?resize=40%2C40&#038;ssl=1" alt="Your guide to Irish slang" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/into-centres/uk-centres/into-queens-university-belfast/irish-slang/" title="Your guide to Irish slang" class="bump-view" data-bump-view="tp">Your guide to Irish slang</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://blog.intostudy.com/living-abroad/culture/halloween-special-10-scary-movies-that-you-shouldnt-watch-alone/" title="Halloween special: 10 scary movies that you shouldn&#039;t watch alone" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i2.wp.com/blog.intostudy.com/wp-content/uploads/2012/10/Scary-movie1.jpg?resize=40%2C40&#038;ssl=1" alt="Halloween special: 10 scary movies that you shouldn&#039;t watch alone" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/living-abroad/culture/halloween-special-10-scary-movies-that-you-shouldnt-watch-alone/" title="Halloween special: 10 scary movies that you shouldn&#039;t watch alone" class="bump-view" data-bump-view="tp">Halloween special: 10 scary movies that you shouldn&#039;t watch alone</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://blog.intostudy.com/studying/exams-revision/6-secrets-to-writing-a-great-essay/" title="6 secrets to writing a great essay" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i2.wp.com/blog.intostudy.com/wp-content/uploads/2013/01/Filter-female-student.jpeg?resize=40%2C40&#038;ssl=1" alt="6 secrets to writing a great essay" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/studying/exams-revision/6-secrets-to-writing-a-great-essay/" title="6 secrets to writing a great essay" class="bump-view" data-bump-view="tp">6 secrets to writing a great essay</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://blog.intostudy.com/studying/exams-revision/eating-for-exam-success/" title="Eating for exam success!" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i0.wp.com/blog.intostudy.com/wp-content/uploads/2015/06/giphy-2.gif?resize=40%2C40&#038;ssl=1" alt="Eating for exam success!" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/studying/exams-revision/eating-for-exam-success/" title="Eating for exam success!" class="bump-view" data-bump-view="tp">Eating for exam success!</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://blog.intostudy.com/into-centres/uk-centres/into-queens-university-belfast/successful-university-study/" title="9 secrets to successful university study" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://i2.wp.com/blog.intostudy.com/wp-content/uploads/2016/06/notes-1-e1560249601895.gif?resize=40%2C40&#038;ssl=1" alt="9 secrets to successful university study" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://blog.intostudy.com/into-centres/uk-centres/into-queens-university-belfast/successful-university-study/" title="9 secrets to successful university study" class="bump-view" data-bump-view="tp">9 secrets to successful university study</a>
+							</div>
+													</li>
+					</ul>
+</div>
+		</div><!--/.sidebar-content-->
+
+	</div><!--/.sidebar-->
+
+	<div class="sidebar s2 collapsed" data-position="right" data-layout="col-3cm" data-sb-id="s2">
+
+	<button class="sidebar-toggle" title="Expand Sidebar"><i class="fas sidebar-toggle-arrows"></i></button>
+
+	<div class="sidebar-content">
+
+		  		<div class="sidebar-top group">
+        <p>More</p>  		</div>
+		
+		
+		<div id="text-39" class="widget widget_text"><h3 class="widget-title">Start your journey today</h3>			<div class="textwidget"><a style="text-decoration: none; color: white;" href="http://go.intostudy.com/enquiry/" target="_blank" rel="noopener noreferrer"><span style="display: block; width: 190px; padding: 15px 5px; margin-top: 7px; background: none repeat scroll 0% 0% #00aaad; color: #ffffff; font-size: 22px; text-align: center;">Click here to get in touch about your study options</span></a></div>
+		</div><div id="text-38" class="widget widget_text"><h3 class="widget-title">Follow us on Instagram</h3>			<div class="textwidget">
+<div id="sb_instagram" class="sbi sbi_col_2  sbi_width_resp" style="padding-bottom: 4px;width: 100%;" data-feedid="sbi_#20" data-res="auto" data-cols="2" data-num="20" data-shortcode-atts="{&quot;id&quot;:&quot;259814274&quot;}"  data-sbi-flags="favorLocal">
+	
+    <div id="sbi_images" style="padding: 2px;">
+		    </div>
+
+	<div id="sbi_load">
+
+	
+	
+</div>
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_#20" data-resized="[]">
+	</span>
+	        <div id="sbi_mod_error">
+            <span>This error message is only visible to WordPress admins</span><br />
+        <p><b>Error: There is no connected account for the user 259814274 Feed will not update.</b>        </div>
+        </div>
+
+</div>
+		</div><div id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">Check our tags</h3><div class="tagcloud"><a href="https://blog.intostudy.com/tag/adventure/" class="tag-cloud-link tag-link-3229 tag-link-position-1" style="font-size: 16.573643410853pt;" aria-label="adventure (73 items)">adventure</a>
+<a href="https://blog.intostudy.com/tag/advice/" class="tag-cloud-link tag-link-3255 tag-link-position-2" style="font-size: 20.589147286822pt;" aria-label="advice (171 items)">advice</a>
+<a href="https://blog.intostudy.com/tag/alumni/" class="tag-cloud-link tag-link-3245 tag-link-position-3" style="font-size: 13.209302325581pt;" aria-label="alumni (35 items)">alumni</a>
+<a href="https://blog.intostudy.com/tag/arriving/" class="tag-cloud-link tag-link-3252 tag-link-position-4" style="font-size: 16.248062015504pt;" aria-label="arriving (68 items)">arriving</a>
+<a href="https://blog.intostudy.com/tag/business/" class="tag-cloud-link tag-link-3258 tag-link-position-5" style="font-size: 11.038759689922pt;" aria-label="business (22 items)">business</a>
+<a href="https://blog.intostudy.com/tag/careers/" class="tag-cloud-link tag-link-3247 tag-link-position-6" style="font-size: 15.162790697674pt;" aria-label="careers (54 items)">careers</a>
+<a href="https://blog.intostudy.com/tag/china/" class="tag-cloud-link tag-link-3275 tag-link-position-7" style="font-size: 13.317829457364pt;" aria-label="China (36 items)">China</a>
+<a href="https://blog.intostudy.com/tag/courses/" class="tag-cloud-link tag-link-3259 tag-link-position-8" style="font-size: 13.209302325581pt;" aria-label="courses (35 items)">courses</a>
+<a href="https://blog.intostudy.com/tag/culture/" class="tag-cloud-link tag-link-3239 tag-link-position-9" style="font-size: 19.720930232558pt;" aria-label="culture (144 items)">culture</a>
+<a href="https://blog.intostudy.com/tag/events/" class="tag-cloud-link tag-link-3237 tag-link-position-10" style="font-size: 13.751937984496pt;" aria-label="events (40 items)">events</a>
+<a href="https://blog.intostudy.com/tag/exams/" class="tag-cloud-link tag-link-3278 tag-link-position-11" style="font-size: 9.6279069767442pt;" aria-label="exams (16 items)">exams</a>
+<a href="https://blog.intostudy.com/tag/experience/" class="tag-cloud-link tag-link-3244 tag-link-position-12" style="font-size: 21.457364341085pt;" aria-label="experience (210 items)">experience</a>
+<a href="https://blog.intostudy.com/tag/food/" class="tag-cloud-link tag-link-3272 tag-link-position-13" style="font-size: 15.488372093023pt;" aria-label="food (58 items)">food</a>
+<a href="https://blog.intostudy.com/tag/friends/" class="tag-cloud-link tag-link-3230 tag-link-position-14" style="font-size: 18.527131782946pt;" aria-label="friends (111 items)">friends</a>
+<a href="https://blog.intostudy.com/tag/fun/" class="tag-cloud-link tag-link-3240 tag-link-position-15" style="font-size: 18.201550387597pt;" aria-label="fun (103 items)">fun</a>
+<a href="https://blog.intostudy.com/tag/guest-blogger/" class="tag-cloud-link tag-link-3268 tag-link-position-16" style="font-size: 9.6279069767442pt;" aria-label="guest blogger (16 items)">guest blogger</a>
+<a href="https://blog.intostudy.com/tag/hellointo/" class="tag-cloud-link tag-link-3372 tag-link-position-17" style="font-size: 11.581395348837pt;" aria-label="helloINTO (25 items)">helloINTO</a>
+<a href="https://blog.intostudy.com/tag/industry/" class="tag-cloud-link tag-link-3257 tag-link-position-18" style="font-size: 9.6279069767442pt;" aria-label="industry (16 items)">industry</a>
+<a href="https://blog.intostudy.com/tag/inspiration/" class="tag-cloud-link tag-link-3262 tag-link-position-19" style="font-size: 15.488372093023pt;" aria-label="inspiration (58 items)">inspiration</a>
+<a href="https://blog.intostudy.com/tag/life-hacks/" class="tag-cloud-link tag-link-3269 tag-link-position-20" style="font-size: 14.945736434109pt;" aria-label="life hacks (52 items)">life hacks</a>
+<a href="https://blog.intostudy.com/tag/london/" class="tag-cloud-link tag-link-3236 tag-link-position-21" style="font-size: 15.705426356589pt;" aria-label="London (61 items)">London</a>
+<a href="https://blog.intostudy.com/tag/money/" class="tag-cloud-link tag-link-3282 tag-link-position-22" style="font-size: 8pt;" aria-label="money (11 items)">money</a>
+<a href="https://blog.intostudy.com/tag/newcastle/" class="tag-cloud-link tag-link-3251 tag-link-position-23" style="font-size: 9.3023255813953pt;" aria-label="Newcastle (15 items)">Newcastle</a>
+<a href="https://blog.intostudy.com/tag/progression/" class="tag-cloud-link tag-link-3248 tag-link-position-24" style="font-size: 14.077519379845pt;" aria-label="progression (43 items)">progression</a>
+<a href="https://blog.intostudy.com/tag/prospects/" class="tag-cloud-link tag-link-3249 tag-link-position-25" style="font-size: 13.968992248062pt;" aria-label="prospects (42 items)">prospects</a>
+<a href="https://blog.intostudy.com/tag/revision/" class="tag-cloud-link tag-link-3277 tag-link-position-26" style="font-size: 9.6279069767442pt;" aria-label="revision (16 items)">revision</a>
+<a href="https://blog.intostudy.com/tag/settling-in/" class="tag-cloud-link tag-link-3235 tag-link-position-27" style="font-size: 17.984496124031pt;" aria-label="settling in (98 items)">settling in</a>
+<a href="https://blog.intostudy.com/tag/sightseeing/" class="tag-cloud-link tag-link-3276 tag-link-position-28" style="font-size: 13.751937984496pt;" aria-label="sightseeing (40 items)">sightseeing</a>
+<a href="https://blog.intostudy.com/tag/staff-profile/" class="tag-cloud-link tag-link-3290 tag-link-position-29" style="font-size: 9.3023255813953pt;" aria-label="staff profile (15 items)">staff profile</a>
+<a href="https://blog.intostudy.com/tag/student-tips/" class="tag-cloud-link tag-link-3267 tag-link-position-30" style="font-size: 20.480620155039pt;" aria-label="student tips (168 items)">student tips</a>
+<a href="https://blog.intostudy.com/tag/study-abroad/" class="tag-cloud-link tag-link-3307 tag-link-position-31" style="font-size: 18.852713178295pt;" aria-label="study abroad (119 items)">study abroad</a>
+<a href="https://blog.intostudy.com/tag/studying/" class="tag-cloud-link tag-link-3260 tag-link-position-32" style="font-size: 20.589147286822pt;" aria-label="studying (174 items)">studying</a>
+<a href="https://blog.intostudy.com/tag/studying-abroad/" class="tag-cloud-link tag-link-3507 tag-link-position-33" style="font-size: 8pt;" aria-label="studying abroad (11 items)">studying abroad</a>
+<a href="https://blog.intostudy.com/tag/study-in-london/" class="tag-cloud-link tag-link-3382 tag-link-position-34" style="font-size: 11.038759689922pt;" aria-label="study in london (22 items)">study in london</a>
+<a href="https://blog.intostudy.com/tag/study-in-the-uk/" class="tag-cloud-link tag-link-3330 tag-link-position-35" style="font-size: 14.294573643411pt;" aria-label="study in the UK (45 items)">study in the UK</a>
+<a href="https://blog.intostudy.com/tag/study-in-the-us/" class="tag-cloud-link tag-link-3451 tag-link-position-36" style="font-size: 12.77519379845pt;" aria-label="study in the US (32 items)">study in the US</a>
+<a href="https://blog.intostudy.com/tag/study-in-uk/" class="tag-cloud-link tag-link-3320 tag-link-position-37" style="font-size: 13.426356589147pt;" aria-label="study in UK (37 items)">study in UK</a>
+<a href="https://blog.intostudy.com/tag/study-in-us/" class="tag-cloud-link tag-link-3457 tag-link-position-38" style="font-size: 12.015503875969pt;" aria-label="study in US (27 items)">study in US</a>
+<a href="https://blog.intostudy.com/tag/study-overseas/" class="tag-cloud-link tag-link-3334 tag-link-position-39" style="font-size: 12.124031007752pt;" aria-label="study overseas (28 items)">study overseas</a>
+<a href="https://blog.intostudy.com/tag/traditions/" class="tag-cloud-link tag-link-3238 tag-link-position-40" style="font-size: 15.162790697674pt;" aria-label="traditions (54 items)">traditions</a>
+<a href="https://blog.intostudy.com/tag/travel/" class="tag-cloud-link tag-link-3270 tag-link-position-41" style="font-size: 18.527131782946pt;" aria-label="travel (110 items)">travel</a>
+<a href="https://blog.intostudy.com/tag/uk/" class="tag-cloud-link tag-link-3233 tag-link-position-42" style="font-size: 22pt;" aria-label="UK (232 items)">UK</a>
+<a href="https://blog.intostudy.com/tag/university/" class="tag-cloud-link tag-link-3285 tag-link-position-43" style="font-size: 17.984496124031pt;" aria-label="university (98 items)">university</a>
+<a href="https://blog.intostudy.com/tag/us/" class="tag-cloud-link tag-link-3274 tag-link-position-44" style="font-size: 14.837209302326pt;" aria-label="US (50 items)">US</a>
+<a href="https://blog.intostudy.com/tag/usa/" class="tag-cloud-link tag-link-3455 tag-link-position-45" style="font-size: 8pt;" aria-label="USA (11 items)">USA</a></div>
+</div>
+	</div><!--/.sidebar-content-->
+
+</div><!--/.sidebar-->
+
+        </div><!--/.main-inner-->
+      </div><!--/.main-->
+    </div><!--/.container-inner-->
+  </div><!--/.container-->
+    <footer id="footer">
+
+    
+    
+        <section class="container" id="footer-widgets">
+          <div class="container-inner">
+
+            <div class="hu-pad group">
+
+                                <div class="footer-widget-1 grid one-third ">
+                                      </div>
+                                <div class="footer-widget-2 grid one-third ">
+                    <div id="text-41" class="widget widget_text">			<div class="textwidget"><a style="text-decoration: none; color: white;" href="http://www.intostudy.com/apply" target="_blank" title="Apply" rel="noopener noreferrer"><span style="display: block; width: 365px; padding: 15px 5px; margin-top: 30px; background: none repeat scroll 0% 0% #00aaad; color: #ffffff; font-size: 22px; text-align: center;">Click here to apply to study abroad</span></a></div>
+		</div>                  </div>
+                                <div class="footer-widget-3 grid one-third last">
+                                      </div>
+              
+            </div><!--/.hu-pad-->
+
+          </div><!--/.container-inner-->
+        </section><!--/.container-->
+
+    
+    
+    <section class="container" id="footer-bottom">
+      <div class="container-inner">
+
+        <a id="back-to-top" href="#"><i class="fas fa-angle-up"></i></a>
+
+        <div class="hu-pad group">
+
+          <div class="grid one-half">
+                        
+            <div id="copyright">
+                <p>© Copyright 2020 INTO University Partnerships Ltd and IUP 2 LLP. <br /> <a href="http://www.intostudy.com/en-gb/legal-and-privacy-policy/cookies-policy" target="_blank" rel="noopener">Cookies Policy</a> | <a href="http://www.intostudy.com/en-gb/legal-and-privacy-policy" target="_blank" rel="noopener">Privacy Policy</a></p>
+            </div><!--/#copyright-->
+
+            
+          </div>
+
+          <div class="grid one-half last">
+                                          <ul class="social-links"><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Facebook" aria-label="Facebook" href="https://www.facebook.com/intostudy" target="_blank"  style="color:"><i class="fab fa-facebook"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Twitter" aria-label="Twitter" href="https://twitter.com/intostudy" target="_blank"  style="color:"><i class="fab fa-twitter"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Linked In" aria-label="Linked In" href="https://www.linkedin.com/edu/school?id=161200&#038;trk=tyah&#038;trkInfo=clickedVertical%3Aschool%2Cidx%3A3-1-6%2CtarId%3A1430213660221%2Ctas%3Ainto%20university" target="_blank"  style="color:"><i class="fab fa-linkedin"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Weibo" aria-label="Weibo" href="https://www.weibo.com/intohigher?topnav=1&#038;wvr=4" target="_blank"  style="color:"><i class="fab fa-weibo"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="YouTube" aria-label="YouTube" href="https://www.youtube.com/user/INTOTV?sub_confirmation=1" target="_blank"  style="color:"><i class="fab fa-youtube"></i></a></li><li><a rel="nofollow noopener noreferrer" class="social-tooltip"  title="Instagram" aria-label="Instagram" href="https://instagram.com/intostudy/" target="_blank"  style="color:"><i class="fab fa-instagram"></i></a></li></ul>                                    </div>
+
+        </div><!--/.hu-pad-->
+
+      </div><!--/.container-inner-->
+    </section><!--/.container-->
+
+  </footer><!--/#footer-->
+
+</div><!--/#wrapper-->
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://blog.intostudy.com/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript' id='spu-public-js-extra'>
+/* <![CDATA[ */
+var spuvar = {"is_admin":"","disable_style":"","ajax_mode":"","ajax_url":"https:\/\/blog.intostudy.com\/wp-admin\/admin-ajax.php","ajax_mode_url":"https:\/\/blog.intostudy.com\/?spu_action=spu_load","pid":"0","is_front_page":"1","is_category":"","site_url":"https:\/\/blog.intostudy.com","is_archive":"","is_search":"","is_preview":"","seconds_confirmation_close":"5"};
+var spuvar_social = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-content/plugins/popups/public/assets/js/public.js?ver=1.9.3.8' id='spu-public-js'></script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script type='text/javascript' id='hu-front-scripts-js-extra'>
+/* <![CDATA[ */
+var HUParams = {"_disabled":[],"SmoothScroll":{"Enabled":false,"Options":{"touchpadSupport":false}},"centerAllImg":"1","timerOnScrollAllBrowsers":"1","extLinksStyle":"","extLinksTargetExt":"","extLinksSkipSelectors":{"classes":["btn","button"],"ids":[]},"imgSmartLoadEnabled":"1","imgSmartLoadOpts":{"parentSelectors":[".container .content",".post-row",".container .sidebar","#footer","#header-widgets"],"opts":{"excludeImg":[".tc-holder-img"],"fadeIn_options":100,"threshold":0}},"goldenRatio":"1.618","gridGoldenRatioLimit":"350","sbStickyUserSettings":{"desktop":true,"mobile":true},"sidebarOneWidth":"340","sidebarTwoWidth":"260","isWPMobile":"","menuStickyUserSettings":{"desktop":"stick_up","mobile":"stick_up"},"mobileSubmenuExpandOnClick":"","submenuTogglerIcon":"<i class=\"fas fa-angle-down\"><\/i>","isDevMode":"","ajaxUrl":"https:\/\/blog.intostudy.com\/?huajax=1","frontNonce":{"id":"HuFrontNonce","handle":"774ada3b91"},"isWelcomeNoteOn":"","welcomeContent":"","i18n":{"collapsibleExpand":"Expand","collapsibleCollapse":"Collapse"},"deferFontAwesome":"","fontAwesomeUrl":"https:\/\/blog.intostudy.com\/wp-content\/themes\/hueman\/assets\/front\/css\/font-awesome.min.css?3.6.8","mainScriptUrl":"https:\/\/blog.intostudy.com\/wp-content\/themes\/hueman\/assets\/front\/js\/scripts.min.js?3.6.8","flexSliderNeeded":"1","flexSliderOptions":{"is_rtl":false,"has_touch_support":true,"is_slideshow":false,"slideshow_speed":5000}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-content/themes/hueman/assets/front/js/scripts.min.js?ver=3.6.8' id='hu-front-scripts-js' defer></script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4' id='jquery-effects-core-js'></script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4' id='jquery-effects-blind-js'></script>
+<script type='text/javascript' id='wstbLayout-js-extra'>
+/* <![CDATA[ */
+var stbUserOptions = {"mode":"css","cssOptions":{"roundedCorners":true,"mbottom":10,"imgHide":"http:\/\/blog.intostudy.com\/wp-content\/plugins\/wp-special-textboxes\/themes\/stb-dark\/minus.png","imgShow":"http:\/\/blog.intostudy.com\/wp-content\/plugins\/wp-special-textboxes\/themes\/stb-dark\/plus.png","strHide":"Hide","strShow":"Show"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-content/plugins/wp-special-textboxes/js/wstb.min.js?ver=5.9.109' id='wstbLayout-js'></script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script type='text/javascript' id='sb_instagram_scripts-js-extra'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/blog.intostudy.com\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/blog.intostudy.com\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.intostudy.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=2.5.4' id='sb_instagram_scripts-js'></script>
+<!--[if lt IE 9]>
+<script src="https://blog.intostudy.com/wp-content/themes/hueman/assets/front/js/ie/respond.js"></script>
+<![endif]-->
+<script type='text/javascript' src='https://stats.wp.com/e-202050.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.1',blog:'126480279',post:'0',tz:'0',srv:'blog.intostudy.com'} ]);
+	_stq.push([ 'clickTrackerInit', '126480279', '0' ]);
+</script>
+</body>
+</html>

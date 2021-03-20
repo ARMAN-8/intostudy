@@ -1,0 +1,1164 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/legal-and-privacy-policy/into" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/legal-and-privacy-policy/into" hreflang="en" />
+    <link rel="alternate" href="https://www.intostudy.com/en/legal-and-privacy-policy/into" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/en/legal-and-privacy-policy/into -->
+    <!-- Encoded URL is https://www.intostudy.com/en/legal-and-privacy-policy/into -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>Legal and privacy policy | INTO</title>
+        <meta name="description" content="Read our legal and privacy policy." />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/en/legal-and-privacy-policy/into" />
+        <meta property="og:title" content="Legal and privacy policy | INTO" />
+        <meta property="og:description" content="Read our legal and privacy policy." />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/en-gb.min.css?v=2-LzaxUI3fHNakVYIXEzBWYXF1AnJPVqPggoRav_PKw" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/en/legal-and-privacy-policy/into" />
+
+
+    <!-- BrowserTestData: LegalAndPrivacyPolicyInto, en. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/legal-and-privacy-policy/into"><span class="l-language-block-text   is-current">English</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">English<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/en/legal-and-privacy-policy/into">English</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="Search for a subject or program">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/en'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/en'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en/about-into">About INTO</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en/success-with-into">
+                                                                                <span>Success with INTO</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/blog">
+                                                                                <span>Blog</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/faq">
+                                                                                <span>FAQ</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/friend">
+                                                                                <span>Recommend a Friend</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-abroad">Study abroad</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/country-guides/uk">
+                                                                                <span>UK</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/country-guides/us">
+                                                                                <span>US</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/country-guides/china">
+                                                                                <span>China</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/study-abroad/parents-guide">
+                                                                                <span>Parents guide</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/admissions">Admissions</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/en/fees">
+                                                                                <span>Fees</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/admissions/scholarships">
+                                                                                <span>Scholarships</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/help/visas-and-pre-arrival-support-services">
+                                                                                <span>Visa and pre-arrival support services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/en/admissions/meet-the-team">
+                                                                                <span>Enrolment Services</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/apply">Apply</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/en/about-into">About INTO</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en/success-with-into">Success with INTO<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/blog">Blog<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/faq">FAQ<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/friend">Recommend a Friend<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-abroad">Study abroad</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en/study-abroad/country-guides/uk">UK<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/country-guides/us">US<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/country-guides/china">China<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/study-abroad/parents-guide">Parents guide<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/study-programs">Study programs</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/universities">Universities</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/admissions">Admissions</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/en/fees">Fees<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/admissions/scholarships">Scholarships<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/help/visas-and-pre-arrival-support-services">Visa and pre-arrival support services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/en/admissions/meet-the-team">Enrolment Services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/contact">Contact</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/en/apply">Apply</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="Search for a subject or program">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/en" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en/legal-and-privacy-policy" class="breadcrumb-item">Legal And Privacy Policy</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/en/legal-and-privacy-policy/into" class="breadcrumb-item">Into</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            <div class="canvas" style="min-height: calc(100vh - 340px);">
+  <div class="contentPane">
+    <div class="DnnModule-DNN_HTML DnnVersionableControl">
+      <section class="l-page-block l-text-block">
+        <div class="l-content-container">
+          <div class="DNNModuleContent ModDNNHTMLC">
+              <div>
+                  <h4 class="mb-2">DATE OF ISSUE: 05 November 2020</h4>
+                  <h1 class="mt-0">INTO University Partnerships Group</h1>
+                  <h2>Privacy Notice</h2>
+                  <p>
+                      INTO University Partnerships Limited, its subsidiaries and affiliates (together "INTO", individually an "INTO Entity"
+                      is committed to protecting your privacy.  This notice will help you understand how we look after your personal data and
+                      how we make sure that we meet our obligations to you under data protection law (referred to in this notice as the "Data Protection Laws").
+                  </p>
+                  <p>
+                      If you have any questions in relation to this notice or generally how your personal data is processed by us please contact
+                      our Data Protection Officer by letter addressed to: Data Protection Officer, INTO University Partnerships, One Gloucester Place,
+                      Brighton BN1 4AA; or by email at: <a href="mailto:privacy@intoglobal.com">privacy@intoglobal.com</a>.
+                  </p>
+                  <h3>Introduction</h3>
+                  <p>
+                      In this privacy notice, the terms "we", "our", and "us" refer to INTO University Partnerships Limited and IUP2 LLP,
+                      both of One Gloucester Place, Brighton BN1 4AA (ICO registration numbers Z3504921 and ZA032598 respectively).
+                  </p>
+                  <p>
+                      We are a controller of your information which means that we are responsible for looking after it.  We will use your personal data fairly,
+                      lawfully and in a transparent manner, and in accordance with the Data Protection Laws.
+                  </p>
+                  <p>
+                      <strong>
+                          We give you the power to share in the world of international education as part of our mission to connect you through our
+                          innovative partnerships with leading universities, to expand your opportunities for higher education and help you succeed and
+                          transform your lives. This policy describes what information we collect from you and how it is used and shared.
+                      </strong>
+                  </p>
+                  <p>
+                      Please click on one of the links below to find out more information.
+                  </p>
+                  <p>
+                      We reserve the right to update this privacy notice at any time by changing it as it applies to your use of our services.
+                  </p>
+                  <ol class="numbered-list">
+                      <li>
+                          <a href="#ImportantInformation">Important information</a>
+                      </li>
+                      <li>
+                          <a href="#InformationWeCollect">The information we collect about you</a>
+                      </li>
+                      <li>
+                          <a href="#HowWeCollectThem">How is your personal information collected?</a>
+                      </li>
+                      <li>
+                          <a href="#UsingInformation">Basis for using your personal information</a>
+                      </li>
+                      <li>
+                          <a href="#HowWeUseThem">How do we use your personal data?</a>
+                      </li>
+                      <li>
+                          <a href="#Disclosures">Disclosures of your personal data</a>
+                      </li>
+                      <li>
+                          <a href="#InternationalTransfers">International transfers</a>
+                      </li>
+                      <li>
+                          <a href="#InformationSecurity">Information security</a>
+                      </li>
+                      <li>
+                          <a href="#InformationRetention">Information retention</a>
+                      </li>
+                      <li>
+                          <a href="#LegalRights">Your legal rights</a>
+                      </li>
+                      <li>
+                          <a href="#Contacts">What happens if I chose not to provide my personal information?</a>
+                      </li>
+                      <li>
+                          <a href="#Contacts">How to contact us</a>
+                      </li>
+                  </ol>
+                  <h3 id="ImportantInformation">1. Important information</h3>
+                  <h4>Purpose of this privacy notice</h4>
+                  <p>
+                      Your trust is very important to us and this privacy notice aims to give you information on how we collect
+                      and process your personal data, including any information you may provide when you submit an enquiry, request
+                      a brochure, make a direct online application for a course, or when you enter your details onto and use our websites.
+                  </p>
+                  <p>
+                      It is important that you read this privacy notice together with any other privacy notice or fair
+                      processing notice we may provide to you on specific occasions when we are collecting or processing personal
+                      data about you so that you are fully aware of how and why we are using your information. This privacy notice supplements
+                      the other notices and is not intended to override them.
+                  </p>
+                  <p>
+                      Please see our further policy relating to applicants for employment <a href="https://www.intoglobal.com/media/414415/Privacy-Notice-for-IUP-Candidates-Final-20180607.pdf ">here</a>.
+                  </p>
+                  <p>
+                      It is important to us that the personal data we hold about you is accurate and current.
+                      Please contact us if your personal data which we hold changes during your relationship with us.
+                  </p>
+                  <p>
+                      We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions
+                      in relation to this privacy notice. If you have any questions about this privacy notice,
+                      please contact our DPO at <a href="mailto:privacy@intoglobal.com">privacy@intoglobal.com</a>.
+                  </p>
+                  <h4>What do the key terms mean?</h4>
+                  <p>
+                      <strong>"Personal data"</strong>means any information which we hold about you from which you can be identified. It may include
+                      contact details, identification numbers, other personal information, photographs, expressions of opinion about
+                      you or indications as to our intentions about you.
+                  </p>
+                  <p>
+                      <strong>"Processing"</strong> means doing anything with the personal data, such as collecting, recording, organising, structuring,
+                      storing, adapting or altering, retrieving, accessing, consulting, disclosing, disseminating, aligning or combining,
+                      restricting, erasing or destroying or using the data in any way.
+                  </p>
+                  <h4>Third-party links</h4>
+                  <p>
+                      Our websites may include links to third-party websites, plug-ins and applications. Clicking on those links or
+                      enabling those connections may allow third parties to collect or share information about you. We do not control
+                      these third-party websites and are not responsible for their privacy statements. When you leave our website, we
+                      encourage you to read the privacy notice of every website you visit.
+                  </p>
+                  <h3 id="InformationWeCollect">2. The information we collect about you</h3>
+                  <p>
+                      Depending on which services you use, we collect different kinds of information from or about you. We may collect,
+                      use, store and transfer different kinds of personal information about you which we have grouped together as follows:
+                  </p>
+                  <ol>
+                      <li>
+                          <strong>Identity Information</strong> includes first name, maiden name, last name, username or similar identifier,
+                          marital status, title, date of birth and gender.
+                      </li>
+                      <li>
+                          <strong>Contact Information</strong> includes home address, term time address, email address and telephone
+                          numbers and emergency contact information including parent/guardian/next of kin information.
+                      </li>
+                      <li>
+                          <strong>Education Information</strong> includes your educational history, qualifications, certifications, and English language test scores.
+                      </li>
+                      <li>
+                          <strong>Compliance Information</strong> includes details regarding your visa.
+                      </li>
+                      <li>
+                          <strong>Financial Information</strong> includes bank account and payment card details.
+                      </li>
+                      <li>
+                          <strong>Transaction Information</strong> includes details about payments to and from you and other details of the services you have purchased
+                          from the relevant INTO Centre.
+                      </li>
+                      <li>
+                          <strong>Technical Information</strong> includes internet protocol (IP) address, your login information, browser type and version, time zone
+                          setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices
+                          you use to access our services.
+                      </li>
+                      <li>
+                          <strong>Profile Information</strong> includes your username and password, courses selected by you, your interests, preferences,
+                          feedback and survey responses.
+                      </li>
+                      <li>
+                          <strong>Usage Information</strong> includes information about how you use our websites and services.
+                      </li>
+                      <li>
+                          <strong>Marketing and Communications Information</strong> includes your preferences in receiving marketing from us and related third
+                          parties and your communication preferences.
+                      </li>
+                      <li>
+                          <strong>Special Categories of Personal Information</strong> includes details about your ethnic origin and your health or disabilities.
+                          In certain circumstances we may also receive information from you about any criminal convictions you may have. Please see the
+                          "Special Category Data" and Criminal "convictions" sections below and our Special Category and
+                          Criminal Offence Data <a href="https://www.intostudy.com/en-gb/governance">Policy</a>
+                      </li>
+                  </ol>
+                  <h3 id="HowWeCollectThem">3. How is your personal information collected?</h3>
+                  <p>
+                      We use different methods to collect information from and about you, including through:
+                  </p>
+                  <ol>
+                      <li>
+                          <strong>Information you provide</strong>. You may give us information including your Identity,
+                          Contact, Education and Financial Information by filling in application forms,
+                          either in hard copy or online, or by corresponding with us by post, phone, email
+                          or otherwise. This includes personal data you provide when you:
+                      </li>
+                      <ol>
+                          <li>Apply for a place on a course or make an enquiry with us;</li>
+                          <li>Accept a place to study on a course;</li>
+                          <li>Request marketing material be sent to you;</li>
+                          <li>Take part in a survey;</li>
+                          <li>Or give us some feedback or get in contact with us.</li>
+                      </ol>
+                      <li>
+                          <strong>From websites and apps that use our services</strong>. As you interact with our websites,
+                          we may automatically collect Technical Information about your equipment,
+                          browsing actions and patterns. We collect this personal information by using
+                          cookies and other similar technologies. To find out more about the way we use
+                          cookies and similar technologies please visit our  <a href="/en/legal-and-privacy-policy/cookies-policy">Cookies Policy</a>.
+                      </li>
+                      <li>
+                          <strong>Third parties or publicly available sources</strong>. We may receive personal information
+                          about you from various third parties including Technical Information from analytics
+                          providers and search information providers; Contact, Financial and Transaction Information
+                          from payment providers who administer payments from you on our behalf; Identity, Contact and
+                          Education Information from education counsellors that you engage to act on your behalf and/or
+                          from universities who we work with; and Compliance Information from regulatory agencies
+                          including UK Visas and Immigration.
+                      </li>
+                  </ol>
+                  <h3 id="UsingInformation">4. Basis for using your personal information</h3>
+                  <p>
+                      We are passionate about ensuring the success, and transforming the lives, 
+                      of our students. We will use your personal data to
+                      help us ensure that we provide, improve and develop our services for you.
+                  </p>
+                  <p>
+                      We need to have a valid reason to use your personal data. This is called the
+                      "lawful basis for processing". Sometimes we might ask your permission for us to do something with
+                      your personal data: for example, when you give your consent to allow us to contact you by email
+                      about a new service we are providing. At other times, we don't need to ask your explicit permission
+                      because we have another lawful basis for processing your personal data, and you might reasonably
+                      expect us to use your personal data.
+                  </p>
+                  <p>
+                      Collected information may be used in the following ways:
+                  </p>
+                  <ul>
+                      <li>
+                          Where it is <strong>necessary for our legitimate interests</strong>. We are required to carry out a balancing
+                          test of our legitimate interests in processing your personal data against your interests and
+                          rights under the Data Protection Laws. We will only process your personal data when your interests
+                          and rights do not override those interests. Our legitimate interests include:
+                          <ul>
+                              <li>informing and formulating our future strategies;</li>
+                              <li>ensuring the smooth running of our business;</li>
+                              <li>keeping our facilities safe and secure;</li>
+                              <li>keeping adequate records;</li>
+                              <li>enabling us to engage with you so that we can provide you with services;</li>
+                              <li>using your feedback to improve our services;</li>
+                              <li>collecting and processing payments;</li>
+                              <li>for fraud prevention purposes;</li>
+                              <li>sharing academic progress reports with a student's sponsor;</li>
+                              <li>supporting you with engagement opportunities delivered by our regional office staff;</li>
+                              <li>sharing your personal data with online testing services, and remote proctoring services; and</li>
+                              <li>sharing your personal data for intra-group administrative transfers.</li>
+                          </ul>
+                      </li>
+                      <li>
+                          where we need to <strong>comply with a legal or regulatory obligation</strong>: for example, in some of the circumstances
+                          relating to the prevention of crime, or because we may be required to share your information with certain
+                          statutory bodies (see below for further information about whom we may share your information with).
+                      </li>
+                  </ul>
+                  <p>
+                      We will only use your personal data for the purposes for which we collected it, unless we reasonably consider
+                      that we need to use it for another reason, and that reason is compatible with the original purpose.
+                      If you wish to get more information on the basis on which we process your personal
+                      information you can contact us at <a href="mailto:privacy@intoglobal.com">privacy@intoglobal.com</a>.
+
+                  </p>
+                  <h3 id="HowWeUseThem">5. How do we use your personal data?</h3>
+                  <p>
+                      We use the information we have to deliver and improve the services we offer to you.
+                      Examples of the services offered, and how we use your personal data, include the following:.
+                  </p>
+                  <ol class="numbered-list">
+                      <li>
+                          to register you as a new customer when you submit an enquiry to us to study at an INTO Centre in order that we can respond
+                          to you where such processing is necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to process your application to study on a particular course at an INTO Centre: from arranging and
+                          conducting interviews with you, and completing statutory visa
+                          compliance checks, to sending you an offer letter through to processing your acceptance form;
+                      </li>
+                      <li>
+                          to provide you with opportunities for direct entry to Universities where such
+                          processing is necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to assess your eligibility for alternative INTO courses where you do not meet the entry requirements for a
+                          course you have applied for where such processing is necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to understand your academic progress in order to be able to assess the performance of academic staff at the
+                          INTO Centres where this is necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to provide you with advice on study options, or respond to questions about courses and obtaining a visa
+                          as necessary in order to take steps at your request where such processing is necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to provide you (or if you are under 18, your guardian or next of kin) with information about your application
+                          at your chosen INTO Centre(s) as necessary where such processing is necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to assess and advise you in relation to your financial eligibility and the financial statements you
+                          need to provide as necessary for the purpose of our legitimate interests;
+                      </li>
+                      <li>
+                          to manage your access to virtual learning environments (VLE), and provide a personalised browsing experience when
+                          you access and participate in the VLE where the processing is necessary for our legitimate interests;
+                      </li>
+                      <li>
+                          to enable the INTO Centres, as applicable, to provide you with online courses, the accreditation of your
+                          participation in those courses, and other online learning initiatives where this is necessary for our legitimate interests,
+                          or where you have provided your consent;
+                      </li>
+                      <li>
+                          to accept and process payments in relation to events, courses, tests and examinations as necessary for our legitimate interests;
+                      </li>
+                      <li>
+                          to collect and process any payments you may owe to the INTO Centre in accordance with the relevant <a href="https://www.intostudy.com/en-gb/terms ">student terms</a> and
+                          conditions for the course that you have applied to and/or are studying where such processing is
+                          necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to deliver our services to you and to provide you with information about them, including letting you know about any new offers,
+                          sending you notifications about courses and updates, and details of services which may be of interest to you,
+                          and to enable us to personalise our communications to you where such processing is necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to continue to engage with you when you have completed your studies;
+                      </li>
+                      <li>
+                          to enable us to conduct analysis, historical research,
+                          budget forecasting and management planning where such processing is
+                          necessary for the purposes of our legitimate interests in the smooth running of our business;
+                      </li>
+                      <li>
+                          to monitor emails and online communications to enable us to comply
+                          with payment card data security standards;
+                      </li>
+                      <li>
+                          to enable you to participate in any surveys or any other promotions we
+                          may be running where such processing is necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to administer and protect our business and our websites where such processing
+                          is necessary for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to deliver relevant website content to you where such processing is necessary
+                          for the purposes of our legitimate interests;
+                      </li>
+                      <li>
+                          to deal with any requests from you regarding your <a href="#LegalRights">rights</a> under this notice
+                          to enable us to comply with a legal obligation;
+                      </li>
+                      <li>
+                          to deal with any requests from third parties for disclosure of your
+                          personal data where such disclosure is to comply with a legal obligation
+                      </li>
+                  </ol>
+                  <h4>Automated decision making</h4>
+                  <p>
+                      Assumptions are made about your interests depending on the information you have supplied to us about yourself,
+                      and about the website you were visiting when you did so. For example, if you enquired about a Foundation course
+                      at University of Exeter, we assume you may be interested in pre-university education in the United Kingdom.
+                  </p>
+                  <p>
+                      We also assume you speak certain languages based on your nationality or country of residence. If you
+                      require any further information regarding any automated decision making, please contact us at: <a href="mailto:privacy@intoglobal.com">privacy@intoglobal.com</a>.
+                  </p>
+                  <h4>Marketing</h4>
+                  <p>
+                      We aim to provide you with choices regarding how we contact you, around the marketing and advertising of our services
+                  </p>
+                  <p>
+                      Promotional offers from us
+                  </p>
+                  <p>
+                      We may use your Identity, Contact, Technical, Usage and Profile Information to form a view on what we think
+                      you may want or need, or what may be of interest to you: for example, in respect of a new course that is being
+                      offered at an INTO Centre or a new promotion that we are running. We conduct surveys and research and analyse
+                      the information that we have in order to evaluate and improve existing products and services and
+                      develop new products or features.
+                  </p>
+                  <h4>Cookies</h4>
+                  <p>
+                      We use cookies and similar technologies to provide and support our services.
+                      Please read our <a href="https://www.intostudy.com/en-gb/legal-and-privacy-policy/cookies-policy">Cookies Policy</a> to learn more.
+                  </p>
+                  <h4>Special Category Data</h4>
+                  <p>
+                      We may hold information about you which is classified as 'special category data' in the Data Protection Laws,
+                      such as details about your ethnicity and racial or ethnic origin, your political opinions, your religious or
+                      philosophical beliefs, your trade union membership, your health and any disabilities you may have, your sex
+                      life or sexual orientation, your genetic or biometric data and data relating to any criminal (or alleged criminal)
+                      offences or convictions, which you have supplied to us.
+                  </p>
+                  <p>
+                      We will only process this special category data in circumstances where it is legally required, where it is
+                      necessary for us to meet our obligations or exercise our rights as an employer, or where there is a substantial public
+                      interest in doing so (including, for example, to monitor equality of opportunity or, make reasonable adjustments
+                      to enable access to facilities and appropriate support, or to use temperature testing to ensure the safety
+                      of our sites in the context of a pandemic). We set out more detail in relation to this processing in our
+                      Special Category and Criminal Offence Data <a href="https://www.intostudy.com/en-gb/governance">Policy</a>.
+                  </p>
+                  <h4>Criminal convictions</h4>
+                  <p>
+                      We will only use information relating to criminal convictions where permitted to do so by the Data Protection Laws and then
+                      only in accordance with our Special Category and Criminal Offence Data Policy. The processing of criminal conviction data
+                      occurs when it is necessary for us to comply with the law or for another reason where there is a substantial public
+                      interest in us doing so, for example, including the processing of any visa application in line with the United Kingdom
+                      Visas and Immigration requirements.
+                  </p>
+                  <p>
+                      Less commonly, we will, if necessary, use information relating to criminal convictions or alleged criminal
+                      behaviour where it is necessary in relation to legal claims, where it is necessary to protect your interests,
+                      or someone else's interests and you are not capable of giving your consent, or where you have already
+                      made the information public.
+                  </p>
+                  <h3 id="Disclosures">6. Disclosures of your personal information</h3>
+                  <p>
+                      We may share your personal information with other INTO Entities. We may also share your personal
+                      information with selected external third parties including:
+                  </p>
+                  <ul>
+                      <li>
+                          business partners, for example, the INTO Centre with whom you may study;
+                      </li>
+                      <li>
+                          the University partner with whom you are applying to study once you have completed
+                          your course with the relevant INTO Centre;
+                      </li>
+                      <li>
+                          education counsellors that you have engaged with to act on your behalf;
+                      </li>
+                      <li>
+                          third party suppliers, service providers and sub-contractors who perform any services for us:
+                          for example, payment processing companies who process your payments on our behalf; technology
+                          companies whose systems we use; education service providers who provide online proctoring and
+                          online testing; or agencies who provide services to carry out marketing campaigns on our behalf;
+                      </li>
+                      <li>
+                          analytics and search engine providers that assist us with the improvement and optimisation of our websites;
+                      </li>
+                      <li>
+                          third parties with whom we have a duty to disclose, for example, where disclosure is necessary due
+                          to a legal process or an enforceable governmental or regulatory request, such as a request from UK
+                          Visas and Immigration; or third parties we need to share your personal information with if we need
+                          to protect you or other people from harm; and
+                      </li>
+                      <li>
+                          third parties to whom we may choose to sell, transfer or merge part of our business to or with.
+                          Alternatively, we may seek to acquire other businesses or merge with them.
+                      </li>
+                  </ul>
+                  <p>
+                      We require all third parties to respect the security of your personal data and to treat it in accordance
+                      with the law. We do not allow our third-party service providers to use your personal data for their own
+                      purposes and require them to process your personal data for specified purposes
+                      in accordance with our instructions.
+                  </p>
+                  <h3 id="InternationalTransfers">7. International transfers</h3>
+                  <p>
+                      The information we collect from you may be transferred to, and stored at, destinations outside
+                      the European Economic Area (the "EEA"). It may also be processed by staff operating outside the
+                      EEA who work for us, another INTO Entity or one of our suppliers. Such staff may be involved in advising
+                      you as to which course or university you wish to apply to, helping you with your application to us or
+                      providing support services as we require. By submitting your personal data to us, you are acknowledging
+                      that it could be being transferred, stored or processed in a location outside the EEA. Whenever we
+                      transfer your personal data out of the EEA, we ensure an equivalent level of protection is afforded
+                      to it by ensuring at least one of the following safeguards is implemented:
+                  </p>
+                  <ul>
+                      <li>
+                          We transfer your personal data to countries that have been deemed to provide an adequate
+                          level of protection for personal data by the European Commission;
+                      </li>
+                      <li>
+                          We transfer your personal data to service providers who have agreed to contractual terms
+                          approved by the European Commission which give personal data equivalent protection as in the European Union.
+                      </li>
+                  </ul>
+                  <p>
+                      Please contact us if you want further information on the specific mechanism used by us when transferring your
+                      personal data out of the EEA. In the event that the UK leaves the EEA, or if otherwise required, we will ensure
+                      that appropriate transfer mechanisms to and from the UK are put in place.
+                  </p>
+                  <h3 id="InformationSecurity">8. Information security</h3>
+                  <p>
+                      We place great importance on the steps we take, including use of different technologies and physical
+                      and organisational measures, to protect your information from unauthorised access and against unlawful
+                      processing, accidental loss, alteration, disclosure, destruction and damage.
+                  </p>
+                  <p>
+                      We have in place procedures and technologies to maintain the security of personal data from the point
+                      of collection to the point of destruction. We will only transfer personal data to third parties if they
+                      agree to comply with those procedures and policies, or if they put in place adequate measures themselves.
+                  </p>
+                  <p>
+                      The confidentiality of any password that enables you to access certain parts of our websites is your responsibility,
+                      whether we have given you the password or you have chosen it yourself. This includes access to "My INTO". We ask you
+                      to please not share your password with anyone. We will not be liable for any unauthorised transactions entered into using
+                      your username, personal information and/or password.
+                  </p>
+                  <h3 id="InformationRetention">9. Information retention</h3>
+                  <p>How long will you use my personal information for?</p>
+                  <p>
+                      We will retain your personal data for as long as necessary to fulfil the purposes we collected it for, including
+                      satisfying any legal, accounting, or reporting requirements: for example, any reporting requirements we have to comply
+                      ]with for UK Visas and Immigration. We may also retain it for a period after this time as may be necessary and relevant
+                      to our legitimate operations.
+                  </p>
+                  <p>
+                      We have in place procedures and technologies to maintain the security of personal data from the point
+                      of collection to the point of destruction. We will only transfer personal data to third parties if they
+                      agree to comply with those procedures and policies, or if they put in place adequate measures themselves.
+                  </p>
+                  <p>
+                      We consider a number of factors in deciding how long to keep your personal data: the amount, nature, and
+                      sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal
+                      data, the purposes for which we process your personal data and whether we can achieve those purposes through other
+                      means, and the applicable legal requirements (i.e. whether particular laws mean we have to keep certain types of
+                      document for a certain length of time).
+                  </p>
+                  <p>
+                      In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for
+                      statistical purposes, in which case we may use this information indefinitely without further notice to you.
+                      We may also retain a record of your stated objection to the processing of your personal data, including in respect
+                      of an objection to receiving communications, for the sole purpose of ensuring that we can continue to respect your
+                      wishes to not contact you further, during the term of your objection.
+                  </p>
+                  <h3 id="LegalRights">10. Your legal rights</h3>
+                  <p>
+                      You have a number of rights in relation to your personal information under data protection law, including,
+                      the right to:
+                  </p>
+                  <ul>
+                      <li>
+                          <strong>Request access to your personal data</strong> (commonly known as a "data subject access request"). This enables you to
+                          receive a copy of the personal data that we hold about you and to check that we are lawfully processing it;
+                      </li>
+                      <li>
+                          <strong>Request the correction of the personal data that we hold about you</strong>. This enables you to have any incomplete
+                          or inaccurate data that we hold about you corrected, although we may need to verify the accuracy of the new
+                          personal data that you provide to us
+                      </li>
+                      <li>
+                          <strong>Request erasure of your personal data</strong>. This enables you to ask us to delete or remove personal data where
+                          there is no good reason for us continuing to process it. You also have the right to ask us to delete or
+                          remove your personal data where you have successfully exercised your right to object to processing (see below),
+                          where we may have processed your personal data unlawfully or where we are required to erase your personal data to
+                          comply with local law. Please note, however, that we may not always be able to comply with your request for erasure
+                          for specific legal reasons which will be notified to you, if applicable, when we respond to your request;
+                      </li>
+                      <li>
+                          <strong>Object to the processing of your personal data</strong>. Where we are relying on public interest or a legitimate interest
+                          (or those of a third party) you have the right to object to the processing of your personal data where there is something
+                          about your particular situation which makes you want to object to processing on this ground as you feel it impacts
+                          on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data
+                          for direct marketing purposes. In some cases, we may demonstrate that we have compelling public interest or
+                          legitimate interest grounds to process your personal data which override your rights and freedoms;
+                      </li>
+                      <li>
+                          <strong>Request the restriction of processing of your personal data</strong>. This enables you to ask us to suspend the processing
+                          of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use
+                          of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer
+                          require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your
+                          personal data but we need to verify whether we have overriding public interest or legitimate interest grounds to use it;
+                      </li>
+                      <li>
+                          <strong>Request the transfer of your personal data to you or to a third party</strong>. We will provide to you, or a third
+                          party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that
+                          this right only applies to automated information which you initially provided consent for us to use; and
+                      </li>
+                      <li>
+                          <strong>Withdraw your consent at any time where we are relying on consent to process your personal data</strong>. However,
+                          this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you
+                          withdraw your consent, we may not be able to provide certain products or services to you. We will advise you
+                          if this is the case at the time you withdraw your consent.  You can ask us to stop sending you marketing messages
+                          at any time by following the "unsubscribe" (or similar) links on any marketing message sent to you or by contacting
+                          us at any time.  Where you opt out of receiving these marketing messages, this will not apply to personal data provided
+                          to us as a result of a purchase, product/service experience or other transactions.
+                      </li>
+                  </ul>
+                  <p>
+                      If you wish to exercise any of the rights set out above, or require further information about any of those
+                      rights, please
+                      <a href="mailto:privacy@intoglobal.com" class="ApplyClass">contact us</a>. We will need to request specific information from you in order to be able to deal with your
+                      request. This is a security measure designed to ensure that your personal data is not disclosed to
+                      any person who has no right to receive it. We will confirm the specific information required from you when you
+                      contact us. We may also contact you to ask for further information in relation to any request you make
+                      in order to speed up our response.
+                  </p>
+                  <p>
+                      Time limit to respond
+                  </p>
+                  <h4>Time limit to respond</h4>
+                  <p>
+                      We aim to respond to all legitimate requests as soon as possible and within one calendar month of receipt.
+                      Occasionally it may take us longer than a month if your request is particularly complex or you have made
+                      a number of requests. In this case, we will notify you and keep you updated.
+                  </p>
+                  <h3 id="Disapproval">11. What happens if I choose not to provide my personal information?</h3>
+                  <p>
+                      Where we need to collect your personal data and you fail to provide that information when requested,
+                      we may not be able to provide the service you have asked us to. In this case, we may have to cancel
+                      the service you require from us, but we will notify you if this is the case at the time.
+                  </p>
+                  <h3 id="Contacts">12. How to contact us</h3>
+                  <p>If you have any questions or comments about this privacy notice, please contact us as indicated below:</p>
+                  <p>
+                      Email:
+                      <a href="mailto:privacy@intoglobal.com" class="ApplyClass">
+                          privacy@intoglobal.com
+                      </a>
+                  </p>
+                  <p>
+                      By post: F.A.O. The Data Protection Officer, INTO University Partnerships Limited, One, Gloucester Place, Brighton,
+                      East Sussex, BN1 4AA, England.
+                  </p>
+                  <p>Thank you for taking the time to read our privacy notice.</p>
+              </div>
+        </div>
+    </div>
+    </section>
+  </div>
+  <div class="DnnModule-InternalSiteLinks">
+    <div>
+      <div>
+        <div class="DNNModuleContent ModInternalSiteLinksC">
+          <div>
+            <div class="l-page-block block-bottom-spacer">
+              <div class="l-content-container">
+                <a href="/en/legal-and-privacy-policy/cookies-policy" class="l-internal-link group">
+                  <div>
+                    <span class="l-internal-link-title">Read our Cookies Policy</span>
+                    <span></span>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/en/about-into">About INTO</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/study-abroad">Study abroad</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/study-programs">Study programs</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/universities">Universities</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/en/apply">Apply</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                Students - if you&#x2019;re using an Education Counselor please contact them with any questions; all other students contact us using one of the below methods
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">UK student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">US student applications:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-7 col-lg-6">
+                    <span class="footer-contact-header">China student applications:</span>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:cnadmissions@intoglobal.com" class="email-link">cnadmissions@intoglobal.com</a>
+                    </div>
+                </div>
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/en/legal-and-privacy-policy">Privacy</a>
+                &nbsp;|&nbsp;
+                <a href="/en/terms">Terms</a>
+                &nbsp;|&nbsp;
+                <a href="/en/into-sitemap">Sitemap</a>
+                &nbsp;|&nbsp;
+                <a href="/en/legal-and-privacy-policy/cookies-policy">Cookies Policy</a>
+                &nbsp;|&nbsp;
+                <a href="/en/governance">Governance</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

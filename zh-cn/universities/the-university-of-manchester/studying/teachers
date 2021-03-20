@@ -1,0 +1,810 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/universities/the-university-of-manchester/studying/teachers" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/universities/the-university-of-manchester/studying/teachers" hreflang="en" />
+        <link rel="alternate" href="https://www.intostudy.com/ar/universities/the-university-of-manchester/studying/teachers" hreflang="ar" />
+        <link rel="alternate" href="https://www.intostudy.com/zh-cn/universities/the-university-of-manchester/studying/teachers" hreflang="zh-cn" />
+    <link rel="alternate" href="https://www.intostudy.com/en/universities/the-university-of-manchester/studying/teachers" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/zh-cn/universities/the-university-of-manchester/studying/teachers -->
+    <!-- Encoded URL is https://www.intostudy.com/zh-cn/universities/the-university-of-manchester/studying/teachers -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/zh-cn.min.css?v=mKhwKuBxdBfb3HqWtRhGe3AGOTadDxzxeI5R0VxNUTo" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/zh-cn/universities/into-manchester/studying/teachers" />
+
+
+    <!-- BrowserTestData: Teachers, zh-cn. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/universities/the-university-of-manchester/studying/teachers"><span class="l-language-block-text  ">English</span></a>
+                <a class="l-language-block" href="/zh-cn/universities/the-university-of-manchester/studying/teachers"><span class="l-language-block-text   is-current">中文</span></a>
+                <a class="l-language-block" href="/ar/universities/the-university-of-manchester/studying/teachers"><span class="l-language-block-text  ">العربية</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">中文<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/en/universities/the-university-of-manchester/studying/teachers">English</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/zh-cn/universities/the-university-of-manchester/studying/teachers">中文</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/ar/universities/the-university-of-manchester/studying/teachers">العربية</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="站内搜索...">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/zh-cn'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/zh-cn'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/success-with-into">
+                                                                                <span>成功学生案例</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/faq">
+                                                                                <span>常见问题</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/uk">
+                                                                                <span>留学英国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/us">
+                                                                                <span>留学美国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/parents-guide">
+                                                                                <span>家长指南</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/fees">
+                                                                                <span>费用细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/admissions/scholarships">
+                                                                                <span>奖学金细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/visas-and-pre-arrival-support-services">
+                                                                                <span>行前指南及签证服务</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/success-with-into">成功学生案例<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/faq">常见问题<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/uk">留学英国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/us">留学美国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/parents-guide">家长指南<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/fees">费用细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/admissions/scholarships">奖学金细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/visas-and-pre-arrival-support-services">行前指南及签证服务<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="站内搜索...">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/zh-cn" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities" class="breadcrumb-item">选择大学</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities/the-university-of-manchester" class="breadcrumb-item">INTO曼彻斯特中心与曼彻斯特大学合作项目</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities/the-university-of-manchester/studying" class="breadcrumb-item">学习体验</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities/the-university-of-manchester/studying/teachers" class="breadcrumb-item">教师团队</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            <div class="canvas" style="min-height: calc(100vh - 340px);">
+    <div class="headerPane">
+        <div>
+    <style>
+    .uni-colour-primary {
+      background-color: #660099;
+    }
+
+    .uni-text-colour {
+      color: #ffffff;
+    }
+
+    .uni-colour-secondary {
+      background-color: #009999;
+    }
+
+    @media (min-width: 835px) {
+      .l-explore-nav .nav-item .accordian {
+        background-color: #009999;
+      }
+      .l-explore-nav .nav-item .l-subnav .nav-item {
+        background-color: #009999;
+      }
+    }
+    </style>
+
+    <header id="uni-header" class="uni-colour-primary header">
+        <div class="l-content-container header-container">
+            <a href="/zh-cn/universities/the-university-of-manchester">
+                <img id="uni-header-logo" src=https://ctfimages.intoglobal.com/xw2h6mjophtz/6v0qRC208wOQEMqcwiWUs6/d22e60d21ba4c47d9524e374dd460409/uom-logo-white.svg alt="INTO曼彻斯特中心与曼彻斯特大学合作项目">
+            </a>
+            <div id="uni-menu-bar" class="l-menu-bar">
+                <a id="explore-button" class="l-header-bar-button l-header-bar-button-right l-header-bar-button-margin" href="">
+                    <span class="css-icon icon-arrow-up-down">Explore<i></i></span>
+                </a>
+            </div>
+            <nav id="explore-nav" class="l-explore-nav uni-colour-primary uni-colour-primary-border no-scrollbar">
+                <ul>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/the-university-of-manchester/about-the-university" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">大学简介</span>
+                            </a>
+                            <a href="/zh-cn/universities/the-university-of-manchester/about-the-university" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/zh-cn/universities/the-university-of-manchester/about-the-university/more-about-the-into-centre" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">INTO中心</span>
+                                                        <span class="l-nav-button mobile-only">INTO中心</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/the-university-of-manchester/courses" class="nav-item-content ">
+                                <span class="l-nav-button">课程选择</span>
+                            </a>
+                            <a href="/zh-cn/universities/the-university-of-manchester/courses" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/the-university-of-manchester/studying" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">学习体验</span>
+                            </a>
+                            <a href="/zh-cn/universities/the-university-of-manchester/studying" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/zh-cn/universities/the-university-of-manchester/studying/student-support" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">学生服务</span>
+                                                        <span class="l-nav-button mobile-only">学生服务</span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/zh-cn/universities/the-university-of-manchester/studying/teachers" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">教师团队</span>
+                                                        <span class="l-nav-button mobile-only">教师团队</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/the-university-of-manchester/living" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">学生生活</span>
+                            </a>
+                            <a href="/zh-cn/universities/the-university-of-manchester/living" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/zh-cn/universities/the-university-of-manchester/living-in-manchester/accommodation" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">学生住宿</span>
+                                                        <span class="l-nav-button mobile-only">学生住宿</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="https://apply.intostudy.com/to/university/the-university-of-manchester" class="nav-item-content ">
+                                <span class="l-nav-button">申请留学</span>
+                            </a>
+                            <a href="https://apply.intostudy.com/to/university/the-university-of-manchester" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</div>
+
+        <div class="hero_banner nolazyload">
+    <img class="header-image" alt="INTO Manchester in partnership with The University of Manchester students in classroom" src="/images/ImagesINTO/TUOM/Teachers/INTO-University-Manchester-students-classroom.jpg?w=1255&q=80">
+        <div class="caption_holder">
+            <h1>INTO曼彻斯特中心&#xFF08;与曼彻斯特大学合作&#xFF09;的教师团队</h1>
+        </div>
+</div>
+    </div>
+    <div class="contentPane">
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block bottom-line">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div>
+                            <h2>我们致力于为你提供帮助</h2>
+                            <p>你的INTO老师在你学习之旅的每一步都会为你提供帮助。他们帮助国际学生顺利升读做好准备，所有老师都有着丰富的经验。</p>
+                            <p>小班规模——平均师生比为9：1，意味着你将得到高度的一对一接触。</p>
+                            <p>所有课程均以大学授课模式设计，形式包括讲座、实践课、研讨课、辅导课、自习指导以及在线学习等，让你从一开始就体验大学学习方式。</p>
+                            <p>进度报告能确保你持续达成学术目标。大学式教学能给你最好的起点，在英国大学教育中锁定成功。</p>
+                            <p>我们的所有英语语言课程均由<a title="British Council" href="https://www.britishcouncil.org/" target="_blank">英国文化协会</a>认证，所有学术课程均由<a target="_blank" href="https://www.ncuk.ac.uk/" title="NCUK">NCUK（英国北方大学联合会）</a>认证。这就意味着在你开发英语语言能力和学术能力的过程中，可以获得最高质量的教学服务。</p>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <div class="l-student-stories l-page-block block-bottom-spacer">
+
+                <div class="DNNModuleContent ModDNNHTMLC">
+                    <div>
+                        <section>
+                            <div class="student-portrait">
+                                <img alt="INTO Manchester Savannah Middleton from South Africa" title="INTO Manchester Savannah Middleton from South Africa" src="/images/ImagesINTO/tuom/profiles/into-tuom-student-profile-savannah-middleton-sa.jpg?w=850">
+                                <div>
+                                    <div>
+                                        <div>
+                                            <h2>
+                                                萨瓦娜（Savannah）<br>
+                                                来自南非
+                                            </h2>
+                                            <p>“老师们看到你需要帮助的时候，总是会给你额外的支持。”</p>
+                                            <a class="read-more-button" href="javascript:void(0);">
+                                                <span class="more">阅读全文</span>
+                                                <span class="less">收起全文</span>
+                                                <span class="css-icon icon-arrow-up-down"><em></em></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="student-article">
+                                <section>
+                                    <div>
+                                        <p><strong>来自南非的萨瓦娜，正在INTO曼彻斯特学习科学与工程学国际预科课程。</strong></p>
+                                        <p><strong>你为什么选择INTO曼彻斯特？</strong></p>
+                                        <p>我非常想去曼彻斯特大学读书，INTO根据我的资质为我提供了非常好的预科升学路径。</p>
+                                        <p><strong>你觉得INTO的学习方式怎么样？</strong></p>
+                                        <p>老师们会给你足够的时间完成功课，即便课程进度较快，但你努力学习的时候，其实这些内容并没有想象中的那么有挑战。老师们看到你需要帮助的时候，总是会给你额外的支持。</p>
+                                        <p><strong>你觉得在这里能达到学习和社交生活之间的良好平衡吗？</strong></p>
+                                        <p>真的可以，曼彻斯特让你有机会可以享受精彩的社交生活，同时INTO的学生还可以非常专注于学习。所以当你周围都是一群志同道合的人，你不需要刻意经营就能找到很好的平衡。</p>
+                                        <p><strong>与全世界各地的学生一起上课是种什么感觉？</strong></p>
+                                        <p>这也是我选择INTO的原因之一，我需要待在一个文化多元的开放的环境中。</p>
+                                        <p><strong>现在你对曼彻斯特的了解如何？</strong></p>
+                                        <p>我发现曼彻斯特处处都有不为人知的美，每栋建筑的背后都有很多历史，你还可以找到隐秘的地方，站在那里从不同的角度看看你每天经历的风景。Parkway Gate就是一个很棒的地方，距离INTO很近。我可以早上9点起床，9点一刻准时到达教室，上星期一早晨的课尤其方便。</p>
+                                        <p><strong>你为什么选择学习生物化学？</strong></p>
+                                        <p>我选择生物化学是因为我对于能够帮助我理解生命的科学有着浓厚的兴趣。曼彻斯特大学是一所声誉很好的大学，这座城市也是我所喜爱的城市。</p>
+                                    </div>
+                                </section>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+
+            </div>
+            <script>
+                $('.read-more-button').click(function (e) {
+                    e.preventDefault();
+
+                    $(this).toggleClass("is-active");
+                    $(this).closest('.l-student-stories').find('.student-article').slideToggle();
+                });
+            </script>
+        </div>
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block block-bottom-spacer">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div>
+                            <h2>升读以教学而闻名的大学</h2>
+                            <p>当你升读曼彻斯特大学后，你的老师都是各学科领域内享有国际声誉的专家。他们会将最新的思想和发现直接融入到教学中。</p>
+                            <p>强大的业内联系能够让你的所学切实满足雇主的需求。这些富于实际的教学都会在世界级的学习设施中完成。其中包括：</p>
+                            <ul>
+                                <li>4000万英镑分子细胞生物学综合中心</li>
+                                <li>英国最大的高压实验室</li>
+                                <li>著名的洛弗尔望远镜和焦德雷耳班克天文台</li>
+                                <li>模拟法庭，专为学生在真实法庭场景中发展讨论和辩论技能</li>
+                                <li>独一无二的半工业规模实验室，包括工业级化学生产设备</li>
+                                <li>国家石墨烯研究所，石墨烯创新材料世界领先研究所</li>
+                                <li>药房计算机辅助学习（PCAL）会社，提供所有PCAL及药房软件包</li>
+                                <li>核磁共振扫描仪、观察室、睡眠实验室、先进脑电图及TMS设备</li>
+                            </ul>
+                            <p></p>
+                            <p>这里的学习采用了丰富的教学方法，从传统的讲堂授课到问答制研讨教学等。这一创新性的学习方法能够鼓励你追求自己的兴趣所在，还能帮助你建立批判性推理和评估技能，以及其他未来雇主所青睐的能力。</p>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule-ImageCarousel">
+            <div>
+                <div>
+
+                    <div class="DNNModuleContent ModImageCarouselC">
+
+                        <div>
+                            <section class="l-carousel-block">
+                                <div class="l-content-container">
+                                    <div data-transition="fade" class="flexslider">
+                                        <ul class="slides" data-slides="5">
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/TUOM/Teachers/INTO-University-Manchester-students-teacher.jpg?w=1024" alt="平均师生比例1:9"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">平均师生比例1:9<span></span></span></div>
+                                            </li>
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/TUOM/Teachers/INTO-University-Manchester-teacher-equipment.jpg?w=1024" alt="现代化教室配备互动学习设备"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">现代化教室配备互动学习设备<span></span></span></div>
+                                            </li>
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/TUOM/Teachers/INTO-University-Manchester-teacher-science.jpg?w=1024" alt="与你老师的一对一时间最大化"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">与你老师的一对一时间最大化<span></span></span></div>
+                                            </li>
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/TUOM/Teachers/INTO-University-Manchester-teacher-presentation.jpg?w=1024" alt="大学式教学风格让你做好充分的准备"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">大学式教学风格让你做好充分的准备<span></span></span></div>
+                                            </li>
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/TUOM/Teachers/INTO-University-Manchester-teacher-engineering.jpg?w=1024" alt="INTO学生可以享用曼彻斯特大学一流的设施"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">INTO学生可以享用曼彻斯特大学一流的设施<span></span></span></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        
+
+
+<section class="l-video-story l-content-container">
+    <div class="l-video-block-container">
+            <iframe id="university-video" max-width="100%" height="100%" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/5NP8ZyaToIs"></iframe>
+    </div>
+</section>
+        <div class="DnnModule-InternalSiteLinks">
+            <div>
+                <div>
+
+                    <div class="DNNModuleContent ModInternalSiteLinksC">
+                        <div>
+                            <div class="l-page-block block-bottom-spacer">
+                                <div class="l-content-container">
+                                    <a href="/zh-cn/universities/the-university-of-manchester/studying" class="l-internal-link group">
+                                        <div><span class="l-internal-link-title">INTO曼彻斯特中心（与曼彻斯特大学合作）学生发展前景</span><span></span></div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                            <a href="http://www.weibo.com/intohigher/" target="_blank" class="footer-social-link social-link-weibo"><img src="/images/footer/icon_weibo.svg" /></a>
+                            <a href="http://i.youku.com/u/UMjYwODYzNTY4" target="_blank" class="footer-social-link social-link-youku"><img src="/images/footer/icon_reverse_youku.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/about-into">关于我们</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-abroad">选择国家</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-programs">查询课程</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/universities">选择大学</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/apply">申请留学</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                学生&#x2014;&#x2014;如果你已签约教育顾问&#xFF0C;请直接联系他们以解答疑问&#xFF1B;未使用代理的学生请通过以下任何方式与我们取得联系
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">英国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">美国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy">法律和隐私</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/terms">使用条款</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/into-sitemap">网站地图</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy/cookies-policy">浏览器缓存政策</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/governance">治理</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

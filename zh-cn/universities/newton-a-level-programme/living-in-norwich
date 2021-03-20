@@ -1,0 +1,803 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+    
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title> | INTO</title>
+        <meta name="description" />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/zh-cn/universities/newton-a-level-programme/living-in-norwich" />
+        <meta property="og:title" content=" | INTO" />
+        <meta property="og:description" />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/zh-cn.min.css?v=mKhwKuBxdBfb3HqWtRhGe3AGOTadDxzxeI5R0VxNUTo" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/zh-cn/universities/newton-a-level-programme/living-in-norwich" />
+
+
+    <!-- BrowserTestData: LivingIn, zh-cn. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="ltr">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/universities/newton-a-level-programme/living-in-norwich"><span class="l-language-block-text  ">English</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">中文<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/en/universities/newton-a-level-programme/living-in-norwich">English</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="站内搜索...">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/zh-cn'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/zh-cn'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/success-with-into">
+                                                                                <span>成功学生案例</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/faq">
+                                                                                <span>常见问题</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/uk">
+                                                                                <span>留学英国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/country-guides/us">
+                                                                                <span>留学美国</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/study-abroad/parents-guide">
+                                                                                <span>家长指南</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <div class="submenu submenu__level-1">
+                                                        <div class="row submenu-container">
+                                                            <div class="menu-wrap-inner">
+                                                                <ul class="columns sub-menu-nav">
+                                                                        <li>
+                                                                            <a href="/zh-cn/fees">
+                                                                                <span>费用细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/admissions/scholarships">
+                                                                                <span>奖学金细则</span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/zh-cn/help/visas-and-pre-arrival-support-services">
+                                                                                <span>行前指南及签证服务</span>
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/zh-cn/about-into">关于我们</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/success-with-into">成功学生案例<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/faq">常见问题<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-abroad">选择国家</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/uk">留学英国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/country-guides/us">留学美国<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/study-abroad/parents-guide">家长指南<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/study-programs">查询课程</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/universities">选择大学</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/admissions">招生流程</a>
+                                                    <ul class="children level-0 col-xs-12">
+                                                            <li>
+                                                                <a href="/zh-cn/fees">费用细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/admissions/scholarships">奖学金细则<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/zh-cn/help/visas-and-pre-arrival-support-services">行前指南及签证服务<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/contact">联系我们</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/zh-cn/apply">申请留学</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="站内搜索...">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/zh-cn" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities" class="breadcrumb-item">选择大学</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities/newton-a-level-programme" class="breadcrumb-item">INTO牛顿A&#xFF0D;level课程</a>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <a href="/zh-cn/universities/newton-a-level-programme/living-in-norwich" class="breadcrumb-item">生活在诺里奇</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            <div class="canvas" style="min-height: calc(100vh - 340px);">
+    <div class="headerPane">
+        <div>
+    <style>
+    .uni-colour-primary {
+      background-color: #6c2480;
+    }
+
+    .uni-text-colour {
+      color: #ffffff;
+    }
+
+    .uni-colour-secondary {
+      background-color: #000000;
+    }
+
+    @media (min-width: 835px) {
+      .l-explore-nav .nav-item .accordian {
+        background-color: #000000;
+      }
+      .l-explore-nav .nav-item .l-subnav .nav-item {
+        background-color: #000000;
+      }
+    }
+    </style>
+
+    <header id="uni-header" class="uni-colour-primary header">
+        <div class="l-content-container header-container">
+            <a href="/zh-cn/universities/newton-a-level-programme">
+                <img id="uni-header-logo" src=https://ctfimages.intoglobal.com/xw2h6mjophtz/3JVBfBJmLKq22I2KGyqIYo/c4da867d42001491ca8b436f4a0fad5d/into-newton-open-logo-white.svg alt="INTO牛顿A&#xFF0D;level课程">
+            </a>
+            <div id="uni-menu-bar" class="l-menu-bar">
+                <a id="explore-button" class="l-header-bar-button l-header-bar-button-right l-header-bar-button-margin" href="">
+                    <span class="css-icon icon-arrow-up-down">Explore<i></i></span>
+                </a>
+            </div>
+            <nav id="explore-nav" class="l-explore-nav uni-colour-primary uni-colour-primary-border no-scrollbar">
+                <ul>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/newton-a-level-programme/about" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">大学简介</span>
+                            </a>
+                            <a href="/zh-cn/universities/newton-a-level-programme/about" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/zh-cn/universities/newton-a-level-programme/about/more-about-the-into-centre" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">INTO中心</span>
+                                                        <span class="l-nav-button mobile-only">INTO中心</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/newton-a-level-programme/courses" class="nav-item-content ">
+                                <span class="l-nav-button">课程选择</span>
+                            </a>
+                            <a href="/zh-cn/universities/newton-a-level-programme/courses" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/newton-a-level-programme/studying" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">学习体验</span>
+                            </a>
+                            <a href="/zh-cn/universities/newton-a-level-programme/studying" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/zh-cn/universities/newton-a-level-programme/studying/student-support" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">学生服务</span>
+                                                        <span class="l-nav-button mobile-only">学生服务</span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/zh-cn/universities/newton-a-level-programme/studying/teachers" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">教师团队</span>
+                                                        <span class="l-nav-button mobile-only">教师团队</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/zh-cn/universities/newton-a-level-programme/living" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">学生生活</span>
+                            </a>
+                            <a href="/zh-cn/universities/newton-a-level-programme/living" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/zh-cn/universities/newton-a-level-programme/living-in-norwich-newton/accommodation" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">学生住宿</span>
+                                                        <span class="l-nav-button mobile-only">学生住宿</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="https://apply.intostudy.com/to/university/newton-a-level-programme" class="nav-item-content ">
+                                <span class="l-nav-button">申请留学</span>
+                            </a>
+                            <a href="https://apply.intostudy.com/to/university/newton-a-level-programme" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</div>
+
+        <div class="hero_banner nolazyload">
+    <img class="header-image" alt="INTO UEA students Centre building" src="/images/ImagesINTO/UEA/Living/INTO-UEA-living-header.jpg?w=1255&q=80">
+        <div class="caption_holder">
+            <h1>在东英吉利大学校园中生活</h1>
+        </div>
+</div>
+    </div>
+    <div class="contentPane">
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block bottom-line">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div>
+                            <h2>A-level学生的完美去处</h2>
+                            <p>作为INTO牛顿A-level课程学生，你不仅可以享受到INTO的专有设施，还可以充分利用东英吉利大学校园内的一切资源。</p>
+                            <p>诺里奇市中心有着富有活力的氛围，热情欢迎年轻学生的到来。这里为你带来完美的平衡，让你享受多样精彩，同时还能在一个安全而友好的环境中生活。</p>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block block-bottom-spacer">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div>
+                            <h2>风景如画的城市 为你带来异彩纷呈的生活</h2>
+                            <p>真的每个人都能在诺维奇找到属于他的心头之好，从探索中世纪城堡、欣赏无价艺术品，到搜寻你喜爱的新餐厅或是淘淘完美的复古礼物，这里应有尽有。</p>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block block-bottom-spacer">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div><a class="l-cta cta" title="More about the city" href="/zh-cn/universities/newton-a-level-programme/living/living-in-norwich">更多诺里奇城市信息</a></div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule-ImageCarousel">
+            <div>
+                <div>
+
+                    <div class="DNNModuleContent ModImageCarouselC">
+
+                        <div>
+                            <section class="l-carousel-block">
+                                <div class="l-content-container">
+                                    <div data-transition="fade" class="flexslider">
+                                        <ul class="slides" data-slides="5">
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Living/INTO-Newton-students-table.jpg?w=1024" alt="东英吉利大学在学生满意度方面位列全英第二"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">东英吉利大学在学生满意度方面位列全英第二<span></span></span></div>
+                                            </li>
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Living/INTO-UEA-student-in-accommodation.jpg?w=1024" alt="高质量的住宿让你的学习与生活更加便利轻松"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">高质量的住宿让你的学习与生活更加便利轻松<span></span></span></div>
+                                            </li>
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Living/INTO-Newton-UEA-climbing-wall.jpg?w=1024" alt="全英规模最大的室内校园体育中心"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">全英规模最大的室内校园体育中心<span></span></span></div>
+                                            </li>
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Living/INTO-UEA-Sainsbury-Centre-on-campus.jpg?w=1024" alt="SCVA是英国最负盛名的大学艺廊之一"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">SCVA是英国最负盛名的大学艺廊之一<span></span></span></div>
+                                            </li>
+                                            <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                                <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Living/INTO-Newton-accommodation-bedroom.jpg?w=1024" alt="牛顿A-level课程学生可融入生机勃勃的学生社区生活中"></div>
+                                                <div class="l-image-block-text-holder"><span class="l-image-block-text">牛顿A-level课程学生可融入生机勃勃的学生社区生活中<span></span></span></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block block-bottom-spacer">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div>
+                            <h2>你的一切所需——近在咫尺之间</h2>
+                            <p>东英吉利大学校园中应有尽有，从银行、邮局、书店、医疗中心、IT设施到其它一系列世界级设施……都近在咫尺之间。</p>
+                            <p>校园内的多信仰中心是对大众开放的集会场所。你在这里可以轻松地进入舒适的公共休息室，供团体祷告、礼拜或冥想的大礼拜室，以及供你独自静思的安静房间。</p>
+                            <p>休闲时光怎么过？探索200多公顷的美丽风景校区：</p>
+                            <ul>
+                                <li>价值三千万英镑的<a title="Sportspark" href="http://www.sportspark.co.uk/">体育馆</a>：英国规模最大的室内大学体育中心</li>
+                                <li><a title="Sainsbury Centre for Visual Arts" href="http://scva.ac.uk/">塞恩斯伯里视觉艺术中心</a>：英国最负盛名的大学艺廊之一</li>
+                                <li><a title="LCR" href="https://uealcr.ticketabc.com/venues/uealcr/">LCR</a>：位于大学校园内的音乐厅，每年举办60多场现场演出</li>
+                                <li><a title="Student Union" href="http://www.ueastudent.com/">学生会</a>：60多个体育俱乐部及160多个学生社团</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div>
+                            <h2>你在INTO的新家</h2>
+                            <p>我们懂得高质量的住宿环境会让国际学生在海外的生活和学习更加轻松自如。</p>
+                            <p>INTO有着精心设计的超棒学生宿舍，坐落于东英吉利大学校园中心地带，直接连接你的学习中心，只需步行几分钟即可从宿舍走到课堂。</p>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block block-bottom-spacer">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div><a class="l-cta cta" title="More about accommodation" href="/zh-cn/universities/newton-a-level-programme/living/accommodation">更多学生宿舍信息</a></div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+        
+
+
+<section class="l-video-story l-content-container">
+    <div class="l-video-block-container">
+            <iframe id="university-video" max-width="100%" height="100%" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/rMjxpO1pZcw"></iframe>
+    </div>
+</section>
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block block-bottom-spacer">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div>
+                            <h2>丰富美食 万千风味</h2>
+                            <p>INTO餐厅每天供应三顿健康热食，全天供应茶、咖啡和零食，餐厅全年开放，供应一系列素食、清真食品，以及英式、欧式和亚洲美食。</p>
+                            <p>大学校园内还有12家特色餐厅和咖啡厅，供应特调咖啡、热食午餐、家常汤点、新鲜三明治等各色美食。</p>
+                            <p>在诺里奇你可以找到各种各样的餐饮体验，这里有印度菜、中国菜、墨西哥菜、西班牙菜、意大利菜、素食以及英国菜（当然啦）。如果预算紧张，这里还有众多的当地超市，让你可以在INTO宿舍厨房烹饪营养又物美价廉的食物。</p>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+        <div class="DnnModule-DNN_HTML DnnVersionableControl">
+
+            <section class="l-page-block l-text-block block-bottom-spacer">
+                <div class="l-content-container">
+
+                    <div class="DNNModuleContent ModDNNHTMLC">
+                        <div><a class="l-cta cta" title="More about food" href="/zh-cn/universities/newton-a-level-programme/courses">更多A-level课程信息</a></div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                            <a href="http://www.weibo.com/intohigher/" target="_blank" class="footer-social-link social-link-weibo"><img src="/images/footer/icon_weibo.svg" /></a>
+                            <a href="http://i.youku.com/u/UMjYwODYzNTY4" target="_blank" class="footer-social-link social-link-youku"><img src="/images/footer/icon_reverse_youku.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/about-into">关于我们</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-abroad">选择国家</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/study-programs">查询课程</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/universities">选择大学</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/zh-cn/apply">申请留学</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                学生&#x2014;&#x2014;如果你已签约教育顾问&#xFF0C;请直接联系他们以解答疑问&#xFF1B;未使用代理的学生请通过以下任何方式与我们取得联系
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">英国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">美国大学申请咨询:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy">法律和隐私</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/terms">使用条款</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/into-sitemap">网站地图</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/legal-and-privacy-policy/cookies-policy">浏览器缓存政策</a>
+                &nbsp;|&nbsp;
+                <a href="/zh-cn/governance">治理</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>

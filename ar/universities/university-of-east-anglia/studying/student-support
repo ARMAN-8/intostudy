@@ -1,0 +1,710 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <script type="text/javascript" src="/js/heap.js"></script>
+     <!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
+<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+            <link rel="alternate" href="https://www.intostudy.com/en-gb/universities/university-of-east-anglia/studying/student-support" hreflang="en-gb" />
+        <link rel="alternate" href="https://www.intostudy.com/en/universities/university-of-east-anglia/studying/student-support" hreflang="en" />
+        <link rel="alternate" href="https://www.intostudy.com/ar/universities/university-of-east-anglia/studying/student-support" hreflang="ar" />
+        <link rel="alternate" href="https://www.intostudy.com/zh-cn/universities/university-of-east-anglia/studying/student-support" hreflang="zh-cn" />
+    <link rel="alternate" href="https://www.intostudy.com/en/universities/university-of-east-anglia/studying/student-support" hreflang="x-default" />
+    <!-- host name is www.intostudy.com -->
+    <!-- Display URL is https://www.intostudy.com/ar/universities/university-of-east-anglia/studying/student-support -->
+    <!-- Encoded URL is https://www.intostudy.com/ar/universities/university-of-east-anglia/studying/student-support -->
+
+    <script>
+    !function () {
+        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
+            analytics.page();
+        }
+    }();
+</script>
+    
+    
+        <title>&quot;جامعة إيست أنجليا INTO الدعم لطلاب | INTO</title>
+        <meta name="description" content="يقدم فريق خدمات الطلاب الخاص بنا مجموعة من وسائل الدعم لمساعدة الطلاب الدوليين" />
+        <meta name="keywords" />
+        <meta name="image" />
+        <meta property="og:site_name" content="INTO Study" />
+        <meta property="og:url" content="https://www.intostudy.com/ar/universities/university-of-east-anglia/studying/student-support" />
+        <meta property="og:title" content="&quot;جامعة إيست أنجليا INTO الدعم لطلاب | INTO" />
+        <meta property="og:description" content="يقدم فريق خدمات الطلاب الخاص بنا مجموعة من وسائل الدعم لمساعدة الطلاب الدوليين" />
+        <meta property="og:language" />
+
+    
+    
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+            <link rel="stylesheet" href="https://cdn.rtlcss.com/bootstrap/v4.2.1/css/bootstrap.min.css" integrity="sha384-vus3nQHTD+5mpDiZ4rkEPlnkcyTP+49BhJ4wJeJunw06ZAp+wzzeBPUXr42fi8If" crossorigin="anonymous">
+        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
+        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
+        <link rel="stylesheet" href="/css/ar.min.css?v=z9qajYCuU0l7KUUgCebsXP0rnYTHUnAxmCdti6hNQQE" />
+
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
+        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.intostudy.com/ar/universities/university-of-east-anglia/studying/student-support" />
+
+
+    <!-- BrowserTestData: StudentSupport, ar. -->
+</head>
+<body id="Body">
+    <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    
+<script src="/js/into/ie-notification.js"></script>
+
+<div class="modal fade" id="ieNotificationModal" tabindex="-1" role="dialog" aria-labelledby="courseModuleModalTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div id="message" class="col-md-12">&nbsp;</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div dir="rtl">
+        <div id="main-site-wrapper" class="main-site">
+            <div id="menu-mask"></div>
+            <div class="accordion-overlay"></div>
+            <div class="tooltip-text-container"></div>
+            
+
+
+<script type="text/javascript">
+    (function (w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n; w[n] = w[n] || function () {
+            (w[n].q = w[n].q || []).push(arguments);
+        }; s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0]; s.async = 1; s.src = u; e.parentNode.insertBefore(s, e);
+    })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+    _st('install', '94dv_1uTBdFf8AqYfH9C', '2.0.0');
+</script>
+
+<header id="header" class="header v2">
+    
+
+    <section id="language-bar" class="l-language-bar no-scrollbar">
+        <div class="l-language-holder" id="mobileLangBar" style="width:360px;">
+                <a class="l-language-block" href="/en/universities/university-of-east-anglia/studying/student-support"><span class="l-language-block-text  ">English</span></a>
+                <a class="l-language-block" href="/zh-cn/universities/university-of-east-anglia/studying/student-support"><span class="l-language-block-text  ">中文</span></a>
+                <a class="l-language-block" href="/ar/universities/university-of-east-anglia/studying/student-support"><span class="l-language-block-text   is-current">العربية</span></a>
+        </div>
+    </section>
+
+    <div class="top-bar-container">
+        <div id="top-bar" class="l-top-bar">
+            <div class="l-content-container header-container">
+                <!-- Language Switch -->
+                <div class="into-cols-4 into-cols-m-6">
+                    <a class="l-header-bar-button l-header-bar-button-left mobile-only" href="">
+                        <span id="language-button" class="css-icon icon-arrow-up-down">العربية<i></i></span>
+                    </a>
+                    
+
+    <span id="language-switch" class="desktop-only l-header-bar-button l-header-bar-button-left">
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/en/universities/university-of-east-anglia/studying/student-support">English</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button " href="/zh-cn/universities/university-of-east-anglia/studying/student-support">中文</a>
+            <a class="l-header-bar-button l-header-bar-button-left multi-language-button  active" href="/ar/universities/university-of-east-anglia/studying/student-support">العربية</a>
+    </span>
+
+                </div>
+                <div class="into-cols-4 desktop-only top-search-bar">
+                    <div id="header-search-top">
+                        <span>
+                            <span class="searchInputContainer">
+                                <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                                       placeholder="...بحث">
+                                <a class="dnnSearchBoxClearText"></a>
+                            </span>
+                            <a class="dnnSearch" onclick="Into.Search.searchFromOtherPage()" href="javascript:void(0)">Search</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu-bar" class="l-menu-bar">
+            <div class="l-content-container header-container">
+                <a id="dnn_ctl00_hlHomePage" class="home-link" href='/ar'>
+                    <img id="main-logo" alt="INTO University Partnerships" src="/images/into-logo.png">
+                </a>
+                <a id="menu-button" class="l-header-bar-button l-header-bar-button-left" href="">
+                    <span class="sprite-icon icon-burger">
+                        Menu
+                    </span>
+                </a>
+                <a id="search-button" class="l-header-bar-button l-header-bar-button-right" href="">
+                    <span class="sprite-icon icon-search"></span>
+                </a>
+                <nav id="sidebar" class="l-sidebar-nav no-scrollbar">
+                    <div class="l-sidebar-nav-header sidebar-nav-header">
+                        <a id="dnn_ctl00_hlMobileMenu" href='/ar'>
+                            <img id="sidebar-logo" src="/images/into-logo.png">
+                        </a>
+                        <a id="sidebar-close" class="l-sidebar-close">
+                            <span class="css-icon icon-close">
+                                <i></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="into-desktop-menu">
+                        <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/ar/study-abroad">الدراسة في الخارج</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/universities">الجامعات</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/about-into">عن مراكز INTO</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/help">مساعدة</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/apply">تقدم بطلب</a>
+                                            </li>
+                        </ol>
+                    </div>
+                    <div class="into-mobile-menu">
+                        <div class="menu-title first">
+                            <a></a>
+                        </div>
+                        <nav class="mobile-nav">
+                            <ul>
+                                <ol class="cantarus-megamenu loaded">
+                                            <li class="has-submenu first" aria-haspopup="true">
+                                                <a href="/ar/study-abroad">الدراسة في الخارج</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/universities">الجامعات</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/about-into">عن مراكز INTO</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/help">مساعدة</a>
+                                            </li>
+                                            <li class="has-submenu " aria-haspopup="true">
+                                                <a href="/ar/apply">تقدم بطلب</a>
+                                            </li>
+                                </ol>
+                            </ul>
+                        </nav>
+                        <div class="menu-title last">
+                            <a class="action-menu-pop" onclick=""><i class="fa fa-angle-left" aria-hidden="true"></i>Back</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div id="header-search" class="l-search-input-holder">
+        <div class="l-content-container header-container">
+            <span id="topSearch-holder" class="l-search-input search-input sprite-icon icon-search-bar">
+                <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+                    <input type="text" maxlength="255" size="20" class="NormalTextBox st-default-search-input"
+                           autocomplete="off" placeholder="...بحث">
+                    <a class="dnnSearchBoxClearText"></a>
+                </span>
+                <a class="dnnSearch" href="javascript:__doPostBack('dnn$ctl00$ctl04$cmdSearch','')">Search</a>
+            </span>
+        </div>
+    </div>
+    
+    <div id="header-breadcrumb">
+        <div class="l-content-container header-container">
+            <div class="mobile-only mobile-back"><span><i class="fa fa-chevron-left" aria-hidden="true"></i>Back</span></div>
+            <div class="desktop-only">
+                <span>
+                            <a href="/ar" class="breadcrumb-home fa fa-home">&nbsp;</a>
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                            <a href="/ar/universities" class="breadcrumb-item">الجامعات</a>
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                            <a href="/ar/universities/university-of-east-anglia" class="breadcrumb-item">جامعة إيست أنجليا</a>
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                            <a href="/ar/universities/university-of-east-anglia/studying" class="breadcrumb-item">الدراسة</a>
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                            <a href="/ar/universities/university-of-east-anglia/studying/student-support" class="breadcrumb-item">الدعم الطلابي</a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+            <div class="canvas" style="min-height: calc(100vh - 340px);">
+    <div class="headerPane">
+        <div>
+    <style>
+    .uni-colour-primary {
+      background-color: #000000;
+    }
+
+    .uni-text-colour {
+      color: #ffffff;
+    }
+
+    .uni-colour-secondary {
+      background-color: #faa61a;
+    }
+
+    @media (min-width: 835px) {
+      .l-explore-nav .nav-item .accordian {
+        background-color: #faa61a;
+      }
+      .l-explore-nav .nav-item .l-subnav .nav-item {
+        background-color: #faa61a;
+      }
+    }
+    </style>
+
+    <header id="uni-header" class="uni-colour-primary header">
+        <div class="l-content-container header-container">
+            <a href="/ar/universities/university-of-east-anglia">
+                <img id="uni-header-logo" src=https://ctfimages.intoglobal.com/xw2h6mjophtz/56jTnnwbigmMEm42im0C4u/41d2f2806b5cb15406c208d9c9267366/UEA_Horizontal_Orange_RGB_Reversed.svg alt="جامعة إيست أنجليا">
+            </a>
+            <div id="uni-menu-bar" class="l-menu-bar">
+                <a id="explore-button" class="l-header-bar-button l-header-bar-button-right l-header-bar-button-margin" href="">
+                    <span class="css-icon icon-arrow-up-down">Explore<i></i></span>
+                </a>
+            </div>
+            <nav id="explore-nav" class="l-explore-nav uni-colour-primary uni-colour-primary-border no-scrollbar">
+                <ul>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/ar/universities/university-of-east-anglia/about-the-university" class="nav-item-content accordian-control-nav">
+                                <span class="l-nav-button">نبذة عن الجامعة</span>
+                            </a>
+                            <a href="/ar/universities/university-of-east-anglia/about-the-university" class="accordian-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-plus-minus grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                                <div class="l-accordian accordian">
+                                    <div class="l-content-container dropdown-container">
+                                        <ul class="l-subnav subnav">
+                                                <li class="nav-item">
+                                                    <a href="/ar/universities/university-of-east-anglia/about-the-university/more-about-the-into-centre" class="nav-item-content">
+                                                        <span class="l-nav-button uni-text-colour desktop-only">المزيد عن مركز INTO</span>
+                                                        <span class="l-nav-button mobile-only">المزيد عن مركز INTO</span>
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/ar/universities/university-of-east-anglia/studying" class="nav-item-content ">
+                                <span class="l-nav-button">الدراسة</span>
+                            </a>
+                            <a href="/ar/universities/university-of-east-anglia/studying" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="nav-item" aria-haspopup="true">
+                            <a href="/ar/universities/university-of-east-anglia/living-in-norwich/accommodation" class="nav-item-content ">
+                                <span class="l-nav-button">الإقامة</span>
+                            </a>
+                            <a href="/ar/universities/university-of-east-anglia/living-in-norwich/accommodation" class="nav-button mobile-only">
+                                <span class="nav-item-icon css-icon icon-arrow-right grey-icon mobile-only">
+                                    <i></i>
+                                </span>
+                            </a>
+                        </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</div>
+
+        <div class="hero_banner nolazyload">
+    <img class="header-image" alt="INTO City students in library" src="/images/ImagesINTO/UEA/Support/INTO-UEA-student-support.jpg?w=1255&q=80">
+        <div class="caption_holder">
+            <h1>الدعم والمساعدة لطلابنا</h1>
+        </div>
+</div>
+    </div>
+    <div class="contentPane">
+
+
+      <div class="DnnModule DnnModule-DNN_HTML DnnModule-23243 DnnVersionableControl">
+         <a name="23243"></a>
+         <section class="l-page-block l-text-block bottom-line">
+            <div id="dnn_ctr23243_ContentPane" class="l-content-container">
+               <!-- Start_Module_23243 -->
+               <div id="dnn_ctr23243_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                  <div id="dnn_ctr23243_HtmlModule_lblContent">
+                     <h2>
+                        <style type="text/css">
+                           <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+                        </style>
+                        <span data-sheets-value="{" 1":2,"2":"\u0645\u0643\u0631\u0633\u0648\u0646="" \u0644\u0646\u062c\u0627\u062d\u0643"}"="" data-sheets-userformat="{" 2":7041,"3":{"1":0},"10":2,"11":3,"12":1,"14":{"1":2,"2":0},"15":"arial"}"="">مكرسون لنجاحك</span>
+                     </h2>
+                     <p>سيمدك كل من مركز INTO وجامعة إيست أنجليا بنطاق واسع من الدعم عالمي المستوى.</p>
+                  </div>
+               </div>
+               <!-- End_Module_23243 -->
+            </div>
+         </section>
+      </div>
+      <div class="DnnModule DnnModule-DNN_HTML DnnModule-23245 DnnVersionableControl">
+         <a name="23245"></a>
+         <section class="l-page-block l-text-block bottom-line">
+            <div id="dnn_ctr23245_ContentPane" class="l-content-container">
+               <!-- Start_Module_23245 -->
+               <div id="dnn_ctr23245_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                  <div id="dnn_ctr23245_HtmlModule_lblContent">
+                     <h2>الدعم في مركز INTO</h2>
+                     <p> إننا نؤمن أن الأشخاص هم من يصنعون الفارق. لذلك فريق خدمات الطلاب الخاص بك هو أفضل ما هناك.<br></p>
+                     <p>عندما تصل إلى المركز، سيساعدونك في الاستقرار في حياة الطلاب في نورويتش. وسيبقون أول وجهة تواصل فيما يتعلق بمجموعة من المسائل غير الأكاديمية:</p>
+                     <ul>
+                        <li><span class="redactor-invisible-space">&nbsp;الاستعداد للمقابلات الجامعية</span></li>
+                        <li><span class="redactor-invisible-space">&nbsp;الحصول على استشارة طلابية شخصية لمساعدتك بإختيار الدورة الدراسية الأفضل لك</span></li>
+                        <li><span class="redactor-invisible-space">&nbsp;مساعدة عملية في كل مراحل عملية التقدم للالتحاق بالجامعة</span></li>
+                        <li><span class="redactor-invisible-space"><span class="redactor-invisible-space">&nbsp;المساعدة في حضور الأيام المفتوحة في الجامعة ومعارض التعليم العالي<span class="redactor-invisible-space"></span></span></span></li>
+                        <li><span class="redactor-invisible-space"><span class="redactor-invisible-space"><span class="redactor-invisible-space">&nbsp;المساعدة في العثور على مكان بديل في الجامعة إذا كنت ترغب بخيارات أخرى<span class="redactor-invisible-space"><br></span></span></span></span></li>
+                     </ul>
+                     <ul></ul>
+                     <p>
+                        تقدم ورشات المساعدة في التأشيرة المعلومات والدعم والإرشاد اللازمين لتجديد تأشيرة الطالب الخاصة بك. كما تتوفر مقابلات شخصية للحصول على مشورة أكثر دقة.
+                     </p>
+                     <p> ستحصل على رقم هاتف للطوارئ متاح على مدار اليوم لتنعم براحة بال تامة. فضلاً عن ذلك يوجد مساعدون مقيمون داخل مساكن الطلاب كافة.</p>
+                     <p> يتحدث المستشارون عدة لغات تتضمن الصينية والروسية والعربية. وهم موجودون لمساعدتك إذا كنت لا تزال تشعر بعدم الثقة في التواصل باللغة الإنجليزية.</p>
+                  </div>
+               </div>
+               <!-- End_Module_23245 -->
+            </div>
+         </section>
+      </div>
+      <div class="DnnModule DnnModule-ImageCarousel DnnModule-23246">
+         <a name="23246"></a>
+         <style id="dnn_ctr23246_UNIBRAND1_styleTag">.uni-colour-primary {background-color:#000000;}.uni-colour-primary-border {border-color:#000000;}.uni-text-colour {color: #FFFFFF;}.uni-colour-secondary {background-color:#D78019;}@media (min-width: 835px) {.l-explore-nav .nav-item .accordian {background-color: #D78019;}.l-explore-nav .nav-item .l-subnav .nav-item {background-color: #D78019;}}</style>
+         <div id="dnn_ctr23246_UNIBRAND1_divError"></div>
+         <div>
+            <div id="dnn_ctr23246_ContentPane">
+               <!-- Start_Module_23246 -->
+               <div id="dnn_ctr23246_ModuleContent" class="DNNModuleContent ModImageCarouselC">
+                  
+                  <div id="dnn_ctr23246_View_divCarousel">
+                     <section class="l-carousel-block">
+                        <div class="l-content-container">
+                           <div data-transition="fade" class="flexslider">
+                              <ul class="slides" data-slides="5">
+                                 <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                    <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Support/INTO-UEA-student-support-in-Centre.jpg?w=1024" alt="تحدث المستشارون في مركز INTO بالعديد من اللغات" data-src="/images/ImagesINTO/UEA/Support/INTO-UEA-student-support-in-Centre.jpg?w=1024"></div>
+                                    <div class="l-image-block-text-holder"><span class="l-image-block-text">تحدث المستشارون في مركز INTO بالعديد من اللغات<span></span></span></div>
+                                 </li>
+                                 <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                    <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Support/INTO-UEA-reception-support.jpg?w=100" alt=" موظفو الاستقبال لدينا سعداء بالإجابة على أي أسئلة" data-src="/images/ImagesINTO/UEA/Support/INTO-UEA-reception-support.jpg?w=100"></div>
+                                    <div class="l-image-block-text-holder"><span class="l-image-block-text"> موظفو الاستقبال لدينا سعداء بالإجابة على أي أسئلة<span></span></span></div>
+                                 </li>
+                                 <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                    <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Support/INTO-UEA-classroom-support.jpg?w=100" alt="مساعدتك في اختيار الدورة الدراسية الأفضل لاحتياجاتك" data-src="/images/ImagesINTO/UEA/Support/INTO-UEA-classroom-support.jpg?w=100"></div>
+                                    <div class="l-image-block-text-holder"><span class="l-image-block-text">مساعدتك في اختيار الدورة الدراسية الأفضل لاحتياجاتك<span></span></span></div>
+                                 </li>
+                                 <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                    <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Support/INTO-UEA-student-support-in-library.jpg?w=100" alt="دعم كامل باستخدام مركز موارد التعلم." data-src="/images/ImagesINTO/UEA/Support/INTO-UEA-student-support-in-library.jpg?w=100"></div>
+                                    <div class="l-image-block-text-holder"><span class="l-image-block-text">دعم كامل باستخدام مركز موارد التعلم.<span></span></span></div>
+                                 </li>
+                                 <li class="l-image-block" style="width: 100%; float: left; margin-right: -100%;">
+                                    <div class="l-image-block-container"><img class="l-image-block-image" src="/images/ImagesINTO/UEA/Support/INTO-UEA-student-support-desk.jpg?w=100" alt="رقم هاتف للطوارئ على مدار اليوم" data-src="/images/ImagesINTO/UEA/Support/INTO-UEA-student-support-desk.jpg?w=100"></div>
+                                    <div class="l-image-block-text-holder"><span class="l-image-block-text">رقم هاتف للطوارئ على مدار اليوم<span></span></span></div>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </section>
+                  </div>
+               </div>
+               <!-- End_Module_23246 -->
+            </div>
+         </div>
+      </div>
+      <div class="DnnModule DnnModule-DNN_HTML DnnModule-23247 DnnVersionableControl">
+         <a name="23247"></a>
+         <section class="l-page-block l-text-block bottom-line">
+            <div id="dnn_ctr23247_ContentPane" class="l-content-container">
+               <!-- Start_Module_23247 -->
+               <div id="dnn_ctr23247_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                  <div id="dnn_ctr23247_HtmlModule_lblContent">
+                     <h2> الدعم في جامعة إيست أنجليا</h2>
+                     <p> الاستفادة من مجموعة كبيرة من خدمات الدعم التعليمي والمعيشي الممتازة المتوفرة في جامعة إيست أنجليا.</p>
+                     <p> يقدم فريق تعزيز التعلم إرشادًا على يد خبراء حول الدراسة بشكل أكثر فاعلية وتحسين عملك. كما يمكنهم مساعدتك في تطوير مهاراتك الدراسية، وقدراتك في الرياضيات والإحصاء، والكتابة الأكاديمية، واستخدام اللغة الإنجليزية. كما أنهم يقدمون مشورة سرية للطلاب الذين يعانون من صعوبات التعلم.</p>
+                     <p>
+                        كما تهتم جامعة إيست أنجليا بدعم حياتك خارج الفصل الدراسي. فهم يقدمون رفاهية استباقية سهلة المنال إذا شعرت أنك لا تشارك مشاركة كاملة في التجربة الجامعية.
+                     </p>
+                     <p> تقدم الخدمات الطبية للجامعة رعاية صحية للطلاب في حال كانت لديك أي مشكلات صحية. وتوجد عيادة طب أسنان في موقع مناسب داخل الحرم الجامعي.</p>
+                     <p>
+                        تلتزم روضة أطفال جامعة إيست أنجليا بأعلى معايير الرعاية النهارية الكاملة للأطفال والرضع من عمر ثلاثة أشهر حتى عمر دخول المدرسة. تم تصنيف روضة الأطفال بدرجة "متميزة" في كل الفئات في تفتيش مكتب معايير التعليم وخدمات الأطفال ومهاراتهم "Ofsted" الذي أجرته عام 2012.
+                     </p>
+                  </div>
+               </div>
+               <!-- End_Module_23247 -->
+            </div>
+         </section>
+      </div>
+      <div class="DnnModule DnnModule-IntoTestimonial DnnModule-23248">
+         <a name="23248"></a>
+         <style id="dnn_ctr23248_UNIBRAND1_styleTag">.uni-colour-primary {background-color:#000000;}.uni-colour-primary-border {border-color:#000000;}.uni-text-colour {color: #FFFFFF;}.uni-colour-secondary {background-color:#D78019;}@media (min-width: 835px) {.l-explore-nav .nav-item .accordian {background-color: #D78019;}.l-explore-nav .nav-item .l-subnav .nav-item {background-color: #D78019;}}</style>
+         <div id="dnn_ctr23248_UNIBRAND1_divError"></div>
+         <div>
+            <div id="dnn_ctr23248_ContentPane">
+               <!-- Start_Module_23248 -->
+               <div id="dnn_ctr23248_ModuleContent" class="DNNModuleContent ModIntoTestimonialC">
+                  <div id="dnn_ctr23248_View_divError"></div>
+                  <section class="l-page-block l-testimonial-block uni-colour-primary block-bottom-spacer">
+                     <div class="l-image-block">
+                        <div class="l-image-block-container">
+                           <img id="dnn_ctr23248_View_imgTestimonial" class="l-image-block-image lazy" src="/images/ImagesINTO/UEA/Profiles/INTO-UEA-profile-CHAN-Kam%20To.jpg" alt="كام تو شان من هونغ كونغ">
+                        </div>
+                     </div>
+                     <div class="l-testimonial-block-testimonial-holder">
+                        <div class="l-testimonial-block-testimonial uni-text-colour">
+                           <q id="dnn_ctr23248_View_lblTestimonial">"في مركز INTO، ستلتقي بأشخاص من جامعة إيست أنجليا، وستعتاد على الحياة الجامعية الفعلية. ويمكنك الانضمام إلى الجمعيات وتكوين صداقات. الناس في نورويتش لطفاء حقًا ويستمتعون بالاستماع إليك."</q>
+                           <span class="quotee"><span id="dnn_ctr23248_View_lblNameSurname">كام تو شان من هونغ كونغ</span></span>
+                           <span><span id="dnn_ctr23248_View_lblDescription"></span></span>
+                        </div>
+                     </div>
+                  </section>
+               </div>
+               <!-- End_Module_23248 -->
+            </div>
+         </div>
+      </div>
+      <div class="DnnModule DnnModule-DNN_HTML DnnModule-24296 DnnVersionableControl">
+         <a name="24296"></a>
+         <section class="l-detailed-info l-page-block block-bottom-spacere">
+            <div id="dnn_ctr24296_ContentPane" class="l-content-container">
+               <!-- Start_Module_24296 -->
+               <div id="dnn_ctr24296_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                  <div id="dnn_ctr24296_HtmlModule_lblContent">
+                     <section>
+                        <div class="l-accordian-container">
+                            <a class="accordian-control">الطلاب تحت عمر 18 سنة
+                                <span>
+                                    <em></em>
+                                </span>
+                                </a>
+                           <div class="l-accordian">
+                              <div>
+                                 <p>قبل أن نقبل طالبًا تحت عمر 18 سنة، يجب أن يوقع ولي أمره على نموذج موافقة يفوض الموظفين المعينين أن يحلوا محل الوالدين (أن ينوبوا عن ولي الأمر/الراعي) في حالة الطوارئ.
+                                 </p>
+                                 <p>
+                                    يلتزم أيضًا أولياء الأمور بإكمال نموذج معلومات طبية. يتم إرسال النماذج الملائمة إلى أولياء الأمور والطلاب مع مستندات التأكيد. لن يتم قبول أي طالب إلا بعد إكمال هذه النماذج وإعادتها إلينا قبل بدء الدورة الدراسية.
+                                 </p>
+                                 <p>
+                                    نوصي بتعيين أولياء الأمور لوصي مقيم بالمملكة المتحدة للطلاب الدوليين الذين لم تتجاوز أعمارهم 18 عامًا. إذا كان أولياء الأمور يجرون ترتيباتهم الخاصة سواء للحصول على خدمات الوصاية أو سيقوم أحد الأصدقاء أو أفراد العائلة في المملكة المتحدة بدور الوصي على الطالب، يجب إمدادنا بإثبات لتلك الترتيبات قبل بدء الدورة الدراسية.
+                                 </p>
+                                 <p> يُرجى الاتصال بنا للحصول على المزيد من التفاصيل.
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="l-accordian-container">
+                            <a class="accordian-control"> الطلاب ذوي الإحتياجات الخاصة
+                                <span>
+                                    <em></em>
+                                </span>
+                                </a>
+                           <div class="l-accordian">
+                              <div>
+                                 <p> تتوفر خدمة سرية للطلاب يتم فيها تقديم المشورة والمعلومات المتعلقة بالإعاقات مثل عسر القراءة والإعاقات الحسية والحالات الطبية والحركية.
+                                 </p>
+                                 <p> يُرجى الاتصال بنا للحصول على المزيد من التفاصيل.
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                     </section>
+                  </div>
+               </div>
+               <!-- End_Module_24296 -->
+            </div>
+         </section>
+      </div>
+      <div class="DnnModule DnnModule-InternalSiteLinks DnnModule-23250">
+         <a name="23250"></a>
+         <style id="dnn_ctr23250_UNIBRAND1_styleTag">.uni-colour-primary {background-color:#000000;}.uni-colour-primary-border {border-color:#000000;}.uni-text-colour {color: #FFFFFF;}.uni-colour-secondary {background-color:#D78019;}@media (min-width: 835px) {.l-explore-nav .nav-item .accordian {background-color: #D78019;}.l-explore-nav .nav-item .l-subnav .nav-item {background-color: #D78019;}}</style>
+         <div id="dnn_ctr23250_UNIBRAND1_divError"></div>
+         <div>
+            <div id="dnn_ctr23250_ContentPane">
+               <!-- Start_Module_23250 -->
+               <div id="dnn_ctr23250_ModuleContent" class="DNNModuleContent ModInternalSiteLinksC">
+                  <div id="dnn_ctr23250_View_divLinks">
+                     <div class="l-page-block block-bottom-spacer">
+                        <div class="l-content-container">
+                           <a href="/ar/universities/university-of-east-anglia/studying/teachers" class="l-internal-link group">
+                              <div><span class="l-internal-link-title">خُذ لمحة عن المُعلمين لدينا</span><span></span></div>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <!-- End_Module_23250 -->
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+            
+
+<footer id="footer" class="footer v2">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <div class="footer-logo">
+                    <img src="/images/footer/logo_into.svg" />
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="footer-social-links">
+                    
+                    
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row footer-nav-links">
+            <div class="col-sm-auto col-7">
+                <a href="/ar/about-into">عن مراكز INTO</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/ar/study-abroad">الدراسة في الخارج</a>
+            </div>
+            
+            <div class="col-sm-auto col-7">
+                <a href="/ar/universities">الجامعات</a>
+            </div>
+            <div class="col-sm-auto col-7">
+                <a href="/ar/apply">تقدم بطلب</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                الطلاب الأعزاء &#x2013; إن كنتم تتقدمون بطلبكم عبر مستشار تعليمي، فيرجى الاتصال بهم بشكل مباشر لطرح أي أسئلة لديكم; جميع الطلاب الآخرين يتصلون بنا بإستخدام إحدى الطرق التالية
+            </div>
+        </div>
+            <div class="row footer-contact">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">للاستفسار عن إستمارة الطالب للمملكة المتحدة:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+44 (0)1273 876 040</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <span class="footer-contact-header">للاستفسار عن إستمارة الطالب للولايات المتحدة:</span>
+                    <div class="phone">
+                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <div class="email-link">+1 858 465 6004</div>
+                    </div>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-7 col-lg-6">
+                    <span class="footer-contact-header">للاستفسار عن إستمارة الطالب للصين:</span>
+                    <div class="email">
+                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <a href="mailto:cnadmissions@intoglobal.com" class="email-link">cnadmissions@intoglobal.com</a>
+                    </div>
+                </div>
+            </div>
+        <div class="row footer-copyright">
+            <div class="col-md-12">
+                © COPYRIGHT 2020 | INTO UNIVERSITY PARTNERSHIPS LTD AND IUP 2 LLP
+                &nbsp;|&nbsp;
+                沪ICP备14028023号-3
+                &nbsp;|&nbsp;
+                <a href="/ar/legal-and-privacy-policy">قوانين الخصوصية</a>
+                &nbsp;|&nbsp;
+                <a href="/ar/terms">شروط ومصطلحات</a>
+                &nbsp;|&nbsp;
+                <a href="/ar/into-sitemap">خريطة الموقع</a>
+                &nbsp;|&nbsp;
+                <a href="/ar/legal-and-privacy-policy/cookies-policy">سياسة تعريف ملفات الاتصال</a>
+                &nbsp;|&nbsp;
+                <a href="/ar/governance">الحوكمة</a>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+    </div>
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
+    
+
+    
+    <script>
+    var links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+        links[i].addEventListener('click', function () {
+            analytics.track('Clicked Link', {
+                target: $(this).attr("href"),
+                title: document.title,
+                label: $(this).attr("innerText"),
+                link_text: $(this).attr("text"),
+                baseURI: $(this).attr("baseURI")
+            });
+        });
+    };
+</script>
+</body>
+</html>
