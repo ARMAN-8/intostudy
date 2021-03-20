@@ -1,7 +1,15 @@
 #menu-bar, #footer, #sidebar {
     background-color: #544AFB!important;
 }
-.submenu, .has-submenu, .into-mobile-menu {
+.submenu {
+    background-color:#FDD90C!important;
+    color: #544AFB!important;
+}
+.submenu-container ul.sub-menu-nav>li>a {
+    color: #544AFB!important;
+}
+
+.has-submenu, .into-mobile-menu {
     background-color: #544AFB!important;
 }
 #top-bar{
@@ -16,4 +24,8 @@
 
 .contact-apply {
     background-color: #544AFB!important;
+}
+
+#menu-bar {
+    height: 70px!important;
 }

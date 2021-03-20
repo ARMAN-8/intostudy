@@ -1,76 +1,21 @@
-
-
 <!DOCTYPE html>
 <html>
 <head id="Head">
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
-    <script type="text/javascript" src="/js/heap.js"></script>
-     <!-- begin Convert Experiences code-->
-<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/1003548-1003413.js"></script>
-<!-- end Convert Experiences code -->    <!-- Google Tag Manager -->
-<script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N27V34');</script> <!-- End Google Tag Manager -->
-    <script>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?d184edc9f93d8ce3f84ec064a72767d5";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    })();
-</script>
-            <link rel="alternate" href="https://www.intostudy.com/en-gb/study-abroad/parents-guide" hreflang="en-gb" />
-        <link rel="alternate" href="https://www.intostudy.com/en/study-abroad/parents-guide" hreflang="en" />
-        <link rel="alternate" href="https://www.intostudy.com/ar/study-abroad/parents-guide" hreflang="ar" />
-        <link rel="alternate" href="https://www.intostudy.com/zh-cn/study-abroad/parents-guide" hreflang="zh-cn" />
-    <link rel="alternate" href="https://www.intostudy.com/en/study-abroad/parents-guide" hreflang="x-default" />
-    <!-- host name is www.intostudy.com -->
-    <!-- Display URL is https://www.intostudy.com/en/study-abroad/parents-guide -->
-    <!-- Encoded URL is https://www.intostudy.com/en/study-abroad/parents-guide -->
-
-    <script>
-    !function () {
-        var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
-        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t, e) { var n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions = e }; analytics.SNIPPET_VERSION = "4.1.0";
-            analytics.load("uGVHEpVpUftUuxrqlZAcorI3GtFOyE0g");
-            analytics.page();
-        }
-    }();
-</script>
-    
-    
-        <title>Parents&#x27; guide to studying abroad in the UK or US | INTO</title>
-        <meta name="description" content="INTO is here to help your child to study abroad in the  UK or US." />
-        <meta name="keywords" />
-        <meta name="image" />
-        <meta property="og:site_name" content="INTO Study" />
-        <meta property="og:url" content="https://www.intostudy.com/en/study-abroad/parents-guide" />
-        <meta property="og:title" content="Parents&#x27; guide to studying abroad in the UK or US | INTO" />
-        <meta property="og:description" content="INTO is here to help your child to study abroad in the  UK or US." />
-        <meta property="og:language" />
-
-    
-    
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" />
-<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
-        <link rel="stylesheet" href="/css/site.min.css?v=-SA3r2ysMXv3NYXIoRJJl5jok1UwKy-Bx2cpwL_vjn0" />
-        <link rel="stylesheet" href="/css/site_v2.min.css?v=3ebb6EU9AhN3wffH2W9PVyU08MDikudjWIijQJDwe0Y" />
-        <link rel="stylesheet" href="/css/en-gb.min.css?v=2-LzaxUI3fHNakVYIXEzBWYXF1AnJPVqPggoRav_PKw" />
-
-        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js" crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
-        </script>
-<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/dist/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-K\u002BctZQ\u002BLL8q6tP7I94W\u002BqzQsfRV2a\u002BAfHIi9k8z8l9ggpc8X\u002BYtst4yBo/hH\u002B8Fk\u0022\u003E\u003C/script\u003E"));</script>
-        <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
-
-    
-
-    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
-    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8">
+    <meta content="width=device-width,initial-scale=1.0, user-scalable=no" name="viewport"/>
+    <title>
+    Study Abroad at Universities in the UK, US & China | INTO
+    </title>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,700italic" rel="stylesheet" type="text/css"/>
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://www.intostudy.com/en/study-abroad/parents-guide" />
-
-
-    <!-- BrowserTestData: ParentsGuide, en. -->
+    <link href="../../css/site.min.css" rel="stylesheet"/>
+    <link href="../../css/site_v2.min.css" rel="stylesheet"/>
+    <link href="../../css/style.css" rel="stylesheet"/>
+    <script crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk" src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js">
+    </script>
 </head>
 <body id="Body">
     <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N27V34&gtm_auth=gIzRzhZzErCqhIZIh9rQng&gtm_preview=env-1&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
@@ -549,23 +494,22 @@
 </div>
 
             
-
 <footer id="footer" class="footer v2">
     <div class="container">
         <div class="row">
             <div class="col-5">
                 <div class="footer-logo">
-                    <img src="/images/footer/logo_into.svg" />
+                    <img src="../../images/footer/logo_into.svg" />
                 </div>
             </div>
             <div class="col-7">
                 <div class="footer-social-links">
                     
                     
-                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_facebook.svg" /></a>
-                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_instagram.svg" /></a>
-                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_youtube.svg" /></a>
-                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="/images/footer/icon_reverse_blog.svg" /></a>
+                        <a href="https://www.facebook.com/intostudy" target="_blank" class="footer-social-link"><img src="../../images/footer/icon_reverse_facebook.svg" /></a>
+                        <a href="https://www.instagram.com/intostudy" target="_blank" class="footer-social-link"><img src="../../images/footer/icon_reverse_instagram.svg" /></a>
+                        <a href="https://www.youtube.com/user/INTOTV" target="_blank" class="footer-social-link"><img src="../../images/footer/icon_reverse_youtube.svg" /></a>
+                        <a href="http://blog.intostudy.com" target="_blank" class="footer-social-link"><img src="../../images/footer/icon_reverse_blog.svg" /></a>
                         
                     
                 </div>
@@ -585,7 +529,7 @@
                 <a href="/en/universities">Universities</a>
             </div>
             <div class="col-sm-auto col-7">
-                <a href="/en/apply">Apply</a>
+                <a href="/en/apply" style="background-color: #544AFB;">Apply</a>
             </div>
         </div>
         <div class="row">
@@ -597,29 +541,29 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <span class="footer-contact-header">UK student applications:</span>
                     <div class="phone">
-                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <img src="../../images/footer/icon_phone.svg" class="email-icon" />
                         <div class="email-link">+44 (0)1273 876 040</div>
                     </div>
                     <div class="email">
-                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <img src="../../images/footer/icon_email.svg" class="email-icon" />
                         <a href="mailto:ukes@intoglobal.com" class="email-link">ukes@intoglobal.com</a>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-lg-3">
                     <span class="footer-contact-header">US student applications:</span>
                     <div class="phone">
-                        <img src="/images/footer/icon_phone.svg" class="email-icon" />
+                        <img src="../../images/footer/icon_phone.svg" class="email-icon" />
                         <div class="email-link">+1 858 465 6004</div>
                     </div>
                     <div class="email">
-                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <img src="../../images/footer/icon_email.svg" class="email-icon" />
                         <a href="mailto:uses@intoglobal.com" class="email-link">uses@intoglobal.com</a>
                     </div>
                 </div>
                 <div class="col-12 col-sm-7 col-lg-6">
                     <span class="footer-contact-header">China student applications:</span>
                     <div class="email">
-                        <img src="/images/footer/icon_email.svg" class="email-icon" />
+                        <img src="../../images/footer/icon_email.svg" class="email-icon" />
                         <a href="mailto:cnadmissions@intoglobal.com" class="email-link">cnadmissions@intoglobal.com</a>
                     </div>
                 </div>
@@ -644,34 +588,27 @@
     </div>
 </footer>
         </div>
-    </div>
-    
-    
-        <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
-<script>(window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
-
-        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js" crossorigin="anonymous">
-        </script>
-<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
-        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-
-        <script src="/js/site.min.js?v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk"></script>
-    
-
-    
+    </div>    
+<script crossorigin="anonymous" src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js">
+    </script>
+     
     <script>
-    var links = document.getElementsByTagName('a');
-    for (i = 0; i < links.length; i++) {
-        links[i].addEventListener('click', function () {
-            analytics.track('Clicked Link', {
-                target: $(this).attr("href"),
-                title: document.title,
-                label: $(this).attr("innerText"),
-                link_text: $(this).attr("text"),
-                baseURI: $(this).attr("baseURI")
-            });
-        });
-    };
-</script>
+        (window.jQuery.ui||document.write("\u003Cscript src=\u0022/js/jquery-ui/jquery-ui.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));
+    </script>
+    <script crossorigin="anonymous" integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk" src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js">
+    </script>
+    <script crossorigin="anonymous" src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.2.1/bootstrap.min.js">
+    </script>
+    <script>
+        (window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));
+    </script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js">
+    </script>
+    <script src="../../js/site.min.js@v=8fzfKQ8dyucCtwjUyVH24WCihZ5wgb-Nj66i9gAUSPk">
+    </script>
+    <script src="../../js/heap.js" type="text/javascript">
+    </script>
+    <script src="../../js/into/ie-notification.js">
+    </script>
 </body>
 </html>
